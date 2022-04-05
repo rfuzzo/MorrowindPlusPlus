@@ -5,12 +5,6 @@
 [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)\
 Unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition that aims to make the game completely bug-free (within the abilities of Construction Set). It diverges from later versions of the community patches in that it takes a more conservative approach about what it considers a bug.
 
-[**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)\
-Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
-
-[**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410)\
-Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
-
 [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931?)\
 Fixes many issues present in Bethesda's original Official Plugins.
 

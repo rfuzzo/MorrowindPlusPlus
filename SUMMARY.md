@@ -18,4 +18,4 @@
 * [Visuals](fundamentals/visuals.md)
 * [Quests](fundamentals/quests.md)
 * [Add-ons](fundamentals/add-ons.md)
-* [main](fundamentals/main.md)
+* [Finish](fundamentals/finish.md)
