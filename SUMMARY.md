@@ -12,10 +12,9 @@
 
 * [Fixes](fundamentals/fixes.md)
 * [UI](fundamentals/ui.md)
-* [Dialogue](fundamentals/dialogue.md)
 * [Gameplay](fundamentals/gameplay.md)
+* [Quests](fundamentals/quests.md)
 * [Audio](fundamentals/audio.md)
 * [Visuals](fundamentals/visuals.md)
-* [Quests](fundamentals/quests.md)
 * [Add-ons](fundamentals/add-ons.md)
-* [Finish](fundamentals/finish.md)
+* [Shaders](fundamentals/shaders.md)
