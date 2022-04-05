@@ -6,7 +6,7 @@
 
 
 
-### Setup: Jump right in
+### Setup
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
@@ -20,7 +20,7 @@
 [general-tips.md](setup/general-tips.md)
 {% endcontent-ref %}
 
-### Mod List: Dive a little deeper
+### Mod List
 
 {% content-ref url="fundamentals/fixes.md" %}
 [fixes.md](fundamentals/fixes.md)
