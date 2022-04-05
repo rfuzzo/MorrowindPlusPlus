@@ -2,10 +2,10 @@
 
 ## Bug fixes
 
-[**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)\
+⭐ [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)\
 Unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition that aims to make the game completely bug-free (within the abilities of Construction Set). It diverges from later versions of the community patches in that it takes a more conservative approach about what it considers a bug.
 
-[**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931?)\
+⭐ [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931?)\
 Fixes many issues present in Bethesda's original Official Plugins.
 
 Files to install:
@@ -23,29 +23,86 @@ The Warp Script for the Propylon Indices will now prompt you before teleporting.
 
 * After installation, hide all of the mod's plugins minus **Better Propylon Teleport Warp-Master Index.ESP**.
 
-[**Adamantium Ore Fix ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Adamantium%20Ore%20Fix%20ESP%20Replacer.7z)\
-Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor. Includes fixes from Patch for Purists.
-
 > ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47068) to original mod by **Half11**.
-
-[**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)\
-Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
 
 * On MO2 installation, check the following options in the FOMOD installer:
   * [x] Patch for Purists
   * [x] Ownership Overhaul
 
-[**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)\
-Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
+⭐ [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634)\
+Forces the game to instantly close on exit.
 
-[**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068)\
-Adds the missing master trainer for Medium Armor, Cinia Urtius.
+⭐ [**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696)\
+Provides an in-game HUD element which warns the player as the game approaches critical memory limits. At a critical threshold, it can prompt to save and quit.
+
+⭐ [**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608)\
+Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to.
 
 [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150)\
 Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
 
 [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285)\
 Construction materials and scaffolding are now visible at the Great House strongholds during construction of the later stages.
+
+[**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971)\
+Prevents Fortify Health and Drain Health effects from killing actors outright, leaving them at least one health point after they expire and are casted, respectively.
+
+[**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029)\
+Carries over unique item information, such as condition and script data when enchanting items.
+
+[**Fortify MAX**](https://www.nexusmods.com/morrowind/mods/49825)\
+Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the current stat.
+
+[**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947)\
+Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
+
+[**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557)\
+Dropped items and corpses are automatically positioned and oriented to align with the ground.
+
+[**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)\
+Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
+
+[**Putting Power In Willpower (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Putting%20Power%20in%20Willpower%20\(Necro%20Edit\).7z)\
+Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45742) to original mod by **R-Zero**. The featured version includes fixes by **Necrolesian**.
+
+[**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269)\
+Makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
+
+[**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029)\
+This mod fixes several engine bugs related to GMSTs used when raising skills via NPC training and skill books.
+
+[**Thrown Projectiles Revamped**](https://www.nexusmods.com/morrowind/mods/49609)\
+Corrects thrown projectiles inflicting twice their listed damage, by halving their damage output.
+
+[**Doors Anti Stuck**](https://www.nexusmods.com/morrowind/mods/50931)\
+Avoids actors getting stuck while opening doors.
+
+## Lore Fixes
+
+⭐ [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)\
+Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
+
+⭐ [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051)\
+Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
+
+* After installation, hide the **Ownership Overhaul.ESP** plugin.
+
+⭐ [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068)\
+Adds the missing master trainer for Medium Armor, Cinia Urtius.
+
+[**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)\
+Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
+
+[**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731)  
+Alternative version of the official plugin adding Adamantium Armor to Vvardenfell. Tweaked to place one copy of each piece (minus the helmet) across the island.
+
+[**Adamantium Ore Fix ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Adamantium%20Ore%20Fix%20ESP%20Replacer.7z)\
+Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor. Includes fixes from Patch for Purists.
+
+[**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)\
+Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
 ## Mesh fixes
 
@@ -89,7 +146,6 @@ Files to install:
     Compatibility patch for Graphic Herbalism. Uses compatible meshes.
 
 > ℹ️ We will install **Graphic Herbalism** and **Glow in the Dahrk** in upcoming sections, and load them before Project Atlas for it to patch them as intended.
-
 > ⚠️ Note that **Project Atlas** utilizes its own texture sets for its edited meshes, meaning any retexture designed with the vanilla meshes in mind will require a patch for it to work alongside this mod.
 
 ⭐ [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194)\
@@ -119,37 +175,3 @@ Fixes the Mudcrab mesh, reducing distortion and other UV errors.
 Flames are now glow mapped and/or properly illuminated.
 
 * After installation, hide the mod's **Glowing Flames - TrueLightsAndDarkness Tweaks.ESP** plugin.
-
-## MWSE bug fixes
-
-⭐ [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634)\
-Forces the game to instantly close on exit.
-
-[**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029)\
-Carries over unique item information, such as condition and script data when enchanting items.
-
-[**Fortify MAX**](https://www.nexusmods.com/morrowind/mods/49825)\
-Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the current stat.
-
-[**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947)\
-Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
-
-[**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557)\
-Dropped items and corpses are automatically positioned and oriented to align with the ground.
-
-[**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)\
-Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
-
-[**Putting Power In Willpower (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Putting%20Power%20in%20Willpower%20\(Necro%20Edit\).7z)\
-Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45742) to original mod by **R-Zero**. The featured version includes fixes by **Necrolesian**.
-
-[**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269)\
-Makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
-
-[**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029)\
-Fixes several engines related to GMSTs used when raising skills via NPC training and skill books.
-
-[**Thrown Projectiles Revamped**](https://www.nexusmods.com/morrowind/mods/49609)\
-Corrects thrown projectiles inflicting twice their listed damage, by halving their damage output.

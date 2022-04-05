@@ -1,174 +1,26 @@
 # Visuals
 
-### VISUALS
-
-
-
-
-
-### IMMERSION
-
-#### Repositories
-
 [**OAAB\_Data**](https://www.nexusmods.com/morrowind/mods/49042)\
 Asset repository required for OAAB mods and Nordic Dagon Fel.
 
+{% hint style="info" %}
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Core
+{% endhint %}
 
-#### Visuals
+[**Tamriel_Data**](https://www.nexusmods.com/morrowind/mods/44537)  
+Asset repository required for Solstheim - Tomb of the Snow Prince and Nordic Dagon Fel.
 
-[**3D Vines Vanilla Mushroom Trees**](https://www.nexusmods.com/morrowind/mods/48954)\
-Adds falling spores particle effects to the emperor parasol mushrooms. Also replaces the 2D vines with 3D vines.
-
-* On MO2 installation, check the following options in the BAIN installer:
-  * [x] 00 Core
-
-[**Flies (PfP Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Flies%20\(PfP%20Edit\).7z)\
-Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can hear flies buzzing, you'll be able to actually see fly swarms too. Includes fixes from Patch for Purists.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/43481) to original mod by **R-Zero**.
-
-[**Glowbugs**](https://www.nexusmods.com/morrowind/mods/50538)\
-Adds firefly-like insects called glowbugs across the Bitter Coast region which come out on calm nights. They can be caught by the agile adventurer and their thorax makes a quality component in potions of Light.
-
-* On MO2 installation, check the following options in the BAIN installer:
-  * [x] 00 Core
-  * [x] 01 Glowbugs BC
-  * [x] 02 Glowbugs AI
-
-[**Know Thy Ancestors**](https://www.nexusmods.com/morrowind/mods/49678/)\
-Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family name in Daedric.
-
-[**Mistify**](https://www.nexusmods.com/morrowind/mods/48112)\
-Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout region which appears during the night and certain weather conditions. It will burn off in the morning sun.
-
-* On MO2 installation, check the following options in the BAIN installer:
-  * [x] 00 Core
-  * [x] 01 Vanilla Mist Replacer
-
-[**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383/)\
-Replaces the standard wooden chests in Nordic Tombs with a unique model, because the original looked horribly out of place.
-
-* On MO2 installation, check the following options in the FOMOD installer:
-  * [x] Patch for Purists Plugin
-
-[**OAAB Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236)\
-If you visit a dwemer ruin during a thunderstorm, you'll be greeted by blinding flashes as lightning strikes the steamstack lightning rods from the vanilla game.
-
-* On MO2 installation, check the following options in the BAIN installer:
-  * [x] 00 MWSE
-
-[**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237/)\
-Many of the dwemer ruins use unfitting cobblestone textures in their exteriors. This mod replaces the cobblestone textures outside of all Vvardenfell-based dwemer ruins with a new texture. In addition to the texture swap, it also uses a "road edge" mesh which helps blend this new pavement into the ruins and the surrounding landscape.
-
-* On MO2 installation, check the following options in the BAIN installer:
-  * [x] 00 Core
-
-[**OAAB Scroll Qualities**](https://www.nexusmods.com/morrowind/mods/49045?)\
-Uses the new scroll models in OAAB\_Data to automatically replace the models and icons of the enchanted scrolls in the game based on their value.
-
-* On MO2 installation, check the following options in the BAIN installer:
-  * [x] 00 Icons
-
-[**Silt Strider**](https://www.nexusmods.com/morrowind/mods/48664)\
-Replaces the Silt Strider according to many fan arts. Now the Silt Strider looks like an actual transport.
-
+{% hint style="info" %}
 Files to install:
+- **Tamriel Data (HD)** (Main files)
+{% endhint %}
 
-* **Silt Strider with vanilla textures** (Main files)
+{% hint style="info" %}
+To register the mod's BSA file, launch **Wrye Mash** from Mod Organizer 2. In the Mods tab, click the BSA Archives tab to the right, and check the BSA you want to register.
+{% endhint %}
 
-[**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423)\
-To align with what the in-game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight.
-
-[**R-Zero's Throbbing Meat - A Corprus Meat Replacer**](https://www.nexusmods.com/morrowind/mods/45339)\
-Replaces corprus meat models with animated, twitching ones ones.
-
-[**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435)\
-Adds floating dust to areas where dead are entombed similar to what is seen in Skyrim barrows.
-
-* On MO2 installation, check the following options in the BAIN installer:
-  * [x] 00 Core
-  * [x] 01 Default Dust
-
-[**Well Diversified STOTSP**](https://www.nexusmods.com/morrowind/mods/50725)\
-Adds Imperial and Solstheim variants for the well mesh, blending in better with their surrounding architecture.
-
-* On MO2 installation, check the following options in the BAIN installer:
-  * [x] 00 Core
-  * [x] 01 Option 1 Vanilla
-  * [ ] 01 Option 2 STOTSP
-
-
-
-#### Fonts and icons
-
-⭐ [**Better Readable Beauty Font**](https://www.nexusmods.com/morrowind/mods/49201)\
-High resolution replacer for the Magic Cards font, used in most of the user interface.
-
-> ℹ️ A more purist alternative to this mod is [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873).
-
-⭐ [**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540)\
-High resolution replacer for the Daedric font used in scrolls.
-
-* On MO2 installation, create a **Fonts** folder.
-* Move the **daedric\_font.fnt** and **daedric\_font\_obw.tex** files inside.
-
-⭐ [**Comrade Raven's Book Arts Replacer**](https://www.nexusmods.com/morrowind/mods/48896)\
-Replaces most of the original book arts with hi-res images redrawn from scratch.
-
-* On MO2 installation, right-click on **Data Files**.
-* Click **Set as data files directory** and click **OK**.
-
-⭐ [**Comrade Raven's Book Arts Replacer ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Comrade%20Raven's%20Book%20Arts%20ESP%20Replacer.7z)\
-Forwards PfP fixes to the plugin.
-
-⭐ [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863)\
-Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
-
-Files to install:
-
-* **Pete's Journal and Scroll** (Optional files)
-* On MO2 installation, check the following options in the BAIN installer:
-  * [x] 01 Journal and Scroll - 2K
-
-⭐ [**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657)\
-HD recreation of the Title and Logo Intro, in widescreen.
-
-Files to install:
-
-* **Title Screen Reworked (Widescreen)** (Main files)
-
-> ℹ️ In the **Setup** section we enabled the option to skip the intro movies, so there's no point in installing the Logo Video Intro Reworked (Widescreen) main file.
-
-⭐ [**Widescreen Splash Replacer**](https://drive.google.com/file/d/1HyR9k6FjganGRCNQfz8IzEHLMqrc5oWH/view?usp=sharing)\
-Replaces the default splash screens with better quality widescreen versions (16:9), and adds three missing Bethesda splash screens.
-
-[**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001)\
-Adds three missing Bethesda splash screens in widescreen resolution.
-
-* On MO2 installation, create a **Splash** folder.
-* Move the **.tga** files inside.
-
-[**Magic Icons**](https://www.nexusmods.com/morrowind/mods/50223)\
-Replaces the effect seen on magic items in the inventory, allowing easier distinction between different magic items.
-
-* On MO2 installation, check the following options in the BAIN installer:
-  * [x] 00 Original Blue Color
-
-#### Texture packs
-
-[**Familiar Faces by Caleb**](https://www.nexusmods.com/morrowind/mods/50093)\
-An in-depth yet completely vanilla friendly touch up of every head and almost every hair in the game.
-
-⭐ [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)\
-Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
-
-Files to install:
-
-* **kart\_facelift\_meshes** (Main files)
-
-> ℹ️ Facelift overwrites most of the meshes present in Familiar Faces. However, Facelift doesn't include tweaked hair and Khajiit head meshes, which is why Familiar Faces is still recommended for installation.
+## Texture packs
 
 ⭐ [**Morrowind Enhanced Textures**](https://www.nexusmods.com/morrowind/mods/46221)\
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. Also includes reworked meshes from **Facelift**.
@@ -179,11 +31,27 @@ Hotfix for two textures which lacked mipmaps.
 ⭐ [**Project Atlas - MET**](https://www.nexusmods.com/morrowind/mods/45399?)\
 Compatibility patch for Morrowind Enhanced Textures.
 
+{% hint style="info" %}
 Files to install:
-
 * **Textures - MET** (Main files)
+{% endhint %}
 
-#### NPCs
+[**Familiar Faces by Caleb**](https://www.nexusmods.com/morrowind/mods/50093)\
+An in-depth yet completely vanilla friendly touch up of every head and almost every hair in the game.
+
+⭐ [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)\
+Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
+
+{% hint style="info" %}
+Files to install:
+* **kart\_facelift\_meshes** (Main files)
+{% endhint %}
+
+{% hint style="info" %}
+Facelift overwrites most of the meshes present in Familiar Faces. However, Facelift doesn't include tweaked hair and Khajiit head meshes, which is why Familiar Faces is still recommended for installation.
+{% endhint %}
+
+## NPCs
 
 ⭐ [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)\
 Replaces generic copy-pasted guards with a variety of more unique-looking guards.
@@ -194,52 +62,14 @@ Patches the Ordinator helmet and shield's leveled lists from Yet Another Guard D
 [**Incarnates Overhauled**](https://www.nexusmods.com/morrowind/mods/49232?)\
 Makes the Failed Incarnates better reflect their backgrounds. The armor, clothes, faces and hairs on some of the ghosts has been changed, so that now an ashlander wears ashlander clothes, a warrior of the Temple wears Indoril armor, Erur-Dan wears his cuirass, Hort-Leed wears his robe, and so forth.
 
-#### Environment
+[**Silt Strider**](https://www.nexusmods.com/morrowind/mods/48664)\
+Replaces the Silt Strider according to many fan arts. Now the Silt Strider looks like an actual transport.
 
-⭐ [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424)\
-New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
+Files to install:
 
-* On MO2 installation, check the following options in the BAIN installer:
-  * [x] 00 Core
+* **Silt Strider with vanilla textures** (Main files)
 
-⭐ [**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605)\
-Fixes flickering on lava. Reduces the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
-
-* On MO2 installation, check the following options in the BAIN installer:
-  * [x] 00 Core
-
-⭐ [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957)\
-Makes road signs legible. Uses high resolution vanilla-friendly textures.
-
-* On MO2 installation, check the following options in the BAIN installer:
-  * [x] 00 Meshes
-  * [x] 01 Textures - High Resolution
-  * [x] 02 ESP - Vvardenfell only
-
-⭐ [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733)\
-Adds groundcover to almost all regions.
-
-* On MO2 installation, check the following options in the BAIN installer:
-  * [x] 00 Core MGE XE
-  * [x] 01b Thicker Grass MGE XE
-* After installation, disable all of the mod's plugins in your load order. ⚠️ **Do not hide or delete them**, as they are necessary for the mod to work as intended when generating Distant Land.
-
-> ⚠️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the **Re-running Distant Land** section.
-
-[**Qwerty's Various Graphics - Bridgeropes**](https://www.nexusmods.com/morrowind/mods/46026?)\
-Retexture of bridgeropes.
-
-* On MO2 installation, check the following options in the BAIN installer:
-  * [x] 01 Dark
-
-[**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291)\
-Replaces the water in the Palace of Vivec's canals.
-
-* On MO2 installation, check the following options in the BAIN installer:
-  * [x] 00 Core
-  * [x] 01 Original Color
-
-#### VFX
+## VFX
 
 ⭐ [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322)\
 Improves the texture for the mist. The mist is now much smoother and more detailed, as well as less opaque and flat. This also makes it play much nicer with SSAO.
@@ -291,7 +121,9 @@ Texture Name 6=Orange Blood
 Texture Name 7=Energy
 ```
 
-#### Weather and lighting
+⭐ [**Shield Spells Reforged pt.1. (2022 upg)**](https://www.nexusmods.com/morrowind/mods/50073)\
+
+⭐ [**Chameleon**](https://www.nexusmods.com/morrowind/mods/47996)\
 
 ⭐ [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886)\
 Makes vanilla windows glow in the dark.
@@ -306,6 +138,13 @@ Makes vanilla windows glow in the dark.
 
 ⭐ [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912)\
 Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
+
+⭐ [**True Lights and Darkness - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47133)\
+
+⭐ [**Vapourmist**](https://www.nexusmods.com/morrowind/mods/50517)\
+
+
+## Weather
 
 ⭐ [**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636)\
 Weather overhaul with randomised cloud textures, more dynamic weathers, weather changes in interiors, seasonal weather chances, daytime hours changing with latitude and season, varied rain/snow density, dynamic cloud speeds, and more.
@@ -360,19 +199,7 @@ Toggle lights on and off. Town lights turn off during the day. Lights are no lon
 [**Transporter Lights - MWSE**](https://www.nexusmods.com/morrowind/mods/48050)\
 Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
 
-#### Equipment
-
-⭐ [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069)\
-Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
-
-* On MO2 installation, right-click on **Data Files**.
-* Click **Set as data files directory** and click **OK**.
-
-⭐ [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)\
-Tweaks bows so that they line up better with the sheathing animation.
-
-⭐ [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)\
-Adds sheaths to weapons not covered by Weapon Sheathing.
+## Equipment
 
 [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572)\
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
@@ -401,7 +228,7 @@ Adds female variants to all the pants in vanilla Morrowind by recombining the as
 [**LeFemm Redacted**](https://www.nexusmods.com/morrowind/mods/50361)\
 Adds several changes to the Tribunal cuirass replacers to make them more consistent with their male counterparts.
 
-#### Misc
+## Misc
 
 [**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100)\
 Replaces all the bookcovers, bookpages and scrolls.
@@ -432,78 +259,261 @@ Files to install:
 [**Intelligent Textures - Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/50170?)\
 Upscaled **Simple Golden Gold** textures.
 
+[**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383/)\
+Replaces the standard wooden chests in Nordic Tombs with a unique model, because the original looked horribly out of place.
 
+* On MO2 installation, check the following options in the FOMOD installer:
+  * [x] Patch for Purists Plugin
 
+[**Dunmer Lanterns Replacer**](https://www.nexusmods.com/morrowind/mods/43219)\
+This mod replaces all of the Dunmer lanterns (including the paper lanterns and streetlight) from the original game with smoother, more detailed versions (yet not with a ridiculous amount of new polies: they're optimized).
 
+## Environment
 
-#### Cities, towns, landscape
-
-[**Distant Mournhold**](https://www.nexusmods.com/morrowind/mods/43255)\
-Adds distant buildings to Mournhold, letting you see the temple from almost any part of the city.
-
-> ℹ️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the **Re-running Distant Land** section.
-
-[**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190)\
-Closes Molag Mar's canton.
+⭐ [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424)\
+New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
 
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Core
 
-[**No-Frills Open Arena**](https://www.nexusmods.com/morrowind/mods/49232)\
-Opens the Vivec Arena canton.
+⭐ [**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605)\
+Fixes flickering on lava. Reduces the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 Core
+
+⭐ [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957)\
+Makes road signs legible. Uses high resolution vanilla-friendly textures.
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 Meshes
+  * [x] 01 Textures - High Resolution
+  * [x] 02 ESP - Vvardenfell only
+
+⭐ [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733)\
+Adds groundcover to almost all regions.
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 Core MGE XE
+  * [x] 01b Thicker Grass MGE XE
+* After installation, disable all of the mod's plugins in your load order. ⚠️ **Do not hide or delete them**, as they are necessary for the mod to work as intended when generating Distant Land.
+
+> ⚠️ Distant Land generation is required to make this mod work as intended. Instructions will be given in the **Re-running Distant Land** section.
+
+[**Qwerty's Various Graphics - Bridgeropes**](https://www.nexusmods.com/morrowind/mods/46026?)\
+Retexture of bridgeropes.
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 01 Dark
+
+[**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291)\
+Replaces the water in the Palace of Vivec's canals.
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 Core
+  * [x] 01 Original Color
+
+[**3D Vines Vanilla Mushroom Trees**](https://www.nexusmods.com/morrowind/mods/48954)\
+Adds falling spores particle effects to the emperor parasol mushrooms. Also replaces the 2D vines with 3D vines.
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 Core
+
+[**Flies (PfP Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Flies%20\(PfP%20Edit\).7z)\
+Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can hear flies buzzing, you'll be able to actually see fly swarms too. Includes fixes from Patch for Purists.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/43481) to original mod by **R-Zero**.
+
+[**Glowbugs**](https://www.nexusmods.com/morrowind/mods/50538)\
+Adds firefly-like insects called glowbugs across the Bitter Coast region which come out on calm nights. They can be caught by the agile adventurer and their thorax makes a quality component in potions of Light.
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 Core
+  * [x] 01 Glowbugs BC
+  * [x] 02 Glowbugs AI
+
+[**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973)  
+Adds a heat haze shader. Subtle, gets faster and stronger when near lava pools.
+
+> ℹ️ The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#shader-setup) section.
+
+[**Mistify**](https://www.nexusmods.com/morrowind/mods/48112)\
+Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout region which appears during the night and certain weather conditions. It will burn off in the morning sun.
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 Core
+  * [x] 01 Vanilla Mist Replacer
+
+[**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105)  
+Adds recurring earthquakes to certain volcanically active regions of Vvardenfell. You'll hear the sounds of moving earth and breaking rocks, your screen will start to tremble with increasing intensity, and, if inside an interior, dust and particles will shake loose and fall from the walls and ceiling.
+
+> ℹ️ The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#shader-setup) section.
+
+[**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423)\
+To align with what the in-game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight.
+
+[**R-Zero's Throbbing Meat - A Corprus Meat Replacer**](https://www.nexusmods.com/morrowind/mods/45339)\
+Replaces corprus meat models with animated, twitching ones ones.
+
+[**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435)\
+Adds floating dust to areas where dead are entombed similar to what is seen in Skyrim barrows.
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 Core
+  * [x] 01 Default Dust
+
+⭐ [**Foyada Mamaea Overhaul**](https://www.nexusmods.com/morrowind/mods/46424)\
+
+[**Caldera Mine Expanded**](https://www.nexusmods.com/morrowind/mods/45194)\
+
+[**Strider Burial**](https://www.nexusmods.com/morrowind/mods/47661)\
+
+[**Faces of Vel - Ash Mire**](https://www.nexusmods.com/morrowind/mods/44200)\
+
+[**More believable bandit camps - an addon for Ashfall**](https://www.nexusmods.com/morrowind/mods/50066)\
+
+⭐ [**OAAB - Tombs and Towers**](https://www.nexusmods.com/morrowind/mods/49131)\
+
+[**Andrano Ancestral Tomb Remastered**](https://www.nexusmods.com/morrowind/mods/44672)\
+
+[**Maren's Misfit Mabrigash**](https://www.nexusmods.com/morrowind/mods/48709)\
+
+[**Samarys Ancestral Tomb Expanded**](https://www.nexusmods.com/morrowind/mods/45612)\
+
+⭐ [**Mamaea Awakened**](https://www.nexusmods.com/morrowind/mods/46096)\
+
+⭐ [**Adjustable Landscape Texture Scale**](https://www.nexusmods.com/morrowind/mods/49689)\
+
+## Cities, towns
+
+
+⭐ [**Beautiful Cities of Morrowind**](https://www.nexusmods.com/morrowind/mods/49231)\
+
+[**Loot Well Urned**](https://www.nexusmods.com/morrowind/mods/44976)\
+
+[**Concept Arts plantations**](https://www.nexusmods.com/morrowind/mods/50020)\
+
+[**Well Diversified STOTSP**](https://www.nexusmods.com/morrowind/mods/50725)\
+Adds Imperial and Solstheim variants for the well mesh, blending in better with their surrounding architecture.
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 Core
+  * [x] 01 Option 1 Vanilla
+  * [ ] 01 Option 2 STOTSP
+
+[**Know Thy Ancestors**](https://www.nexusmods.com/morrowind/mods/49678/)\
+Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family name in Daedric.
+
+[**Glass Domes of Vivec - Performance-friendly Open-ish Cantons**](https://www.nexusmods.com/morrowind/mods/48935)  
+Replaces the tops of Vivec's cantons with "glass" domes, so that the plaza interiors are gloriously lit by daylight and aren't as miserable. They will react to weather and night time, ALSO.
+
+[**Glass Domes of Vivec - Moonrain Edition**](https://www.nexusmods.com/morrowind/mods/48946)  
+Community expansion to Glass Domes of Vivec - visual fixes, new region mechanics, and more.
+- On MO2 installation, check the following options in the BAIN installer:
+  - [X] 00 Core Visual Assets
+  - [X] 01 Glow in the Dahrk Patch - flickering
+  - [X] 01 Optional Green Glow for GitD Patch - flickering
+  - [X] 02 New Weather Mechanics (requires MWSE)
+  - [X] 07 Optional Thinner Interior Texture
 
 [**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232)\
 Compatibility patches for canton mods.
 
 * On MO2 installation, check the following options in the BAIN installer:
+  * [X] 00 Glass Domes of Vivec
   * [x] 01 No-Frills Closed Molag Mar
   * [x] 01 No-Frills Open Arena
 
+[**OAAB Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236)\
+If you visit a dwemer ruin during a thunderstorm, you'll be greeted by blinding flashes as lightning strikes the steamstack lightning rods from the vanilla game.
 
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 MWSE
 
-### SHADERS
-
-#### Shaders
-
-⭐ [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)\
-A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
-
-⭐ [**MGE XE Shader Pack**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MGE%20XE%20Shader%20Pack.7z)\
-A compilation of a handful of community-made shaders.
+[**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237/)\
+Many of the dwemer ruins use unfitting cobblestone textures in their exteriors. This mod replaces the cobblestone textures outside of all Vvardenfell-based dwemer ruins with a new texture. In addition to the texture swap, it also uses a "road edge" mesh which helps blend this new pavement into the ruins and the surrounding landscape.
 
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Core
 
-[**MM - Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565)\
-Adds an invisibility shader. Using invisibility changes the way you view the world. Instead of only becoming transparent, you see through an ethereal lens that warps and twists the environment around you. Daedra and Undead appear differently, making them distinct from other creatures around you.
+[**OAAB Scroll Qualities**](https://www.nexusmods.com/morrowind/mods/49045?)\
+Uses the new scroll models in OAAB\_Data to automatically replace the models and icons of the enchanted scrolls in the game based on their value.
 
-[**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973)\
-Adds a heat haze shader. Subtle, gets faster and stronger when near lava pools.
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 Icons
 
-[**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105)\
-Adds an earthquake shader. The mod adds recurring earthquakes to certain volcanically active regions of Vvardenfell. You'll hear the sounds of moving earth and breaking rocks, your screen will start to tremble with increasing intensity, and, if inside an interior, dust and particles will shake loose and fall from the walls and ceiling.
+[**Nordic Dagon Fel**](https://www.nexusmods.com/morrowind/mods/49603)\
 
-#### Shader setup
+[**Nordic Dagon Fel - Warm Nords**]()\
 
-* Run MGE XE in Mod Organizer 2.
-* In the **Graphics tab**, click **Enable shaders**.
-* Click **Shader setup...**.
-* On the **Set active shaders** window, click **Modding >>>**. Set your **Active Shaders** as follows, by double clicking on the corresponding shader under **Available shaders**.
+[**Redaynia_Restored**](https://www.nexusmods.com/morrowind/mods/47646)\
 
-```
-SSAO HQ
-Underwater Interior Effects
-Invisibility
-EdgeAA
-deband_fogawarev3
-Underwater Effects
-Sunshafts
-Special Process
-Eye Adaptation (HDR)
-heathaze
-r0_qk_shaker
-```
+[**ShrineOfAzura**](https://www.nexusmods.com/morrowind/mods/48278)\
 
-* Click **Save** after setting up your shader chain.
+[**Concept Art Palace (Vivec City)**](https://www.nexusmods.com/morrowind/mods/48136)\
 
-> ℹ️ Note that all of these shaders, minus the ones added by mods and which thus won't work without them enabled, are optional. In particular, **Special Process** tends to be divisive.
+[**Prerelease Prisonmoon**](https://www.nexusmods.com/morrowind/mods/49627)\
+
+[**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075)\
+
+[**OAAB Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177)\
+
+[**Velothi Wall Art**](https://www.nexusmods.com/morrowind/mods/46454)\
+
+[**The Grove of Ben'Abi**](https://www.nexusmods.com/morrowind/mods/46137)\
+
+[**Ancient Foes**](https://www.nexusmods.com/morrowind/mods/44705)\
+
+[**Of Justice and Innocence**](https://www.nexusmods.com/morrowind/mods/34046)\
+
+[**Gray North - Ruined Redaynia**](https://www.nexusmods.com/morrowind/mods/49862)\
+
+[**Sanctus Shrine**](https://www.nexusmods.com/morrowind/mods/47841)\
+
+[**Immersive Mournhold**](https://www.nexusmods.com/morrowind/mods/49353)\
+
+[**Dark Brotherhood Headquarters**](https://www.nexusmods.com/morrowind/mods/43022)\
+
+[**Solstheim Tomb of the Snow Prince**](https://www.nexusmods.com/morrowind/mods/46810)\
+
+[**Solstheim - Tomb of the Snow Prince 2.2.2 ESM Replacer**]()\
+
+[**Solstheim Graphical Replacer**]()\
+
+[**The Moldy Horker - TOTSP Solstheim - Animated Morrowind**](https://www.nexusmods.com/morrowind/mods/48422)\
+
+[**Various Patches for Tomb of the Snow prince - All in One**](https://www.nexusmods.com/morrowind/mods/48422)\
+
+[**Interiors of Solstheim**](https://www.nexusmods.com/morrowind/mods/44451)\
+
+[**Boats**](https://www.nexusmods.com/morrowind/mods/42270)\
+
+[**Gondoliers110b**](https://www.nexusmods.com/morrowind/mods/43291)\
+
+[**Silt Striders**](https://www.nexusmods.com/morrowind/mods/42267)\
+
+[**The magic rock of Maar Gan**](https://www.nexusmods.com/morrowind/mods/50763)\
+
+[**Ashlander Traders - Remastered**](https://www.nexusmods.com/morrowind/mods/48009)\
+
+[**Spines of Madness**](https://www.nexusmods.com/morrowind/mods/50947)\
+
+[**White Suran 2 - MD Edition**](https://www.nexusmods.com/morrowind/mods/44153)\
+
+[**OAAB - The Ashen Divide**](https://www.nexusmods.com/morrowind/mods/49047)\
+
+[**One True Faith - Saints and Frescoes Retexture**](https://www.nexusmods.com/morrowind/mods/43810)\
+
+[**Improved Tribunal shrine meshes**](https://www.nexusmods.com/morrowind/mods/46464)\
+
+[**New Ilunibi**](https://www.nexusmods.com/morrowind/mods/50393)\
+
+[**New Ilunibi Patch Main Quest Overhaul Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/50393)\
+
+[**ReadMe - Library of Vivec Overhaul**](https://www.nexusmods.com/morrowind/mods/49916)\
+
+## Creatures
+
+[**Vanilla friendly creatures and undeads expansion**](https://www.nexusmods.com/morrowind/mods/48818)\
+
+[**Vanilla friendly weareables expansion**](https://www.nexusmods.com/morrowind/mods/48683)\

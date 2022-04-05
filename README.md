@@ -4,12 +4,10 @@
 **Morrowind++ is ....**&#x20;
 {% endhint %}
 
+## Setup
 
-
-### Setup
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="setup/setup.md" %}
+[setup.md](setup/setup.md)
 {% endcontent-ref %}
 
 {% content-ref url="setup/tools.md" %}
@@ -20,7 +18,7 @@
 [general-tips.md](setup/general-tips.md)
 {% endcontent-ref %}
 
-### Mod List
+## Mod List
 
 {% content-ref url="fundamentals/fixes.md" %}
 [fixes.md](fundamentals/fixes.md)
@@ -30,12 +28,12 @@
 [ui.md](fundamentals/ui.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/dialogue.md" %}
-[dialogue.md](fundamentals/dialogue.md)
-{% endcontent-ref %}
-
 {% content-ref url="fundamentals/gameplay.md" %}
 [gameplay.md](fundamentals/gameplay.md)
+{% endcontent-ref %}
+
+{% content-ref url="fundamentals/quests.md" %}
+[quests.md](fundamentals/quests.md)
 {% endcontent-ref %}
 
 {% content-ref url="fundamentals/audio.md" %}
@@ -46,10 +44,10 @@
 [visuals.md](fundamentals/visuals.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/quests.md" %}
-[quests.md](fundamentals/quests.md)
-{% endcontent-ref %}
-
 {% content-ref url="fundamentals/add-ons.md" %}
 [add-ons.md](fundamentals/add-ons.md)
+{% endcontent-ref %}
+
+{% content-ref url="fundamentals/shaders.md" %}
+[shaders.md](fundamentals/shaders.md)
 {% endcontent-ref %}

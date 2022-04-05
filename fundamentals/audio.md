@@ -1,10 +1,6 @@
 # Audio
 
-
-
-### AUDIO
-
-#### SFX
+## SFX
 
 ⭐ [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767)\
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
@@ -53,25 +49,6 @@ Customizable sound overhaul of the movement, combat, and item sounds of Morrowin
 
 > ℹ️ The author recommends you set the **Footsteps** volume to minimum in your in-game audio settings.
 
-#### Music
-
-[**MUSE 2 - Morrowind Music System Extended**](https://www.nexusmods.com/morrowind/mods/46200)\
-Extended and flexible music system for Morrowind, allows you to easily customize your music as well as make new music mods.
-
-[**MUSE 2.0.2 Necro Sig Edit**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MUSE%202.0.2%20Necro-Sig%20Edit.7z)\
-Fixes a number of bugs with the original mod, and optimizes it by removing air/underwater specific music. Additionally restores the vanilla music for the introductory scene at the Imperial Prison Ship. Mod by **Necrolesian** and **Sigourn**.
-
-[**TUBES4MUSE**](https://drive.google.com/file/d/1D4HnGG5ud6xhJerEpoFPEnz2N9sW8eJx/view?usp=sharing)\
-Selection of songs from various different game soundtracks that all fit in with TES3's originals, sorted to work with MUSE, giving each region of Vvardenfell a unique character based on the music that plays there, including specific music for various dungeon types. Also includes music from other games composed by Jeremy Soule which blend in seamlessly with the rest.
-
-> ℹ️ The filesize of this download is 2.34GB.
-
-
-
-
-
-#### Audio
-
 [**Distant Thunder**](https://www.nexusmods.com/morrowind/mods/43471)\
 Adds a randomized bit of lead time to thunderclaps after lightning strikes for additional realism.
 
@@ -80,7 +57,7 @@ Files to install:
 * **Distant Thunder v1.1 (No Scripts)** (Optional files)
 * After installation, use the **INI Editor** under **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO\_ini.png) to replace the Thunder Sound IDs of your Morrowind.ini with the following:
 
-```
+```txt
 Thunder Sound ID 0=Distant_Thunder_00
 Thunder Sound ID 1=Distant_Thunder_01
 Thunder Sound ID 2=Distant_Thunder_02
@@ -108,3 +85,16 @@ Soul gems in the world, in the player's inventory, and that the player interacts
 [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586)\
 Adds entrance bell chimes with sound effects to imperial town tradehouses and taverns.
 
+## Music
+
+[**MUSE 2 - Morrowind Music System Extended**](https://www.nexusmods.com/morrowind/mods/46200)\
+Extended and flexible music system for Morrowind, allows you to easily customize your music as well as make new music mods.
+
+[**MUSE 2.0.2 Necro Sig Edit**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MUSE%202.0.2%20Necro-Sig%20Edit.7z)\
+Fixes a number of bugs with the original mod, and optimizes it by removing air/underwater specific music. Additionally restores the vanilla music for the introductory scene at the Imperial Prison Ship. Mod by **Necrolesian** and **Sigourn**.
+
+[**TUBES4MUSE**](https://drive.google.com/file/d/1D4HnGG5ud6xhJerEpoFPEnz2N9sW8eJx/view?usp=sharing)\
+Selection of songs from various different game soundtracks that all fit in with TES3's originals, sorted to work with MUSE, giving each region of Vvardenfell a unique character based on the music that plays there, including specific music for various dungeon types. Also includes music from other games composed by Jeremy Soule which blend in seamlessly with the rest.
+
+> ℹ️ The filesize of this download is 2.34GB.
+> 
