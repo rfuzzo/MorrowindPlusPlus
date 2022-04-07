@@ -1,7 +1,7 @@
 # Setup
 
 {% hint style="info" %}
-**BASED ON:** Sigourn @ [https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md)
+**BASED ON:** Sigourn @ [https://github.com/Sigourn/nerevarrising/blob/master/setup.md](https://github.com/Sigourn/nerevarrising/blob/master/setup.md)
 {% endhint %}
 
 ## Requirements
@@ -15,10 +15,6 @@
 
 {% hint style="warning" %}
 Users have reported issues with Mod Organizer 2 when using the Steam release of the game, which is why it is not supported by this guide.
-{% endhint %}
-
-{% hint style="info" %}
-Morrowind originally shipped with a detailed map which is absent from digital stores. [**You can get this map here.**](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Morrowind%20Game%20of%20the%20Year%20Map.jpg)
 {% endhint %}
 
 ## Installation
@@ -53,7 +49,7 @@ Make sure you don't create your Morrowind Sharp folder inside your Morrowind fol
 
 The GOG release of Morrowind shipped with files that are of no use to the average player. These files are not necessary and do nothing but clutter up your installation. Some of the files we will delete are the official plugins Bethesda released for Morrowind. These are to be considered low quality mods, with some having received a rework from fans to make them actually worth your while. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins)
 
-All said, delete the following from your **Morrowind\Data Files** folder in order to free about 700 MBs from your install:
+All said, delete the following from your `Morrowind\Data Files` folder in order to free about 700 MBs from your install:
 
 * The **BookArt**, **Icons**, **Meshes**, and **Textures** folders.
 * All **.esp** files. There should be 8 of them, corresponding to the 8 official plugins.

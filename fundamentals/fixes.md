@@ -97,6 +97,15 @@ Assigns ownership to the many, many items and containers that rightly should be 
 ⭐ [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068)\
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
 
+* Run [**TESAME**](tools.md#tesame) in Mod Organizer 2.
+* Delete the following record from **Services Restored.ESP**:
+  * NPC **hecerinde**
+* Save the plugin as **Services Restored.ESP**, overwriting the original.
+
+{% hint style="info" %}
+This omits the restoration of Hecerinde's Secret Master tools from [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068), for consistency with the rest of the Secret Master tools unavailable in the game.
+{% endhint %}
+
 [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731)  
 Alternative version of the official plugin adding Adamantium Armor to Vvardenfell. Tweaked to place one copy of each piece (minus the helmet) across the island.
 

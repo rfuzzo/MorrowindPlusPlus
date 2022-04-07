@@ -14,10 +14,10 @@
 * [UI](fundamentals/ui.md)
 * [Gameplay](fundamentals/gameplay.md)
 * [Quests](fundamentals/quests.md)
+* [Add-ons](fundamentals/add-ons.md)
 * [Audio](fundamentals/audio.md)
 * [Visuals](fundamentals/visuals.md)
 * [Landscape](fundamentals/landscape.md)
-* [Add-ons](fundamentals/add-ons.md)
 * [Shaders](fundamentals/shaders.md)
 
 ## Finish

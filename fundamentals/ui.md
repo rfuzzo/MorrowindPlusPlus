@@ -24,13 +24,13 @@ Adds three missing Bethesda splash screens in widescreen resolution.
 * On MO2 installation, create a **Splash** folder.
 * Move the **.tga** files inside.
 
-[**RFD's Splash Screens**](https://www.nexusmods.com/morrowind/mods/47400)
+[**RFD's Splash Screens**](https://www.nexusmods.com/morrowind/mods/47400)\
 Three packs of somewhat minimalist loading screens. Or splash screens. Whatever you call them.
 
-[**Fresco Splash Screens**](https://www.nexusmods.com/morrowind/mods/45680)
+[**Fresco Splash Screens**](https://www.nexusmods.com/morrowind/mods/45680)\
 This is a set of 14 splash screens showing off Tyddy's frescoes.
 
-[**Concept Art Based Loading Screens**](https://www.nexusmods.com/morrowind/mods/43603)
+[**Concept Art Based Loading Screens**](https://www.nexusmods.com/morrowind/mods/43603)\
 New loading screens based on Bethesda's Morrowind Concept Art.
 
 ## Fonts and icons

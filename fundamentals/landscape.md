@@ -351,3 +351,137 @@ Adds Imperial and Solstheim variants for the well mesh, blending in better with 
 
 [**The Vestige of Bethaleft**](https://www.nexusmods.com/morrowind/mods/50663)\
  Discover the remnants of a failed Telvanni expedition and explore the depths of Bethaleft, a Dwemer citadel that served as a testing ground for the Tools of Kagrenac.
+
+## Patches
+
+⭐ [**Even Seedier Eight Plates - Morag Tong Polished Patch**](https://www.nexusmods.com/morrowind/mods/49236)\
+ VIsual overhaul of the Eight Plates tavern in Balmora, combined with an expansion of the NPC and dialogue overhaul from Von Djangos' The Seedy Plates
+
+* Files to install:
+  * **ESEP - Morag Tong Polished Patch**
+
+{% hint style="info" %}
+Even Seedier Eight Plates is merged into BCOM - no need to install the main file
+{% endhint %}
+
+⭐ [**Beautiful Cities of Morrowind - Atlas**](https://www.nexusmods.com/morrowind/mods/49231)\
+Pluginless mesh replacers. Included here there's also a vanilla friendly version of the Ghostgate pillars.
+
+* Files to install:
+  * **Beautiful Cities of Morrowind - Project Atlas and GITD Patches**
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 02 GITD + Atlas
+
+⭐ [**Beautiful Cities of Morrowind - Patches**](https://www.nexusmods.com/morrowind/mods/49231)\
+Patches for various mods
+
+* Files to install:
+  * **Beautiful Cities of Morrowind - Patches**
+
+{% hint style="info" %}
+On MO2 installation, it does not matter if you install too many mods, we will go over the individual ESPs later again:
+{% endhint %}
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 01 Patch for Purists Patch
+  * [x] 03 Foyada Mamaea Overhaul
+  * [x] 05 Animated Morrowind
+  * [x] 07 Rise of House Telvanni
+  * [x] 07 Rise of House Telvanni 2.0
+  * [x] 08 Scrolls of the nine barriers
+  * [x] 10 Concept Art Plantations
+  * [ ] 14 Master Index Redux
+  * [ ] 15 Vivec City
+  * [ ] 18 Abots Boats - activate both esp
+  * [x] 18 Abots Boats - TR - activate both esp
+  * [x] 19 Abot's boats patch for Tomb of the Snow Prince - TR
+  * [x] 20 Abot's gondoliers - activate both esp
+  * [ ] 21 Abots Silt Striders
+  * [x] 21 Abots Silt Striders - TR
+  * [x] 22 TR_Travels
+  * [x] 27 Ebonheart Underworks
+  * [ ] 29 Yet Another Guard Diversity - Cephalopod Armor
+  * [x] 29 Yet Another Guard Diversity - Regular
+  * [x] 30 Morrowind Anticheese
+  * [x] 38 Bounty Hunter Bundle
+  * [x] 39 Ashlander Traders Remastered
+  * [x] 41 Realistic Repair Addon
+  * [x] 42 True Light and Darkness Patch
+  * [x] 48 Velothi Wall Art
+  * [x] 53 Morag Tong Expanded
+  * [x] 54 Area of effect Arrows
+  * [x] 60 Traveling Merchants
+  * [x] 64 The Publicans
+  * [x] 69 Glass Domes
+  * [x] 73 Store Entrance Chimes
+  * [x] 75 The Sanguine Rose
+  * [x] 79 Main Quest Overhaul
+  * [x] 80 Mamaea Awakened
+  * [x] 82 Ashfall interop
+
+* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
+  * [x] `REM_AC.ESP`
+  * [x] `Rem_AI.esp`
+  * [x] `Rem_BC.esp`
+  * [x] `Rem_WG.esp`
+
+⭐ [**Beautiful Cities of Morrowind - Grass Patches**](https://www.nexusmods.com/morrowind/mods/49231)\
+Grass modules
+
+* Files to install:
+  * **Beautiful Cities of Morrowind - Grass Patches**
+
+* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
+  * [x] `abotBoatsTR2101.esp`
+  * [x] `abotSiltStridersTR2101.esp`
+  * [x] `Animated_Morrowind - merged.esp`
+  * [x] `AreaEffectArrows.esp`
+  * [x] `Ashlander Traders Remastered.esp`
+  * [x] `BOM_abot_boats.esp`
+  * [x] `BOM_AbotSiltStriders.ESP`
+  * [x] `BOM_PfP_patch.ESP`
+  * [x] `BOM_Scrolls of the Nine Barriers_patch.ESP`
+  * [x] `Bounty_Hunter_BUNDLE.ESP`
+  * [x] `Concept_Arts_plantations.esp`
+  * [x] `Ebonheart_Underworks.esp`
+  * [x] `Foyada Mamaea Overhaul.ESP`
+  * [x] `Glass Domes of Vivec.esp`
+  * [x] `Main_Quest_Overhaul.ESP`
+  * [x] `Mamaea Awakened.ESP`
+  * [x] `Morrowind Anti-Cheese.ESP`
+  * [x] `Realistic_Repair_Add-on.ESP`
+  * [x] `ROHT_2_0_8.ESP`
+  * [x] `Store Entrance Chimes - Alt Ver.ESP`
+  * [x] `The Publicans.ESP`
+  * [x] `The Sanguine Rose.ESP`
+  * [x] `TLAD Full - Still - Necro Colors.esp`
+  * [x] `TOTSP_abotBoats.esp`
+  * [x] `TR_Travels Patch.ESP`
+  * [x] `Velothi Wall Art Re-Addon.ESP`
+  * [x] `Velothi Wall Art.ESP`
+  * [x] `Yet Another Guard Diversity - Regular.ESP`
+
+⭐ [**Ashlander Traders - Remastered - BCOM and Wares**](https://www.nexusmods.com/morrowind/mods/48009)
+
+* Files to install:
+  * **Ashlander Traders Remastered - BCOM and Wares**
+
+[**Various compatibility patches for HOTV Tomb of the Snow prince Solstheim Overhaul](https://www.nexusmods.com/morrowind/mods/48422)\
+ Various patches, including the White Wolf of Lokken, Wanderes of Solstheim, Children of Morrowind, Thirsk Expanded more....an ongoing project
+
+* Files to install:
+  * **The Moldy Horker - TOTSP Solstheim - Animated Morrowind**
+  * **Various Patches for Tomb of the Snow prince - All in One**
+
+* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
+  * [x] `Wanderers of Solstheim-TOTSP.ESP`
+
+⭐ [**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232)\
+Compatibility patches for canton mods.
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [X] 00 Glass Domes of Vivec
+  * [ ] 01 No-Frills Closed Molag Mar
+  * [ ] 01 No-Frills Open Arena
+  * [x] 02 Solstheim Tomb of the Snow Prince

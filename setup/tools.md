@@ -8,7 +8,9 @@
 
 In order to address a handful of issues with the Morrowind program (Morrowind.exe), and improve the visual fidelity of our game, we will install a number of tools.
 
-In addition, we will install a mod manager to help us keep our mods organized, and a series of additional tools to help us fix conflicts between our mods to get our install running as smoothly as possible.
+{% hint style="info" %}
+You can skip this section if you have all the below tools already installed
+{% endhint %}
 
 ## ⭐ [**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510)
 
@@ -70,6 +72,7 @@ The **Readme** elaborates on how to use these overrides, so you should definitel
 {% endhint %}
 
 ## ⭐ [**Mlox**](https://github.com/mlox/mlox/releases/latest)
+
 mlox is a tool for analyzing and sorting your Morrowind plugin load order.
 
 * Expand **Assets** under "It lives: 1.0 Release with an all new GUI" and download **mlox.exe**.
@@ -77,6 +80,7 @@ mlox is a tool for analyzing and sorting your Morrowind plugin load order.
 * Double click `mlox.exe` and run the program once and close it (do nothing)
 
 ## ⭐ [**Mlox Rules**](https://github.com/mlox/mlox/releases/tag/v1.0)
+
 Mlox Rules is a very up-todate rule set sort your plugins and is essential for this modlist to work.
 
 * go to `%localappdata%/mlox/mlox` (type this into windows explorer)
@@ -103,6 +107,15 @@ Used to repair and update saves, update the masters of mods, and to run tes3cmd 
 {% hint style="info" %}
 The **Mods Installers directory** we left empty above is redundant to us, as we will use Mod Organizer 2 to install our mods. However, assigning a directory is required to install Wrye Mash.
 {% endhint %}
+
+### Cleaning plugins
+
+For general dirty records, we use **Wrye Mash**, automatically cleaning them.
+
+* Run Wrye Mash (**mash64**) in Mod Organizer 2.
+* In the **Mods** tab, CTRL+left click on the plugin you want to clean.
+* With the plugin selected, right-click and click **Clean with tes3cmd**.
+* After the process is over, close the window.
 
 ## ⭐ [**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/)
 
@@ -168,34 +181,11 @@ Bloodmoon.esm
 You can hide unnecessary information in Mod Organizer 2 by right clicking on the headers above the installed mods, and unchecking the tabs you don't want to see. I suggest unchecking everything but the **Conflicts**, **Flags**, and **Priority** boxes. You can also click on the **X** to the bottom right of the **load order** panel, hiding unnecessary background information seen on the pane below.
 {% endhint %}
 
-### Adjusting Morrowind.ini
-
-One of the patches we installed with the Morrowind Code Patch, **Rain/snow collision**, requires a few .ini edits to work properly.
-
-* Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO\_ini.png) button, and click **INI Editor**. **morrowind.ini** will now open.
-* Use CTRL+F to input the section names and edit the respective entries to use these values. Note that **Weather Snow** may be found much further down below than the others, just below the **Archives** section.
-
-```
-[Weather Rain]
-Rain Diameter=1200
-Max Raindrops=1500
-
-[Weather Thunderstorm]
-Rain Diameter=1200
-Max Raindrops=3000
-
-[Weather Snow]
-Snow Diameter=1600
-Max Snowflakes=1500
-```
-
-* Click **Save** and close the window.
-
 ### Setting up Profiles
 
 Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change from one mod setup to another.
 
-* Click the **Configure profiles** ![Profiles](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO\_Profiles.png) button.
+* Click the **Configure profiles** ![Profiles](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/MO2/MO_Profiles.png) button.
 * Check the following options:
   * [x] Use profile-specific Game INI files.
   * [ ] Use profile-specific Save Games.
@@ -205,126 +195,90 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
 
 Morrowind Sharp will be the profile we'll be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
 
-### Registering tools in Mod Organizer 2
+### Mod Organizer 2 tips
 
-For our modding tools to work in Mod Organizer 2, we need to register and configure them.
+#### Mod manager download installation
 
-Follow these steps for **Wrye Mash**:
+Mods downloaded from Nexus will be instantly added to Mod Organizer 2 when using the **Mod manager download** option. However, you still need to install these mods for them to work in-game.
 
-* Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO\_Executables.png) button.
-* Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2\_Add\_File.png) button and select _Add from file..._.
-* Navigate to **C:\Games\Morrowind\Mopy** and double click **mash64.exe**.
-* Click **Apply** and then **OK**.
+* In MO2, click on the **Downloads** tab. You can check the download progress for your file there.
+* Right-click the downloaded file, and click **Install**.
+* Click **OK**.
+* The mod will appear in the left pane. To activate the mod, check the box next to it by clicking the box.
 
-* Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2\_Add\_File.png) button and select _Add from file..._.
-* Navigate to **C:\Games\Morrowind** and double click **MWSE-Update.exe**.
-* Click **Apply**.
+When installing a mod, use the name provided for it in the guide's **hyperlink**. For example, the guide lists the following mod's name as **Graphic Herbalism - MWSE and OpenMW Edition**.
 
-* Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2\_Add\_File.png) button and select _Add from file..._.
-* Navigate to **%localappdata/mlox/mlox%** and double click **Update_Rules.bat**.
-* Click **Apply**.
+![Example](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/MO2dexample.png)
 
-Follow these steps for **MLOX**, **TES3Merge**, **TESAME**, and **TES3View**:
+Whenever you install a mod in Mod Organizer 2, the mod manager assigns it a default name, which is either the name of the Nexus page from where it is being downloaded from, or, when manually installing a mod, the name of the file.
 
-* Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO\_Executables.png) button.
-* Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2\_Add\_File.png) button and select _Add from file..._.
-* Navigate to the folder of the tool you want to install (each found inside **C:\Games\Morrowind Sharp**) and double click its .exe file.
-* In the **Start In** field, select your Morrowind **Root** folder (**C:\Games\Morrowind**).
-* Click **Apply**, and repeat the process for the remaining tools.
+#### Multiple files installation
 
-{% hint style="info" %}
-Unlike the other tools, tes3cmd doesn't need to be registered in Mod Organizer 2 as it is directly run from Wrye Mash, which we have already registered.
-{% endhint %}
+There will be times when you will need to install multiple files from a single mod page. Mod Organizer 2 will prompt you with the following box.
 
-## Configuring MGE XE in Mod Organizer 2
+![ModExists](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/MO2/MO_mod_exists.png)
 
-* In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **MGE XE**.
-* Click **Run** to run the executable.
+What these options do is simple:
 
-### In-game tab
+* **Merge** merges the contents of the file being installed with those of the file of the same name already installed. The new files will take priority over the old files, overwriting as necessary. This option is generally recommended when installing an update file that is separate from the main file, or optional files in the case you don't want to clutter your mod order.
+* **Replace** will delete the installed mod, and install the new mod. This option is generally recommended when installing a new version of a mod, as old files may no longer be used by the new version.
+* **Rename** will install the mod under a different name, as a separate, additional mod. This option is generally recommended when installing multiple mods from a single mod page that are unrelated to each other (as is the case of compilation pages that list many mini-mods, such as [**Half11's Misc Mods**](https://www.nexusmods.com/morrowind/mods/47068)).
 
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MGE%20XE%20In-game%20272.png)
+All files installed from a same Nexus page should be merged into a single mod when using Mod Organizer 2. They should also be merged in the order they are listed in this guide, to avoid potential problems (such as update files being overwritten by older files from a same mod). The rule of thumb to use is that one hyperlink in the guide = one single mod on your MO2's left pane.
 
-{% hint style="warning" %}
-You may be tempted to enable **High detail actor shadows (buggy)**. As the name says, they are buggy and can be very taxing on your framerate. I don't recommend them.
-{% endhint %}
+When the guide asks no specific file to be installed, it is implicit that the file you should download and install is the only main file available for download. Elsewhere, specific instructions will point you in the right direction.
 
-### Config tab
+#### Manual download installation
 
-* Click the **Report max AA and AF** under **Information** to get your graphics card's max antialiasing and anisotropic filtering levels.
+Sometimes authors will block the **Mod manager download** option in Nexus, and you will have to download the mod manually. On occasion, you will download a mod from a different site altogether, be it GitHub, Google Drive, or Morrowind Modding History.
 
-### Graphics tab
+* In MO2, click the **Install a new mod from archive** ![Archive](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/MO2/MO_Archive.png) button.
+* Navigate to the folder where the downloaded file is stored and double click on it.
 
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MGE%20XE%20Graphics%20272.png)
+The rest of the steps work exactly as during mod manager download installation.
 
-Apart from the recommended settings (as seen on the image), there are a couple of options you should look out for.
+#### BAIN and FOMOD installers
 
-**Display**
+BAIN and FOMOD installers allow users to customize their install by spliting their mods into multiple options. BAIN installers generally provide a **Core** option which needs to be installed for the mod to work at all, but this option is not always provided, and neither is it always required. FOMOD installers are much more detailed, generally intuitive as opposed to BAIN installers, but sadly these aren't as common in the Morrowind modding scene.
 
-* You should select your resolution and refresh rate.
-* Set your **Antialiasing** and **Anisotropic filtering** settings to the values reported in the **Config** tab.
-* Turn **VSync** on to prevent screen-tearing.
+Mod Organizer 2 supports both types of mod installers. Note that this guide will always list the options you should install. If missing, the options should be skipped.
 
-**Windowed mode**
+#### Repackaging mods
 
-* Most users then to ALT+TAB during gameplay. However, if you want to maximize performance at the cost of stability when ALT+TABbing, you should uncheck this option.
+There will be times you'll be greeted with the following message when installing a mod through Mod Organizer 2.
 
-**Renderer**
+![InvalidContent](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/MO2/MO_mod_invalid.png)
 
-* Check **Enable shaders**.
-* Higher **Menu UI scaling** settings will scale up the UI. If you are playing on high resolutions (1080p and higher) I recommend starting with values at 1,20.
-* Lower **FPS Limiter** settings will increase the consistency of your framerate. I personally set it to **60**.
+In lieu of mod authors not fixing their mods themselves, there are two ways to fix this.
 
-**Shader setup...**
+* Repackage the mod yourself and install it through Mod Organizer 2.
+* Repackage the mod yourself in Mod Organizer 2.
 
-* On the **Set active shaders** window, click **Modding >>>**. Double clicking on the **Available shaders** makes them **Active shaders**, meaning the game will run them.
-* For now, set your shader combination as follows.
+Mod Organizer 2 recognizes anything resembling a valid file structure (having folders such as **Meshes**, **Textures**, **Icons**, etc., or **.esp** and **.esm** files), allowing you to install it.
 
-```
-SSAO HQ
-Underwater Effects
-Underwater Interior Effects
-Sunshafts
-```
+In the case shown above, the mod contains a **Data Files** folder and a loose **.txt** file acting as the mod's documentation.
 
-* Click **Save** after setting up your shader chain.
+* Right-click on **Data Files**.
+* Click **Set as data files directory**.
+* Click **OK** to install the mod.
 
-{% hint style="warning" %}
-Note that **Antialiasing**, **Anisotropic filtering**, **VSync**, and **Enable shaders** will all take a heavy toll on your framerate.
-{% endhint %}
+![ValidContent](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/MO2/MO_mod_valid.png)
 
-### Distant Land tab
+In other cases, mods contain loose assets, and you will have to create folders to package them properly.
 
-This tab lets you generate distant land, which in other words means you will see beyond the vanilla Morrowind fog. Tweaking these settings to achieve the optimal look can be difficult, and it boils down to personal taste. Distant Land can really hurt your FPS, especially when used alongside shaders, as there's more to post-process.
+* Right-click on the **data files** root directory and click **Create directory...**.
+* Enter the name of the folder you want to create, and click **OK**.
+* Drag and drop your files in the appropriate folders.
+* Click **OK** to install the mod.
 
-All options minus **Use Distant Land** and **Distant land generator wizard** are disabled when you get to this tab. We need to generate distant land for these options to become available.
+#### Hiding files
 
-* Click **Distant land generator wizard**.
-* On the **Distant Land Setup Wizard**, click **Select all**. The checked plugins will be used for distant land generation.
-* Click **Continue**. This will open the **Distant Land Generation** window.
-* In the **Land Textures** tab, simply click **Create Land Textures**. By default, the options you should see are 2048 and 1024 texture and normalmap resolution, respectively.
-* In the **Land Meshes** tab, select **Ultra High** from the **World mesh detail** dropdown menu. Click **Create Land Meshes**.
-* In the **Statics** tab:
-  * Set **Minimum Static Size** to 100.
-  * Check **Include reflective water in interiors**.
-  * Check **Use lists of statics overriding parameters set above**.
-  * Click **Edit list**.
-    * Click **Add**.
-    * Navigate to your **Morrowind\mge3** folder, and double-click **00\_main.ovr**.
-    * Click **Save**.
-  * Click **Create Statics**.
-* Once the statics have been created, click **Finish**.
+Mod Organizer 2 lets you hide specific files from your installed mods, be it assets or plugins. A hidden plugin is treated as a deactivated plugin, with the bonus that it will no longer clutter your load order. Hiding assets is useful when you don't want to install specific assets, or when you don't want them to overwrite another mod's.
 
-{% hint style="info" %}
-A rule of thumb is to regenerate your distant land any time you install or uninstall mods. Most importantly, the process will be much easier as you only need to click on **Run above steps using saved / default settings** the next time you are on the **Distant Land Generation** window. On your first distant land generation, MGE XE defaults to **Distant Land configuration setup...**.
-{% endhint %}
+* Right click on your installed mod and click **Information...**.
+* On the **Filetree** tab, right click on the plugins, folders, or files you want to hide, and click **Hide**.
+* Mod Organizer 2 will hide the files, and these will no longer affect your game.
 
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MGE%20XE%20272.png)
+#### Overwrite folder
 
-Now that you are back on the **Distant Land** tab you will see all previously unavailable options are now enabled. To get you started, I recommend you copy the settings as shown in the image above. In the future you may want to modify them.
-
-> ℹ️ These draw distance settings will preserve the foggy aesthetic of vanilla Morrowind, which I recommend over the absurd draw distance seen in most modern Morrowind screenshots. If you are aching for a little bit of extra draw distance, I suggest increasing the **Draw Distance** to 5,0, and cranking up the **Above Water Fog** settings to Start 3,0 and End 5,0.
-
-{% hint style="warning" %}
-Note that Per-pixel lighting takes a heavy toll on your framerate. You can disable it entirely, or limit it to **Interiors only**.
-{% endhint %}
+The **Overwrite** folder is the destiny folder for the output of many of the tools we installed in **Setup**, e.g. distant land generation will place its contents inside the **distantland** folder, configurable MWSE mods will place their files inside the **MWSE\config** folder. There's always a chance files in the **Overwrite** folder will overwrite assets and/or plugins from your installed mods.

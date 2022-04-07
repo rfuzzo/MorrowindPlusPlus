@@ -59,7 +59,7 @@ Adds a randomized bit of lead time to thunderclaps after lightning strikes for a
 Files to install:
 
 * **Distant Thunder v1.1 (No Scripts)** (Optional files)
-* After installation, use the **INI Editor** under **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO\_ini.png) to replace the Thunder Sound IDs of your Morrowind.ini with the following:
+* After installation, use the **INI Editor** under **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/MO2\_ini.png) to replace the Thunder Sound IDs of your Morrowind.ini with the following:
 
 ```txt
 Thunder Sound ID 0=Distant_Thunder_00
