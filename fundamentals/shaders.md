@@ -3,8 +3,12 @@
 ⭐ [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)\
 A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
 
-⭐ [**MGE XE Shader Pack**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MGE%20XE%20Shader%20Pack.7z)\
+⭐ [**MGE XE Shader Pack**](https://github.com/Sigourn/nerevarrising/blob/master/mods/MGE%20XE%20Shader%20Pack.7z)\
 A compilation of a handful of community-made shaders.
+
+{% hint style="info" %}
+[**Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/MGE%20XE%20Shader%20Pack.7z) to the download.
+{% endhint %}
 
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Core

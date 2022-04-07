@@ -1,7 +1,7 @@
 # Tools
 
 {% hint style="info" %}
-**BASED ON:** Sigourn @ [https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md)
+**BASED ON:** Sigourn @ [https://github.com/Sigourn/nerevarrising/blob/master/setup.md](https://github.com/Sigourn/nerevarrising/blob/master/setup.md)
 {% endhint %}
 
 ## Preamble
@@ -99,7 +99,7 @@ Used to repair and update saves, update the masters of mods, and to run tes3cmd 
 * Launch **mash64.exe**, found in your **Morrowind\Mopy** folder.
 * Eventually the installation wizard will ask you to fill the following entries:
   * **Morrowind directory**: select your Morrowind **Root** folder (**C:\Games\Morrowind**). A message should state that morrowind.ini and the Data files folder were found.
-  * **Mods Installers directory**: select your Morrowind Sharp folder (**C:\Games\Morrowind Sharp**).
+  * **Mods Installers directory**: select your Morrowind++ folder (**C:\Games\MorrowindPlusPlus**).
 * Click **Next** and then click **Finish**.
 * Wrye Mash will now launch. Click **Yes** on the pop-up asking you to enable the MWSE 1024 plugin support. Failing to enable this option can cause you to be unable to repair your saves.
 * Close the program.
@@ -128,7 +128,7 @@ Used to clean plugins by automatically deleting identical-to-master records (rec
 
 Used to solve conflicts by merging conflicting records into a separate plugin, **Merged Objects.esp**.
 
-* Extract the contents of the file in **Morrowind Sharp\Tools\TES3Merge**.
+* Extract the contents of the file in `C:\Games\MorrowindPlusPlus\Tools\TES3Merge`.
 
 ## ⭐ [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 
@@ -136,7 +136,7 @@ An excellent mod manager, offering lots of quality of life conveniences that mak
 
 * Manually download **Mod Organizer 2** (Main files).
 * Run the **Mod Organizer 2.exe**.
-* When prompted to choose an install location, choose your Morrowind **Mods** folder (**C:\Games\Morrowind Sharp\MO2**).
+* When prompted to choose an install location, choose your Morrowind **Mods** folder (`C:\Games\MorrowindPlusPlus\MO2`).
 * When installation has finished, uncheck the option and click **Finish**.
 
 {% hint style="info" %}
@@ -190,10 +190,10 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
   * [x] Use profile-specific Game INI files.
   * [ ] Use profile-specific Save Games.
   * [ ] Automatic Archive Invalidation.
-* With the **Default** profile selected, click **Copy**. Type in **Morrowind Sharp** and click **OK**. Close the window.
-* On the **Profile** tab, select the **Morrowind Sharp** profile.
+* With the **Default** profile selected, click **Copy**. Type in **Morrowind++** and click **OK**. Close the window.
+* On the **Profile** tab, select the **Morrowind++** profile.
 
-Morrowind Sharp will be the profile we'll be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
+Morrowind++ will be the profile we'll be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
 
 ### Mod Organizer 2 tips
 

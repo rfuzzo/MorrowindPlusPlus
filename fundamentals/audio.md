@@ -40,8 +40,12 @@ Files to install:
 On new games, female player characters will have male voices. Saving and reloading the game will permanently fix this issue for any given character.
 {% endhint %}
 
-[**Quieter Doors and Spells**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Quieter%20Doors%20and%20Spells.7z)\
+[**Quieter Doors and Spells**](https://github.com/rfuzzo/MorrowindPlusPlus/blob/main/assets/Quieter%20Doors%20and%20Spells.7z)\
 Reduces the volume of doors and spells. Mod by **Sigourn**.
+
+{% hint style="info" %}
+[**Link**](https://github.com/rfuzzo/MorrowindPlusPlus/raw/main/assets/Quieter%20Doors%20and%20Spells.7z) to the download.
+{% endhint %}
 
 ⭐ [**Spell Sounds Enhanced**](https://www.nexusmods.com/morrowind/mods/46338)\
 Vanilla-friendly replacer of each vanilla spell sound.
@@ -96,5 +100,9 @@ Adds entrance bell chimes with sound effects to imperial town tradehouses and ta
 [**MUSE 2 - Morrowind Music System Extended**](https://www.nexusmods.com/morrowind/mods/46200)\
 Extended and flexible music system for Morrowind, allows you to easily customize your music as well as make new music mods.
 
-[**MUSE 2.0.2 Necro Sig Edit**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MUSE%202.0.2%20Necro-Sig%20Edit.7z)\
+[**MUSE 2.0.2 Necro Sig Edit**](https://github.com/rfuzzo/MorrowindPlusPlus/blob/main/assets/MUSE%202.0.2%20Necro-Sig%20Edit.7z)\
 Fixes a number of bugs with the original mod, and optimizes it by removing air/underwater specific music. Additionally restores the vanilla music for the introductory scene at the Imperial Prison Ship. Mod by **Necrolesian** and **Sigourn**.
+
+{% hint style="info" %}
+[**Link**](https://github.com/rfuzzo/MorrowindPlusPlus/raw/main/assets/MUSE%202.0.2%20Necro-Sig%20Edit.7z) to the download.
+{% endhint %}

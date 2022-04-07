@@ -104,7 +104,7 @@ This mod adds quests for the Telvanni Archmagister, allowing him/her to gain mor
   * [x] `Rise of House Telvanni.esm`
 
 [**Rise of House Telvanni - 2.0**](https://www.nexusmods.com/morrowind/mods/48225)\
-This mod gives a much needed facelift to one of the greatest quest mods of all time - Rise of House Telvanni. 
+This mod gives a much needed facelift to one of the greatest quest mods of all time - Rise of House Telvanni.
 
 ⭐ [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843)\
 Fleshes out the Imperial Cult and the Tribunal Temple.

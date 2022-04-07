@@ -9,7 +9,7 @@ Adds several toggleable quality of life improvements to the Main Menu, including
 HD recreation of the Title and Logo Intro, in widescreen.
 
 * Files to install:
-  - **Title Screen Reworked (Widescreen)** (Main files)
+  * **Title Screen Reworked (Widescreen)** (Main files)
 
 {% hint style="info" %}
 In the **Setup** section we enabled the option to skip the intro movies, so there's no point in installing the Logo Video Intro Reworked (Widescreen) main file.
@@ -54,8 +54,12 @@ Replaces most of the original book arts with hi-res images redrawn from scratch.
 * On MO2 installation, right-click on **Data Files**.
 * Click **Set as data files directory** and click **OK**.
 
-⭐ [**Comrade Raven's Book Arts Replacer ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Comrade%20Raven's%20Book%20Arts%20ESP%20Replacer.7z)\
+⭐ [**Comrade Raven's Book Arts Replacer ESP Replacer**](https://github.com/Sigourn/nerevarrising/blob/master/mods/Comrade%20Raven's%20Book%20Arts%20(PfP%20Edit).7z)\
 Forwards PfP fixes to the plugin.
+
+{% hint style="info" %}
+[**Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/Comrade%20Raven's%20Book%20Arts%20(PfP%20Edit).7z) to the download.
+{% endhint %}
 
 ⭐ [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863)\
 Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
@@ -103,8 +107,12 @@ Fixes gameplay and interface inconsistencies in the alchemy menu, provides it wi
 ⭐ [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272)\
 Allows highlighting and hiding quests in the Journal questlist.
 
-⭐ [**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/What%20Are%20My%20Attributes%20\(Necro%20Edit\).7z)\
+⭐ [**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/nerevarrising/blob/master/mods/What%20Are%20My%20Attributes%20(Necro%20Edit).7z)\
 Adds an Attribute and Description widget to the Race menu so you can better plan your character.
+
+{% hint style="info" %}
+[**Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/What%20Are%20My%20Attributes%20(Necro%20Edit).7z) to the download.
+{% endhint %}
 
 {% hint style="info" %}
 [**Link**](https://www.nexusmods.com/morrowind/mods/49912) to original mod by **RingComics**. The featured version includes UI fixes by **Necrolesian**.
@@ -116,17 +124,20 @@ Restores the class description tooltip to the class selection menu, making it ea
 ⭐ [**Map and Compass**](https://www.nexusmods.com/morrowind/mods/48455)\
 This mod allows you to replace the magical vanilla map with a selection of more mundane maps, and the minimap with a compass.
 
-- Enter the **Mod config** menu in-game.
-- Select **Map and Compass** from the mod list to the left.
-- Click the **mapsWagner** tab.
-- Under the **vvardenfellMapWagner** header, click the **Select** button to make it your currently selected map.
-- Exit the menu.
+{% hint style="info" %}
+
+* Enter the **Mod config** menu in-game.
+* Select **Map and Compass** from the mod list to the left.
+* Click the **mapsWagner** tab.
+* Under the **vvardenfellMapWagner** header, click the **Select** button to make it your currently selected map.
+* Exit the menu.
+{% endhint %}
 
 ⭐ [**Map Replacements for Maps and Compass Wagner Style - Brujoloco Edition**](https://www.nexusmods.com/morrowind/mods/48460)  
 Replaces the maps from **Map and Compass** to give them a more immersive look.
 
 * On MO2 installation, check the following options in the BAIN installer:
-  - [X] 00 Yellowed Maps
+  * [X] 00 Yellowed Maps
 
 ⭐ [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851)\
 Keep track of what books you have read by showing a **(Read)** indicator next to their names. You can also see a list of previously read books in the mod's Mod Config menu.

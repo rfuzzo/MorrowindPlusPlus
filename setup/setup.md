@@ -38,11 +38,11 @@ C:\Games\Morrowind
 Additional, you will need a folder where to install our mod manager and keep your mods. I recommend the following path:
 
 ```
-C:\Games\Morrowind Sharp
+C:\Games\MorrowindPlusPlus
 ```
 
 {% hint style="warning" %}
-Make sure you don't create your Morrowind Sharp folder inside your Morrowind folder. Mod Organizer 2 will fail to register your installed mods.
+Make sure you don't create your Morrowind Root folder inside your Morrowind folder. Mod Organizer 2 will fail to register your installed mods.
 {% endhint %}
 
 ### Cleaning up your GOG installation

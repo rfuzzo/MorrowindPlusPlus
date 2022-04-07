@@ -119,7 +119,7 @@ Lite version of Enhanced Detection that adds the cool new visual effects without
 Using invisibility changes the way you view the world. Instead of only becoming transparent, you see through an ethereal lens that warps and twists the environment around you. Daedra and Undead appear differently, making them distinct from other creatures around you.
 
 {% hint style="info" %}
-The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#shader-setup) section.
+The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](/fundamentals/shaders.md#shader-setup) section.
 {% endhint %}
 
 ⭐ [**MM - Enhanced Light**](https://www.nexusmods.com/morrowind/mods/47672)\
@@ -146,8 +146,12 @@ Allows Soultrap to make more intelligent use of available soul gems, including s
 [**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)\
 Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
 
-[**Wings of Will (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Wings%20of%20Will%20\(Necro%20Edit\).7z)\
+[**Wings of Will (Necro Edit)**](https://github.com/Sigourn/nerevarrising/blob/master/mods/Wings%20of%20Will%20(Necro%20Edit).7z)\
 Levitation speed is now based on Willpower attribute instead of Speed.
+
+{% hint style="info" %}
+[**Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/Wings%20of%20Will%20(Necro%20Edit).7z) to the download.
+{% endhint %}
 
 {% hint style="info" %}
 [**Link**](https://www.nexusmods.com/morrowind/mods/46626) to original mod by **Sataniel**. The featured version includes fixes by **Necrolesian**.

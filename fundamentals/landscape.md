@@ -57,8 +57,12 @@ Adds falling spores particle effects to the emperor parasol mushrooms. Also repl
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Core
 
-⭐ [**Flies (PfP Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Flies%20\(PfP%20Edit\).7z)\
+⭐ [**Flies (PfP Edit)**](https://github.com/rfuzzo/MorrowindPlusPlus/blob/main/assets/Flies%20(PfP%20Edit).7z)\
 Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can hear flies buzzing, you'll be able to actually see fly swarms too. Includes fixes from Patch for Purists.
+
+{% hint style="info" %}
+[**Link**](https://github.com/rfuzzo/MorrowindPlusPlus/raw/main/assets/Flies%20(PfP%20Edit).7z) to the download.
+{% endhint %}
 
 {% hint style="info" %}
 [**Link**](https://www.nexusmods.com/morrowind/mods/43481) to original mod by **R-Zero**.
@@ -76,7 +80,7 @@ Adds firefly-like insects called glowbugs across the Bitter Coast region which c
 Adds a heat haze shader. Subtle, gets faster and stronger when near lava pools.
 
 {% hint style="info" %}
-The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#shader-setup) section.
+The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](/fundamentals/shaders.md#shader-setup) section.
 {% endhint %}
 
 ⭐ [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112)\
@@ -90,7 +94,7 @@ Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout
 Adds recurring earthquakes to certain volcanically active regions of Vvardenfell. You'll hear the sounds of moving earth and breaking rocks, your screen will start to tremble with increasing intensity, and, if inside an interior, dust and particles will shake loose and fall from the walls and ceiling.
 
 {% hint style="info" %}
-The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#shader-setup) section.
+The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](/fundamentals/shaders.md#shader-setup) section.
 {% endhint %}
 
 [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423)\
@@ -209,12 +213,10 @@ This mod redesigns the Library of Vivec from scratch to make it look and feel li
 ### Sheogorath Region
 
 ⭐ [**Spines of Madness**](https://www.nexusmods.com/morrowind/mods/50947)\
- A new look for Sheogorad - a gloomy, deserted and abandoned region on the edge of the inhabited world. 
+ A new look for Sheogorad - a gloomy, deserted and abandoned region on the edge of the inhabited world.
 
 ⭐ [**Nordic Dagon Fel**](https://www.nexusmods.com/morrowind/mods/49603)\
  Subtle changes to make the nordic village of Dagon Fel...nordic
-
-[**Nordic Dagon Fel - Warm Nords**]()\
 
 [**The Grove of Ben'Abi**](https://www.nexusmods.com/morrowind/mods/46137)\
 Small expansion to the mushroom grove near Dagon Fel.
@@ -303,8 +305,19 @@ After installation, disable `VSW-Rem-Anthology Solstheim.esp` in your load order
 Distant Land generation is required to make this mod work as intended. Instructions will be given in the **Re-running Distant Land** section.
 {% endhint %}
 
-[**Solstheim - Tomb of the Snow Prince ESM Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Solstheim%20-%20Tomb%20of%20the%20Snow%20Prince%202.2.2%20ESM%20Replacer.7z)  
+[**Solstheim - Tomb of the Snow Prince ESM Replacer**](https://github.com/rfuzzo/MorrowindPlusPlus/blob/main/assets/Solstheim%20-%20Tomb%20of%20the%20Snow%20Prince%202.2.2%20ESM%20Replacer.7z)  
 Clean replacer for the main ESM file.
+
+{% hint style="info" %}
+[**Link**](https://github.com/rfuzzo/MorrowindPlusPlus/raw/main/assets/Solstheim%20-%20Tomb%20of%20the%20Snow%20Prince%202.2.2%20ESM%20Replacer.7z) to the download.
+{% endhint %}
+
+[**Solstheim Graphical Replacer - Skyrim-like Trees Textures**](https://github.com/rfuzzo/MorrowindPlusPlus/blob/main/assets/Solstheim%20Graphical%20Replacer%20-%20Skyrim-like%20Trees%20Textures.7z)  
+Allows installation of the Skyrim-like Trees option without having to install the core mesh and texture replacer.
+
+{% hint style="info" %}
+[**Link**](https://github.com/rfuzzo/MorrowindPlusPlus/raw/main/assets/Solstheim%20Graphical%20Replacer%20-%20Skyrim-like%20Trees%20Textures.7z) to the download.
+{% endhint %}
 
 [**Interiors of Solstheim**](https://www.nexusmods.com/morrowind/mods/44451)\
  Enhances the interiors of the Skaal village and Thirsk by adding some miscellaneous objects.

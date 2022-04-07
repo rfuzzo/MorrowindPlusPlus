@@ -14,7 +14,7 @@
   * [x] 03 Travel Network for Core and Vvardenfell
   * [x] 04 Patch for Abot's Travels mods
 
-  * **Tamriel Rebuilt 21.01 hotfix 1**
+* **Tamriel Rebuilt 21.01 hotfix 1**
 
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Core
@@ -84,7 +84,7 @@ Dropped items and corpses are automatically positioned and oriented to align wit
 [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)\
 Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
 
-⭐ [**Putting Power In Willpower (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Putting%20Power%20in%20Willpower%20\(Necro%20Edit\).7z)\
+⭐ [**Putting Power In Willpower (Necro Edit)**](https://github.com/Sigourn/nerevarrising/blob/master/mods/Putting%20Power%20in%20Willpower%20(Necro%20Edit).7z)\
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description.
 
 {% hint style="info" %}
@@ -129,15 +129,19 @@ This omits the restoration of Hecerinde's Secret Master tools from [**Services R
 [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731)  
 Alternative version of the official plugin adding Adamantium Armor to Vvardenfell. Tweaked to place one copy of each piece (minus the helmet) across the island.
 
-[**Adamantium Ore Fix ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Adamantium%20Ore%20Fix%20ESP%20Replacer.7z)\
+[**Adamantium Ore Fix ESP Replacer**](https://github.com/Sigourn/nerevarrising/blob/master/mods/Adamantium%20Ore%20Fix%20(PfP%20Edit).7z)\
 Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor. Includes fixes from Patch for Purists.
+
+{% hint style="info" %}
+[**Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/Adamantium%20Ore%20Fix%20(PfP%20Edit).7z) to the download.
+{% endhint %}
 
 [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985)\
 Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
 ## Mesh fixes
 
-⭐ [**Correct UV Rocks**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Correct%20UV%20Rocks.7z)\
+⭐ [**Correct UV Rocks**](https://github.com/Sigourn/nerevarrising/raw/master/mods/Correct%20UV%20Rocks.7z)\
 Fixes UV mapping on rocks and stones.
 
 {% hint style="info" %}

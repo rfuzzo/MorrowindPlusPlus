@@ -21,8 +21,12 @@ To register the mod's BSA file, launch **Wrye Mash** from Mod Organizer 2. In th
 ⭐ [**Morrowind Enhanced Textures**](https://www.nexusmods.com/morrowind/mods/46221)\
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. Also includes reworked meshes from **Facelift**.
 
-⭐ [**MET Hofix**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/MET%20Hotfix.7z)\
+⭐ [**MET Hofix**](https://github.com/Sigourn/nerevarrising/blob/master/mods/MET%20Hotfix.7z)\
 Hotfix for two textures which lacked mipmaps.
+
+{% hint style="info" %}
+[**Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/MET%20Hotfix.7z) to the download.
+{% endhint %}
 
 ⭐ [**Project Atlas - MET**](https://www.nexusmods.com/morrowind/mods/45399?)\
 Compatibility patch for Morrowind Enhanced Textures.
@@ -199,8 +203,12 @@ Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion
 [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572)\
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
 
-[**Complete Armor Joints ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Complete%20Armor%20Joints%20ESP%20Replacer.7z)\
+[**Complete Armor Joints ESP Replacer**](https://github.com/Sigourn/nerevarrising/blob/master/mods/Complete%20Armor%20Joints%20(PfP%20Edit).7z)\
 Forwards Patch for Purists fixes to the plugin.
+
+{% hint style="info" %}
+[**Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/Complete%20Armor%20Joints%20(PfP%20Edit).7z) to the download.
+{% endhint %}
 
 [**Imperial Steel Cuirass Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)\
 Adds the missing belt to the male Imperial Steel Cuirass.
@@ -214,8 +222,12 @@ Replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping j
 [**Alex's Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)\
 Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
 
-[**Alex's Better Fitted Female Armors ESP Replacer**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Alex's%20Better%20Fitted%20Female%20Armors%20ESP%20Replacer.7z)\
+[**Alex's Better Fitted Female Armors ESP Replacer**](https://github.com/Sigourn/nerevarrising/blob/master/mods/Alex's%20Better%20Fitted%20Female%20Armors%20(PfP%20Edit).7z)\
 Forwards Patch for Purists fixes to the plugin, and removes edits to cuirasses that already had a female variant.
+
+{% hint style="info" %}
+[**Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/Alex's%20Better%20Fitted%20Female%20Armors%20(PfP%20Edit).7z) to the download.
+{% endhint %}
 
 [**Properly Fitted Female Pants**](https://www.nexusmods.com/morrowind/mods/49673)\
 Adds female variants to all the pants in vanilla Morrowind by recombining the assets from the vanilla game.

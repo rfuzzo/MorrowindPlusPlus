@@ -64,7 +64,7 @@ For our modding tools to work in Mod Organizer 2, we need to register and config
 ### TES3Merge
 
 * Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/MO2/MO_Add_File.png) button and select _Add from file..._.
-* Navigate to the folder of the tool you want to install (each found inside `C:\Games\Morrowind Sharp`) and double click its `TES3Merge.exe` file.
+* Navigate to the `C:\Games\MorrowindPlusPlus\Tools\TES3Merge\TES3Merge.exe` file.
 * In the **Start In** field, select your Morrowind **Root** folder (`C:\Games\Morrowind`).
 * Click **Apply**, and repeat the process for the remaining tools.
 
@@ -104,17 +104,17 @@ You may be tempted to enable **High detail actor shadows (buggy)**. As the name 
 
 Apart from the recommended settings (as seen on the image), there are a couple of options you should look out for.
 
-**Display**
+#### Display
 
 * You should select your resolution and refresh rate.
 * Set your **Antialiasing** and **Anisotropic filtering** settings to the values reported in the **Config** tab.
 * Turn **VSync** on to prevent screen-tearing.
 
-**Windowed mode**
+#### Windowed mode
 
 * Most users then to ALT+TAB during gameplay. However, if you want to maximize performance at the cost of stability when ALT+TABbing, you should uncheck this option.
 
-**Renderer**
+#### Renderer
 
 * Check **Enable shaders**.
 * Higher **Menu UI scaling** settings will scale up the UI. If you are playing on high resolutions (1080p and higher) I recommend starting with values at 1,20.
@@ -125,7 +125,7 @@ Apart from the recommended settings (as seen on the image), there are a couple o
 * On the **Set active shaders** window, click **Modding >>>**. Double clicking on the **Available shaders** makes them **Active shaders**, meaning the game will run them.
 * For now, set your shader combination as follows.
 
-```
+```text
 SSAO HQ
 Underwater Effects
 Underwater Interior Effects

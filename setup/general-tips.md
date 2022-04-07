@@ -40,7 +40,6 @@ The following aren't strict rules, but tips to follow if you are new to modding 
 * Learn how file structure works. Incorrect file structure means mods will not work as intended.
 * Register BSA files when appropriate. BSA files contain data files for the mod you are installing, or for other mods to use as a resource. Failing to register your BSA files can cause [**yellow exclamation triangles**](https://external-preview.redd.it/dl-I4l\_Pzm5autet-87p1hnU1btUavtiu1mtwGzWBko.png?width=960\&crop=smart\&auto=webp\&s=3d180a6476cad80c332c12be08252511a0044c5c). This can also happen when a mod you are installing is missing assets.
 
-
 {% hint style="info" %}
 To register a BSA file, launch Wrye Mash from Mod Organizer 2. In the **Mods** tab, click the **BSA Archives** tab to the right, and check the BSA you want to register.
 {% endhint %}
