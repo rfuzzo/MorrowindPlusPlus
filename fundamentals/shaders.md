@@ -32,4 +32,6 @@ r0_qk_shaker
 
 * Click **Save** after setting up your shader chain.
 
-> ℹ️ Note that all of these shaders, minus the ones added by mods and which thus won't work without them enabled, are optional. In particular, **Special Process** tends to be divisive.
+{% hint style="info" %}
+Note that all of these shaders, minus the ones added by mods and which thus won't work without them enabled, are optional. In particular, **Special Process** tends to be divisive.
+{% endhint %}

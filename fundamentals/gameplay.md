@@ -5,32 +5,32 @@
 ⭐ [**Chargen Revamped**](https://www.nexusmods.com/morrowind/mods/44615)\
 Customize/randomize your starting attributes, skills, spells, items, companion, faction, and location on Vvardenfell, Solstheim, Mainland Morrowind (TR), Skyrim (SHOTN), or Cyrodiil (PC).
 
-* On MO2 installation, ONLY these Optional ESPs:
-  * [x] CREL_Vanilla_v3.1.esp
+* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
+  * [x] `CREL_Vanilla_v3.1.esp`
 
 ⭐ [**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915)\
 Adds buttons to randomise race, appearance, class, and birthsign during character generation.
 
 ⭐ [**MWSE Character Creation Name Generator**](https://www.nexusmods.com/morrowind/mods/46189)\
- UI overhaul allowing generate random name for you character upon character creation.
+UI overhaul allowing generate random name for you character upon character creation.
 
- [**Ahead of the Classes**](https://www.nexusmods.com/morrowind/mods/50346)\
+[**Ahead of the Classes**](https://www.nexusmods.com/morrowind/mods/50346)\
  Ahead of the classes makes many vanilla and TR classes playable and adds many new classes.
 
 [**Written in the Stars - a birthsign mod**](https://www.nexusmods.com/morrowind/mods/50378)\
- Each birthsign now has a few variants (including the original one) for a grand total of 40 new lore-friendly birthsigns.
+Each birthsign now has a few variants (including the original one) for a grand total of 40 new lore-friendly birthsigns.
 
- [**Class Starting Spells**](https://www.nexusmods.com/morrowind/mods/49010)\
- MWSE lua mod, which changes the distribution of starting spells and gives its own list of them for every class, depending on the its central theme. Requires Magicka Expanded.
+[**Class Starting Spells**](https://www.nexusmods.com/morrowind/mods/49010)\
+MWSE lua mod, which changes the distribution of starting spells and gives its own list of them for every class, depending on the its central theme. Requires Magicka Expanded.
 
 [**Improved Vanilla Leveling**](https://www.nexusmods.com/morrowind/mods/48065)\
- This mod attempts to preserve vanilla leveling mechanics while eliminating the need to micromanage skill and attribute increases in order to achieve optimal character progression.
+This mod attempts to preserve vanilla leveling mechanics while eliminating the need to micromanage skill and attribute increases in order to achieve optimal character progression.
 
 {% hint style="info" %}
 MCM: DISABLE Retroactive Health Calculation
 {% endhint %}
 
- [**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133)\
+[**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133)\
 A state-based health mod implemented in MWSE. Health is now calculated based on current endurance, strength and level.
 
 [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872)\
@@ -55,12 +55,6 @@ Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and pr
 
 ⭐ [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)\
 Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
-
-⭐ [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069)\
-Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
-
-* On MO2 installation, right-click on **Data Files**.
-* Click **Set as data files directory** and click **OK**.
 
 ⭐ [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)\
 Tweaks bows so that they line up better with the sheathing animation.
@@ -105,7 +99,9 @@ A lua-based framework for creating new, fully functional magic effects.
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 - Framework
 
-> ℹ️ This framework is a pre-requisite for **Miscast Enhanced**, and the **Magic Mechanics** series of mods.
+{% hint style="info" %}
+This framework is a pre-requisite for **Miscast Enhanced**, and the **Magic Mechanics** series of mods.
+{% endhint %}
 
 ⭐ [**MM - Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480)\
 Adds new Oblivion-inspired visual effects and mechanics for the vanilla Detection magic effects, as well as adds 7 new magic effects. It integrates those effects into new spells and distributes them in-game to spell vendors.
@@ -122,7 +118,9 @@ Lite version of Enhanced Detection that adds the cool new visual effects without
 ⭐ [**MM - Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565)  
 Using invisibility changes the way you view the world. Instead of only becoming transparent, you see through an ethereal lens that warps and twists the environment around you. Daedra and Undead appear differently, making them distinct from other creatures around you.
 
-> ℹ️ The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#shader-setup) section.
+{% hint style="info" %}
+The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/main.md#shader-setup) section.
+{% endhint %}
 
 ⭐ [**MM - Enhanced Light**](https://www.nexusmods.com/morrowind/mods/47672)\
 Replaces the Light magic effect with a Skyrim-style magelight effect, which creates an orb of light that will follow and float around you and other NPCs. Casting the magelight on a target location will create an orb of light at the location for the duration of the spell.
@@ -131,7 +129,9 @@ Replaces the Light magic effect with a Skyrim-style magelight effect, which crea
   * [x] 00 Core
   * [x] 01 Optional FPS
 
-> ℹ️ The Optional FPS option provides better performance at the expense of high quality visual effects.
+{% hint style="info" %}
+The Optional FPS option provides better performance at the expense of high quality visual effects.
+{% endhint %}
 
 ⭐ [**MM - Enhanced Telekinesis**](https://www.nexusmods.com/morrowind/mods/47534)\
 Using Telekinesis will now propel objects towards you with new VFX instead of immediately picking the item up.
@@ -149,12 +149,11 @@ Bound armor now uses the normal armor rating formula, taking light armor skill i
 [**Wings of Will (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Wings%20of%20Will%20\(Necro%20Edit\).7z)\
 Levitation speed is now based on Willpower attribute instead of Speed.
 
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/46626) to original mod by **Sataniel**. The featured version includes fixes by **Necrolesian**.
+{% hint style="info" %}
+[**Link**](https://www.nexusmods.com/morrowind/mods/46626) to original mod by **Sataniel**. The featured version includes fixes by **Necrolesian**.
+{% endhint %}
 
 ## Gameplay - QoL
-
-⭐ [**GMST Menu**](https://www.nexusmods.com/morrowind/mods/46428)\
-In-game menu allowing you to edit any Game Setting on the run. Useful to replace many minor mods that only edit Game Settings.
 
 ⭐ [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454)\
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
@@ -165,6 +164,9 @@ Increases the availability of restocking Restore Magicka, Restore Fatigue, and R
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Core
   * [x] 01 Poison Crafting Patch
+
+[**GMST Menu**](https://www.nexusmods.com/morrowind/mods/46428)\
+In-game menu allowing you to edit any Game Setting on the run. Useful to replace many minor mods that only edit Game Settings.
 
 ## Gameplay - General
 
@@ -204,7 +206,9 @@ Rebalances the speed attribute and overall movement in the game in an attempt to
 
 * After installation, hide the mod's **MWSE** folder. This disables the sprinting feature.
 
-> ℹ️ Note that this mod is _not_ meant to make movement faster, only more natural.
+{% hint style="info" %}
+Note that this mod is _not_ meant to make movement faster, only more natural.
+{% endhint %}
 
 [**Sprinting**](https://www.nexusmods.com/morrowind/mods/50839)\
 Adds a feature-rich sprinting functionality to the game.
@@ -215,7 +219,9 @@ Slows all creatures, NPCs and the Player down when they are walking half-submerg
 [**Locks and Traps Detection**](https://www.nexusmods.com/morrowind/mods/48528)\
 Allows you to have a chance to successfully detect traps and locks based on your security skill and relevant attributes, with a formula similar to the vanilla game.
 
-> ⚠️ This mod requires the **Hidden locks** and **Hidden traps** features to be enabled in the Morrowind Code Patch. Failing to enable them can cause you to be unable to start a new game or resume a game when paired alongside Improved Main Menu.
+{% hint style="warning" %}
+This mod requires the **Hidden locks** and **Hidden traps** features to be enabled in the Morrowind Code Patch. Failing to enable them can cause you to be unable to start a new game or resume a game when paired alongside Improved Main Menu.
+{% endhint %}
 
 [**Visually Trapped Objects**](https://www.nexusmods.com/morrowind/mods/48936)\
 Applies the enchanted effect to any doors or containers with traps. Compatible and complemented by **Locks and Traps Detection**.
@@ -234,10 +240,15 @@ Enhances Mercantile via new gameplay mechanics and UI elements. Includes new bas
 [**Controlled Consumption (G7 - Sig- Necro Edit)**](https://www.nexusmods.com/morrowind/mods/49232)\
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
 
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45624) to original mod by **NullCascade**. The featured version includes tweaks by **Greatness7**, **Sigourn** and **Necrolesian**.
+{% hint style="info" %}
+[**Link**](https://www.nexusmods.com/morrowind/mods/45624) to original mod by **NullCascade**. The featured version includes tweaks by **Greatness7**, **Sigourn** and **Necrolesian**.
+{% endhint %}
 
 [**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699)\
 Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
 
 [**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373)\
 Creatures, NPCs and players alike affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time, preventing the spam of these effects for offensive purposes.
+
+[**Skoomaesthesia**](https://www.nexusmods.com/morrowind/mods/49920)\
+ Adds new skooma mechanics including animated skooma pipe smoking, psychedelic shaders and sound effects, and skooma addiction.

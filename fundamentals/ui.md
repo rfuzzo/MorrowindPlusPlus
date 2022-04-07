@@ -8,12 +8,12 @@ Adds several toggleable quality of life improvements to the Main Menu, including
 ⭐ [**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657)\
 HD recreation of the Title and Logo Intro, in widescreen.
 
-{% hint style="info" %}
-Files to install:
-* **Title Screen Reworked (Widescreen)** (Main files)
-{% endhint %}
+* Files to install:
+  - **Title Screen Reworked (Widescreen)** (Main files)
 
-> ℹ️ In the **Setup** section we enabled the option to skip the intro movies, so there's no point in installing the Logo Video Intro Reworked (Widescreen) main file.
+{% hint style="info" %}
+In the **Setup** section we enabled the option to skip the intro movies, so there's no point in installing the Logo Video Intro Reworked (Widescreen) main file.
+{% endhint %}
 
 ⭐ [**Widescreen Splash Replacer**](https://drive.google.com/file/d/1HyR9k6FjganGRCNQfz8IzEHLMqrc5oWH/view?usp=sharing)\
 Replaces the default splash screens with better quality widescreen versions (16:9), and adds three missing Bethesda splash screens.
@@ -21,10 +21,8 @@ Replaces the default splash screens with better quality widescreen versions (16:
 [**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001)\
 Adds three missing Bethesda splash screens in widescreen resolution.
 
-{% hint style="info" %}
 * On MO2 installation, create a **Splash** folder.
 * Move the **.tga** files inside.
-{% endhint %}
 
 [**RFD's Splash Screens**](https://www.nexusmods.com/morrowind/mods/47400)
 Three packs of somewhat minimalist loading screens. Or splash screens. Whatever you call them.
@@ -40,7 +38,9 @@ New loading screens based on Bethesda's Morrowind Concept Art.
 ⭐ [**Better Readable Beauty Font**](https://www.nexusmods.com/morrowind/mods/49201)\
 High resolution replacer for the Magic Cards font, used in most of the user interface.
 
-> ℹ️ A more purist alternative to this mod is [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873).
+{% hint style="info" %}
+A more purist alternative to this mod is [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873).
+{% endhint %}
 
 ⭐ [**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540)\
 High resolution replacer for the Daedric font used in scrolls.
@@ -97,18 +97,6 @@ Removes "Diseased", "Blighted", and similar adjectives from creature names using
 ⭐ [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)\
 Expands UI functionality with searching, filtering, and more visual feedback.
 
-⭐ [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599)\
-Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
-
-* On MO2 installation, check the following options in the BAIN installer:
-  * [x] 00 Core + Vanilla Meshes
-
-⭐ [**Graphic Herbalism- Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154)\
-Fixes a collision bug with harvested Ash Yams.
-
-⭐ [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864)\
-Makes picking a glowing plant also remove the glow-light.
-
 ⭐ [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036)\
 Fixes gameplay and interface inconsistencies in the alchemy menu, provides it with a built-in effect filter and implements a Skyrim-like system for remembering ingredient effects.
 
@@ -118,7 +106,9 @@ Allows highlighting and hiding quests in the Journal questlist.
 ⭐ [**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/What%20Are%20My%20Attributes%20\(Necro%20Edit\).7z)\
 Adds an Attribute and Description widget to the Race menu so you can better plan your character.
 
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/49912) to original mod by **RingComics**. The featured version includes UI fixes by **Necrolesian**.
+{% hint style="info" %}
+[**Link**](https://www.nexusmods.com/morrowind/mods/49912) to original mod by **RingComics**. The featured version includes UI fixes by **Necrolesian**.
+{% endhint %}
 
 ⭐ [**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527)\
 Restores the class description tooltip to the class selection menu, making it easier to decide which class you want to go with.
@@ -126,19 +116,17 @@ Restores the class description tooltip to the class selection menu, making it ea
 ⭐ [**Map and Compass**](https://www.nexusmods.com/morrowind/mods/48455)\
 This mod allows you to replace the magical vanilla map with a selection of more mundane maps, and the minimap with a compass.
 
-{% hint style="info" %}
 - Enter the **Mod config** menu in-game.
 - Select **Map and Compass** from the mod list to the left.
 - Click the **mapsWagner** tab.
 - Under the **vvardenfellMapWagner** header, click the **Select** button to make it your currently selected map.
 - Exit the menu.
-{% endhint %}
 
 ⭐ [**Map Replacements for Maps and Compass Wagner Style - Brujoloco Edition**](https://www.nexusmods.com/morrowind/mods/48460)  
 Replaces the maps from **Map and Compass** to give them a more immersive look.
 
 * On MO2 installation, check the following options in the BAIN installer:
-- [X] 00 Yellowed Maps
+  - [X] 00 Yellowed Maps
 
 ⭐ [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851)\
 Keep track of what books you have read by showing a **(Read)** indicator next to their names. You can also see a list of previously read books in the mod's Mod Config menu.
@@ -154,9 +142,8 @@ Adds several new options for the journal and quest pages.
 ⭐ [**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954)\
 Renames keys so they'll have a consistent naming scheme.
 
-Files to install:
-
-* **Consistent Keys - MWSE Version** (Main files)
+* Files to install:
+  * **Consistent Keys - MWSE Version** (Main files)
 
 ⭐ [**Propylon Index Renamer**](https://www.nexusmods.com/morrowind/mods/49941)\
 Renames propylon indexes so they'll group together in the inventory.

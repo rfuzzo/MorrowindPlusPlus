@@ -1,7 +1,7 @@
 # Setup
 
 {% hint style="info" %}
-**COPYRIGHT:** Sigourn @ [https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md)
+**BASED ON:** Sigourn @ [https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md)
 {% endhint %}
 
 ## Requirements
@@ -13,9 +13,13 @@
 * A text editor. I recommend [**Notepad++**](https://notepad-plus-plus.org/downloads/v7.9.5/).
 * [**.NET 6 Runtime**](https://dotnet.microsoft.com/en-us/download) (for TES3Merge, a conflict resolution tool).
 
-> ⚠️ Users have reported issues with Mod Organizer 2 when using the Steam release of the game, which is why it is not supported by this guide.
+{% hint style="warning" %}
+Users have reported issues with Mod Organizer 2 when using the Steam release of the game, which is why it is not supported by this guide.
+{% endhint %}
 
-> ℹ️ Morrowind originally shipped with a detailed map which is absent from digital stores. [**You can get this map here.**](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Morrowind%20Game%20of%20the%20Year%20Map.jpg)
+{% hint style="info" %}
+Morrowind originally shipped with a detailed map which is absent from digital stores. [**You can get this map here.**](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Morrowind%20Game%20of%20the%20Year%20Map.jpg)
+{% endhint %}
 
 ## Installation
 
@@ -41,9 +45,11 @@ Additional, you will need a folder where to install our mod manager and keep you
 C:\Games\Morrowind Sharp
 ```
 
-> ⚠️ Make sure you don't create your Morrowind Sharp folder inside your Morrowind folder. Mod Organizer 2 will fail to register your installed mods.
+{% hint style="warning" %}
+Make sure you don't create your Morrowind Sharp folder inside your Morrowind folder. Mod Organizer 2 will fail to register your installed mods.
+{% endhint %}
 
-#### Cleaning up your GOG installation
+### Cleaning up your GOG installation
 
 The GOG release of Morrowind shipped with files that are of no use to the average player. These files are not necessary and do nothing but clutter up your installation. Some of the files we will delete are the official plugins Bethesda released for Morrowind. These are to be considered low quality mods, with some having received a rework from fans to make them actually worth your while. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins)
 

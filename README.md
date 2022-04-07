@@ -1,8 +1,14 @@
 # Home
 
 {% hint style="info" %}
-**Morrowind++ is ....**&#x20;
+**Morrowind++ is a lore-freindly vanilla-style modlist based arround Sigourn's excellent MorrowindSharp modlist and RandomPal's Beautiful Cities of Morrowind - plus Quest mods**
 {% endhint %}
+
+## References
+
+* [Sigourn's MorrowindSharp/NerevarRising modlist](https://github.com/Sigourn/nerevarrising/blob/master/main.md)
+* [An alternative to Morrowind Rebirth - A modlist by RandomPal](https://www.nexusmods.com/morrowind/mods/48812)
+* [Catalogue of Alice Roleplaying Mods for Morrowind](https://alicemorrowindmods.wordpress.com/2021/06/03/catalogue-of-alice-roleplaying-mods-for-morrowind/)
 
 ## Setup
 

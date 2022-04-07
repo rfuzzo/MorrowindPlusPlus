@@ -1,7 +1,7 @@
 # General Tips
 
 {% hint style="info" %}
-**COPYRIGHT:** Sigourn @ [https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md)
+**BASED ON:** Sigourn @ [https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md)
 {% endhint %}
 
 ## IN-GAME CONFIGURATION
@@ -11,16 +11,22 @@ It's time to finally run Morrowind.
 * In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **Morrowind**.
 * Click **Run** to run the executable.
 
-> Always remember to run Morrowind through Mod Organizer 2 to detect the Virtual Files folder.
+{% hint style="info" %}
+Always remember to run Morrowind through Mod Organizer 2 to detect the Virtual Files folder.
+{% endhint %}
 
 * Once the game has finished loading, click **Options** and click the **Video** tab.
 * The **Gamma Correction** slider lets you increase/decrease the brightness of your game. I like to play Morrowind with the slider roughly 40-45% of the way from left to right, making the game look less washed out.
 * Turn the **Real-time Shadows** slider all the way to the left, disabling them. Morrowind's shadows are buggy, ugly, and are not worth the performance hit.
 * Turn the **View Distance** slider all the way to the right, maximizing render distance for actors and other statics.
 
-> ⚠️ If your game crashes when trying to access the **Video** tab, it may be because you are running Morrowind at a resolution unsupported by the game.
+{% hint style="warning" %}
+If your game crashes when trying to access the **Video** tab, it may be because you are running Morrowind at a resolution unsupported by the game.
+{% endhint %}
 
-> ⚠️ You should not adjust your resolution through the **Video** tab, as it will crash the game. Instead, run **MGE XE** and adjust it there.
+{% hint style="warning" %}
+You should not adjust your resolution through the **Video** tab, as it will crash the game. Instead, run **MGE XE** and adjust it there.
+{% endhint %}
 
 ## GENERAL TIPS
 
@@ -122,4 +128,7 @@ The following aren't strict rules, but tips to follow if you are new to modding 
 * Learn how file structure works. Incorrect file structure means mods will not work as intended.
 * Register BSA files when appropriate. BSA files contain data files for the mod you are installing, or for other mods to use as a resource. Failing to register your BSA files can cause [**yellow exclamation triangles**](https://external-preview.redd.it/dl-I4l\_Pzm5autet-87p1hnU1btUavtiu1mtwGzWBko.png?width=960\&crop=smart\&auto=webp\&s=3d180a6476cad80c332c12be08252511a0044c5c). This can also happen when a mod you are installing is missing assets.
 
-> ℹ️ To register a BSA file, launch Wrye Mash from Mod Organizer 2. In the **Mods** tab, click the **BSA Archives** tab to the right, and check the BSA you want to register.
+
+{% hint style="info" %}
+To register a BSA file, launch Wrye Mash from Mod Organizer 2. In the **Mods** tab, click the **BSA Archives** tab to the right, and check the BSA you want to register.
+{% endhint %}

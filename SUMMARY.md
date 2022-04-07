@@ -16,5 +16,10 @@
 * [Quests](fundamentals/quests.md)
 * [Audio](fundamentals/audio.md)
 * [Visuals](fundamentals/visuals.md)
+* [Landscape](fundamentals/landscape.md)
 * [Add-ons](fundamentals/add-ons.md)
 * [Shaders](fundamentals/shaders.md)
+
+## Finish
+
+* [Finish](finish/finish.md)

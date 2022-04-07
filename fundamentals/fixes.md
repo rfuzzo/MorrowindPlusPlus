@@ -8,26 +8,12 @@ Unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition t
 ⭐ [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931?)\
 Fixes many issues present in Bethesda's original Official Plugins.
 
-Files to install:
+* Files to install:
+  * **UMOPP 3.1.0** (Main files)
 
-* **UMOPP 3.1.0** (Main files)
-* After installation, hide all of the mod's plugins minus **bcsounds.esp** and **master\_index.esp**.
-
-[**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)\
-Alternative version of the official plugin adding new arrows that explode on impact. Tweaked to distribute arrows across leveled lists and vendors instead of dumping them all in one shop.
-
-* After installation, hide all of the mod's plugins minus **Area Effect Arrows Integrated.ESP**.
-
-[**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364)\
-The Warp Script for the Propylon Indices will now prompt you before teleporting.
-
-* After installation, hide all of the mod's plugins minus **Better Propylon Teleport Warp-Master Index.ESP**.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/47068) to original mod by **Half11**.
-
-* On MO2 installation, check the following options in the FOMOD installer:
-  * [x] Patch for Purists
-  * [x] Ownership Overhaul
+* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
+  * [x] `bcsounds.esp`
+  * [x] `master\_index.esp`
 
 ⭐ [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634)\
 Forces the game to instantly close on exit.
@@ -37,6 +23,22 @@ Provides an in-game HUD element which warns the player as the game approaches cr
 
 ⭐ [**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608)\
 Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to.
+
+[**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745)\
+Alternative version of the official plugin adding new arrows that explode on impact. Tweaked to distribute arrows across leveled lists and vendors instead of dumping them all in one shop.
+
+* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
+  * [x] `Area Effect Arrows Integrated.ESP`
+
+[**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364)\
+The Warp Script for the Propylon Indices will now prompt you before teleporting.
+
+* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
+  * [x] `Better Propylon Teleport Warp-Master Index.ESP`
+
+{% hint style="info" %}
+[**Link**](https://www.nexusmods.com/morrowind/mods/47068) to original mod by **Half11**.
+{% endhint %}
 
 [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150)\
 Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
@@ -65,7 +67,9 @@ Automatically synchronizes linked doors locked/unlocked state on activate, lock/
 [**Putting Power In Willpower (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Putting%20Power%20in%20Willpower%20\(Necro%20Edit\).7z)\
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description.
 
-> ℹ️ [**Link**](https://www.nexusmods.com/morrowind/mods/45742) to original mod by **R-Zero**. The featured version includes fixes by **Necrolesian**.
+{% hint style="info" %}
+[**Link**](https://www.nexusmods.com/morrowind/mods/45742) to original mod by **R-Zero**. The featured version includes fixes by **Necrolesian**.
+{% endhint %}
 
 [**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269)\
 Makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
@@ -87,13 +91,11 @@ Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brothe
 ⭐ [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051)\
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
 
-* After installation, hide the **Ownership Overhaul.ESP** plugin.
+* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
+  * [x] `Ownership Overhaul.ESP`
 
 ⭐ [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068)\
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
-
-[**Dubdilla Location Fix**](https://www.nexusmods.com/morrowind/mods/46720)\
-Moves the entrance to the cavern of Dubdilla to a more logical place according to in-game information.
 
 [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731)  
 Alternative version of the official plugin adding Adamantium Armor to Vvardenfell. Tweaked to place one copy of each piece (minus the helmet) across the island.
@@ -109,17 +111,25 @@ Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 ⭐ [**Correct UV Rocks**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Correct%20UV%20Rocks.7z)\
 Fixes UV mapping on rocks and stones.
 
-> ℹ️ [**Link**](https://mw.modhistory.com/download-56-12003) to original mod by **Nich**. The featured version omits a faulty mesh.
+{% hint style="info" %}
+[**Link**](https://mw.modhistory.com/download-56-12003) to original mod by **Nich**. The featured version omits a faulty mesh.
+{% endhint %}
 
 ⭐ [**Fix Those Bastard Rope Fences**](https://www.nexusmods.com/morrowind/mods/45741)\
 Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to prevent getting stuck.
+
+⭐ [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069)\
+Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
+
+* On MO2 installation, right-click on **Data Files**.
+* Click **Set as data files directory** and click **OK**.
 
 ⭐ [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384)\
 Greatly improves performance and fixes some mesh errors.
 
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Core
-  * [x] 01 Lake Fjalding Anti-Suck\
+  * [ ] 01 Lake Fjalding Anti-Suck\
     Increases performance around Lake Fjalding by replacing several of the smaller meshes with larger, merged ones. Has no impact on visuals.
   * [x] 02 Weapon Sheathing Patch\
     Compatibility patch for Weapon Sheathing. Makes weapon sheaths show the fixed MOP weapon meshes instead of the vanilla ones.
@@ -128,7 +138,27 @@ Greatly improves performance and fixes some mesh errors.
   * [x] 04 Better Vanilla Textures\
     Includes several vanilla textures with fixed alphas and several other changes made specifically for MOP. Also fixes a lot of broken textures and makes textures that were supposed to be seamless actually seamless.
 
-> ℹ️ We will install **Weapon Sheathing** in the **Visuals** section, and load it before this mod for **MOP** to patch it as intended.
+{% hint style="info" %}
+We do not install `01 Lake Fjalding Anti-Suck` because this is included in Tomb of the Snow Prince. If you do not intend to install TOTSP, then select Lake Fjalding Anti-Suck.
+{% endhint %}
+
+⭐ [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886)\
+Makes vanilla windows glow in the dark.
+
+* On MO2 installation, check the following options in the FOMOD installer:
+  * [x] Nord Glass Windows\
+    Replaces the wooden shuttered Nord windows in the vanilla game with glass panes.
+  * [x] Raven Rock Glass Windows\
+    Raven Rock windows will glow at night. Without this, the Raven Rock buildings will be shuttered like they are in the base game.
+  * [x] No Telvanni Dormers on Vvardenfell\
+    Omits the unused Telvanni dormers in settlements.
+
+
+⭐ [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599)\
+Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 Core + Vanilla Meshes
 
 ⭐ [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399?)\
 Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases.
@@ -145,8 +175,15 @@ Files to install:
   * [x] 07 Graphic Herbalism Patch\
     Compatibility patch for Graphic Herbalism. Uses compatible meshes.
 
-> ℹ️ We will install **Graphic Herbalism** and **Glow in the Dahrk** in upcoming sections, and load them before Project Atlas for it to patch them as intended.
-> ⚠️ Note that **Project Atlas** utilizes its own texture sets for its edited meshes, meaning any retexture designed with the vanilla meshes in mind will require a patch for it to work alongside this mod.
+{% hint style="warning" %}
+Note that **Project Atlas** utilizes its own texture sets for its edited meshes, meaning any retexture designed with the vanilla meshes in mind will require a patch for it to work alongside this mod.
+{% endhint %}
+
+⭐ [**Graphic Herbalism- Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154)\
+Fixes a collision bug with harvested Ash Yams.
+
+⭐ [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864)\
+Makes picking a glowing plant also remove the glow-light.
 
 ⭐ [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194)\
 Restores visual effects on creatures that weren't displayed for technical reasons.
@@ -157,12 +194,19 @@ Mesh replacer for thrown weapon projectiles that makes them fly pointy end forwa
 * On MO2 installation, right-click on **Data Files**.
 * Click **Set as data files directory** and click **OK**.
 
+[**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124)\
+Flames are now glow mapped and/or properly illuminated.
+
+* After installation, hide the mod's **Glowing Flames - TrueLightsAndDarkness Tweaks.ESP** plugin.
+
 [**Better Scamps**](https://www.nexusmods.com/morrowind/mods/48008)\
 Fixes the Scamp mesh, reducing distortion, seams, and other UV errors.
 
 * After installation, hide the mod's **Textures** folder.
 
-> ℹ️ This omits the Scamp's retexture, since **Intelligent Textures** uses a vanilla-friendly high resolution texture.
+{% hint style="info" %}
+This omits the Scamp's retexture, since we uses a vanilla-friendly high resolution texture pack.
+{% endhint %}
 
 [**Correct UV Mudcrabs**](https://www.nexusmods.com/morrowind/mods/42130)\
 Fixes the Mudcrab mesh, reducing distortion and other UV errors.
@@ -170,8 +214,3 @@ Fixes the Mudcrab mesh, reducing distortion and other UV errors.
 * On MO2 installation, expand the **Correct Mudcrab** and **Regular** folders.
 * Right-click on **Data Files**.
 * Click **Set as data files directory** and click **OK**.
-
-[**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124)\
-Flames are now glow mapped and/or properly illuminated.
-
-* After installation, hide the mod's **Glowing Flames - TrueLightsAndDarkness Tweaks.ESP** plugin.
