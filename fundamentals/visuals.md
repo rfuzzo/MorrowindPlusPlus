@@ -90,7 +90,7 @@ Povides high resolution new blood types for the creatures of Morrowind, Tribunal
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Core
   * [x] 04 Qwertyquit's Textures
-* After installation, use the **INI Editor** under **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/MO2/MO_ini.png) to replace the \[Blood] section of your Morrowind.ini with the following:
+* After installation, use the **INI Editor** under **Tools** to replace the \[Blood] section of your Morrowind.ini with the following:
 
 ```
 [Blood]

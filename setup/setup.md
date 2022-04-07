@@ -57,4 +57,4 @@ All said, delete the following from your `Morrowind\Data Files` folder in order 
 
 Your Data Files folder should now look like this.
 
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Data%20Files.png)
+![Screenshot](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/pictures/Data_Files.png)

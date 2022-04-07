@@ -208,7 +208,7 @@ Mods downloaded from Nexus will be instantly added to Mod Organizer 2 when using
 
 When installing a mod, use the name provided for it in the guide's **hyperlink**. For example, the guide lists the following mod's name as **Graphic Herbalism - MWSE and OpenMW Edition**.
 
-![Example](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/MO2dexample.png)
+![Example](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/MO2/MO_mod.png)
 
 Whenever you install a mod in Mod Organizer 2, the mod manager assigns it a default name, which is either the name of the Nexus page from where it is being downloaded from, or, when manually installing a mod, the name of the file.
 

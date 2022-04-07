@@ -12,7 +12,7 @@ One of the patches we installed with the Morrowind Code Patch, **Rain/snow colli
 
 In MO2:
 
-* Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/MO2/MO_ini.png) button, and click **INI Editor**. **morrowind.ini** will now open.
+* Click the **Tools** button, and click **INI Editor**. **morrowind.ini** will now open.
 * Use CTRL+F to input the section names and edit the respective entries to use these values. Note that **Weather Snow** may be found much further down below than the others, just below the **Archives** section.
 
 ```text
