@@ -25,19 +25,19 @@ Your Morrowind **Root** folder is where Morrowind will be installed, and where t
 
 By default, GOG will install Morrowind to the next directory:
 
-```
+```text
 C:\Games
 ```
 
 This will create a folder in the following path, which we will refer to as our **Root** folder.
 
-```
+```text
 C:\Games\Morrowind
 ```
 
 Additional, you will need a folder where to install our mod manager and keep your mods. I recommend the following path:
 
-```
+```text
 C:\Games\MorrowindPlusPlus
 ```
 

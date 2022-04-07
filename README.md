@@ -34,6 +34,12 @@ No major combat or gameplay overhauls have been installed, and the vanilla level
 
 ## Setup
 
+Follow these steps to set up all the modding tools you need for a modded Morrowind install.
+
+{% hint style="info" %}
+Even if you have all the tools installed, I recommend at least skimming over the [tools-setup section](setup/tools-setup.md) to get MLOX running properly and make some ini edits.
+{% endhint %}
+
 {% content-ref url="setup/setup.md" %}
 [setup.md](setup/setup.md)
 {% endcontent-ref %}
@@ -43,7 +49,7 @@ No major combat or gameplay overhauls have been installed, and the vanilla level
 {% endcontent-ref %}
 
 {% content-ref url="setup/tools-setup.md" %}
-[tools.md](setup/tools-setup.md)
+[tools-setup.md](setup/tools-setup.md)
 {% endcontent-ref %}
 
 {% content-ref url="setup/general-tips.md" %}
@@ -51,6 +57,8 @@ No major combat or gameplay overhauls have been installed, and the vanilla level
 {% endcontent-ref %}
 
 ## Mod List
+
+This is the mod list proper - install the mods in order as they appear here. MO2 mod order is the order of the mods in this list.
 
 {% content-ref url="fundamentals/fixes.md" %}
 [fixes.md](fundamentals/fixes.md)

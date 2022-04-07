@@ -162,7 +162,7 @@ Your installed mods are listed on the pane to the left. This is the order in whi
 
 Reorganize it to read as follows using drag and drop.
 
-```
+```text
 DLC: Tribunal
 DLC: Bloodmoon
 ```
@@ -171,7 +171,7 @@ Your plugins are listed on the pane to the right. This is the order in which Mor
 
 Reorganize it to read as follows using drag and drop.
 
-```
+```text
 Morrowind.esm
 Tribunal.esm
 Bloodmoon.esm
