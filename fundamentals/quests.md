@@ -88,7 +88,7 @@ This mod adds a new supply chest to Caius Cosades' house for members of the Blad
 
 ## Factions
 
-[**More Exclusive Factions**](https://www.nexusmods.com/morrowind/mods/49618)\
+⭐ [**More Exclusive Factions**](https://www.nexusmods.com/morrowind/mods/49618)\
 Some factions will now refuse you membership if you have already joined other factions that they disapprove of. Others will make you jump through some extra hoops if you're a member of a faction they dislike.
 
 ⭐ [**Dual Faction Membership for NPCs**](https://www.nexusmods.com/morrowind/mods/49885)\
@@ -106,13 +106,13 @@ This mod adds quests for the Telvanni Archmagister, allowing him/her to gain mor
 [**Rise of House Telvanni - 2.0**](https://www.nexusmods.com/morrowind/mods/48225)\
 This mod gives a much needed facelift to one of the greatest quest mods of all time - Rise of House Telvanni. 
 
-[**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843)\
+⭐ [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843)\
 Fleshes out the Imperial Cult and the Tribunal Temple.
 
-[**Imperial Factions**](https://www.nexusmods.com/morrowind/mods/49855)\
+⭐ [**Imperial Factions**](https://www.nexusmods.com/morrowind/mods/49855)\
 An overhaul of the Mages Guild, Thieves Guild and Fighters Guild.
 
-[**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859)\
+⭐ [**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859)\
 Expands and redecorates the interiors of the Balmora mages and fighters guild (as well as minor changes to the Temple).
 
 [**Mage Robes**](https://www.nexusmods.com/morrowind/mods/45739)\
@@ -124,16 +124,16 @@ Members of the Mages Guild can now deliver a coded message, solve a murder, inve
 [**thieves guild stash**](https://www.lonebullet.com/mods/download-thieves-guild-stash-v10-elder-scrolls-iii-morrowind-mod-free-43942.htm)\
 This mod adds several "Thieves' Guild Stash" chests, similar to the Fighters' Guild Equipment Chests and Mages' Guild Supply Chests, next to some of the higher-ranking thieves.
 
-[**Thieves' Guild Overhaul**](https://www.nexusmods.com/morrowind/mods/49944)\
+⭐ [**Thieves' Guild Overhaul**](https://www.nexusmods.com/morrowind/mods/49944)\
 A complete overhaul of the Thieves' Guild faction. New quests, tweaks for existing quests, items, and a lot more!
 
 [**Carelessly Crazy Caldera Community**](https://www.nexusmods.com/morrowind/mods/47275)\
 Adds a new shop, 2 new NPCs, 17 new quests to Caldera, and adds unique background, personality and dialogue to most of the NPCs of the town.
 
-[**Imperial Legion Expansion**](https://www.nexusmods.com/morrowind/mods/44469)\
+⭐ [**Imperial Legion Expansion**](https://www.nexusmods.com/morrowind/mods/44469)\
 This mod is a complete overhaul of the Imperial Legion faction. New quests, items, NPCs and more.
 
-[**Morag Tong Polished**](https://www.nexusmods.com/morrowind/mods/47041)\
+⭐ [**Morag Tong Polished**](https://www.nexusmods.com/morrowind/mods/47041)\
 The Morag Tong Guild is the most poorly written faction in Morrowind. This mod fixes that by giving the guild a much needed touch up.
 
 ## Misc

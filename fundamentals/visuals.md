@@ -92,7 +92,7 @@ Povides high resolution new blood types for the creatures of Morrowind, Tribunal
   * [x] 04 Qwertyquit's Textures
 * After installation, use the **INI Editor** under **Tools** to replace the \[Blood] section of your Morrowind.ini with the following:
 
-```
+```text
 [Blood]
 Model 0=BloodSplat.nif
 Model 1=BloodSplat2.nif
@@ -117,7 +117,7 @@ Texture Name 6=Orange Blood
 Texture Name 7=Energy
 ```
 
-⭐ [**Shield Spells Reforged pt.1. (2022 upg)**](https://www.nexusmods.com/morrowind/mods/50073)\
+[**Shield Spells Reforged pt.1. (2022 upg)**](https://www.nexusmods.com/morrowind/mods/50073)\
  Visual overhaul of Elemental Shield spells, with additional on-hit effects.
 
 ⭐ [**Chameleon**](https://www.nexusmods.com/morrowind/mods/47996)\

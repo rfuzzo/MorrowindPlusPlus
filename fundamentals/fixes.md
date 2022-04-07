@@ -1,5 +1,25 @@
 # Fixes
 
+## Main
+
+⭐ [**Tamriel Rebuilt**](https://www.nexusmods.com/morrowind/mods/42145)\
+ Tamriel Rebuilt is a large fan project that aims to complete development of The Elder Scrolls III: Morrowind by reconstructing the world to include the province’s mainland, through the study of creation of lore, and preservation of the game’s creative vision and direction.
+
+* Files to install:
+  * **Tamriel Rebuilt** (Main files)
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 Core
+  * [x] 01 Faction Integration
+  * [x] 03 Travel Network for Core and Vvardenfell
+  * [x] 04 Patch for Abot's Travels mods
+
+  * **Tamriel Rebuilt 21.01 hotfix 1**
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 Core
+  * [x] 01 Faction Integration
+
 ## Bug fixes
 
 ⭐ [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)\
@@ -46,13 +66,13 @@ Restores previously unused Silt Strider animation - it was present in the model,
 [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285)\
 Construction materials and scaffolding are now visible at the Great House strongholds during construction of the later stages.
 
-[**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971)\
+⭐ [**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971)\
 Prevents Fortify Health and Drain Health effects from killing actors outright, leaving them at least one health point after they expire and are casted, respectively.
 
-[**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029)\
+⭐ [**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029)\
 Carries over unique item information, such as condition and script data when enchanting items.
 
-[**Fortify MAX**](https://www.nexusmods.com/morrowind/mods/49825)\
+⭐ [**Fortify MAX**](https://www.nexusmods.com/morrowind/mods/49825)\
 Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the current stat.
 
 [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947)\
@@ -64,17 +84,17 @@ Dropped items and corpses are automatically positioned and oriented to align wit
 [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094)\
 Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
 
-[**Putting Power In Willpower (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Putting%20Power%20in%20Willpower%20\(Necro%20Edit\).7z)\
+⭐ [**Putting Power In Willpower (Necro Edit)**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Putting%20Power%20in%20Willpower%20\(Necro%20Edit\).7z)\
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description.
 
 {% hint style="info" %}
 [**Link**](https://www.nexusmods.com/morrowind/mods/45742) to original mod by **R-Zero**. The featured version includes fixes by **Necrolesian**.
 {% endhint %}
 
-[**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269)\
+⭐ [**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269)\
 Makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
 
-[**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029)\
+⭐ [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029)\
 This mod fixes several engine bugs related to GMSTs used when raising skills via NPC training and skill books.
 
 [**Thrown Projectiles Revamped**](https://www.nexusmods.com/morrowind/mods/49609)\
@@ -127,7 +147,7 @@ Fixes UV mapping on rocks and stones.
 ⭐ [**Fix Those Bastard Rope Fences**](https://www.nexusmods.com/morrowind/mods/45741)\
 Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to prevent getting stuck.
 
-⭐ [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069)\
+[**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069)\
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
 
 * On MO2 installation, right-click on **Data Files**.
@@ -162,7 +182,6 @@ Makes vanilla windows glow in the dark.
   * [x] No Telvanni Dormers on Vvardenfell\
     Omits the unused Telvanni dormers in settlements.
 
-
 ⭐ [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599)\
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
 
@@ -188,16 +207,16 @@ Files to install:
 Note that **Project Atlas** utilizes its own texture sets for its edited meshes, meaning any retexture designed with the vanilla meshes in mind will require a patch for it to work alongside this mod.
 {% endhint %}
 
-⭐ [**Graphic Herbalism- Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154)\
+[**Graphic Herbalism- Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154)\
 Fixes a collision bug with harvested Ash Yams.
 
-⭐ [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864)\
+[**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864)\
 Makes picking a glowing plant also remove the glow-light.
 
 ⭐ [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194)\
 Restores visual effects on creatures that weren't displayed for technical reasons.
 
-⭐ [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763)\
+[**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763)\
 Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
 
 * On MO2 installation, right-click on **Data Files**.

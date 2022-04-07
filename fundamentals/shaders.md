@@ -16,7 +16,7 @@ A compilation of a handful of community-made shaders.
 * Click **Shader setup...**.
 * On the **Set active shaders** window, click **Modding >>>**. Set your **Active Shaders** as follows, by double clicking on the corresponding shader under **Available shaders**.
 
-```
+```text
 SSAO HQ
 Underwater Interior Effects
 Invisibility

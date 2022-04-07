@@ -5,10 +5,10 @@
 ⭐ [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767)\
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
 
-⭐ [**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232)\
+[**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232)\
 Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
 
-⭐ [**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168)\
+[**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168)\
 Removes sheep sounds from Morrowind.
 
 ⭐ [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588)\
@@ -43,7 +43,7 @@ On new games, female player characters will have male voices. Saving and reloadi
 [**Quieter Doors and Spells**](https://github.com/Sigourn/morrowind-sharprepository/blob/main/Quieter%20Doors%20and%20Spells.7z)\
 Reduces the volume of doors and spells. Mod by **Sigourn**.
 
-[**Spell Sounds Enhanced**](https://www.nexusmods.com/morrowind/mods/46338)\
+⭐ [**Spell Sounds Enhanced**](https://www.nexusmods.com/morrowind/mods/46338)\
 Vanilla-friendly replacer of each vanilla spell sound.
 
 ⭐ [**Character Sound Overhaul**](https://www.nexusmods.com/morrowind/mods/49654)\
@@ -56,9 +56,9 @@ The author recommends you set the **Footsteps** volume to minimum in your in-gam
 [**Distant Thunder**](https://www.nexusmods.com/morrowind/mods/43471)\
 Adds a randomized bit of lead time to thunderclaps after lightning strikes for additional realism.
 
-Files to install:
+* Files to install:
+  * **Distant Thunder v1.1 (No Scripts)** (Optional files)
 
-* **Distant Thunder v1.1 (No Scripts)** (Optional files)
 * After installation, use the **INI Editor** under **Tools** to replace the Thunder Sound IDs of your Morrowind.ini with the following:
 
 ```txt

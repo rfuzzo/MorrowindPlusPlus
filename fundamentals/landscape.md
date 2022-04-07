@@ -8,7 +8,7 @@ New effects and textures for the waterfalls. Includes LOD on the particle effect
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Core
 
-⭐ [**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605)\
+[**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605)\
 Fixes flickering on lava. Reduces the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
 
 * On MO2 installation, check the following options in the BAIN installer:
@@ -158,6 +158,9 @@ The Dubdilla overhaul also carries over/incorporates/merges the edits of Dubdill
 
 ## Cities, towns
 
+⭐ [**White Suran 2 - MD Edition**](https://www.nexusmods.com/morrowind/mods/44153)\
+ Some tweaks and improvements to the original White Suran 2 mod which gives Suran a unique, pearly white texture to distinguish it from other Hlaalu settlements.
+
 ⭐ [**Beautiful Cities of Morrowind**](https://www.nexusmods.com/morrowind/mods/49231)\
  Overhaul of almost every settlement of Morrowind, inspired by concept art and aimed at a vanilla+ feeling.
 
@@ -165,9 +168,6 @@ The Dubdilla overhaul also carries over/incorporates/merges the edits of Dubdill
   * [x] 00 Core
   * [x] 03 Plaza Weather Mechanics (MWSE) - Required
   * [x] 05 White Suran
-
-⭐ [**White Suran 2 - MD Edition**](https://www.nexusmods.com/morrowind/mods/44153)\
- Some tweaks and improvements to the original White Suran 2 mod which gives Suran a unique, pearly white texture to distinguish it from other Hlaalu settlements.
 
 ### Vicec
 
@@ -187,7 +187,7 @@ Community expansion to Glass Domes of Vivec - visual fixes, new region mechanics
   * [X] 02 New Weather Mechanics (requires MWSE)
   * [X] 07 Optional Thinner Interior Texture
 
-[**Concept Art Palace (Vivec City)**](https://www.nexusmods.com/morrowind/mods/48136)\
+⭐ [**Concept Art Palace (Vivec City)**](https://www.nexusmods.com/morrowind/mods/48136)\
  The Concept Art Palace mod (C.A.P.) is my attempt to bring the Vivec palace closer the original Kirkbride's concept art.
 
 [**Prerelease Prisonmoon**](https://www.nexusmods.com/morrowind/mods/49627)\
@@ -250,22 +250,22 @@ To the west and slightly north of Dagon Fel, you'll find a small cottage along t
 ⭐ [**The magic rock of Maar Gan**](https://www.nexusmods.com/morrowind/mods/50763)\
  Experience the Maar Gan shrine as the sacred place it should have been.
 
-⭐ [**OAAB - The Ashen Divide**](https://www.nexusmods.com/morrowind/mods/49047)\
- Transforms the Ashlands pass between Seyda Neen and Balmora.
-
 [**Ashlander Traders - Remastered**](https://www.nexusmods.com/morrowind/mods/48009)\
  Brother Juniper's excellent Ashlander Traders mod, edited for compatibility and extra dialogue. Adds Ashlander Traders who will sometimes appear in Balmora, Ald-ruhn, or Suran.
 
 ## Bitter Coast
 
-[**New Ilunibi**](https://www.nexusmods.com/morrowind/mods/50393)\
+⭐ [**OAAB - The Ashen Divide**](https://www.nexusmods.com/morrowind/mods/49047)\
+ Transforms the Ashlands pass between Seyda Neen and Balmora.
+
+⭐ [**New Ilunibi**](https://www.nexusmods.com/morrowind/mods/50393)\
  This mod rebuilds the mainquest dungeon Ilunibi from scratch to make it larger, more imposing and more interesting to explore. It also adds four new quests for you to discover and embark upon.
 
 * Files to install:
   * **New Ilunibi**
   * **Patch for Main Quest Overhaul and Sixth House Smugglers** (Optional files)
 
-[**Ebonheart Underworks**](https://www.nexusmods.com/morrowind/mods/47272)\
+⭐ [**Ebonheart Underworks**](https://www.nexusmods.com/morrowind/mods/47272)\
  Ebonheart now has its own sewage system. With filth, rats, people and quests.
 
 ### Solstheim

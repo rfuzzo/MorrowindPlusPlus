@@ -23,14 +23,14 @@ Each birthsign now has a few variants (including the original one) for a grand t
 [**Class Starting Spells**](https://www.nexusmods.com/morrowind/mods/49010)\
 MWSE lua mod, which changes the distribution of starting spells and gives its own list of them for every class, depending on the its central theme. Requires Magicka Expanded.
 
-[**Improved Vanilla Leveling**](https://www.nexusmods.com/morrowind/mods/48065)\
+⭐ [**Improved Vanilla Leveling**](https://www.nexusmods.com/morrowind/mods/48065)\
 This mod attempts to preserve vanilla leveling mechanics while eliminating the need to micromanage skill and attribute increases in order to achieve optimal character progression.
 
 {% hint style="info" %}
 MCM: DISABLE Retroactive Health Calculation
 {% endhint %}
 
-[**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133)\
+⭐ [**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133)\
 A state-based health mod implemented in MWSE. Health is now calculated based on current endurance, strength and level.
 
 [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872)\
@@ -56,13 +56,13 @@ Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and pr
 ⭐ [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)\
 Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
 
-⭐ [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)\
+[**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)\
 Tweaks bows so that they line up better with the sheathing animation.
 
-⭐ [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)\
+[**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)\
 Adds sheaths to weapons not covered by Weapon Sheathing.
 
-[**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)\
+⭐ [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)\
 Modifies critical strike coefficient depending on the weapon you use.
 
 [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890)\
@@ -84,7 +84,7 @@ Makes armor contribute to player and NPCs' evasion modifier as well as allowing 
 ## Gameplay - Magic
 
 ⭐ [**Mastering Magicka**](https://www.nexusmods.com/morrowind/mods/42269)\
- Skill in the magic schools boost Magicka proficiency, along with a variety of features. 
+ Skill in the magic schools boost Magicka proficiency, along with a variety of features.
 
 ⭐ [**Miscast Enhanced**](https://www.nexusmods.com/morrowind/mods/47948)\
 Adds negative consequences to casting spells that are beyond the caster's abilities. Unique miscast effects for every vanilla magic effect.
@@ -176,7 +176,7 @@ A lua-based framework that allows you to easily create new skills in Morrowind w
 ⭐ [**Ashfall - A Camping Survival and Needs Mod**](https://www.nexusmods.com/morrowind/mods/49057)\
 A survival mod with hunger, thirst, tiredness, cooking, camping and temperature mechanics, as well as incredible new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack. Additionally implements the possibility of contracting blight diseases while out in a blight storm. A detailed guide for the mod [**can be found here**](https://github.com/jhaakma/ashfall/wiki).
 
-⭐ [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904)\
+[**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904)\
 Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
 
 Files to install:
@@ -234,7 +234,7 @@ Makes it so that repair hammers can only be used by activating an anvil, and pro
 [**Realistic Repair - Add-on**](https://www.nexusmods.com/morrowind/mods/47461)\
 Adds new, immersive work stations throughout the world; search for new grindstones and workstations to repair and maintain your equipment. A rework of the optional plugin from Realistic Repair.
 
-[**Buying Game**](https://www.nexusmods.com/morrowind/mods/50574)\
+⭐ [**Buying Game**](https://www.nexusmods.com/morrowind/mods/50574)\
 Enhances Mercantile via new gameplay mechanics and UI elements. Includes new base pricing mechanic, regional pricing, value estimate, merchant specializations, forbidden goods, illicit trade, investing mechanics, and more.
 
 [**Controlled Consumption (G7 - Sig- Necro Edit)**](https://www.nexusmods.com/morrowind/mods/49232)\
