@@ -1,8 +1,12 @@
 # Home
 
-{% hint style="info" %}
-**Morrowind++ is a lore-freindly vanilla-style modlist based arround Sigourn's excellent MorrowindSharp modlist and RandomPal's Beautiful Cities of Morrowind - plus Quest mods**
-{% endhint %}
+Morrowind++ is a (in-theory) lore-freindly vanilla-style modlist based arround Sigourn's excellent MorrowindSharp modlist and RandomPal's "An alternative to Morrowind Rebirth" modlist as well as Alice Roleplaying Mods for Morrowind.
+
+This mod list does not need to be followed 100% and relies to some degree of common sense, I do however try to provide for a full and compatible installation guide that can be closely followed.
+
+This mod relies on [MLOX](setup/tools.md#⭐-mlox-ruleshttpsgithubcommloxmloxreleasestagv10) to sort your plugins.
+
+Feel free to remove or add additional mods to your liking. I wrote a small guide on how to update your mod load order and plugins [at the end of this guide here](finish/finish.md).
 
 ## References
 
@@ -18,6 +22,10 @@
 
 {% content-ref url="setup/tools.md" %}
 [tools.md](setup/tools.md)
+{% endcontent-ref %}
+
+{% content-ref url="setup/tools-setup.md" %}
+[tools.md](setup/tools-setup.md)
 {% endcontent-ref %}
 
 {% content-ref url="setup/general-tips.md" %}
@@ -42,6 +50,10 @@
 [quests.md](fundamentals/quests.md)
 {% endcontent-ref %}
 
+{% content-ref url="fundamentals/add-ons.md" %}
+[add-ons.md](fundamentals/add-ons.md)
+{% endcontent-ref %}
+
 {% content-ref url="fundamentals/audio.md" %}
 [audio.md](fundamentals/audio.md)
 {% endcontent-ref %}
@@ -50,8 +62,8 @@
 [visuals.md](fundamentals/visuals.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/add-ons.md" %}
-[add-ons.md](fundamentals/add-ons.md)
+{% content-ref url="fundamentals/landscape.md" %}
+[landscape.md](fundamentals/landscape.md)
 {% endcontent-ref %}
 
 {% content-ref url="fundamentals/shaders.md" %}

@@ -6,6 +6,7 @@
 
 * [Setup](setup/setup.md)
 * [Tools](setup/tools.md)
+* [Tools-setup](setup/tools-setup.md)
 * [General Tips](setup/general-tips.md)
 
 ## Fundamentals
