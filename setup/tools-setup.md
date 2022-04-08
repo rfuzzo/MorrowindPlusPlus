@@ -49,6 +49,11 @@ For our modding tools to work in Mod Organizer 2, we need to register and config
 * Navigate to your Morrowind **Root** folder (`C:\Games\Morrowind`) and double click `mlox-update.bat`.
 * Click **Apply**.
 
+**Screenshot:**
+<details>
+![Screenshot](../pictures/MO2_mlox_update.jpg)
+</details>
+
 ### MLOX
 
 {% hint style="warning" %}
@@ -59,6 +64,11 @@ Make sure you have mlox installed properly [as described here](./tools.md#⭐-ml
 * Navigate to your Morrowind **Root** folder (`C:\Games\Morrowind`) and double click `mlox.exe`.
 * In the **Arguments** field, type: `--gui --local`.
 * Click **Apply**.
+
+**Screenshot:**
+<details>
+![Screenshot](../pictures/MO2_mlox_gui.jpg)
+</details>
 
 ### Wrye Mash
 
@@ -75,10 +85,19 @@ Make sure you have mlox installed properly [as described here](./tools.md#⭐-ml
 
 ### MLOX silent mode
 
+{% hint style="warning" %}
+Make sure you have mlox installed properly [as described here](./tools.md#⭐-mloxhttpsgithubcomrfuzzomloxreleaseslatest)
+{% endhint %}
+
 * Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/MO2/MO_Add_File.png) button and select _Add from file..._.
 * Navigate to your Morrowind **Root** folder (`C:\Games\Morrowind`) and double click `mlox.exe`.
 * In the **Arguments** field, type: `-n -u --local`.
 * Click **Apply**.
+
+**Screenshot:**
+<details>
+![Screenshot](../pictures/MO2_mlox_auto.jpg)
+</details>
 
 ### MGE XE
 
