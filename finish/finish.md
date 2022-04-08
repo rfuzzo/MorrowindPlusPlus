@@ -4,12 +4,12 @@
 If you just installed this modlist or ar updating it you need to always run the following steps in this order:
 {% endhint %}
 
-## Updates
+## 01 Updates
 
 * Run **MWSE-Update** in Mod Organizer 2.
-* Run **Update_Rules** in Mod Organizer 2.
+* Run **Mlox-Update** in Mod Organizer 2.
 
-## MLOX
+## 02 MLOX
 
 * Run **MLOX** in Mod Organizer 2.
 * Wait for it to load
@@ -17,7 +17,7 @@ If you just installed this modlist or ar updating it you need to always run the 
 * Click **Update Load Order**
 * Close the Window.
 
-## Wrye Mash
+## 03 Wrye Mash
 
 {% hint style="info" %}
 **This section is based on:** Sigourn @ [https://github.com/Sigourn/nerevarrising/blob/master/main.md](https://github.com/Sigourn/nerevarrising/blob/master/main.md)
@@ -54,7 +54,7 @@ The next step is to repair our updated save.
 * Right click on the save updated in the previous step, and click on **Repair All**. Wrye Mash will repair your save file.
 * You will get a message window with two possible outcomes: your save has been repaired by Wrye Mash, or Wrye Mash will tell you no problems where found. Close the window.
 
-## TES3Merge
+## 04 TES3Merge
 
 {% hint style="info" %}
 For record conflicts, we use **TES3Merge**, generating a **Merged Objects.esp** file which we will also place at the end of our load order.
@@ -64,7 +64,7 @@ For record conflicts, we use **TES3Merge**, generating a **Merged Objects.esp** 
 * The tool will generate a Merged Objects.esp, solving conflicts in your load order.
 * Activate **Merged Objects.esp** at the end of your load order.
 
-## MLOX silent mode
+## 05 MLOX silent mode
 
 {% hint style="info" %}
 After creating the **multipatch.esp** and the **Merged Objects.esp**, these need to be in the correct order. The fastest is to simply run MLOX again
@@ -72,7 +72,7 @@ After creating the **multipatch.esp** and the **Merged Objects.esp**, these need
 
 * Run **MLOX silent mode** in Mod Organizer 2.
 
-## MGXE
+## 06 MGXE
 
 {% hint style="info" %}
 Recreate Distant Land

@@ -40,19 +40,24 @@ For our modding tools to work in Mod Organizer 2, we need to register and config
 ### MWSE-Update
 
 * Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/MO2/MO_Add_File.png) button and select _Add from file..._.
-* Navigate your Morrowind **Root** folder (`C:\Games\Morrowind`) and double click `MWSE-Update.exe`.
+* Navigate to your Morrowind **Root** folder (`C:\Games\Morrowind`) and double click `MWSE-Update.exe`.
 * Click **Apply**.
 
 ### Update MLOX Rules
 
 * Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/MO2/MO_Add_File.png) button and select _Add from file..._.
-* Navigate to `%localappdata/mlox/mlox%` and double click `Update_Rules.bat`.
+* Navigate to your Morrowind **Root** folder (`C:\Games\Morrowind`) and double click `mlox-update.bat`.
 * Click **Apply**.
 
 ### MLOX
 
+{% hint style="warning" %}
+Make sure you have mlox installed properly [as described here](./tools.md#⭐-mloxhttpsgithubcomrfuzzomloxreleaseslatest)
+{% endhint %}
+
 * Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/MO2/MO_Add_File.png) button and select _Add from file..._.
 * Navigate to your Morrowind **Root** folder (`C:\Games\Morrowind`) and double click `mlox.exe`.
+* In the **Arguments** field, type: `--gui --local`.
 * Click **Apply**.
 
 ### Wrye Mash
@@ -72,7 +77,7 @@ For our modding tools to work in Mod Organizer 2, we need to register and config
 
 * Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/MO2/MO_Add_File.png) button and select _Add from file..._.
 * Navigate to your Morrowind **Root** folder (`C:\Games\Morrowind`) and double click `mlox.exe`.
-* In the **Arguments** field, type: `-n -u`.
+* In the **Arguments** field, type: `-n -u --local`.
 * Click **Apply**.
 
 ### MGE XE

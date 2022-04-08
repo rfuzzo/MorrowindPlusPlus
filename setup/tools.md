@@ -71,21 +71,13 @@ This file contemplates the following landscape-altering scenarios:
 The **Readme** elaborates on how to use these overrides, so you should definitely give it a read.
 {% endhint %}
 
-## ⭐ [**Mlox**](https://github.com/mlox/mlox/releases/latest)
+## ⭐ [**Mlox**](https://github.com/rfuzzo/mlox/releases/latest)
 
 mlox is a tool for analyzing and sorting your Morrowind plugin load order.
 
-* Expand **Assets** under "It lives: 1.0 Release with an all new GUI" and download **mlox.exe**.
-* Place `mlox.exe` in **C:\Games\Morrowind\Data Files**.
-* Double click `mlox.exe` and run the program once and close it (do nothing)
-
-## ⭐ [**Mlox Rules**](https://github.com/mlox/mlox/releases/tag/v1.0)
-
-Mlox Rules is a very up-todate rule set sort your plugins and is essential for this modlist to work.
-
-* go to `%localappdata%/mlox/mlox` (type this into windows explorer)
-* download all three files from the Mlox Rules repo and save them there:
-`mlox_base.txt`, `mlox_user.txt` and `Update_Rules.bat`
+* Expand **Assets** and download **mlox-update.bat**.
+* Place `mlox-update.bat` in **C:\Games\Morrowind**.
+* Double click `mlox-update.bat`
 
 ## ⭐ [**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)
 
