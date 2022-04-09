@@ -18,18 +18,50 @@ To register the mod's BSA file, launch **Wrye Mash** from Mod Organizer 2. In th
 
 ## Texture packs
 
-⭐ [**Morrowind Enhanced Textures**](https://www.nexusmods.com/morrowind/mods/46221)\
+### Choose one: Intelligent Textures
+
+⭐ [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469)\
+ Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. 
+
+* Files to install:
+  * **Intelligent Textures** (Main files)
+  * **Intelligent Textures Hotfix** (Optional files)
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 Core
+  * [x] 01 Atlas Textures
+
+⭐ [**Project Atlas - Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/45399?)\
+Compatibility patch for Morrowind Enhanced Textures.
+
+* Files to install:
+  * **Textures - Intelligent Textures** (Main files)
+
+### Alternative: Morrowind Enhanced Textures
+
+{% hint style="info" %}
+These two big texture packs can be freely swapped mid-game. You can also install both if you want and let one override the other (MET has 209 textures that IT does not cover, and IT has 7 that MET does not)
+{% endhint %}
+
+<details>
+
+[**Morrowind Enhanced Textures**](https://www.nexusmods.com/morrowind/mods/46221)\
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. Also includes reworked meshes from **Facelift**.
 
-⭐ [**MET Hofix**](https://github.com/Sigourn/nerevarrising/blob/master/mods/MET%20Hotfix.7z)\
+[**MET Hofix**](https://github.com/Sigourn/nerevarrising/blob/master/mods/MET%20Hotfix.7z)\
 Hotfix for two textures which lacked mipmaps.
 
 {% hint style="info" %}
 [**Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/MET%20Hotfix.7z) to the download.
 {% endhint %}
 
-⭐ [**Project Atlas - MET**](https://www.nexusmods.com/morrowind/mods/45399?)\
+[**Project Atlas - MET**](https://www.nexusmods.com/morrowind/mods/45399?)\
 Compatibility patch for Morrowind Enhanced Textures.
+
+* Files to install:
+  * **Textures - MET** (Main files)
+
+</details>
 
 * Files to install:
   * **Textures - MET** (Main files)
