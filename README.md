@@ -52,10 +52,6 @@ Even if you have all the tools installed, I recommend at least skimming over the
 [tools-setup.md](setup/tools-setup.md)
 {% endcontent-ref %}
 
-{% content-ref url="setup/general-tips.md" %}
-[general-tips.md](setup/general-tips.md)
-{% endcontent-ref %}
-
 ## Mod List
 
 This is the mod list proper - install the mods in order as they appear here. MO2 mod order is the order of the mods in this list.
@@ -94,4 +90,8 @@ This is the mod list proper - install the mods in order as they appear here. MO2
 
 {% content-ref url="fundamentals/shaders.md" %}
 [shaders.md](fundamentals/shaders.md)
+{% endcontent-ref %}
+
+{% content-ref url="finish/finish.md" %}
+[finish.md](finish/finish.md)
 {% endcontent-ref %}

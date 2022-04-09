@@ -57,18 +57,10 @@ Adds falling spores particle effects to the emperor parasol mushrooms. Also repl
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Core
 
-⭐ [**Flies (PfP Edit)**](https://github.com/rfuzzo/MorrowindPlusPlus/blob/main/assets/Flies%20(PfP%20Edit).7z)\
-Adds a visual effect to all vanilla flies sound emitters. Now everywhere you can hear flies buzzing, you'll be able to actually see fly swarms too. Includes fixes from Patch for Purists.
+⭐ [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
+Adds a visual effect to all vanilla flies sound emitters.
 
-{% hint style="info" %}
-[**Link**](https://github.com/rfuzzo/MorrowindPlusPlus/raw/main/assets/Flies%20(PfP%20Edit).7z) to the download.
-{% endhint %}
-
-{% hint style="info" %}
-[**Link**](https://www.nexusmods.com/morrowind/mods/43481) to original mod by **R-Zero**.
-{% endhint %}
-
-⭐ [**Glowbugs**](https://www.nexusmods.com/morrowind/mods/50538)\
+⭐ [**Glowbugs**](https://www.nexusmods.com/morrowind/mods/50538) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 Adds firefly-like insects called glowbugs across the Bitter Coast region which come out on calm nights. They can be caught by the agile adventurer and their thorax makes a quality component in potions of Light.
 
 * On MO2 installation, check the following options in the BAIN installer:
@@ -83,14 +75,14 @@ Adds a heat haze shader. Subtle, gets faster and stronger when near lava pools.
 The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](/fundamentals/shaders.md#shader-setup) section.
 {% endhint %}
 
-⭐ [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112)\
+⭐ [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout region which appears during the night and certain weather conditions. It will burn off in the morning sun.
 
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Core
   * [x] 01 Vanilla Mist Replacer
 
-⭐ [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105)  
+⭐ [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
 Adds recurring earthquakes to certain volcanically active regions of Vvardenfell. You'll hear the sounds of moving earth and breaking rocks, your screen will start to tremble with increasing intensity, and, if inside an interior, dust and particles will shake loose and fall from the walls and ceiling.
 
 {% hint style="info" %}
@@ -315,14 +307,14 @@ Distant Land generation is required to make this mod work as intended. Instructi
 Clean replacer for the main ESM file.
 
 {% hint style="info" %}
-[**Link**](https://github.com/rfuzzo/MorrowindPlusPlus/raw/main/assets/Solstheim%20-%20Tomb%20of%20the%20Snow%20Prince%202.2.2%20ESM%20Replacer.7z) to the download.
+[**External Link**](https://github.com/rfuzzo/MorrowindPlusPlus/raw/main/assets/Solstheim%20-%20Tomb%20of%20the%20Snow%20Prince%202.2.2%20ESM%20Replacer.7z) to the download.
 {% endhint %}
 
 [**Solstheim Graphical Replacer - Skyrim-like Trees Textures**](https://github.com/rfuzzo/MorrowindPlusPlus/blob/main/assets/Solstheim%20Graphical%20Replacer%20-%20Skyrim-like%20Trees%20Textures.7z)  
 Allows installation of the Skyrim-like Trees option without having to install the core mesh and texture replacer.
 
 {% hint style="info" %}
-[**Link**](https://github.com/rfuzzo/MorrowindPlusPlus/raw/main/assets/Solstheim%20Graphical%20Replacer%20-%20Skyrim-like%20Trees%20Textures.7z) to the download.
+[**External Link**](https://github.com/rfuzzo/MorrowindPlusPlus/raw/main/assets/Solstheim%20Graphical%20Replacer%20-%20Skyrim-like%20Trees%20Textures.7z) to the download.
 {% endhint %}
 
 [**Interiors of Solstheim**](https://www.nexusmods.com/morrowind/mods/44451)\

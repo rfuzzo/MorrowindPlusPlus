@@ -52,7 +52,7 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 [**MET Hofix**](https://github.com/Sigourn/nerevarrising/blob/master/mods/MET%20Hotfix.7z)\
 Hotfix for two textures which lacked mipmaps.
 
-[**Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/MET%20Hotfix.7z) to the download.
+[**External Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/MET%20Hotfix.7z) to the download.
 
 [**Project Atlas - MET**](https://www.nexusmods.com/morrowind/mods/45399?)\
 Compatibility patch for Morrowind Enhanced Textures.
@@ -234,7 +234,7 @@ Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the
 Forwards Patch for Purists fixes to the plugin.
 
 {% hint style="info" %}
-[**Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/Complete%20Armor%20Joints%20\(PfP%20Edit\).7z) to the download.
+[**External Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/Complete%20Armor%20Joints%20\(PfP%20Edit\).7z) to the download.
 {% endhint %}
 
 [**Imperial Steel Cuirass Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)\
@@ -253,7 +253,7 @@ Gives all cuirasses female variants that fits the hips and waist more and makes 
 Forwards Patch for Purists fixes to the plugin, and removes edits to cuirasses that already had a female variant.
 
 {% hint style="info" %}
-[**Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/Alex's%20Better%20Fitted%20Female%20Armors%20\(PfP%20Edit\).7z) to the download.
+[**External Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/Alex's%20Better%20Fitted%20Female%20Armors%20\(PfP%20Edit\).7z) to the download.
 {% endhint %}
 
 [**Properly Fitted Female Pants**](https://www.nexusmods.com/morrowind/mods/49673)\

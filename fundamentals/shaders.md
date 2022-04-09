@@ -7,7 +7,7 @@ A modernized version of the pixel shader water from vanilla Morrowind, which aim
 A compilation of a handful of community-made shaders.
 
 {% hint style="info" %}
-[**Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/MGE%20XE%20Shader%20Pack.7z) to the download.
+[**External Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/MGE%20XE%20Shader%20Pack.7z) to the download.
 {% endhint %}
 
 * On MO2 installation, check the following options in the BAIN installer:

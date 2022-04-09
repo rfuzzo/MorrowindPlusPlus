@@ -1,6 +1,6 @@
 # Gameplay
 
-## Gameplay - Character
+## Character
 
 ⭐ [**Chargen Revamped**](https://www.nexusmods.com/morrowind/mods/44615)\
 Customize/randomize your starting attributes, skills, spells, items, companion, faction, and location on Vvardenfell, Solstheim, Mainland Morrowind (TR), Skyrim (SHOTN), or Cyrodiil (PC).
@@ -36,7 +36,7 @@ A state-based health mod implemented in MWSE. Health is now calculated based on 
 [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872)\
 Endurance determines how long you can hold your breath under water.
 
-## Gameplay - Followers
+## Followers
 
 ⭐ [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717)\
 When the player or the player's companions are attacked, any companions will launch into action in defense.
@@ -48,7 +48,7 @@ Ensures that your followers get warped to you if they get too far away. Compatib
 Makes companions (the ones with the short companion local variable set to 1) able to interact with possible loot sources and doors you Alt+Activate,
 can fix/improve some companions/followers features, detect abot's modded Scenic Travelling and apply it to followers not already compatible with it...
 
-## Gameplay - Combat
+## Combat
 
 ⭐ [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383)\
 Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
@@ -81,7 +81,7 @@ Opens up an entire new facet of gameplay by granting the ability to use potions 
 [**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251)\
 Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Optionally makes Unarmored fully focused on evading attacks.
 
-## Gameplay - Magic
+## Magic
 
 ⭐ [**Mastering Magicka**](https://www.nexusmods.com/morrowind/mods/42269)\
  Skill in the magic schools boost Magicka proficiency, along with a variety of features.
@@ -150,14 +150,14 @@ Bound armor now uses the normal armor rating formula, taking light armor skill i
 Levitation speed is now based on Willpower attribute instead of Speed.
 
 {% hint style="info" %}
-[**Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/Wings%20of%20Will%20(Necro%20Edit).7z) to the download.
+[**External Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/Wings%20of%20Will%20(Necro%20Edit).7z) to the download.
 {% endhint %}
 
 {% hint style="info" %}
 [**Link**](https://www.nexusmods.com/morrowind/mods/46626) to original mod by **Sataniel**. The featured version includes fixes by **Necrolesian**.
 {% endhint %}
 
-## Gameplay - QoL
+## QoL
 
 ⭐ [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454)\
 Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
@@ -172,7 +172,7 @@ Increases the availability of restocking Restore Magicka, Restore Fatigue, and R
 [**GMST Menu**](https://www.nexusmods.com/morrowind/mods/46428)\
 In-game menu allowing you to edit any Game Setting on the run. Useful to replace many minor mods that only edit Game Settings.
 
-## Gameplay - General
+## General
 
 ⭐ [**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034)\
 A lua-based framework that allows you to easily create new skills in Morrowind with just a few lines of code. This framework is a pre-requisite for **Ashfall**.
@@ -183,9 +183,8 @@ A survival mod with hunger, thirst, tiredness, cooking, camping and temperature 
 [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904)\
 Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
 
-Files to install:
-
-* **Creeping Blight - MWSE Version** (Main files)
+* Files to install:
+  * **Creeping Blight - MWSE Version** (Main files)
 
 ⭐ [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581)\
 Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
@@ -241,7 +240,7 @@ Adds new, immersive work stations throughout the world; search for new grindston
 ⭐ [**Buying Game**](https://www.nexusmods.com/morrowind/mods/50574)\
 Enhances Mercantile via new gameplay mechanics and UI elements. Includes new base pricing mechanic, regional pricing, value estimate, merchant specializations, forbidden goods, illicit trade, investing mechanics, and more.
 
-[**Controlled Consumption (G7 - Sig- Necro Edit)**](https://www.nexusmods.com/morrowind/mods/49232)\
+[**Controlled Consumption (G7 - Sig- Necro Edit)**](https://www.nexusmods.com/morrowind/mods/49232) by [Lucas9](https://www.nexusmods.com/morrowind/users/14600469)\
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
 
 {% hint style="info" %}

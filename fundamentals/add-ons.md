@@ -48,12 +48,8 @@ Newly murdered characters are now drawn to the tombs of their ancestors. You wil
 
 ## Items
 
-⭐ [**Clothing Requirements**](https://www.nexusmods.com/morrowind/mods/47813)\
+⭐ [**Clothing Requirements**](https://www.nexusmods.com/morrowind/mods/47813) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
  Implements level requirements to equip all of Morrowind's clothing items.
-
-{% hint style="info" %}
-[**Link**](https://www.nexusmods.com/morrowind/mods/45980) to original mod by **Remiros**. The featured version includes fixes by **Necrolesian**.
-{% endhint %}
 
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] Clothing Requirements

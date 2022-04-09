@@ -7,7 +7,6 @@
 * [Setup](setup/setup.md)
 * [Tools](setup/tools.md)
 * [Tools-setup](setup/tools-setup.md)
-* [General Tips](setup/general-tips.md)
 
 ## Fundamentals
 
@@ -24,3 +23,7 @@
 ## Finish
 
 * [Finish](finish/finish.md)
+
+## Info
+
+* [General Tips](info/general-tips.md)

@@ -58,7 +58,7 @@ Replaces most of the original book arts with hi-res images redrawn from scratch.
 Forwards PfP fixes to the plugin.
 
 {% hint style="info" %}
-[**Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/Comrade%20Raven's%20Book%20Arts%20(PfP%20Edit).7z) to the download.
+[**External Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/Comrade%20Raven's%20Book%20Arts%20(PfP%20Edit).7z) to the download.
 {% endhint %}
 
 ⭐ [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863)\
@@ -111,7 +111,7 @@ Allows highlighting and hiding quests in the Journal questlist.
 Adds an Attribute and Description widget to the Race menu so you can better plan your character.
 
 {% hint style="info" %}
-[**Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/What%20Are%20My%20Attributes%20(Necro%20Edit).7z) to the download.
+[**External Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/What%20Are%20My%20Attributes%20(Necro%20Edit).7z) to the download.
 {% endhint %}
 
 {% hint style="info" %}
