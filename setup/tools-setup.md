@@ -52,7 +52,9 @@ For our modding tools to work in Mod Organizer 2, we need to register and config
 **Screenshot:**
 <details>
 <summary>Screenshot</summary>
+
 ![Screenshot](../pictures/MO2_mlox_update.jpg)
+
 </details>
 
 ### MLOX
@@ -69,7 +71,9 @@ Make sure you have mlox installed properly [as described here](./tools.md#⭐-ml
 **Screenshot:**
 <details>
 <summary>Screenshot</summary>
+
 ![Screenshot](../pictures/MO2_mlox_gui.jpg)
+
 </details>
 
 ### Wrye Mash
@@ -99,7 +103,9 @@ Make sure you have mlox installed properly [as described here](./tools.md#⭐-ml
 **Screenshot:**
 <details>
 <summary>Screenshot</summary>
+
 ![Screenshot](../pictures/MO2_mlox_auto.jpg)
+
 </details>
 
 ### MGE XE
