@@ -246,3 +246,24 @@ Fixes the Mudcrab mesh, reducing distortion and other UV errors.
 * On MO2 installation, expand the **Correct Mudcrab** and **Regular** folders.
 * Right-click on **Data Files**.
 * Click **Set as data files directory** and click **OK**.
+
+[**Nordic Mesh Improvements**](https://www.nexusmods.com/morrowind/mods/46792)\
+ Replaces the meshes for all nordic weapons.
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 Core
+  * [x] 01 Weapon Sheathing Patch
+
+[**Silver Mesh Improvements**](https://www.nexusmods.com/morrowind/mods/46787)\
+Replaces the meshes of the silver weapons with higher quality ones.
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 Core
+  * [x] 01 Weapon Sheathing Patch
+
+[**Overlooked Meshes Replacer**](https://www.nexusmods.com/morrowind/mods/46855)\
+Replaces a lot of meshes that haven't (properly) been covered by other mods yet.
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 Core
+  * [x] 01 Iron Repair Prongs
