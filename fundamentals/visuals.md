@@ -6,7 +6,7 @@ Asset repository required for OAAB mods and Nordic Dagon Fel.
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Core
 
-⭐ [**Tamriel_Data**](https://www.nexusmods.com/morrowind/mods/44537)  
+⭐ [**Tamriel\_Data**](https://www.nexusmods.com/morrowind/mods/44537)\
 Asset repository required for Solstheim - Tomb of the Snow Prince and Nordic Dagon Fel.
 
 * Files to install:
@@ -21,12 +21,11 @@ To register the mod's BSA file, launch **Wrye Mash** from Mod Organizer 2. In th
 ### Intelligent Textures
 
 ⭐ [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469)\
- Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. 
+Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
 
 * Files to install:
   * **Intelligent Textures** (Main files)
   * **Intelligent Textures Hotfix** (Optional files)
-
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Core
   * [x] 01 Atlas Textures
@@ -45,15 +44,15 @@ These two big texture packs can be freely swapped mid-game. You can also install
 
 <details>
 
+<summary>Extended Content</summary>
+
 [**Morrowind Enhanced Textures**](https://www.nexusmods.com/morrowind/mods/46221)\
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. Also includes reworked meshes from **Facelift**.
 
 [**MET Hofix**](https://github.com/Sigourn/nerevarrising/blob/master/mods/MET%20Hotfix.7z)\
 Hotfix for two textures which lacked mipmaps.
 
-{% hint style="info" %}
 [**Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/MET%20Hotfix.7z) to the download.
-{% endhint %}
 
 [**Project Atlas - MET**](https://www.nexusmods.com/morrowind/mods/45399?)\
 Compatibility patch for Morrowind Enhanced Textures.
@@ -94,10 +93,10 @@ Replaces the Silt Strider according to many fan arts. Now the Silt Strider looks
   * **Silt Strider with vanilla textures** (Main files)
 
 [**Spriggans Glow**](https://www.nexusmods.com/morrowind/mods/43350)\
- This mod adds a glowbug swarm around Spriggans to make them look more fae-like and magical. It optionally includes a replacer I made for the spriggans themselves, patches for other popular replacers, and masculine "twiggan" versions of the spriggan if you use my replacer.
+This mod adds a glowbug swarm around Spriggans to make them look more fae-like and magical. It optionally includes a replacer I made for the spriggans themselves, patches for other popular replacers, and masculine "twiggan" versions of the spriggan if you use my replacer.
 
 [**RR Mod Series - Melchiors Mudcrab Merchant**](https://www.nexusmods.com/morrowind/mods/42685)\
- This mod is a model and texture replacer for the Mudcrab Merchant, making him stand out against the other mudcrabs in a classy way.
+This mod is a model and texture replacer for the Mudcrab Merchant, making him stand out against the other mudcrabs in a classy way.
 
 ## VFX
 
@@ -125,7 +124,7 @@ Povides high resolution new blood types for the creatures of Morrowind, Tribunal
   * [x] 04 Qwertyquit's Textures
 * After installation, use the **INI Editor** under **Tools** to replace the \[Blood] section of your Morrowind.ini with the following:
 
-```text
+```
 [Blood]
 Model 0=BloodSplat.nif
 Model 1=BloodSplat2.nif
@@ -151,10 +150,10 @@ Texture Name 7=Energy
 ```
 
 [**Shield Spells Reforged pt.1. (2022 upg)**](https://www.nexusmods.com/morrowind/mods/50073)\
- Visual overhaul of Elemental Shield spells, with additional on-hit effects.
+Visual overhaul of Elemental Shield spells, with additional on-hit effects.
 
 ⭐ [**Chameleon**](https://www.nexusmods.com/morrowind/mods/47996)\
- The weid transparency of models (clothes, hair) with alpha channels issue fixed: Your character is not transparent at all.
+The weid transparency of models (clothes, hair) with alpha channels issue fixed: Your character is not transparent at all.
 
 ⭐ [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912)\
 Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
@@ -166,14 +165,13 @@ Modified version of True Lights and Darkness that reverts some of TLAD's more ra
   * [x] 00 Full Mod
   * [x] 01 Modular Plugins
   * [x] 02 MWSE TLAD Lights
-
 * Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
   * [x] `TLAD Daylight - No Vivec Plazas.esp`
   * [x] `TLAD Lights - Logical Flicker - Necro Colors.esp`
   * [x] `TLAD Lights - Still - Necro Colors.esp`
 
 ⭐ [**Vapourmist**](https://www.nexusmods.com/morrowind/mods/50517)\
- MWSE-Lua 3D clouds and mist.
+MWSE-Lua 3D clouds and mist.
 
 ## Weather
 
@@ -232,11 +230,11 @@ Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion
 [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572)\
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
 
-[**Complete Armor Joints ESP Replacer**](https://github.com/Sigourn/nerevarrising/blob/master/mods/Complete%20Armor%20Joints%20(PfP%20Edit).7z)\
+[**Complete Armor Joints ESP Replacer**](https://github.com/Sigourn/nerevarrising/blob/master/mods/Complete%20Armor%20Joints%20\(PfP%20Edit\).7z)\
 Forwards Patch for Purists fixes to the plugin.
 
 {% hint style="info" %}
-[**Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/Complete%20Armor%20Joints%20(PfP%20Edit).7z) to the download.
+[**Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/Complete%20Armor%20Joints%20\(PfP%20Edit\).7z) to the download.
 {% endhint %}
 
 [**Imperial Steel Cuirass Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)\
@@ -251,11 +249,11 @@ Replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping j
 [**Alex's Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)\
 Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
 
-[**Alex's Better Fitted Female Armors ESP Replacer**](https://github.com/Sigourn/nerevarrising/blob/master/mods/Alex's%20Better%20Fitted%20Female%20Armors%20(PfP%20Edit).7z)\
+[**Alex's Better Fitted Female Armors ESP Replacer**](https://github.com/Sigourn/nerevarrising/blob/master/mods/Alex's%20Better%20Fitted%20Female%20Armors%20\(PfP%20Edit\).7z)\
 Forwards Patch for Purists fixes to the plugin, and removes edits to cuirasses that already had a female variant.
 
 {% hint style="info" %}
-[**Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/Alex's%20Better%20Fitted%20Female%20Armors%20(PfP%20Edit).7z) to the download.
+[**Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/Alex's%20Better%20Fitted%20Female%20Armors%20\(PfP%20Edit\).7z) to the download.
 {% endhint %}
 
 [**Properly Fitted Female Pants**](https://www.nexusmods.com/morrowind/mods/49673)\
@@ -327,10 +325,10 @@ Uses the new scroll models in OAAB\_Data to automatically replace the models and
 Adds dunmer concept art around vvardenfell on the velothi buildings and temples in various locations as can be seen in some of bethesda's own concept art for Morrowind. Mostly in vivec city plaza's but also in a few obscure places as well.
 
 ⭐ [**One True Faith - Saints and Frescoes Retexture**](https://www.nexusmods.com/morrowind/mods/43810)\
- Retexture for saints, Tribuns and TT-frescoes
+Retexture for saints, Tribuns and TT-frescoes
 
 ⭐ [**Improved Tribunal shrine meshes**](https://www.nexusmods.com/morrowind/mods/46464)\
- Mesh and texture replacer for Tribunal shrines; no more distorted Temple imagery. Included two texture sets and an add-on for Tamriel Rebuilt.
+Mesh and texture replacer for Tribunal shrines; no more distorted Temple imagery. Included two texture sets and an add-on for Tamriel Rebuilt.
 
 * Files to install:
   * **Shrines - main file**
