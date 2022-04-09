@@ -18,7 +18,7 @@ To register the mod's BSA file, launch **Wrye Mash** from Mod Organizer 2. In th
 
 ## Texture packs
 
-### Choose one: Intelligent Textures
+### Intelligent Textures
 
 ⭐ [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469)\
  Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. 
@@ -62,9 +62,6 @@ Compatibility patch for Morrowind Enhanced Textures.
   * **Textures - MET** (Main files)
 
 </details>
-
-* Files to install:
-  * **Textures - MET** (Main files)
 
 [**Familiar Faces by Caleb**](https://www.nexusmods.com/morrowind/mods/50093)\
 An in-depth yet completely vanilla friendly touch up of every head and almost every hair in the game.
