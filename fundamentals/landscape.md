@@ -160,6 +160,12 @@ The Dubdilla overhaul also carries over/incorporates/merges the edits of Dubdill
 * Files to install:
   * **Caverns Overhaul**
 
+[**Remiros' Ascadian Isles Trees 2**](https://www.nexusmods.com/morrowind/mods/45779)\
+Replaces all of the trees in the Ascadian Isles region.
+
+* Files to install:
+  * **Remiros' Ascadian Isles Trees - Vanilla**
+
 ## Cities, towns
 
 ⭐ [**White Suran 2 - MD Edition**](https://www.nexusmods.com/morrowind/mods/44153)\
