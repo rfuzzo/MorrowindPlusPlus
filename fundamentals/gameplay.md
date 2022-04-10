@@ -204,16 +204,25 @@ Makes fire sources damage the player when standing too close to them.
 [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)\
 Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and players alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
 
-[**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029)\
+⭐ [**Running Fatigue Overhaul**](https://github.com/rfuzzo/MorrowindPlusPlus/blob/main/assets/RunningFatigue_Overhaul_Beta.7z) by Pherim\
+Running and Swimming uses much less Fatigue, but Fatigue regenerates slower
+
+{% hint style="info" %}
+[**External Link**](https://github.com/rfuzzo/MorrowindPlusPlus/raw/main/assets/RunningFatigue_Overhaul_Beta.7z) to the download.
+{% endhint %}
+
+**Alternative for less stamina:**
+<details>
+<summary>Screenshot</summary>
+
+[**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029) by [Remiros(Flash3113)](https://www.nexusmods.com/morrowind/users/899234)\
 Rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural.
 
 * After installation, hide the mod's **MWSE** folder. This disables the sprinting feature.
 
-{% hint style="info" %}
-Note that this mod is _not_ meant to make movement faster, only more natural.
-{% endhint %}
+</details>
 
-[**Sprinting**](https://www.nexusmods.com/morrowind/mods/50839)\
+⭐ [**Sprinting**](https://www.nexusmods.com/morrowind/mods/50839)\
 Adds a feature-rich sprinting functionality to the game.
 
 [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783)\

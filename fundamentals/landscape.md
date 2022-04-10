@@ -371,6 +371,12 @@ Adds Imperial and Solstheim variants for the well mesh, blending in better with 
 * Files to install:
   * **ESEP - Morag Tong Polished Patch**
 
+{% hint style="warning" %}
+You need to rename the .esp file in this mod! In MO2, double click the mod and go to the Filetree tab. Right click an rename the esp to `Morag Tong Polished.esp`
+{% endhint %}
+
+![Screenshot](../pictures/ESEP_rename.jpg)
+
 {% hint style="info" %}
 Even Seedier Eight Plates is merged into BCOM - no need to install the main file
 {% endhint %}

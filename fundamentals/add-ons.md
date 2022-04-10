@@ -55,10 +55,10 @@ Newly murdered characters are now drawn to the tombs of their ancestors. You wil
   * [x] Clothing Requirements
   * [x] Equipment Requirements (Necro Edit)
 
-⭐ [**Equipment Variants**](https://www.nexusmods.com/morrowind/mods/49253)\
+⭐ [**Equipment Variants**](https://www.nexusmods.com/morrowind/mods/49253) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
  Randomly replace stock armour and weapons on npcs and in containers with TR variants.
 
-⭐ [**Wares**](https://www.nexusmods.com/morrowind/mods/49205)\
+⭐ [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
  Wares gives traders more Wares (duh). Includes Wares from other mods (such as Tamriel Rebuilt). Includes traders in the Mainland.
 
 * On MO2 installation, check the following options in the BAIN installer:
@@ -66,7 +66,7 @@ Newly murdered characters are now drawn to the tombs of their ancestors. You wil
   * [x] 01 TR
   * [x] 01 Vvardenfell
 
-⭐ [**Wares for NPCs**](https://www.nexusmods.com/morrowind/mods/49997)\
+⭐ [**Wares for NPCs**](https://www.nexusmods.com/morrowind/mods/49997) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
 Vanilla and TR npcs will now wear randomised clothes, armour and weapons.
 Vanilla and TR containers will now hold randomised clothes, armour and weapons.
 
@@ -74,7 +74,7 @@ Vanilla and TR containers will now hold randomised clothes, armour and weapons.
   * [x] 00 Vv + TR
   * [ ] 00 Vvardenfell only
 
-⭐ [**Taddeus' Foods of Tamriel**](https://www.nexusmods.com/morrowind/mods/49388)\
+⭐ [**Taddeus' Foods of Tamriel**](https://www.nexusmods.com/morrowind/mods/49388) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
 This mod adds Ashfall compatible Foods from all over Tamriel as well as a few shops and Food Outposts.
 It also adds ovens that can be used to bake bread and pies. More baking recipes are available if you have a rolling pin.
 
@@ -108,7 +108,7 @@ Adds unidentified rings, amulets, belts, robes, pants and shirts to the game, as
 Thousands of possible items with one or two traits
 Players skilled in Mysticism and Enchant can learn to Identify
 
-⭐ [**Vanilla friendly weareables expansion**](https://www.nexusmods.com/morrowind/mods/48683)\
+⭐ [**Vanilla Friendly Wearables Expansion**](https://www.nexusmods.com/morrowind/mods/48683) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
 This is a compilation of mods that does a couple of things:
 
 * Adds new armours and weapons
@@ -117,3 +117,9 @@ This is a compilation of mods that does a couple of things:
 
 * Files to install:
   * **Vanilla friendly weareables expansion**
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 Core
+  * [x] 01 Morag Tong Polished Patch
+  * [x] 02 Cephalopod Armor - OAAB Patch
+  * [x] 03 Cepalopod Armor - TR patch
