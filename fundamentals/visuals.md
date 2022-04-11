@@ -62,19 +62,6 @@ Compatibility patch for Morrowind Enhanced Textures.
 
 </details>
 
-[**Familiar Faces by Caleb**](https://www.nexusmods.com/morrowind/mods/50093)\
-An in-depth yet completely vanilla friendly touch up of every head and almost every hair in the game.
-
-[**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)\
-Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
-
-* Files to install:
-  * **kart\_facelift\_meshes** (Main files)
-
-{% hint style="info" %}
-Facelift overwrites most of the meshes present in Familiar Faces. However, Facelift doesn't include tweaked hair and Khajiit head meshes, which is why Familiar Faces is still recommended for installation.
-{% endhint %}
-
 ## NPCs
 
 ⭐ [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)\
@@ -97,6 +84,39 @@ This mod adds a glowbug swarm around Spriggans to make them look more fae-like a
 
 [**RR Mod Series - Melchiors Mudcrab Merchant**](https://www.nexusmods.com/morrowind/mods/42685)\
 This mod is a model and texture replacer for the Mudcrab Merchant, making him stand out against the other mudcrabs in a classy way.
+
+[**Familiar Faces by Caleb**](https://www.nexusmods.com/morrowind/mods/50093)\
+An in-depth yet completely vanilla friendly touch up of every head and almost every hair in the game.
+
+[**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)\
+Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
+
+* Files to install:
+  * **kart_facelift_meshes**
+  * **kart_fut_TR_PT**
+
+**Westly's Faces Refurbished** by **Merch_Lis**\
+Westly's Faces Refurbished is a heads and hair replacer based on Westly's head meshes, aiming to keep close to vanilla style and expressions.
+
+* Files to install:
+  * **Westley's Faces Refurbished 08.04.22.rar**
+
+  {% hint style="info" %}
+  [**External Link**](https://drive.google.com/file/d/1cc4-QLTqL-krUlFVX2g_KsPuoad0iz_I/view?usp=sharing) to the download.
+  {% endhint %}
+
+  * **Westley's Faces Refurbished - TR - 30.03.22.rar**
+
+  {% hint style="info" %}
+  [**External Link**](https://drive.google.com/file/d/1y2lKYFYcyLRwJoFnm9448m6Kly2SeNa7/view?usp=sharing) to the download.
+  {% endhint %}
+
+* Files to install:
+  * **kart\_facelift\_meshes** (Main files)
+
+{% hint style="info" %}
+Facelift overwrites most of the meshes present in Familiar Faces. However, Facelift doesn't include tweaked hair and Khajiit head meshes, which is why Familiar Faces is still recommended for installation.
+{% endhint %}
 
 ## VFX
 

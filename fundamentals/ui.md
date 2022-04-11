@@ -5,7 +5,7 @@
 ⭐ [**Improved Main Menu**](https://www.nexusmods.com/morrowind/mods/50856)\
 Adds several toggleable quality of life improvements to the Main Menu, including a Continue button and New Game confirmation prompts.
 
-⭐ [**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657)\
+⭐ [**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657) by [Phobos90](https://www.nexusmods.com/morrowind/users/2470746)\
 HD recreation of the Title and Logo Intro, in widescreen.
 
 * Files to install:
@@ -15,22 +15,22 @@ HD recreation of the Title and Logo Intro, in widescreen.
 In the **Setup** section we enabled the option to skip the intro movies, so there's no point in installing the Logo Video Intro Reworked (Widescreen) main file.
 {% endhint %}
 
-⭐ [**Widescreen Splash Replacer**](https://drive.google.com/file/d/1HyR9k6FjganGRCNQfz8IzEHLMqrc5oWH/view?usp=sharing)\
-Replaces the default splash screens with better quality widescreen versions (16:9), and adds three missing Bethesda splash screens.
+⭐ [**Widescreen Splash Replacer**](https://www.nexusmods.com/morrowind/mods/50966) by **NZdawghaus**\
+ This is a repost of NZdawghaus' original Wide Screen Splash Replacer files. It is posted with direct specific permission from NZdawghaus. Gives 16:9 versions of vanilla Splash Screens.
 
-[**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001)\
+⭐ [**Widescreen Splash Additions**](https://www.nexusmods.com/morrowind/mods/48001)\
 Adds three missing Bethesda splash screens in widescreen resolution.
 
 * On MO2 installation, create a **Splash** folder.
 * Move the **.tga** files inside.
 
-[**RFD's Splash Screens**](https://www.nexusmods.com/morrowind/mods/47400)\
+⭐ [**RFD's Splash Screens**](https://www.nexusmods.com/morrowind/mods/47400) by [RedFurryDemon](https://www.nexusmods.com/morrowind/users/46908543)\
 Three packs of somewhat minimalist loading screens. Or splash screens. Whatever you call them.
 
-[**Fresco Splash Screens**](https://www.nexusmods.com/morrowind/mods/45680)\
+⭐ [**Fresco Splash Screens**](https://www.nexusmods.com/morrowind/mods/45680) by [Petetehgoat](https://www.nexusmods.com/morrowind/users/25319994)\
 This is a set of 14 splash screens showing off Tyddy's frescoes.
 
-[**Concept Art Based Loading Screens**](https://www.nexusmods.com/morrowind/mods/43603)\
+[**Concept Art Based Loading Screens**](https://www.nexusmods.com/morrowind/mods/43603) by [Phobos90](https://www.nexusmods.com/morrowind/users/2470746)\
 New loading screens based on Bethesda's Morrowind Concept Art.
 
 ## Fonts and icons
