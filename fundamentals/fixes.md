@@ -197,6 +197,8 @@ Files to install:
   * [x] 07 Graphic Herbalism Patch\
     Compatibility patch for Graphic Herbalism. Uses compatible meshes.
 
+  * **Hotfix**
+
 {% hint style="warning" %}
 Note that **Project Atlas** utilizes its own texture sets for its edited meshes, meaning any retexture designed with the vanilla meshes in mind will require a patch for it to work alongside this mod.
 {% endhint %}

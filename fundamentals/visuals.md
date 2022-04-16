@@ -183,12 +183,10 @@ Modified version of True Lights and Darkness that reverts some of TLAD's more ra
 
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Full Mod
-  * [x] 01 Modular Plugins
+  * [ ] 01 Modular Plugins
   * [x] 02 MWSE TLAD Lights
 * Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
-  * [x] `TLAD Daylight - No Vivec Plazas.esp`
-  * [x] `TLAD Lights - Logical Flicker - Necro Colors.esp`
-  * [x] `TLAD Lights - Still - Necro Colors.esp`
+  * [x] `TLAD Full - Still - Necro Colors.esp`
 
 ⭐ [**Vapourmist**](https://www.nexusmods.com/morrowind/mods/50517)\
 MWSE-Lua 3D clouds and mist.

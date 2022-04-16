@@ -43,9 +43,6 @@ Newly murdered characters are now drawn to the tombs of their ancestors. You wil
 * Files to install:
   * **Ghost Revenge**
 
-[**Liar yes - Idiot no**](https://www.nexusmods.com/morrowind/mods/49908)\
- Gives M'Aiq the means to survive on his rock as well as some choice dialogue.
-
 ## Items
 
 ⭐ [**Clothing Requirements**](https://www.nexusmods.com/morrowind/mods/47813) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
@@ -55,16 +52,20 @@ Newly murdered characters are now drawn to the tombs of their ancestors. You wil
   * [x] Clothing Requirements
   * [x] Equipment Requirements (Necro Edit)
 
-⭐ [**Equipment Variants**](https://www.nexusmods.com/morrowind/mods/49253) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
- Randomly replace stock armour and weapons on npcs and in containers with TR variants.
-
 ⭐ [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
  Wares gives traders more Wares (duh). Includes Wares from other mods (such as Tamriel Rebuilt). Includes traders in the Mainland.
 
-* On MO2 installation, check the following options in the BAIN installer:
-  * [x] 00 Master file
-  * [x] 01 TR
-  * [x] 01 Vvardenfell
+* Files to install:
+  * **Wares** (Main files)
+
+    * On MO2 installation, check the following options in the BAIN installer:
+      * [x] 00 Master file
+      * [x] 01 TR
+      * [x] 01 Vvardenfell
+
+  * **BCOM Wares**
+  * **OAAB WARES**
+
 
 ⭐ [**Wares for NPCs**](https://www.nexusmods.com/morrowind/mods/49997) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
 Vanilla and TR npcs will now wear randomised clothes, armour and weapons.
@@ -123,3 +124,15 @@ This is a compilation of mods that does a couple of things:
   * [x] 01 Morag Tong Polished Patch
   * [x] 02 Cephalopod Armor - OAAB Patch
   * [x] 03 Cepalopod Armor - TR patch
+
+⭐ [**Indexes of Morrowind**](https://www.nexusmods.com/morrowind/mods/47501)\
+ This mod provides useful in-game indexes of tracking down various items and locations. They come as either books or flyers and can be found in various places.
+
+⭐ [**OAAB Integrations**](https://www.nexusmods.com/morrowind/mods/49045)\
+ This page will be used to upload minor mods which integrate content from OAAB_Data into the game by the OAAB team.
+
+* Files to install:
+  * **OAAB Creature Loot**
+  * **OAAB Dark Temptations**
+  * **OAAB Golden Reeds**
+  * **OAAB Leveled Lists**
