@@ -43,6 +43,14 @@ Newly murdered characters are now drawn to the tombs of their ancestors. You wil
 * Files to install:
   * **Ghost Revenge**
 
+[**MCAR**](https://www.nexusmods.com/morrowind/mods/48628)\
+ Replaces 1st person animations.
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 - MCAR
+  * [x] 01 - Magic casting
+  * [x] 02 - Melee combat (Incl. bows&crossbows)
+
 ## Items
 
 ⭐ [**Clothing Requirements**](https://www.nexusmods.com/morrowind/mods/47813) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\

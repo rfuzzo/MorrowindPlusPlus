@@ -191,6 +191,9 @@ Modified version of True Lights and Darkness that reverts some of TLAD's more ra
 ⭐ [**Vapourmist**](https://www.nexusmods.com/morrowind/mods/50517)\
 MWSE-Lua 3D clouds and mist.
 
+[**Crystal Soul Gems**](https://www.nexusmods.com/morrowind/mods/48300)\
+ Adds transparency, glowing effect and reflection to soul gems.
+
 ## Weather
 
 ⭐ [**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636)\

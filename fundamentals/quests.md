@@ -190,3 +190,6 @@ A lore-friendly quest mod based on an in-game book brought to life, with dungeon
 
 [**Bounty Hunter Assignments**](https://www.nexusmods.com/morrowind/mods/46928)\
  Roleplay as a bounty hunter, and kill dangerous criminals and beasts for gold, all around Vvardenfell.
+
+[**Silent Island**](https://www.nexusmods.com/morrowind/mods/50274)\
+ This is a horror themed mod, with pirates, Sixth House, and romance. Though this mod plays fairly different, where many tough enemies can be killed by the environment. You can play the mod running and avoiding enemies the entire way, or kill every single one of them.
