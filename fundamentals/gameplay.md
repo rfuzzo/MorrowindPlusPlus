@@ -157,6 +157,12 @@ Levitation speed is now based on Willpower attribute instead of Speed.
 [**Link**](https://www.nexusmods.com/morrowind/mods/46626) to original mod by **Sataniel**. The featured version includes fixes by **Necrolesian**.
 {% endhint %}
 
+[**Seph's Library**](https://www.nexusmods.com/morrowind/mods/50708)by [Sephumbra](https://www.nexusmods.com/morrowind/users/3827919)\
+ A MWSE lua library that may be required by other mods. It does nothing on its own.
+
+[**Seph's NPC Soul Trapping**](https://www.nexusmods.com/morrowind/mods/50744)by [Sephumbra](https://www.nexusmods.com/morrowind/users/3827919)\
+ A MWSE mod that lets you soul trap NPCs.
+
 ## QoL
 
 ⭐ [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454)\
