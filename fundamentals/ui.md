@@ -66,6 +66,16 @@ Replaces the effect seen on magic items in the inventory, allowing easier distin
 
 ## HUD
 
+⭐ [**Tamrielic Lore Tooltips**](https://www.nexusmods.com/morrowind/mods/45954)\
+ Yagrum Bagarn's book Tamrielic Lore gives brief descriptions of the story behind several artifacts, all of which appear in-game. This mod adds excerpts from the book to the tooltips of each respective artifact.
+
+⭐ [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842)\
+ Tooltips Complete provides helpful and lore-friendly flavour texts for nearly every item in Morrowind, Tribunal, Bloodmoon, the Official Plugins, and an expanding collection of mods.
+
+* Files to install:
+  * **Tooltips Complete** (Main files)
+  * **Tamrielic Lore Exclusions** (Optional files)
+
 [**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267)\
 Provides configurable, dynamic crosshair indicators while sneaking and for essential NPCs, quest items, owned objects, and more. In addition, a variety of settings are included to manage how these aspects of the game work.
 
