@@ -74,7 +74,6 @@ Newly murdered characters are now drawn to the tombs of their ancestors. You wil
   * **BCOM Wares**
   * **OAAB WARES**
 
-
 ⭐ [**Wares for NPCs**](https://www.nexusmods.com/morrowind/mods/49997) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
 Vanilla and TR npcs will now wear randomised clothes, armour and weapons.
 Vanilla and TR containers will now hold randomised clothes, armour and weapons.

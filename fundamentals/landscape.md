@@ -320,6 +320,9 @@ Allows installation of the Skyrim-like Trees option without having to install th
 [**Interiors of Solstheim**](https://www.nexusmods.com/morrowind/mods/44451)\
  Enhances the interiors of the Skaal village and Thirsk by adding some miscellaneous objects.
 
+ [**The Stone Halls of Solstheim - Reforged**](https://www.nexusmods.com/morrowind/mods/49841)\
+ A complete rebuilt of Bloodmoon barrows.
+
 ### Mournhold
 
 ⭐ [**Immersive Mournhold**](https://www.nexusmods.com/morrowind/mods/49353)\
@@ -362,6 +365,16 @@ Adds Imperial and Solstheim variants for the well mesh, blending in better with 
 
 [**The Vestige of Bethaleft**](https://www.nexusmods.com/morrowind/mods/50663)\
  Discover the remnants of a failed Telvanni expedition and explore the depths of Bethaleft, a Dwemer citadel that served as a testing ground for the Tools of Kagrenac.
+
+ [**The Manifold Spires**](https://www.nexusmods.com/morrowind/mods/46128) by [PhDinSorcery](https://www.nexusmods.com/morrowind/users/8404526)\
+ A mod that adds the Manifold Spires, a new landmass, and an associated quest.
+
+ [**OAAB - Tel Raloran**](https://www.nexusmods.com/morrowind/mods/46841) by [Corsair83](https://www.nexusmods.com/morrowind/users/23131859)\
+ A Telvanni mushroom house with MWSE functions.
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [X] 00 Core
+  * [X] 01 Vanilla
 
 ## Patches
 

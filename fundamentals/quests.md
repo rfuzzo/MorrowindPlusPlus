@@ -78,6 +78,12 @@ Greetings regarding clothes are limited to clothiers, nobles and snooty High Elv
 ⭐ [**Quarantined Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47335)\
 As Asciene Rene's dialogue suggests, you won't be allowed to travel to Mournhold if you have a disease now.
 
+⭐ [**Dual Faction Membership for NPCs**](https://www.nexusmods.com/morrowind/mods/49885)\
+NPCs that actually belong to two factions will reflect this in their dialogue.
+
+⭐ [**NPC Faction Affiliation Corrector**](https://www.nexusmods.com/morrowind/mods/47743)\
+Adds NPCs into factions, that are not in a faction, but realistically should be, or change the faction of some NPCs that belong to a faction when they should belong to another.
+
 ## Main Quest
 
 [**Blades Informant**](https://www.nexusmods.com/morrowind/mods/48084)\
@@ -85,17 +91,6 @@ Allows you to continue working for the Blades after Caius' departure and deliver
 
 [**EL1OT's New Supply Chests**](https://www.nexusmods.com/morrowind/mods/46253)\
 This mod adds a new supply chest to Caius Cosades' house for members of the Blades, and modifies the contents of the Fighters' and Mages' Guild Supply Chests.
-
-## Factions
-
-⭐ [**More Exclusive Factions**](https://www.nexusmods.com/morrowind/mods/49618)\
-Some factions will now refuse you membership if you have already joined other factions that they disapprove of. Others will make you jump through some extra hoops if you're a member of a faction they dislike.
-
-⭐ [**Dual Faction Membership for NPCs**](https://www.nexusmods.com/morrowind/mods/49885)\
-NPCs that actually belong to two factions will reflect this in their dialogue.
-
-⭐ [**NPC Faction Affiliation Corrector**](https://www.nexusmods.com/morrowind/mods/47743)\
-Adds NPCs into factions, that are not in a faction, but realistically should be, or change the faction of some NPCs that belong to a faction when they should belong to another.
 
 [**Rise of House Telvanni**](https://www.nexusmods.com/morrowind/mods/27545)\
 This mod adds quests for the Telvanni Archmagister, allowing him/her to gain more political power and strengthen House Telvanni.
@@ -105,6 +100,17 @@ This mod adds quests for the Telvanni Archmagister, allowing him/her to gain mor
 
 [**Rise of House Telvanni - 2.0**](https://www.nexusmods.com/morrowind/mods/48225)\
 This mod gives a much needed facelift to one of the greatest quest mods of all time - Rise of House Telvanni.
+
+[**Roleplay Options for Great House Hlaalu**](https://www.nexusmods.com/morrowind/mods/45208) by [Caeris](https://www.nexusmods.com/morrowind/users/43442372)\
+ Adds immersive dialogue options to Great House Hlaalu quests.
+
+[**Hlaalu Rank Adjust V**](https://mw.modhistory.com/download-87-5839) by [Caeris](https://www.nexusmods.com/morrowind/users/43442372)\
+Now there is a proper structure to House Hlaalu, with actual governers for Suran and Gnaar Mok, not just Caldera. The Treasury actually has a master now, and the Hlaalu quest givers have an official title. Rankings were adjusted to make more sense and now the player can actually become a Councillor - something that was impossible in the original game for some unknown reason.
+
+## Factions
+
+[**More Exclusive Factions**](https://www.nexusmods.com/morrowind/mods/49618)\
+Some factions will now refuse you membership if you have already joined other factions that they disapprove of. Others will make you jump through some extra hoops if you're a member of a faction they dislike.
 
 ⭐ [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843)\
 Fleshes out the Imperial Cult and the Tribunal Temple.
@@ -193,3 +199,9 @@ A lore-friendly quest mod based on an in-game book brought to life, with dungeon
 
 [**Silent Island**](https://www.nexusmods.com/morrowind/mods/50274)\
  This is a horror themed mod, with pirates, Sixth House, and romance. Though this mod plays fairly different, where many tough enemies can be killed by the environment. You can play the mod running and avoiding enemies the entire way, or kill every single one of them.
+
+[**After the Blight**](https://www.nexusmods.com/morrowind/mods/46099) by [Caeris](https://www.nexusmods.com/morrowind/users/43442372)\
+ Are you interested in what House Dagoth was like in the first era, before they became a cult of tentacle monsters and madmen? Have you ever wanted to join them? Then this mod is for you.
+
+[**Camonna Tong**](https://www.nexusmods.com/morrowind/mods/50740) by [Caeris](https://www.nexusmods.com/morrowind/users/43442372)\
+ Begin a tale about the largest criminal organization in Morrowind, the Camonna Tong. Vye for power in all influences of society by working together with the likes of Orvas Dren, the Kingpin.
