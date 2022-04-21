@@ -285,6 +285,15 @@ Adds several changes to the Tribunal cuirass replacers to make them more consist
 
 ## Misc
 
+⭐ [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863)\
+Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
+
+Files to install:
+
+* **Pete's Journal and Scroll** (Optional files)
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 01 Journal and Scroll - 2K
+
 [**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100)\
 Replaces all the bookcovers, bookpages and scrolls.
 

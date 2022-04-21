@@ -30,9 +30,6 @@ Three packs of somewhat minimalist loading screens. Or splash screens. Whatever 
 ⭐ [**Fresco Splash Screens**](https://www.nexusmods.com/morrowind/mods/45680) by [Petetehgoat](https://www.nexusmods.com/morrowind/users/25319994)\
 This is a set of 14 splash screens showing off Tyddy's frescoes.
 
-[**Concept Art Based Loading Screens**](https://www.nexusmods.com/morrowind/mods/43603) by [Phobos90](https://www.nexusmods.com/morrowind/users/2470746)\
-New loading screens based on Bethesda's Morrowind Concept Art.
-
 ## Fonts and icons
 
 ⭐ [**Better Readable Beauty Font**](https://www.nexusmods.com/morrowind/mods/49201)\
@@ -60,15 +57,6 @@ Forwards PfP fixes to the plugin.
 {% hint style="info" %}
 [**External Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/Comrade%20Raven's%20Book%20Arts%20(PfP%20Edit).7z) to the download.
 {% endhint %}
-
-⭐ [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863)\
-Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
-
-Files to install:
-
-* **Pete's Journal and Scroll** (Optional files)
-* On MO2 installation, check the following options in the BAIN installer:
-  * [x] 01 Journal and Scroll - 2K
 
 [**Magic Icons**](https://www.nexusmods.com/morrowind/mods/50223)\
 Replaces the effect seen on magic items in the inventory, allowing easier distinction between different magic items.
