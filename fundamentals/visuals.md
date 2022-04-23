@@ -82,9 +82,6 @@ Replaces the Silt Strider according to many fan arts. Now the Silt Strider looks
 [**Spriggans Glow**](https://www.nexusmods.com/morrowind/mods/43350)\
 This mod adds a glowbug swarm around Spriggans to make them look more fae-like and magical. It optionally includes a replacer I made for the spriggans themselves, patches for other popular replacers, and masculine "twiggan" versions of the spriggan if you use my replacer.
 
-[**RR Mod Series - Melchiors Mudcrab Merchant**](https://www.nexusmods.com/morrowind/mods/42685)\
-This mod is a model and texture replacer for the Mudcrab Merchant, making him stand out against the other mudcrabs in a classy way.
-
 [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)\
 Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
 

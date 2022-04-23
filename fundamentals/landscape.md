@@ -158,10 +158,10 @@ Replaces the water in the Palace of Vivec's canals.
 [**ReadMe - Library of Vivec Overhaul**](https://www.nexusmods.com/morrowind/mods/49916)\
 This mod redesigns the Library of Vivec from scratch to make it look and feel like a true library, with many books added from Tamriel_Data and OAAB_Data for you to read. There are also new NPCs for you to interact with, and two new quests that set you on the hunt for a unique book the resource for which was provided by RubberMan.
 
-[**Glass Domes of Vivec - Performance-friendly Open-ish Cantons**](https://www.nexusmods.com/morrowind/mods/48935)  
+[**Glass Domes of Vivec - Performance-friendly Open-ish Cantons**](https://www.nexusmods.com/morrowind/mods/48935)\ 
 Replaces the tops of Vivec's cantons with "glass" domes, so that the plaza interiors are gloriously lit by daylight and aren't as miserable. They will react to weather and night time, ALSO.
 
-[**Glass Domes of Vivec - Moonrain Edition**](https://www.nexusmods.com/morrowind/mods/48946)  
+[**Glass Domes of Vivec - Moonrain Edition**](https://www.nexusmods.com/morrowind/mods/48946)\
 Community expansion to Glass Domes of Vivec - visual fixes, new region mechanics, and more.
 
 * On MO2 installation, check the following options in the BAIN installer:
@@ -171,19 +171,22 @@ Community expansion to Glass Domes of Vivec - visual fixes, new region mechanics
   * [X] 02 New Weather Mechanics (requires MWSE)
   * [X] 07 Optional Thinner Interior Texture
 
+[**Guar Stables of Vivec**](https://www.nexusmods.com/morrowind/mods/50118) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
+ Adds guar stables to Vivec
+
 [**Ebonheart Underworks**](https://www.nexusmods.com/morrowind/mods/47272)\
  Ebonheart now has its own sewage system. With filth, rats, people and quests.
+
+[**Big Imperial Halls**](https://www.nexusmods.com/morrowind/mods/47533)\
+ 2 small mods using new interior tiles for the In_ImpBig set making larger open areas possible.
+
+[**Severa Magia DB Fix**](https://www.nexusmods.com/morrowind/mods/45647) by [Corsair83](https://www.nexusmods.com/morrowind/users/23131859)\
+ Updates Severa Magia's hideout to look and feel more like a DB sanctuary.
 
 ## Ashlands
 
 ⭐ [**OAAB - The Ashen Divide**](https://www.nexusmods.com/morrowind/mods/49047)\
  Transforms the Ashlands pass between Seyda Neen and Balmora.
-
-⭐ [**Foyada Mamaea Overhaul**](https://www.nexusmods.com/morrowind/mods/46424)\
- Completely overhauls Foyada Mamaea.
-
-⭐ [**Mamaea Awakened**](https://www.nexusmods.com/morrowind/mods/46096)\
- In vanilla Morrowind, Mamaea is a dull maze of caves with nothing remarkable about them aside from the spine of bone down the center of the cavern network. This mod aims to make Mamaea a more memorable visit for the player.
 
 ⭐ [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423)\
 To align with what the in-game dialogue suggests, the entrance to the Cavern of the Incarnate will now only be visible during the magical hours of twilight.
@@ -199,6 +202,24 @@ To align with what the in-game dialogue suggests, the entrance to the Cavern of 
 
 [**Ashlander Traders - Remastered**](https://www.nexusmods.com/morrowind/mods/48009)\
  Brother Juniper's excellent Ashlander Traders mod, edited for compatibility and extra dialogue. Adds Ashlander Traders who will sometimes appear in Balmora, Ald-ruhn, or Suran.
+
+[**Salt Gems of Bensamsi**](https://www.nexusmods.com/morrowind/mods/45126) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
+ His methods are atypical, but an Argonian in the Sixth House base of Bensamsi has discovered a way to create soul gems from ash salts. Talk to Heem-La in the Ald-ruhn Guild of Mages about research opportunities if you would like to learn more.
+
+[**Cavern Of The Incarnate Overhaul**](https://www.nexusmods.com/morrowind/mods/42860)\
+ Cavern of the Incarnate overhaul + optional pluginless replacer of the cavern and the statue meshes
+
+[**The Beacon of St Rilms**](https://www.nexusmods.com/morrowind/mods/49515)\
+ Along the path between Ald-Ruhn and Ghostgate is a place of rest for those walking their pilgrimage, owned and operated by House Redoran as a gift to the people.
+
+[**Valley of the Wind Atmospheric Enhancements**](https://www.nexusmods.com/morrowind/mods/49515) by [Lucevar](https://www.nexusmods.com/morrowind/users/3099525)\
+ According to Ashlander dialogue, the Valley of the Wind is rarely travelled because the spirits there are restless. This mod adds haunting sound effects and removes fences from the Valley of the Wind, because really - who would bother to put them there?
+
+[**Mandas Manor**](https://www.nexusmods.com/morrowind/mods/49911) by [EndoranWest](https://www.nexusmods.com/morrowind/users/44230747)\
+ This mod adds in the Mandas family manor, which was mentioned in Delyna Mandas' dialogue but never seen in-game.
+
+[**Sarandas Family Hearth**](https://www.nexusmods.com/morrowind/mods/48056) by [EndoranWest](https://www.nexusmods.com/morrowind/users/44230747)\
+ The Sarandas estate is no longer a measly one-room hut. The house is now made more fitting of the family's reputation
 
 ## Azura's Coast
 
@@ -220,6 +241,24 @@ To align with what the in-game dialogue suggests, the entrance to the Cavern of 
 [**The Telvanni Ward Keepers**](https://www.nexusmods.com/morrowind/mods/50078)\
 Near Sadrith Mora is a series of ancient pillars, rumoured to be a long abandoned prototype of the Ghostfence built by a young Sotha Sil and now adopted by House Telvanni. Though nowhere near as great as the true Ghostfence they at least slow the spread of the blight winds, keeping the Telvanni mainland safe.
 
+[**The Corprusarium experience**](https://www.nexusmods.com/morrowind/mods/49738) by [Vegetto88](https://www.nexusmods.com/morrowind/users/4655319)\
+  Overhaul of the corprusarium, making it the creepy place it was meant to be.
+
+[**RR Mod Series - Melchiors Mudcrab Merchant**](https://www.nexusmods.com/morrowind/mods/42685)\
+This mod is a model and texture replacer for the Mudcrab Merchant, making him stand out against the other mudcrabs in a classy way.
+
+[**Stormkiss Reforged**](https://www.nexusmods.com/morrowind/mods/44565)\
+ This mod overhauls the burial of Olmgerd the Outlaw with proper Journal Indexing, a new armor set, and a remake of Storm Kiss.
+
+[**Moody Magas Volar**](https://www.nexusmods.com/morrowind/mods/49789)\
+  A complete overhaul of Magas Volar.
+
+[**Forge of Hilbongard**](https://www.nexusmods.com/morrowind/mods/43222)\
+ This little mod tweaks the Forge of Hilbongard slightly to make it a little more unique. The pictures show pretty much all the current changes.
+
+[**RR Mod Series - Telvanni Lighthouse Tel Branora**](https://www.nexusmods.com/morrowind/mods/42664)\
+ This mod adds a Telvanni style Lighthouse to Tel Branora.
+
 ## Bitter Coast
 
 ⭐ [**Glowbugs**](https://www.nexusmods.com/morrowind/mods/50538) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
@@ -235,13 +274,69 @@ Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout
 [**Andrano Ancestral Tomb Remastered**](https://www.nexusmods.com/morrowind/mods/44672)\
  An overhaul for the second main quest and its associated dungeon.
 
+[**Consequences for Looting the Andrano Tomb**](https://www.nexusmods.com/morrowind/mods/49728) by [AliceL93](https://www.nexusmods.com/morrowind/users/4709296)\
+ There will be visible consequences for looting the Andrano Ancestral Tomb as part of the Main Quest now. Part of the May Modathon Month.
+
 [**Samarys Ancestral Tomb Expanded**](https://www.nexusmods.com/morrowind/mods/45612)\
  An ancient burial lies in ruins outside of Seyda Neen – the few who know of the secrets it holds guard them closely, and the tomb lays all but forgotten.
+
+[**Hlormaren Reclaimed - Slightly Improved**](https://www.nexusmods.com/morrowind/mods/47301) by [AliceL93](https://www.nexusmods.com/morrowind/users/4709296)\
+ You encounter an old knight outside Hla Oad, with a seemingly menial quest for you - to clear out the bandits in Hlormaren. Little do you know there is more to this old knight and his motives than you expected...
+
+[**Justice for Khartag (J.F.K.)**](https://www.nexusmods.com/morrowind/mods/49832) by [Vegetto88](https://www.nexusmods.com/morrowind/users/4655319)\
+ Changes Khartag Point making it the high peak described in the in-game dialogues.
+
+[**JOf Dungeons and Abodes**](https://www.nexusmods.com/morrowind/mods/44253) by [darkelfguy](https://www.nexusmods.com/morrowind/users/19250)\
+A distraught nephew, a missing uncle, a manor slowly sinking into the swamps of the Bitter Coast, and numerous secrets and hidden dungeons lurking just beneath the surface. Do you have what it takes to tame Velodil Manor and claim it as your own? Of Dungeons and Abodes is a dungeon delving, quest story telling, house building mod.
+
+[**Expedition to Mzelthuand**](https://www.nexusmods.com/morrowind/mods/45229) by **Greatness7 - Melchior Dahrk - TheDrunkenMudcrab**\
+ Off the shoreline of the Bitter Coast region, a Dwemer Ruin has appeared. Take up your spells and delve into the deepest and darkest of Dwemer mysteries within an enigmatic study facility that holds far more than it lets on.
+
+* Files to install:
+  * **Expedition to Mzelthuand** (Main files)
+  * **Expedition to Mzelthuand - Cleaned Melchior Dahrk** (Optional files)
+
+[**Morrowind Swamp Trees**](https://www.nexusmods.com/morrowind/mods/48112) by [Vegetto88](https://www.nexusmods.com/morrowind/users/4655319)\
+ Reworks MD Grath trees in Bitter Coast to make them more vanilla friendly.
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 Core
+  * [x] 02 Huge Roots trees variation
+
+[**Seamless abandoned shack**](https://www.nexusmods.com/morrowind/mods/49527) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
+ Seamless Abandoned shack built in the exterior cell.
 
 ## Grazelands
 
 ⭐ [**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  This mod is an overhaul of Vos and Tel Vos, the land surrounding them, the two nearby egg mines, covering a large portion of the northern Grazelands. Currently, the mod does not cover the entire Grazelands region, but additional work is planned in future updates. The mod includes 16+ new quests with approximately 18,000 words of dialogue.
+
+[**RR Mod Series - Telvanni Lighthouse Tel Vos**](https://www.nexusmods.com/morrowind/mods/48112)\
+ This mod adds a Telvanni style Lighthouse not far from Tel Vos and Tel Mora.
+
+* Files to install:
+  * **Telvanni Lighthouse - Tel Vos** (Main files)
+  * **Telvanni Lighthouse - Tel Vos Patch** (Update files)
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 - Main Files
+  * [x] 01 - Main Files GITD Patch
+  * [x] 02 - Main ESP - English
+
+[**Better Dwemer Interiors**](https://www.nexusmods.com/morrowind/mods/50193)\
+Overhauls Dwemer ruins so that they are more memorable, more fun to explore, and ultimately more rewarding without being unbalanced or overcluttered.
+
+* Files to install:
+  * **BDI - Nchuleft** (Main files)
+  * **Better Dwemer Interiors Master** (Update files)
+  * **BDI master update** (Update files)
+
+[**Fixed Falensarano**](https://www.nexusmods.com/morrowind/mods/50193)\
+This is a small edit to the mod Falensarano - The ruined stronghold where landscape edits have been removed for compatibility.
+There were also dirty edits that have been removed and some small tweaks here and there.
+
+* Files to install:
+  * **Fixed Falensarano** (Main files)
 
 ## Molag Amur
 
@@ -255,6 +350,12 @@ A very good place to view the flying airship is from the northeast corner of the
 [**Maren's Misfit Mabrigash**](https://www.nexusmods.com/morrowind/mods/48709)\
  Explore a revamped Maren Ancestral Tomb in search of a mysterious Ashlander outcast. Part of the Summer Modjam 2020.
 
+ [**Marandus Rebuilt**](https://www.nexusmods.com/morrowind/mods/49522) by [EndoranWest](https://www.nexusmods.com/morrowind/users/44230747)\
+The once generic stronghold of Marandus has now been given a facelift to truly show that it's now a Redoran conquest.
+
+ [**Ashunartes Overhaul**](https://www.nexusmods.com/morrowind/mods/50049)\
+ This mod overhauls the shrine of Ashunartes, adding more to explore.
+
 ## Sheogorad
 
 ⭐ [**Nordic Dagon Fel**](https://www.nexusmods.com/morrowind/mods/49603) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
@@ -266,13 +367,22 @@ Small expansion to the mushroom grove near Dagon Fel.
 ⭐ [**Gray North - Ruined Redaynia**](https://www.nexusmods.com/morrowind/mods/49862) by [Anumaril21](https://www.nexusmods.com/morrowind/users/60236996)\
  Implements the cut village of Ald Redaynia and overhauls the nearby Velothi tower it's named for, expanding on existing content as well as adding an optional unmarked quest.
 
-[**Ancient Foes**](https://www.nexusmods.com/morrowind/mods/44705)\
+[**Ancient Foes**](https://www.nexusmods.com/morrowind/mods/44705) by [darkelfguy](https://www.nexusmods.com/morrowind/users/19250)\
 To the west and slightly north of Dagon Fel, you'll find a small cottage along the shores of the Sheogorad, where a young Nord spends his days longing for home. Will you help him find what he seeks? Or will you be the instrument of his destruction?
 
-[**Sanctus Shrine**](https://www.nexusmods.com/morrowind/mods/47841)\
+[**Sanctus Shrine**](https://www.nexusmods.com/morrowind/mods/47841) by [hater8](https://www.nexusmods.com/morrowind/users/57926276)\
  Minor cosmetic changes to the Sanctus Shrine.
 
-[**Spines of Madness**](https://www.nexusmods.com/morrowind/mods/50947)\
+[**Dagon Fel Mill Redux**](https://www.nexusmods.com/morrowind/mods/50067) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
+ Cleaned, fixed and improved version of the Dagon Fel Mill mod
+
+[**Ashmelech Reborn**](https://www.nexusmods.com/morrowind/mods/45648) by [istred](https://www.nexusmods.com/morrowind/users/2476481)\
+ This mod improves Ashmelech from being a largely empty ruin to a place worthy of being the clansted of the Aundae. More furniture, lights, services. 
+
+[**The Weary Vampire**](https://www.nexusmods.com/morrowind/mods/49774) by [OperatorJack](https://www.nexusmods.com/morrowind/users/61791411)\
+ This mod overhauls Drethan Ancestral Tomb, transforming it into a much larger location that can be used as a player home after completing the quest, "The Weary Vampire."
+
+[**Spines of Madness**](https://www.nexusmods.com/morrowind/mods/50947) by [malbogatra](https://www.nexusmods.com/morrowind/users/3785301)\
  A new look for Sheogorad - a gloomy, deserted and abandoned region on the edge of the inhabited world.
 
 ## West Gash
@@ -287,8 +397,26 @@ To the west and slightly north of Dagon Fel, you'll find a small cottage along t
 ⭐ [**Caldera Mine Expanded**](https://www.nexusmods.com/morrowind/mods/45194) by **Greatness7 - Melchior Dahrk - TheDrunkenMudcrab**
  This mod expands Caldera Mine in every way possible. New quests (Including a Great House quest for all three Great Houses), new NPCs, new side quests, an expanded exterior and interior, and overall a completely lore-friendly revamp of Caldera Mine.
 
+⭐ [**Foyada Mamaea Overhaul**](https://www.nexusmods.com/morrowind/mods/46424) by [Remiros(Flash3113)](https://www.nexusmods.com/morrowind/users/899234)\
+ Completely overhauls Foyada Mamaea.
+
+⭐ [**Mamaea Awakened**](https://www.nexusmods.com/morrowind/mods/46096) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
+ In vanilla Morrowind, Mamaea is a dull maze of caves with nothing remarkable about them aside from the spine of bone down the center of the cavern network. This mod aims to make Mamaea a more memorable visit for the player.
+
+[**The Island - Aln'Baldrahn**](https://www.nexusmods.com/morrowind/mods/43187) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
+ This mod adds a beautiful new island to the West Gash Region near Khuul. I actually made this mod as my interior/exterior showcase for the Tamriel Rebuilt project but I spent so much time on it and I liked it so much that I thought I would release it here for others to enjoy.
+
+[**Berandas Overhaul**](https://www.nexusmods.com/morrowind/mods/48236) by [seelof](https://www.nexusmods.com/morrowind/users/4139826)\
+ This mod overhauls and slightly expands the old Dunmer fortress Berandas near Gnisis. Daedra have claimed Berandas, but other than the few roaming Daedra themselves there is not much evidence of the corruption. With this mod, old daedric structures have risen from the deep to transform the fortress into a proper daedric stronghold.
+
 [**Vorar Helas' Basement**](https://www.nexusmods.com/morrowind/mods/49313)\
  Adds a basement to Vorar Helas' house, with a small skooma (alchemy) lab, a bookshelf and some storage.
+
+[**Windmill in Caldera v1.0**](https://mw.modhistory.com/download-80-6218) by **ayse**\
+This mod add two charming windmill immediately northwest of Caldera. You simply can't miss them. Inside the mill is a simple hammock if you need a free nap.
+
+[**Andasreth Stronghold - dungeon and exterior overhaul**](https://www.nexusmods.com/morrowind/mods/46604)\
+ Rebuilds Andasreth stronghold and its exterior area.
 
 ## Solstheim
 
