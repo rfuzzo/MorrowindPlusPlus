@@ -183,19 +183,11 @@ In-game menu allowing you to edit any Game Setting on the run. Useful to replace
 ⭐ [**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034)\
 A lua-based framework that allows you to easily create new skills in Morrowind with just a few lines of code. This framework is a pre-requisite for **Ashfall**.
 
-⭐ [**Ashfall - A Camping Survival and Needs Mod**](https://www.nexusmods.com/morrowind/mods/49057)\
+⭐ [**Ashfall - A Camping Survival and Needs Mod**](https://www.nexusmods.com/morrowind/mods/49057) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
 A survival mod with hunger, thirst, tiredness, cooking, camping and temperature mechanics, as well as incredible new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack. Additionally implements the possibility of contracting blight diseases while out in a blight storm. A detailed guide for the mod [**can be found here**](https://github.com/jhaakma/ashfall/wiki).
 
-{% hint style="info" %}
-[**External Link**](https://github.com/jhaakma/ashfall/releases) to the beta version on GitHub.
-{% endhint %}
-
-⭐ [**Crafting Framework**](https://github.com/jhaakma/crafting-framework/releases)\
+⭐ [**The Crafting Framework**](https://www.nexusmods.com/morrowind/mods/51009) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
 A crafting framework for Morrowind, allowing other mods to register recipes, crafting materials and crafting stations.
-
-{% hint style="info" %}
-[**External Link**](https://github.com/jhaakma/crafting-framework/releases) to the beta version on GitHub.
-{% endhint %}
 
 [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904)\
 Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
