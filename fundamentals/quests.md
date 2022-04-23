@@ -205,3 +205,10 @@ A lore-friendly quest mod based on an in-game book brought to life, with dungeon
 
 [**Camonna Tong**](https://www.nexusmods.com/morrowind/mods/50740) by [Caeris](https://www.nexusmods.com/morrowind/users/43442372)\
  Begin a tale about the largest criminal organization in Morrowind, the Camonna Tong. Vye for power in all influences of society by working together with the likes of Orvas Dren, the Kingpin.
+
+[**Of Justice and Innocence**](https://www.nexusmods.com/morrowind/mods/34046)\
+ In the small village of Dagon Fel there lives a woman by the name of Rinida Honwyer. She claims her poor, sweet innocent brother has been kidnapped by smugglers. This unfortunate outcome is a result of an unlikely series of events and her poor brother's own naivety. Now Rinida fears for her brothers life, sure that these smugglers mean nothing
+
+ * Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
+  * [x] `OJAI - Framerate Version.esp`
+

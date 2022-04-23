@@ -261,6 +261,14 @@ Adds several changes to the Tribunal cuirass replacers to make them more consist
 
 ## Misc
 
+⭐ [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957)\
+Makes road signs legible. Uses high resolution vanilla-friendly textures.
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 Meshes
+  * [x] 01 Textures - High Resolution
+  * [x] 02 ESP - Vvardenfell only
+
 ⭐ [**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863)\
 Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
 
@@ -339,3 +347,12 @@ Mesh and texture replacer for Tribunal shrines; no more distorted Temple imagery
 * Files to install:
   * **Shrines - main file**
   * **Shrines - TR add-on** (Optional files)
+
+[**Qwerty's Various Graphics - Bridgeropes**](https://www.nexusmods.com/morrowind/mods/46026?)\
+Retexture of bridgeropes.
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 01 Dark
+
+[**R-Zero's Throbbing Meat - A Corprus Meat Replacer**](https://www.nexusmods.com/morrowind/mods/45339)\
+Replaces corprus meat models with animated, twitching ones ones.
