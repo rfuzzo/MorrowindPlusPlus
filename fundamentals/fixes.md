@@ -28,12 +28,13 @@ Unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition t
 ⭐ [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931) by [PikachunoTM](https://www.nexusmods.com/morrowind/users/16269634)\
 Fixes many issues present in Bethesda's original Official Plugins.
 
-* Files to install:
-  * **UMOPP 3.1.0** (Main files)
-
-* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
-  * [x] `bcsounds.esp`
-  * [x] `master\_index.esp`
+* On BAIN installation, check the following options:
+  * **Merged or Individual** -> UMOPP Merged
+  * **Compatibility Version** -> Yes
+  * **Install Better Armor Compatibility** > No
+  
+⭐ [**Bethesda Official Plugins Naturalized**](https://www.nexusmods.com/morrowind/mods/51107) by [PikachunoTM](https://www.nexusmods.com/morrowind/users/16269634)\
+ Implementation of Bethesda's Official Plugins with some slightly improved implementation. Uses UMOPP as a base.
 
 ⭐ [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
 Forces the game to instantly close on exit.
@@ -43,12 +44,6 @@ Provides an in-game HUD element which warns the player as the game approaches cr
 
 ⭐ [**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
 Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to.
-
-[**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
-Alternative version of the official plugin adding new arrows that explode on impact. Tweaked to distribute arrows across leveled lists and vendors instead of dumping them all in one shop.
-
-* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
-  * [x] `Area Effect Arrows Integrated.ESP`
 
 [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364) by [PikachunoTM](https://www.nexusmods.com/morrowind/users/16269634)\
 The Warp Script for the Propylon Indices will now prompt you before teleporting.
@@ -122,9 +117,6 @@ Adds the missing master trainer for Medium Armor, Cinia Urtius.
 {% hint style="info" %}
 This omits the restoration of Hecerinde's Secret Master tools from [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068), for consistency with the rest of the Secret Master tools unavailable in the game.
 {% endhint %}
-
-[**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
-Alternative version of the official plugin adding Adamantium Armor to Vvardenfell. Tweaked to place one copy of each piece (minus the helmet) across the island.
 
 [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
 Allows travel to Mournhold before the Dark Brotherhood attacks begin.
