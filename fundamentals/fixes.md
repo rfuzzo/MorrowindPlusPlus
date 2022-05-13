@@ -20,6 +20,12 @@
   * [x] 00 Core
   * [x] 01 Faction Integration
 
+⭐ [**Skyrim Home Of The Nords**](https://www.nexusmods.com/morrowind/mods/44921)\
+The Imperial Legion maintains a border wall between Dragonstar East, ruled by Jarl Jona the Ansei-Ender, and Dragonstar West, a Crown holding surrounded almost entirely by the Kingdom of the Reach.  Residents of the cities are forbidden from crossing the wall due to threats of constant violence, something they know too well.  Outside the cities, life goes on for the Reachmen of the Alovach and Taliesinn tribes; however, they keep one ear to the ground. If war were to again break out in Dragonstar, they would inevitably be dragged in...
+
+⭐ [**Province Cyrodiil**](https://www.nexusmods.com/morrowind/mods/44922)\
+Set almost exactly between the great ports of Cyrodiil, Hammerfell, Valenwood and Summerset, the isle of Stirk offers a safe harbor to the many trade ships that sail on the wide Abecean Sea. Though poor and provincial compared to the mighty cities of Cyrodiil, the island thrives on passing trade and the rich fishing grounds that surround it.
+
 ## Bug fixes
 
 ⭐ [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096) by [half11](https://www.nexusmods.com/morrowind/users/36879320)\
@@ -65,6 +71,9 @@ Carries over unique item information, such as condition and script data when enc
 
 ⭐ [**Fortify MAX**](https://www.nexusmods.com/morrowind/mods/49825) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
 Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the current stat.
+
+⭐ [**Attribute Effect Tweaks**](https://www.nexusmods.com/morrowind/mods/51161) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
+Tweaks how Restore/Damage Attribute works on the player. Required by certain mods. No meaningful gameplay effect on its own.
 
 [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947) by [Petetehgoat](https://www.nexusmods.com/morrowind/users/25319994)\
 Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.

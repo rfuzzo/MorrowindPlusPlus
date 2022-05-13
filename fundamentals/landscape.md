@@ -76,11 +76,6 @@ Fireflies have landed on Vvardenfell
 ⭐ [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
 Adds a visual effect to all vanilla flies sound emitters.
 
-* On MO2 installation, check the following options in the BAIN installer:
-  * [x] 00 Core
-  * [x] 01 Glowbugs BC
-  * [x] 02 Glowbugs AI
-
 ⭐ [**Nocturnal Moths**](https://www.nexusmods.com/morrowind/mods/44148) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
  Adds moths flying around some of the lanterns at night.
 
@@ -212,7 +207,7 @@ To align with what the in-game dialogue suggests, the entrance to the Cavern of 
 [**The Beacon of St Rilms**](https://www.nexusmods.com/morrowind/mods/49515)\
  Along the path between Ald-Ruhn and Ghostgate is a place of rest for those walking their pilgrimage, owned and operated by House Redoran as a gift to the people.
 
-[**Valley of the Wind Atmospheric Enhancements**](https://www.nexusmods.com/morrowind/mods/49515) by [Lucevar](https://www.nexusmods.com/morrowind/users/3099525)\
+[**Valley of the Wind Atmospheric Enhancements**](https://www.nexusmods.com/morrowind/mods/47563) by [Lucevar](https://www.nexusmods.com/morrowind/users/3099525)\
  According to Ashlander dialogue, the Valley of the Wind is rarely travelled because the spirits there are restless. This mod adds haunting sound effects and removes fences from the Valley of the Wind, because really - who would bother to put them there?
 
 [**Mandas Manor**](https://www.nexusmods.com/morrowind/mods/49911) by [EndoranWest](https://www.nexusmods.com/morrowind/users/44230747)\
@@ -264,6 +259,11 @@ This mod is a model and texture replacer for the Mudcrab Merchant, making him st
 ⭐ [**Glowbugs**](https://www.nexusmods.com/morrowind/mods/50538) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 Adds firefly-like insects called glowbugs across the Bitter Coast region which come out on calm nights. They can be caught by the agile adventurer and their thorax makes a quality component in potions of Light.
 
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 Core
+  * [x] 01 Glowbugs BC
+  * [x] 02 Glowbugs AI
+
 ⭐ [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout region which appears during the night and certain weather conditions. It will burn off in the morning sun.
 
@@ -296,7 +296,7 @@ A distraught nephew, a missing uncle, a manor slowly sinking into the swamps of 
   * **Expedition to Mzelthuand** (Main files)
   * **Expedition to Mzelthuand - Cleaned Melchior Dahrk** (Optional files)
 
-[**Morrowind Swamp Trees**](https://www.nexusmods.com/morrowind/mods/48112) by [Vegetto88](https://www.nexusmods.com/morrowind/users/4655319)\
+[**Morrowind Swamp Trees**](https://www.nexusmods.com/morrowind/mods/50151) by [Vegetto88](https://www.nexusmods.com/morrowind/users/4655319)\
  Reworks MD Grath trees in Bitter Coast to make them more vanilla friendly.
 
 * On MO2 installation, check the following options in the BAIN installer:
@@ -311,7 +311,7 @@ A distraught nephew, a missing uncle, a manor slowly sinking into the swamps of 
 ⭐ [**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  This mod is an overhaul of Vos and Tel Vos, the land surrounding them, the two nearby egg mines, covering a large portion of the northern Grazelands. Currently, the mod does not cover the entire Grazelands region, but additional work is planned in future updates. The mod includes 16+ new quests with approximately 18,000 words of dialogue.
 
-[**RR Mod Series - Telvanni Lighthouse Tel Vos**](https://www.nexusmods.com/morrowind/mods/48112)\
+[**RR Mod Series - Telvanni Lighthouse Tel Vos**](https://www.nexusmods.com/morrowind/mods/42744)\
  This mod adds a Telvanni style Lighthouse not far from Tel Vos and Tel Mora.
 
 * Files to install:
@@ -331,7 +331,7 @@ Overhauls Dwemer ruins so that they are more memorable, more fun to explore, and
   * **Better Dwemer Interiors Master** (Update files)
   * **BDI master update** (Update files)
 
-[**Fixed Falensarano**](https://www.nexusmods.com/morrowind/mods/50193)\
+[**Fixed Falensarano**](https://www.nexusmods.com/morrowind/mods/48683)\
 This is a small edit to the mod Falensarano - The ruined stronghold where landscape edits have been removed for compatibility.
 There were also dirty edits that have been removed and some small tweaks here and there.
 

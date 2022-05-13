@@ -31,13 +31,13 @@ This is Animated Morrowind - merged by Abot, made compatible with my town overha
 [**Walkers of Morrowind**](https://www.nexusmods.com/morrowind/mods/49889)\
  Allows npcs in the wilderness who were given an AIWander package to actually wander within their cell.
 
-[**Corprus Natives**](https://www.nexusmods.com/morrowind/mods/49848)\
+[**Corprus Natives**](https://www.nexusmods.com/morrowind/mods/45674) by [rotat](https://www.nexusmods.com/morrowind/users/40752190)\
 Replaces the Corprus Stalker with a Dunmer version. For those who dislike that it's a human zombie with ears tacked on, despite its excellent animations. Lame Corprus also edited for consistency.
 
 * Files to install:
   * **Corprus Natives**
 
-[**Ghost Revenge**](https://www.nexusmods.com/morrowind/mods/49848)\
+[**Ghost Revenge**](https://www.nexusmods.com/morrowind/mods/45674) by [rotat](https://www.nexusmods.com/morrowind/users/40752190)\
 Newly murdered characters are now drawn to the tombs of their ancestors. You will meet your victims again.
 
 * Files to install:
