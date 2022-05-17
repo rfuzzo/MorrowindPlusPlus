@@ -15,6 +15,8 @@ This needs to be installed before BCOM
 
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Core
+  * [x] 01 Haalu Council Hall Plaza - Izy Style
+  * [x] 02 Riverside - Simple Cluttering
   * [x] 03 Plaza Weather Mechanics (MWSE) - Required
   * [x] 05 White Suran
 
@@ -475,6 +477,9 @@ Allows installation of the Skyrim-like Trees option without having to install th
 
  ⭐ [**The Stone Halls of Solstheim - Reforged**](https://www.nexusmods.com/morrowind/mods/49841) by [Corsair83](https://www.nexusmods.com/morrowind/users/23131859)\
  A complete rebuilt of Bloodmoon barrows.
+
+* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
+  * [x] `Stone Halls of Solstheim - Mortified.ESP`
 
 ## Mournhold
 

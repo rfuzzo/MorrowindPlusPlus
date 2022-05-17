@@ -78,8 +78,11 @@ Tweaks how Restore/Damage Attribute works on the player. Required by certain mod
 [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947) by [Petetehgoat](https://www.nexusmods.com/morrowind/users/25319994)\
 Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
 
-[**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
+⭐ [**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
 Dropped items and corpses are automatically positioned and oriented to align with the ground.
+
+⭐ [**Perfect Placement**](https://www.nexusmods.com/morrowind/mods/46562) by [Hrnchamd](https://www.nexusmods.com/morrowind/users/843673)\
+Adds interactive placement, rotation and wall mounting of items. Arrange gear, books and anything else you can pick up. Requires MWSE 2.1.
 
 [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
 Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
