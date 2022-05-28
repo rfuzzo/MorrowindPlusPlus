@@ -95,6 +95,9 @@ Note that users often forget about installing this mod, leading to questions on 
 [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586)\
 Adds entrance bell chimes with sound effects to imperial town tradehouses and taverns.
 
+[**Creature VFX restoration**](https://www.nexusmods.com/morrowind/mods/46194)\
+ Restores visual effects on creatures.
+
 ## Music
 
 [**MUSE 2 - Morrowind Music System Extended**](https://www.nexusmods.com/morrowind/mods/46200)\
@@ -106,3 +109,12 @@ Fixes a number of bugs with the original mod, and optimizes it by removing air/u
 {% hint style="info" %}
 [**External Link**](https://github.com/rfuzzo/MorrowindPlusPlus/raw/main/assets/MUSE%202.0.2%20Necro-Sig%20Edit.7z) to the download.
 {% endhint %}
+
+[**MUSE Music Expansion - Sixth House**](https://www.nexusmods.com/morrowind/mods/51082)\
+A 6th House music expansion of original tracks for the Morrowind MUSE mod, created using modern production techniques. Featuring 5 new exploration tracks, 4 new combat tracks, and 1 boss fight track.
+
+[**MUSE Music Expansion - Ashlander**](https://www.nexusmods.com/morrowind/mods/51255)\
+An Ashlander music expansion of original tracks by be created for the Morrowind MUSE mod. Featuring 4 new exploration tracks, 3 new combat tracks, and a special location track that plays in the Cavern of the Incarnate.
+
+[**MUSE Music Expansion - Dwemer**](https://www.nexusmods.com/morrowind/mods/51169)\
+A Dwemer music expansion of original tracks by be created for the Morrowind MUSE mod. Featuring 5 new exploration tracks and 4 new combat tracks.

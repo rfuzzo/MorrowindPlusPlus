@@ -109,9 +109,6 @@ Now there is a proper structure to House Hlaalu, with actual governers for Suran
 
 ## Factions
 
-[**More Exclusive Factions**](https://www.nexusmods.com/morrowind/mods/49618)\
-Some factions will now refuse you membership if you have already joined other factions that they disapprove of. Others will make you jump through some extra hoops if you're a member of a faction they dislike.
-
 ⭐ [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843)\
 Fleshes out the Imperial Cult and the Tribunal Temple.
 
@@ -149,6 +146,9 @@ Most Daedric quests can be started only on the Daedric Prince's summoning day - 
 
 [**Thelas' Pillows Overhaul**](https://www.nexusmods.com/morrowind/mods/47379)\
 Overhauls the vanilla quest, Thelas' Pillows, with bugfixes, new options, and other things.
+
+[**Even More Mysterious Killings in Vivec**](https://www.nexusmods.com/morrowind/mods/49661)\
+The Mysterious Killings in Vivec quest now has a new reward and some more flavour for the murderer.
 
 ## Add-ons
 
@@ -209,6 +209,8 @@ A lore-friendly quest mod based on an in-game book brought to life, with dungeon
 [**Of Justice and Innocence**](https://www.nexusmods.com/morrowind/mods/34046)\
  In the small village of Dagon Fel there lives a woman by the name of Rinida Honwyer. She claims her poor, sweet innocent brother has been kidnapped by smugglers. This unfortunate outcome is a result of an unlikely series of events and her poor brother's own naivety. Now Rinida fears for her brothers life, sure that these smugglers mean nothing
 
- * Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
+* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
   * [x] `OJAI - Framerate Version.esp`
 
+[**Aspect of Azura**](https://www.nexusmods.com/morrowind/mods/51079) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
+Adds a Daedric helm bearing the aspect of Azura which you can acquire through a new quest which starts at the Holamayan Monastery near the Shrine of Azura. Explore the hidden depths below the shrine to become the Champion of Azura!

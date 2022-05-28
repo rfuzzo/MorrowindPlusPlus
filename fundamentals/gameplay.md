@@ -14,8 +14,14 @@ Adds buttons to randomise race, appearance, class, and birthsign during characte
 ⭐ [**MWSE Character Creation Name Generator**](https://www.nexusmods.com/morrowind/mods/46189)\
 UI overhaul allowing generate random name for you character upon character creation.
 
+⭐ [**L.A.M.P. ---- Leftover Attribute Modifiers Persist**](https://www.nexusmods.com/morrowind/mods/51310)\
+ Saves any unused skill ups for the next time you level up. No ESP needed.
+
+⭐ [**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133)\
+A state-based health mod implemented in MWSE. Health is now calculated based on current endurance, strength and level.
+
 [**Ahead of the Classes**](https://www.nexusmods.com/morrowind/mods/50346)\
- Ahead of the classes makes many vanilla and TR classes playable and adds many new classes.
+Ahead of the classes makes many vanilla and TR classes playable and adds many new classes.
 
 [**Written in the Stars - a birthsign mod**](https://www.nexusmods.com/morrowind/mods/50378)\
 Each birthsign now has a few variants (including the original one) for a grand total of 40 new lore-friendly birthsigns.
@@ -23,18 +29,20 @@ Each birthsign now has a few variants (including the original one) for a grand t
 [**Class Starting Spells**](https://www.nexusmods.com/morrowind/mods/49010)\
 MWSE lua mod, which changes the distribution of starting spells and gives its own list of them for every class, depending on the its central theme. Requires Magicka Expanded.
 
-⭐ [**Improved Vanilla Leveling**](https://www.nexusmods.com/morrowind/mods/48065)\
-This mod attempts to preserve vanilla leveling mechanics while eliminating the need to micromanage skill and attribute increases in order to achieve optimal character progression.
-
-{% hint style="info" %}
-MCM: DISABLE Retroactive Health Calculation
-{% endhint %}
-
-⭐ [**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133)\
-A state-based health mod implemented in MWSE. Health is now calculated based on current endurance, strength and level.
-
 [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872)\
 Endurance determines how long you can hold your breath under water.
+
+[**Merlord's Character Backgrounds**](https://www.nexusmods.com/morrowind/mods/46795) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
+ Select from 27 different backgrounds, each with their own unique effects.
+
+[**mtrByTheDivines**](https://www.nexusmods.com/morrowind/mods/46795) by [MTRHasAlreadyBeenTaken](https://www.nexusmods.com/morrowind/users/88247468)\
+This mods adds a bunch of deities for player to choose from in a manner seen in Merlord's Character Backgrounds. Beliefs grant some simple abilities to the player, but it's mostly for purpose of role-playing. As such there are no restrictions in choosing your god, i.e. you can worship Hist as Orc if you want. It's your job to role-play 'correctly'.
+
+[**mtrLineage**](https://www.nexusmods.com/morrowind/mods/46795) by [MTRHasAlreadyBeenTaken](https://www.nexusmods.com/morrowind/mods/49996)\
+This mod adds many character lineages that can be selected after character generation.
+
+[**mtrCultures**](https://www.nexusmods.com/morrowind/mods/46795) by [MTRHasAlreadyBeenTaken](https://www.nexusmods.com/morrowind/mods/51282)\
+This mod adds character cultures that can be selected after character generation.
 
 ## Followers
 
@@ -56,12 +64,6 @@ Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and pr
 ⭐ [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)\
 Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
 
-[**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)\
-Tweaks bows so that they line up better with the sheathing animation.
-
-[**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)\
-Adds sheaths to weapons not covered by Weapon Sheathing.
-
 ⭐ [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)\
 Modifies critical strike coefficient depending on the weapon you use.
 
@@ -81,10 +83,28 @@ Opens up an entire new facet of gameplay by granting the ability to use potions 
 [**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251)\
 Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Optionally makes Unarmored fully focused on evading attacks.
 
+[**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473)\
+Tweaks bows so that they line up better with the sheathing animation.
+
+[**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)\
+Adds sheaths to weapons not covered by Weapon Sheathing.
+
+[**PvP**](https://www.nexusmods.com/morrowind/mods/51034)\
+A combat based on parries and dodges. Enemies fight almost like real players.
+
+[**Bleeding Injuries - MWSE**](https://www.nexusmods.com/morrowind/mods/51308) by [Spammer21](https://www.nexusmods.com/morrowind/users/140139148)\
+Going into a battle without proper armor will cause bleeding.
+
 ## Magic
 
-⭐ [**Mastering Magicka**](https://www.nexusmods.com/morrowind/mods/42269)\
- Skill in the magic schools boost Magicka proficiency, along with a variety of features.
+⭐ [**magickaMastery MWSE**]() by [Greatness7](https://www.nexusmods.com/morrowind/users/64030) and [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
+MWSE port of [Magicka Mastery](https://www.nexusmods.com/morrowind/mods/45058)
+
+⭐ [**MWSE Magicka Regen**](https://www.nexusmods.com/morrowind/mods/48129) by [Anumaril21](https://www.nexusmods.com/morrowind/users/60236996)\
+MWSE Magicka Regen provides functional and configurable magicka regeneration for the player, NPCs, and creatures within Morrowind.
+
+⭐ [**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330) by [JaceyS](https://www.nexusmods.com/morrowind/users/44686767)\
+Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
 
 ⭐ [**Miscast Enhanced**](https://www.nexusmods.com/morrowind/mods/47948)\
 Adds negative consequences to casting spells that are beyond the caster's abilities. Unique miscast effects for every vanilla magic effect.
@@ -183,17 +203,11 @@ In-game menu allowing you to edit any Game Setting on the run. Useful to replace
 ⭐ [**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034)\
 A lua-based framework that allows you to easily create new skills in Morrowind with just a few lines of code. This framework is a pre-requisite for **Ashfall**.
 
-⭐ [**Ashfall - A Camping Survival and Needs Mod**](https://www.nexusmods.com/morrowind/mods/49057) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
-A survival mod with hunger, thirst, tiredness, cooking, camping and temperature mechanics, as well as incredible new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack. Additionally implements the possibility of contracting blight diseases while out in a blight storm. A detailed guide for the mod [**can be found here**](https://github.com/jhaakma/ashfall/wiki).
-
 ⭐ [**The Crafting Framework**](https://www.nexusmods.com/morrowind/mods/51009) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
 A crafting framework for Morrowind, allowing other mods to register recipes, crafting materials and crafting stations.
 
-[**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904)\
-Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
-
-* Files to install:
-  * **Creeping Blight - MWSE Version** (Main files)
+⭐ [**Ashfall - A Camping Survival and Needs Mod**](https://www.nexusmods.com/morrowind/mods/49057) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
+A survival mod with hunger, thirst, tiredness, cooking, camping and temperature mechanics, as well as incredible new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack. Additionally implements the possibility of contracting blight diseases while out in a blight storm. A detailed guide for the mod [**can be found here**](https://github.com/jhaakma/ashfall/wiki).
 
 ⭐ [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581)\
 Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
@@ -204,11 +218,11 @@ Rebuilds stealth mechanics from the ground up, and makes sneaking a viable plays
 ⭐ [**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086)\
 Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Disposition, Admiration, Intimidation, and Taunt will be locked behind skill gates.
 
-[**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671)\
-The radius of a handheld light will gradually diminish and eventually go out when the light extinguishes.
+⭐ [**Buying Game**](https://www.nexusmods.com/morrowind/mods/50574)\
+Enhances Mercantile via new gameplay mechanics and UI elements. Includes new base pricing mechanic, regional pricing, value estimate, merchant specializations, forbidden goods, illicit trade, investing mechanics, and more.
 
-[**Real Fire Damage - MWSE Edition**](https://www.nexusmods.com/morrowind/mods/50927)\
-Makes fire sources damage the player when standing too close to them.
+⭐ [**Talking Matters (Speechcraft overhaul)**](https://www.nexusmods.com/morrowind/mods/49089)\
+This mod tries to make talking more inmersive by making it pass time, train speechcraft and generally giving NPCs a little more agency (being able to leave conversation if you talk too much or get offended if you fail to persuade them) on how the whole conversation business is handled.
 
 [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)\
 Modifies movement speeds when strafing or backpedaling so that they are more realistic. NPCs and players alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important.
@@ -237,6 +251,21 @@ Adds a feature-rich sprinting functionality to the game.
 [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783)\
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
 
+[**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904)\
+Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
+
+* Files to install:
+  * **Creeping Blight - MWSE Version** (Main files)
+
+[**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671)\
+The radius of a handheld light will gradually diminish and eventually go out when the light extinguishes.
+
+[**Real Fire Damage - MWSE Edition**](https://www.nexusmods.com/morrowind/mods/50927)\
+Makes fire sources damage the player when standing too close to them.
+
+[**Lucky Loot**](https://www.nexusmods.com/morrowind/mods/49839)\
+ Greater luck may grant you better loot
+
 [**Locks and Traps Detection**](https://www.nexusmods.com/morrowind/mods/48528)\
 Allows you to have a chance to successfully detect traps and locks based on your security skill and relevant attributes, with a formula similar to the vanilla game.
 
@@ -255,9 +284,6 @@ Makes it so that repair hammers can only be used by activating an anvil, and pro
 [**Realistic Repair - Add-on**](https://www.nexusmods.com/morrowind/mods/47461)\
 Adds new, immersive work stations throughout the world; search for new grindstones and workstations to repair and maintain your equipment. A rework of the optional plugin from Realistic Repair.
 
-⭐ [**Buying Game**](https://www.nexusmods.com/morrowind/mods/50574)\
-Enhances Mercantile via new gameplay mechanics and UI elements. Includes new base pricing mechanic, regional pricing, value estimate, merchant specializations, forbidden goods, illicit trade, investing mechanics, and more.
-
 [**Controlled Consumption (G7 - Sig- Necro Edit)**](https://www.nexusmods.com/morrowind/mods/49232) by [Lucas9](https://www.nexusmods.com/morrowind/users/14600469)\
 Provides a configurable restriction on the amount of potions and ingredients the player can drink at any one time, removing one of the largest exploits in the game.
 
@@ -271,5 +297,11 @@ Hostile NPCs and creatures' health, magic, and fatigue are reset to full when yo
 [**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373)\
 Creatures, NPCs and players alike affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time, preventing the spam of these effects for offensive purposes.
 
-[**Skoomaesthesia**](https://www.nexusmods.com/morrowind/mods/49920)\
+[**Skoomaesthesia**](https://www.nexusmods.com/morrowind/mods/49920) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
  Adds new skooma mechanics including animated skooma pipe smoking, psychedelic shaders and sound effects, and skooma addiction.
+
+[**Necrocraft - A Comprehensive Necromancy Gameplay And Quests Mod**](https://www.nexusmods.com/morrowind/mods/51211) by [VitruvianGuar](https://www.nexusmods.com/morrowind/users/34081875)\
+ Comprehensive modern day implementation of necromancy, using Skill Module, Magicka Expanded and Crafting Framework. Includes game mechanics overhaul, new quests and mysteries to solve, allowing to fully experience being the practicioner of a forbidden art of necromancy.
+
+[**Fence it - MWSE**](https://www.nexusmods.com/morrowind/mods/51329) by [Spammer21](https://www.nexusmods.com/morrowind/users/140139148)\
+ Tired of not being able to sell your diamonds to Nalcarya because of that stupid thieves guild quest? Give them to a pawnbroker and he will make them unrecognizable! For a price of course...

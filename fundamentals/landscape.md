@@ -155,7 +155,7 @@ Replaces the water in the Palace of Vivec's canals.
 [**ReadMe - Library of Vivec Overhaul**](https://www.nexusmods.com/morrowind/mods/49916)\
 This mod redesigns the Library of Vivec from scratch to make it look and feel like a true library, with many books added from Tamriel_Data and OAAB_Data for you to read. There are also new NPCs for you to interact with, and two new quests that set you on the hunt for a unique book the resource for which was provided by RubberMan.
 
-[**Glass Domes of Vivec - Performance-friendly Open-ish Cantons**](https://www.nexusmods.com/morrowind/mods/48935)\ 
+[**Glass Domes of Vivec - Performance-friendly Open-ish Cantons**](https://www.nexusmods.com/morrowind/mods/48935)\
 Replaces the tops of Vivec's cantons with "glass" domes, so that the plaza interiors are gloriously lit by daylight and aren't as miserable. They will react to weather and night time, ALSO.
 
 [**Glass Domes of Vivec - Moonrain Edition**](https://www.nexusmods.com/morrowind/mods/48946)\
@@ -308,6 +308,9 @@ A distraught nephew, a missing uncle, a manor slowly sinking into the swamps of 
 [**Seamless abandoned shack**](https://www.nexusmods.com/morrowind/mods/49527) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
  Seamless Abandoned shack built in the exterior cell.
 
+[**Shal Overgrown**](https://www.nexusmods.com/morrowind/mods/47219) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
+ Travel to Shal and discover its secrets: the once small cave is now overgrown and even reaches into the nearby Daedric ruin Ashurnibibi.
+
 ## Grazelands
 
 ⭐ [**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
@@ -369,6 +372,9 @@ Small expansion to the mushroom grove near Dagon Fel.
 ⭐ [**Gray North - Ruined Redaynia**](https://www.nexusmods.com/morrowind/mods/49862) by [Anumaril21](https://www.nexusmods.com/morrowind/users/60236996)\
  Implements the cut village of Ald Redaynia and overhauls the nearby Velothi tower it's named for, expanding on existing content as well as adding an optional unmarked quest.
 
+[**Gray North - Andavel-Assumanu**](https://www.nexusmods.com/morrowind/mods/51326) by [Anumaril21](https://www.nexusmods.com/morrowind/users/60236996)\
+ Overhauls the Andavel Ancestral Tomb and nearby Assumanu caverns, expanding on existing content as well as adding an optional objective.
+
 [**Ancient Foes**](https://www.nexusmods.com/morrowind/mods/44705) by [darkelfguy](https://www.nexusmods.com/morrowind/users/19250)\
 To the west and slightly north of Dagon Fel, you'll find a small cottage along the shores of the Sheogorad, where a young Nord spends his days longing for home. Will you help him find what he seeks? Or will you be the instrument of his destruction?
 
@@ -379,7 +385,7 @@ To the west and slightly north of Dagon Fel, you'll find a small cottage along t
  Cleaned, fixed and improved version of the Dagon Fel Mill mod
 
 [**Ashmelech Reborn**](https://www.nexusmods.com/morrowind/mods/45648) by [istred](https://www.nexusmods.com/morrowind/users/2476481)\
- This mod improves Ashmelech from being a largely empty ruin to a place worthy of being the clansted of the Aundae. More furniture, lights, services. 
+ This mod improves Ashmelech from being a largely empty ruin to a place worthy of being the clansted of the Aundae. More furniture, lights, services.
 
 [**The Weary Vampire**](https://www.nexusmods.com/morrowind/mods/49774) by [OperatorJack](https://www.nexusmods.com/morrowind/users/61791411)\
  This mod overhauls Drethan Ancestral Tomb, transforming it into a much larger location that can be used as a player home after completing the quest, "The Weary Vampire."
@@ -475,7 +481,7 @@ Allows installation of the Skyrim-like Trees option without having to install th
 ⭐ [**Interiors of Solstheim**](https://www.nexusmods.com/morrowind/mods/44451)\
  Enhances the interiors of the Skaal village and Thirsk by adding some miscellaneous objects.
 
- ⭐ [**The Stone Halls of Solstheim - Reforged**](https://www.nexusmods.com/morrowind/mods/49841) by [Corsair83](https://www.nexusmods.com/morrowind/users/23131859)\
+⭐ [**The Stone Halls of Solstheim - Reforged**](https://www.nexusmods.com/morrowind/mods/49841) by [Corsair83](https://www.nexusmods.com/morrowind/users/23131859)\
  A complete rebuilt of Bloodmoon barrows.
 
 * Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
@@ -502,6 +508,19 @@ Adds Imperial and Solstheim variants for the well mesh, blending in better with 
   * [ ] 01 Option 1 Vanilla
   * [x] 01 Option 2 STOTSP
 
+[**OAAB Pomegranates**](https://www.nexusmods.com/morrowind/mods/50726) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
+ Inspired by their mention of growing in the badlands of Morrowind in Sermon 12, a regional variety of pomegranates can now be found growing atop Mount Assarnibibi.
+
+[**OAAB Saplings**](https://www.nexusmods.com/morrowind/mods/50334) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
+ This mod places saplings from OAAB_Data in most regions on Vvardenfell.
+
+[**Get Wrecked**](https://www.nexusmods.com/morrowind/mods/51237)\
+Overhauls all shipwreck interiors with additional detail and individuality.
+
+* Files to install:
+  * **Get Wrecked 1.1** (Main files)
+  * **Uncharted Artifacts Compatibility Patch** (Optional files)
+
 ## Add-ons
 
  [**OAAB - Tel Raloran**](https://www.nexusmods.com/morrowind/mods/46841) by [Corsair83](https://www.nexusmods.com/morrowind/users/23131859)\
@@ -516,6 +535,22 @@ Adds Imperial and Solstheim variants for the well mesh, blending in better with 
 
  [**The Manifold Spires**](https://www.nexusmods.com/morrowind/mods/46128) by [PhDinSorcery](https://www.nexusmods.com/morrowind/users/8404526)\
  A mod that adds the Manifold Spires, a new landmass, and an associated quest.
+
+ [**Lyithdonea**](https://www.nexusmods.com/morrowind/mods/43749) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
+ Lyithdonea: The Azurian Isles is a landmass mod for Morrowind featuring a tropical paradise between Tamriel and Akavir. The mod has a strong influence from the Daedric Lord Azura with dusk and dawn themes and Azura being the focus of religion in the region. Explore a detailed new landmass, discover strange creatures, battle pirates, immerse in the
+
+{% hint style="info" %}
+[**Development Version can be found on github**](https://github.com/MelchiorDahrk/Lyithdonea) Download the files, zip them and install with MO2 to get a BAIN installer.
+{% endhint %}
+
+[**Anna-Sera**](https://www.nexusmods.com/morrowind/mods/51343)\
+ Anna-Sera is a ship located in the Sheogorad region. On board you will meet Sugar-Scales and his partner in crime, Zan'si.
+
+[**Water Life**](https://www.nexusmods.com/morrowind/mods/42417) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
+This plugin mainly adds to Morrowind (most) peaceful aquatic creatures.
+
+[**Journey's End - Tamriel Rebuilt Edition**](https://www.nexusmods.com/morrowind/mods/51320) by [PhDinSorcery](https://www.nexusmods.com/morrowind/users/8404526)\
+The island is located far to the east of Vvaardenfell. Beyond the mainland, between Necrom and Port Telvannis.
 
 ## Patches
 

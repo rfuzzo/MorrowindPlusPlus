@@ -1,5 +1,11 @@
 # UI
 
+⭐ [**Unstretched Videos**](https://www.nexusmods.com/morrowind/mods/50482) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
+Adds black bars to the sides of the vanilla game videos, including the Bloodmoon videos, so they won't appear stretched when playing in widescreen (16:9).
+
+[**Cutscenes Revamped - Cavern of the Incarnate**](https://www.nexusmods.com/morrowind/mods/49126)\
+A modern HD replacer for the Azura Cutscene that plays in the Cavern of the Incarnate. Works with Morrowind and OpenMW.
+
 ## Menus
 
 ⭐ [**Improved Main Menu**](https://www.nexusmods.com/morrowind/mods/50856)\
@@ -66,15 +72,27 @@ Replaces the effect seen on magic items in the inventory, allowing easier distin
 
 ## HUD
 
-⭐ [**Tamrielic Lore Tooltips**](https://www.nexusmods.com/morrowind/mods/45954)\
+⭐ [**Tamrielic Lore Tooltips**](https://www.nexusmods.com/morrowind/mods/45954) by [PhDinSorcery](https://www.nexusmods.com/morrowind/users/8404526)\
  Yagrum Bagarn's book Tamrielic Lore gives brief descriptions of the story behind several artifacts, all of which appear in-game. This mod adds excerpts from the book to the tooltips of each respective artifact.
 
-⭐ [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842)\
+⭐ [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842) by [Anumaril21](https://www.nexusmods.com/morrowind/users/60236996)\
  Tooltips Complete provides helpful and lore-friendly flavour texts for nearly every item in Morrowind, Tribunal, Bloodmoon, the Official Plugins, and an expanding collection of mods.
 
 * Files to install:
   * **Tooltips Complete** (Main files)
   * **Tamrielic Lore Exclusions** (Optional files)
+
+⭐ [**MWSE Compare Tooltips**](https://www.nexusmods.com/morrowind/mods/51087) by [rfuzzo](https://www.nexusmods.com/morrowind/users/16300749)\
+ This mod adds compare tooltips for looked-at or equipped items against the equipped item of the same category. The mod has multiple MCM options to configure the comparison style.
+
+⭐ [**MWSE Loading Splash Screens**](https://www.nexusmods.com/morrowind/mods/51076) by [rfuzzo](https://www.nexusmods.com/morrowind/users/16300749)\
+ This mod uses MWSE to display splash screens during cell loading instead of freezing the frame as vanilla does.
+
+⭐ [**Travel Tooltips**](https://www.nexusmods.com/morrowind/mods/48306) by [tewlwolow](https://www.nexusmods.com/morrowind/users/1152341)\
+ Adds tooltips with location descriptions and maps to travel menu.
+
+⭐ [**Accurate Tooltip Stats**](https://www.nexusmods.com/morrowind/mods/51354) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
+ Implements more accurate, context-dependent tooltip displays for weapon damage and armor ratings, using MWSE-lua.
 
 [**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267)\
 Provides configurable, dynamic crosshair indicators while sneaking and for essential NPCs, quest items, owned objects, and more. In addition, a variety of settings are included to manage how these aspects of the game work.
@@ -160,9 +178,6 @@ Renames propylon indexes so they'll group together in the inventory.
 ⭐ [**Soulgem Renamer**](https://www.nexusmods.com/morrowind/mods/49861)\
 Renames soulgems so they'll group together in the inventory.
 
-[**Give or Take**](https://www.nexusmods.com/morrowind/mods/50716)\
-Adds "Give" and "Take" buttons to any suitable actor/container, so you can easily move (all/all filtered) things in and out.
-
 [**No Thank You**](https://www.nexusmods.com/morrowind/mods/49681)\
 Adds a cancel button to Temple shrines and Imperial Cult altars.
 
@@ -174,9 +189,6 @@ Adds a hotkey for equipping a selected inventory item.
 ⭐ [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055)\
 Expands the amount of quick menu hotkeys available.
 
-⭐ [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723)\
-Adds a hotkey for summons, followers and companions to attack the selected target.
-
 ⭐ [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458)\
 Adds a hotkey for exiting any menu.
 
@@ -185,6 +197,9 @@ Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, orderi
 
 ⭐ [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747)\
 Adds a hotkey for equipping light sources, prioritizing already used lights.
+
+[**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723)\
+Adds a hotkey for summons, followers and companions to attack the selected target.
 
 [**Better Buoyancy**](https://www.nexusmods.com/morrowind/mods/48929)\
 Add hotkeys for swimming and levitating. Use the jump key to float upwards, and the sneak key to sink downwards.

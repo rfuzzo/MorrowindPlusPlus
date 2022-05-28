@@ -2,6 +2,22 @@
 
 ## Main
 
+⭐ [**OAAB\_Data**](https://www.nexusmods.com/morrowind/mods/49042)\
+Asset repository required for OAAB mods and Nordic Dagon Fel.
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 Core
+
+⭐ [**Tamriel\_Data**](https://www.nexusmods.com/morrowind/mods/44537)\
+Asset repository required for Solstheim - Tomb of the Snow Prince and Nordic Dagon Fel.
+
+* Files to install:
+  * **Tamriel Data (HD)** (Main files)
+
+{% hint style="info" %}
+To register the mod's BSA file, launch **Wrye Mash** from Mod Organizer 2. In the Mods tab, click the BSA Archives tab to the right, and check the BSA you want to register.
+{% endhint %}
+
 ⭐ [**Tamriel Rebuilt**](https://www.nexusmods.com/morrowind/mods/42145)\
  Tamriel Rebuilt is a large fan project that aims to complete development of The Elder Scrolls III: Morrowind by reconstructing the world to include the province’s mainland, through the study of creation of lore, and preservation of the game’s creative vision and direction.
 

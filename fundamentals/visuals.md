@@ -1,21 +1,5 @@
 # Visuals
 
-⭐ [**OAAB\_Data**](https://www.nexusmods.com/morrowind/mods/49042)\
-Asset repository required for OAAB mods and Nordic Dagon Fel.
-
-* On MO2 installation, check the following options in the BAIN installer:
-  * [x] 00 Core
-
-⭐ [**Tamriel\_Data**](https://www.nexusmods.com/morrowind/mods/44537)\
-Asset repository required for Solstheim - Tomb of the Snow Prince and Nordic Dagon Fel.
-
-* Files to install:
-  * **Tamriel Data (HD)** (Main files)
-
-{% hint style="info" %}
-To register the mod's BSA file, launch **Wrye Mash** from Mod Organizer 2. In the Mods tab, click the BSA Archives tab to the right, and check the BSA you want to register.
-{% endhint %}
-
 ## Texture packs
 
 ### Intelligent Textures
@@ -117,7 +101,7 @@ Povides high resolution new blood types for the creatures of Morrowind, Tribunal
   * [x] 04 Qwertyquit's Textures
 * After installation, use the **INI Editor** under **Tools** to replace the \[Blood] section of your Morrowind.ini with the following:
 
-```
+```txt
 [Blood]
 Model 0=BloodSplat.nif
 Model 1=BloodSplat2.nif
@@ -166,6 +150,19 @@ MWSE-Lua 3D clouds and mist.
 
 [**Crystal Soul Gems**](https://www.nexusmods.com/morrowind/mods/48300)\
  Adds transparency, glowing effect and reflection to soul gems.
+
+[**Fallen Ash**](https://www.nexusmods.com/morrowind/mods/48711) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
+ Dynamically adds ash decals to people, places, things, and probably concepts during ash storms.
+
+[**Keg Drip**](https://www.nexusmods.com/morrowind/mods/47903) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
+This mod uses a previously unused keg droplet texture from the game files to add a new effect to select kegstands in the game.
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 Core
+  * [x] 01 MWSE Version
+
+[**Spells Reforged - purple Shield**](https://www.nexusmods.com/morrowind/mods/50905) by [Kurpulio](https://www.nexusmods.com/morrowind/users/83970208)\
+ Replaces Shield spell visual effect.
 
 ## Weather
 
