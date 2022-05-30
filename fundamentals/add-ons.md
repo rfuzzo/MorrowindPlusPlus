@@ -139,6 +139,7 @@ Players skilled in Mysticism and Enchant can learn to Identify
   * **OAAB Dark Temptations**
   * **OAAB Golden Reeds**
   * **OAAB Leveled Lists**
+  * **OAAB Drip**
 
 ⭐ [**Uncharted Artifacts**](https://www.nexusmods.com/morrowind/mods/49281)\
  All shipwrecks carry a hidden map revealing the location of a unique, non-quest related artifact. Let the treasure hunting begin!

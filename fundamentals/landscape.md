@@ -549,9 +549,6 @@ Overhauls all shipwreck interiors with additional detail and individuality.
 [**Water Life**](https://www.nexusmods.com/morrowind/mods/42417) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
 This plugin mainly adds to Morrowind (most) peaceful aquatic creatures.
 
-[**Journey's End - Tamriel Rebuilt Edition**](https://www.nexusmods.com/morrowind/mods/51320) by [PhDinSorcery](https://www.nexusmods.com/morrowind/users/8404526)\
-The island is located far to the east of Vvaardenfell. Beyond the mainland, between Necrom and Port Telvannis.
-
 ## Patches
 
 ⭐ [**Even Seedier Eight Plates - Morag Tong Polished Patch**](https://www.nexusmods.com/morrowind/mods/49236)\

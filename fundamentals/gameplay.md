@@ -92,6 +92,14 @@ Adds sheaths to weapons not covered by Weapon Sheathing.
 [**PvP**](https://www.nexusmods.com/morrowind/mods/51034)\
 A combat based on parries and dodges. Enemies fight almost like real players.
 
+{% hint style="info" %}
+
+* Enter the **Mod config** menu in-game.
+* Select **PvP** from the mod list to the left.
+* Set **Increase attack frequenciy of enemies** to **No** (they attack to fast in my opinion with that on)
+* Exit the menu.
+{% endhint %}
+
 [**Bleeding Injuries - MWSE**](https://www.nexusmods.com/morrowind/mods/51308) by [Spammer21](https://www.nexusmods.com/morrowind/users/140139148)\
 Going into a battle without proper armor will cause bleeding.
 
