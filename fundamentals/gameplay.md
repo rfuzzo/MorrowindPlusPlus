@@ -105,7 +105,7 @@ Going into a battle without proper armor will cause bleeding.
 
 ## Magic
 
-⭐ [**magickaMastery MWSE**]() by [Greatness7](https://www.nexusmods.com/morrowind/users/64030) and [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
+⭐ [**magickaMastery MWSE**](https://github.com/rfuzzo/MorrowindPlusPlus/blob/main/assets/magickaMastery.zip) by [Greatness7](https://www.nexusmods.com/morrowind/users/64030) and [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
 MWSE port of [Magicka Mastery](https://www.nexusmods.com/morrowind/mods/45058)
 
 ⭐ [**MWSE Magicka Regen**](https://www.nexusmods.com/morrowind/mods/48129) by [Anumaril21](https://www.nexusmods.com/morrowind/users/60236996)\
