@@ -84,6 +84,9 @@ NPCs that actually belong to two factions will reflect this in their dialogue.
 ⭐ [**NPC Faction Affiliation Corrector**](https://www.nexusmods.com/morrowind/mods/47743)\
 Adds NPCs into factions, that are not in a faction, but realistically should be, or change the faction of some NPCs that belong to a faction when they should belong to another.
 
+* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
+  * [x] `NPC Faction Affiliation Corrector (Maximalistic).ESP`
+
 ## Main Quest
 
 [**Blades Informant**](https://www.nexusmods.com/morrowind/mods/48084)\
@@ -117,6 +120,9 @@ An overhaul of the Mages Guild, Thieves Guild and Fighters Guild.
 
 ⭐ [**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859)\
 Expands and redecorates the interiors of the Balmora mages and fighters guild (as well as minor changes to the Temple).
+
+⭐ [**Fighters Guild Improved**](https://www.nexusmods.com/morrowind/mods/51409)\
+This mod overhauls the Fighters Guild questline by improving the background and narrative side of most of its quests, as well as adding more variety and available choices to them.
 
 [**Mage Robes**](https://www.nexusmods.com/morrowind/mods/45739)\
 Many Mages Guild members will now wear the new robes and the player can acquire the robes through quests and purchase.
