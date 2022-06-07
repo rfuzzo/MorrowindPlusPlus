@@ -121,6 +121,10 @@ Expands and redecorates the interiors of the Balmora mages and fighters guild (a
 [**Mage Robes**](https://www.nexusmods.com/morrowind/mods/45739)\
 Many Mages Guild members will now wear the new robes and the player can acquire the robes through quests and purchase.
 
+* On MO2 installation, check the following options in the FOMOD installer:
+  * [x] 00 Core
+  * [x] 01 Automatic Add-Ons (MWSE)
+
 [**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773)\
 Members of the Mages Guild can now deliver a coded message, solve a murder, investigate a heist, barter with the Telvanni and retrieve a tome of dark power for the Master Wizard of Caldera
 
