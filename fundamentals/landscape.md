@@ -320,9 +320,6 @@ Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout
 [**Andrano Ancestral Tomb Remastered**](https://www.nexusmods.com/morrowind/mods/44672)\
  An overhaul for the second main quest and its associated dungeon.
 
-[**Consequences for Looting the Andrano Tomb**](https://www.nexusmods.com/morrowind/mods/49728) by [AliceL93](https://www.nexusmods.com/morrowind/users/4709296)\
- There will be visible consequences for looting the Andrano Ancestral Tomb as part of the Main Quest now. Part of the May Modathon Month.
-
 [**Samarys Ancestral Tomb Expanded**](https://www.nexusmods.com/morrowind/mods/45612)\
  An ancient burial lies in ruins outside of Seyda Neen – the few who know of the secrets it holds guard them closely, and the tomb lays all but forgotten.
 
@@ -332,7 +329,7 @@ Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout
 [**Justice for Khartag (J.F.K.)**](https://www.nexusmods.com/morrowind/mods/49832) by [Vegetto88](https://www.nexusmods.com/morrowind/users/4655319)\
  Changes Khartag Point making it the high peak described in the in-game dialogues.
 
-[**JOf Dungeons and Abodes**](https://www.nexusmods.com/morrowind/mods/44253) by [darkelfguy](https://www.nexusmods.com/morrowind/users/19250)\
+[**Of Dungeons and Abodes**](https://www.nexusmods.com/morrowind/mods/44253) by [darkelfguy](https://www.nexusmods.com/morrowind/users/19250)\
 A distraught nephew, a missing uncle, a manor slowly sinking into the swamps of the Bitter Coast, and numerous secrets and hidden dungeons lurking just beneath the surface. Do you have what it takes to tame Velodil Manor and claim it as your own? Of Dungeons and Abodes is a dungeon delving, quest story telling, house building mod.
 
 [**Expedition to Mzelthuand**](https://www.nexusmods.com/morrowind/mods/45229) by **Greatness7 - Melchior Dahrk - TheDrunkenMudcrab**\

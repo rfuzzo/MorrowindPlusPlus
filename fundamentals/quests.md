@@ -154,9 +154,6 @@ The Morag Tong Guild is the most poorly written faction in Morrowind. This mod f
 [**Save the Date**](https://www.nexusmods.com/morrowind/mods/50074)\
 Most Daedric quests can be started only on the Daedric Prince's summoning day - one day a year - and only with an appropriate offering.
 
-[**Thelas' Pillows Overhaul**](https://www.nexusmods.com/morrowind/mods/47379)\
-Overhauls the vanilla quest, Thelas' Pillows, with bugfixes, new options, and other things.
-
 [**Even More Mysterious Killings in Vivec**](https://www.nexusmods.com/morrowind/mods/49661)\
 The Mysterious Killings in Vivec quest now has a new reward and some more flavour for the murderer.
 

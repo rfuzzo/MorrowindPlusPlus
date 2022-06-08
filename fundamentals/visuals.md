@@ -66,6 +66,10 @@ Replaces the Silt Strider according to many fan arts. Now the Silt Strider looks
 [**Spriggans Glow**](https://www.nexusmods.com/morrowind/mods/43350)\
 This mod adds a glowbug swarm around Spriggans to make them look more fae-like and magical. It optionally includes a replacer I made for the spriggans themselves, patches for other popular replacers, and masculine "twiggan" versions of the spriggan if you use my replacer.
 
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] Replacer -> MD Replacer
+  * [x] Twiggans Option -> Twiggans, Twiggans Groot Extra
+
 [**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)\
 Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
 
