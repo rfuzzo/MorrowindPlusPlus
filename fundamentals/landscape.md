@@ -662,7 +662,7 @@ On MO2 installation, it does not matter if you install too many mods, we will go
   * [x] 27 Ebonheart Underworks
   * [x] 29 Yet Another Guard Diversity - Regular
   * [x] 30 Morrowind Anticheese
-  * [x] 38 Bounty Hunter Bundle
+  * [x] 38 Bounty Hunter Assignments
   * [x] 39 Ashlander Traders Remastered
   * [x] 41 Realistic Repair Addon
   * [x] 42 True Light and Darkness Patch
@@ -676,6 +676,7 @@ On MO2 installation, it does not matter if you install too many mods, we will go
   * [x] 79 Main Quest Overhaul
   * [x] 80 Mamaea Awakened
   * [x] 82 Ashfall interop
+  * [x] 83 OAAB Pomegranates patch
 
 * Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
   * [x] `abotBoatsTR2101.esp`
@@ -684,11 +685,12 @@ On MO2 installation, it does not matter if you install too many mods, we will go
   * [x] `Animated_Morrowind - merged.esp`
   * [x] `AreaEffectArrows.esp`
   * [x] `Ashlander Traders Remastered.esp`
-  * [x] `BOM_AbotSiltStriders.ESP`
+  * [x] `BCOM_OAAB_Pomegranates_patch.ESP`
   * [x] `BOM_abot_boats.esp`
+  * [x] `BOM_AbotSiltStriders.ESP`
   * [x] `BOM_PfP_patch.ESP`
   * [x] `BOM_Scrolls of the Nine Barriers_patch.ESP`
-  * [x] `Bounty_Hunter_BUNDLE.ESP`
+  * [x] `Bounty Hunter Assignments.ESP`
   * [x] `Concept_Arts_plantations.esp`
   * [x] `Ebonheart_Underworks.esp`
   * [x] `Foyada Mamaea Overhaul.ESP`

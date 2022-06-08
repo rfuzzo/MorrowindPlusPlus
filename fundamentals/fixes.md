@@ -132,7 +132,7 @@ Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brothe
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
 
 * Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
-  * [x] `Ownership Overhaul.ESP`
+  * [x] `Ownership Overhaul.ESM`
 
 ⭐ [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068) by [half11](https://www.nexusmods.com/morrowind/users/36879320)\
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
