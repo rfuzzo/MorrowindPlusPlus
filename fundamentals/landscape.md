@@ -390,12 +390,12 @@ There were also dirty edits that have been removed and some small tweaks here an
 
 ## Molag Amur
 
-⭐ [**Sload and Slavers**](https://www.nexusmods.com/morrowind/mods/49074) by [RealAshstaar](https://www.nexusmods.com/morrowind/users/48605)\
-Adds Sload merchants and Dunmer slavers to several locations of Morrowind. Includes a shop/smith in Molag Mar, Waistworks that sells new bonemold armor, weapons, and some clothing.
-
 ⭐ [**Sloadic Transports**](https://www.nexusmods.com/morrowind/mods/50546) by [RealAshstaar](https://www.nexusmods.com/morrowind/users/48605)\
  Sloadic Cargo Transports have arrived at Molag Mar. One is docked at the strider port and one will fly a route north of Molag Mar. There is a standard version and a necro version. Use only one .esp file.
 A very good place to view the flying airship is from the northeast corner of the Molag Mar canton.
+
+* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
+  * [x] `Sloadic Transport.ESP`
 
 [**Maren's Misfit Mabrigash**](https://www.nexusmods.com/morrowind/mods/48709)\
  Explore a revamped Maren Ancestral Tomb in search of a mysterious Ashlander outcast. Part of the Summer Modjam 2020.

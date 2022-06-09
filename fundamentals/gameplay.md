@@ -111,9 +111,6 @@ MWSE port of [Magicka Mastery](https://www.nexusmods.com/morrowind/mods/45058)
 ⭐ [**MWSE Magicka Regen**](https://www.nexusmods.com/morrowind/mods/48129) by [Anumaril21](https://www.nexusmods.com/morrowind/users/60236996)\
 MWSE Magicka Regen provides functional and configurable magicka regeneration for the player, NPCs, and creatures within Morrowind.
 
-⭐ [**Magicka Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330) by [JaceyS](https://www.nexusmods.com/morrowind/users/44686767)\
-Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
-
 ⭐ [**Miscast Enhanced**](https://www.nexusmods.com/morrowind/mods/47948)\
 Adds negative consequences to casting spells that are beyond the caster's abilities. Unique miscast effects for every vanilla magic effect.
 
