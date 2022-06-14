@@ -17,28 +17,9 @@ Reduces the frequency of idle Cliff Racer screeches.
 ⭐ [**AURA**](https://www.nexusmods.com/morrowind/mods/48255)\
 Customizable sound overhaul which adds ambient sounds, interior weather, extended voices, and more.
 
-Files to install:
-
-* **AURA 3.0.2 - full** (Main files)
-* **AURA 3.0 - replacer** (Optional files)
 * On MO2 installation, check the following options in the BAIN installer:
-  * [x] 00 Waves
-  * [x] 01 Boat waves
-  * [x] 02 Underwater
-  * [x] 03 Rain
-  * [x] 04 Heavy Rain
-  * [x] 05 Small Waterfall
-  * [x] 06 Fire
-  * [x] 07 Jump (land)
-  * [x] 08 Barefoot
-  * [x] 09 Ashstorm loop
-  * [x] 10 Blight storm loop
-  * [x] 11 Blizzard loop
-  * [x] 12 Swimming
-
-{% hint style="info" %}
-On new games, female player characters will have male voices. Saving and reloading the game will permanently fix this issue for any given character.
-{% endhint %}
+  * [x] 00 Core
+  * [x] 01 Replacer
 
 [**Quieter Doors and Spells**](https://github.com/rfuzzo/MorrowindPlusPlus/blob/main/assets/Quieter%20Doors%20and%20Spells.7z)\
 Reduces the volume of doors and spells. Mod by **Sigourn**.
