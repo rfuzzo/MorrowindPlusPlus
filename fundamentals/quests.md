@@ -53,6 +53,10 @@ Adds extra service refusal dialogue once you progress further into the main ques
 ⭐ [**Service Requirements Revised**](https://www.nexusmods.com/morrowind/mods/50715)\
 Factions will refuse services to the player depending on their faction affiliation and rank. Certain services, such as guild travel and healer services, are exempt from such restrictions.
 
+* Files to install:
+  * **Service Requirements Revised** (Main files)
+  * **Service Requirements Revised** (Optional files)
+
 ⭐ [**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232?)\
 Prevents the player from renting a bed if diseased, be it common, blight, or corprus disease.
 

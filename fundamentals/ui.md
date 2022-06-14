@@ -100,6 +100,8 @@ Provides configurable, dynamic crosshair indicators while sneaking and for essen
 [**Ownership Indicator**](https://www.nexusmods.com/morrowind/mods/45940)
 Uses MWSE Lua to add an Oblivion style ownership indicator, when you look at owned items, beds, and more.
 
+* After installation, hide the mod's **MWSE\mods\ownership-indicator\main.lua** file.
+
 [**Companion Health Bars MWSE Lua Script**](https://www.nexusmods.com/morrowind/mods/46136)\
 Adds bars to the UI that displays your companions and summoned creatures' health.
 

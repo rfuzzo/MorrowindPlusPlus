@@ -23,6 +23,10 @@ A state-based health mod implemented in MWSE. Health is now calculated based on 
 [**Ahead of the Classes**](https://www.nexusmods.com/morrowind/mods/50346)\
 Ahead of the classes makes many vanilla and TR classes playable and adds many new classes.
 
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 Core
+  * [x] 01 FF addon
+
 [**Written in the Stars - a birthsign mod**](https://www.nexusmods.com/morrowind/mods/50378)\
 Each birthsign now has a few variants (including the original one) for a grand total of 40 new lore-friendly birthsigns.
 
@@ -34,15 +38,6 @@ Endurance determines how long you can hold your breath under water.
 
 [**Merlord's Character Backgrounds**](https://www.nexusmods.com/morrowind/mods/46795) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
  Select from 27 different backgrounds, each with their own unique effects.
-
-[**mtrByTheDivines**](https://www.nexusmods.com/morrowind/mods/46795) by [MTRHasAlreadyBeenTaken](https://www.nexusmods.com/morrowind/users/88247468)\
-This mods adds a bunch of deities for player to choose from in a manner seen in Merlord's Character Backgrounds. Beliefs grant some simple abilities to the player, but it's mostly for purpose of role-playing. As such there are no restrictions in choosing your god, i.e. you can worship Hist as Orc if you want. It's your job to role-play 'correctly'.
-
-[**mtrLineage**](https://www.nexusmods.com/morrowind/mods/46795) by [MTRHasAlreadyBeenTaken](https://www.nexusmods.com/morrowind/mods/49996)\
-This mod adds many character lineages that can be selected after character generation.
-
-[**mtrCultures**](https://www.nexusmods.com/morrowind/mods/46795) by [MTRHasAlreadyBeenTaken](https://www.nexusmods.com/morrowind/mods/51282)\
-This mod adds character cultures that can be selected after character generation.
 
 ## Followers
 
@@ -304,6 +299,10 @@ Creatures, NPCs and players alike affected by a disabling magic effect (like Par
 
 [**Skoomaesthesia**](https://www.nexusmods.com/morrowind/mods/49920) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
  Adds new skooma mechanics including animated skooma pipe smoking, psychedelic shaders and sound effects, and skooma addiction.
+
+{% hint style="info" %}
+The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](/fundamentals/shaders.md#shader-setup) section.
+{% endhint %}
 
 [**Necrocraft - A Comprehensive Necromancy Gameplay And Quests Mod**](https://www.nexusmods.com/morrowind/mods/51211) by [VitruvianGuar](https://www.nexusmods.com/morrowind/users/34081875)\
  Comprehensive modern day implementation of necromancy, using Skill Module, Magicka Expanded and Crafting Framework. Includes game mechanics overhaul, new quests and mysteries to solve, allowing to fully experience being the practicioner of a forbidden art of necromancy.

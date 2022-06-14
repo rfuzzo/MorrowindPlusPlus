@@ -151,13 +151,6 @@ Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 
 ## Mesh fixes
 
-⭐ [**Correct UV Rocks**](https://github.com/Sigourn/nerevarrising/raw/master/mods/Correct%20UV%20Rocks.7z)\
-Fixes UV mapping on rocks and stones.
-
-{% hint style="info" %}
-[**Link**](https://mw.modhistory.com/download-56-12003) to original mod by **Nich**. The featured version omits a faulty mesh.
-{% endhint %}
-
 ⭐ [**Fix Those Bastard Rope Fences**](https://www.nexusmods.com/morrowind/mods/45741) by [Petetehgoat](https://www.nexusmods.com/morrowind/users/25319994)\
 Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to prevent getting stuck.
 
