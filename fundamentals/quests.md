@@ -32,13 +32,6 @@ Fixes several places in the vanilla game that are set up like inns, but in which
 ⭐ [**The Vanilla Quest Tweaks RP Choices**](https://www.nexusmods.com/morrowind/mods/47466)\
  combination of 20 of my previous mods from the vanilla quest tweaks/RP choices/consequences category.
 
-⭐ [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155)\
-Reworks Divayth Fyr’s puzzle so that you require the correct key to open the chests as well as locking up all the artifacts, which now require the final key to be opened.
-
-* On MO2 installation, check the following options in the FOMOD installer:
-  * [x] Patch for Purists
-  * [x] Ownership Overhaul
-
 ⭐ [**FMI - Alice's Package**](https://www.nexusmods.com/morrowind/mods/48003)\
 Various fixes of gameplay vs. lore inconsistencies.
 

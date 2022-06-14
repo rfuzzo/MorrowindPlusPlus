@@ -78,8 +78,8 @@ Fixes flickering on lava. Reduces the occurrence of seams found in large lava po
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Core
 
-⭐ [**Fireflies Invade Vvardenfell**](https://firefly.calislahn.com/) by **Thaedyn Vyr**\
-Fireflies have landed on Vvardenfell
+⭐ [**Fireflies**](https://www.nexusmods.com/morrowind/mods/51443) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
+Adds fireflies around the Bitter Coast and the Ascadian Isles
 
 ⭐ [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
 Adds a visual effect to all vanilla flies sound emitters.

@@ -176,10 +176,9 @@ Weather overhaul with randomised cloud textures, more dynamic weathers, weather 
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Lua core
   * [x] 01 Textures 1k
+  * [x] 02 Weather Adjuster config
   * [x] 03 Rain mesh replacer - regular
-  * [x] 05 IT Vanilla sky texture replacer 1k\
-    Reworked Intelligent Textures sky textures.
-* After installation, hide the `textures\tew\Watch the Skies\blight\tew\_blight\_3.dds` and `textures\tew\Watch the Skies\foggy\tew\_foggy\_6.dds` files. These sky textures are very jarring when compared with the rest.
+  * [x] 04 Weather particles replacer
 
 ⭐ [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)\
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
