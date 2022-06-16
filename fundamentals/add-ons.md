@@ -28,6 +28,10 @@ This is Animated Morrowind - merged by Abot, made compatible with my town overha
 * Files to install:
   * **Animated Morrowind**
 
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 Core
+  * [x] 01 Vanilla engine
+
 [**Walkers of Morrowind**](https://www.nexusmods.com/morrowind/mods/49889) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
  Allows npcs in the wilderness who were given an AIWander package to actually wander within their cell.
 
@@ -36,6 +40,8 @@ Replaces the Corprus Stalker with a Dunmer version. For those who dislike that i
 
 * Files to install:
   * **Corprus Natives**
+
+* On MO2 installation, an installer window will pop up asking you to set a Data Files Directory. Right click on `512px > Data Files` and select "Set as < data files > directory".
 
 [**Ghost Revenge**](https://www.nexusmods.com/morrowind/mods/45674) by [rotat](https://www.nexusmods.com/morrowind/users/40752190)\
 Newly murdered characters are now drawn to the tombs of their ancestors. You will meet your victims again.

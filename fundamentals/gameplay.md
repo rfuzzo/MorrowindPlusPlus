@@ -185,9 +185,6 @@ Levitation speed is now based on Willpower attribute instead of Speed.
 
 ## QoL
 
-⭐ [**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454)\
-Automatically hides your drugs so you don't have to dump them on the floor in order to trade.
-
 ⭐ [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)\
 Increases the availability of restocking Restore Magicka, Restore Fatigue, and Restore Health potions across Alchemists, Apothecaries, and Healers. Now these potions will be easier to come across for sale.
 

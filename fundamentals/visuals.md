@@ -54,6 +54,13 @@ Replaces generic copy-pasted guards with a variety of more unique-looking guards
 ⭐ [**Yet Another Guard Diversity - Uniform Ordinators**](https://www.nexusmods.com/morrowind/mods/49232)\
 Patches the Ordinator helmet and shield's leveled lists from Yet Another Guard Diversity to ensure they always spawn with them.
 
+⭐ [**Yet Another Guard Diversity Expanded Imperials**](https://www.nexusmods.com/morrowind/mods/47583) by [Citadel535](https://www.nexusmods.com/morrowind/users/23131859)\
+Expands the Yet Another Guard Diversity to cover Imperials in Tamriel Rebuilt.
+
+* Files to install:
+  * **Yet Another Guard Diversity Bloodmoon Imperials** (Main files)
+  * **Yet Another Guard Diversity Tamriel Rebuilt Imperials** (Main files)
+
 [**Incarnates Overhauled**](https://www.nexusmods.com/morrowind/mods/49232)\
 Makes the Failed Incarnates better reflect their backgrounds. The armor, clothes, faces and hairs on some of the ghosts has been changed, so that now an ashlander wears ashlander clothes, a warrior of the Temple wears Indoril armor, Erur-Dan wears his cuirass, Hort-Leed wears his robe, and so forth.
 
@@ -144,7 +151,6 @@ Modified version of True Lights and Darkness that reverts some of TLAD's more ra
 
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Full Mod
-  * [ ] 01 Modular Plugins
   * [x] 02 MWSE TLAD Lights
 * Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
   * [x] `TLAD Full - Still - Necro Colors.esp`
@@ -154,6 +160,9 @@ MWSE-Lua 3D clouds and mist.
 
 [**Crystal Soul Gems**](https://www.nexusmods.com/morrowind/mods/48300)\
  Adds transparency, glowing effect and reflection to soul gems.
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 - Data Files
 
 [**Fallen Ash**](https://www.nexusmods.com/morrowind/mods/48711) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
  Dynamically adds ash decals to people, places, things, and probably concepts during ash storms.
@@ -264,7 +273,7 @@ Makes road signs legible. Uses high resolution vanilla-friendly textures.
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Meshes
   * [x] 01 Textures - High Resolution
-  * [x] 02 ESP - Vvardenfell only
+  * [x] 02 ESP - Vvardenfell, Morrowind, and Cyrodiil
 
 [**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100)\
 Replaces all the bookcovers, bookpages and scrolls.
@@ -305,6 +314,13 @@ Replaces the standard wooden chests in Nordic Tombs with a unique model, because
 ⭐ [**Dunmer Lanterns Replacer**](https://www.nexusmods.com/morrowind/mods/43219)\
 This mod replaces all of the Dunmer lanterns (including the paper lanterns and streetlight) from the original game with smoother, more detailed versions (yet not with a ridiculous amount of new polies: they're optimized).
 
+* On BAIN installation, check the following options:
+  * **Glow Effect** -> Yes
+  * **OAAB Data** -> Yes
+  * **Tamriel Data** > Yes
+  * **Ashlander Lantern Style** > More detailed (Default)
+  * **Ashlander Lantern Textures** > Use my own (Default)
+
 [**OAAB Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236)\
 If you visit a dwemer ruin during a thunderstorm, you'll be greeted by blinding flashes as lightning strikes the steamstack lightning rods from the vanilla game.
 
@@ -328,6 +344,9 @@ Adds dunmer concept art around vvardenfell on the velothi buildings and temples 
 
 ⭐ [**One True Faith - Saints and Frescoes Retexture**](https://www.nexusmods.com/morrowind/mods/43810)\
 Retexture for saints, Tribuns and TT-frescoes
+
+* Files to install:
+  * **Saints and Tribunal Frescoes HQ** (Main Files)
 
 ⭐ [**Improved Tribunal shrine meshes**](https://www.nexusmods.com/morrowind/mods/46464)\
 Mesh and texture replacer for Tribunal shrines; no more distorted Temple imagery. Included two texture sets and an add-on for Tamriel Rebuilt.

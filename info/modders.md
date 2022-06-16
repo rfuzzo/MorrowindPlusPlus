@@ -7,6 +7,7 @@ by [alexpublius](https://www.nexusmods.com/morrowind/users/49943436)\
 by [AliceL93](https://www.nexusmods.com/morrowind/users/4709296)\
 by [Anumaril21](https://www.nexusmods.com/morrowind/users/60236996)\
 by [Caeris](https://www.nexusmods.com/morrowind/users/43442372)\
+by [Citadel535](https://www.nexusmods.com/morrowind/users/23131859)\
 by [Corsair83](https://www.nexusmods.com/morrowind/users/23131859)\
 by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
 by [darkelfguy](https://www.nexusmods.com/morrowind/users/19250)\

@@ -19,6 +19,9 @@ This needs to be installed before BCOM
 ⭐ [**Beautiful Cities of Morrowind**](https://www.nexusmods.com/morrowind/mods/49231) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
  Overhaul of almost every settlement of Morrowind, inspired by concept art and aimed at a vanilla+ feeling.
 
+* Files to install:
+  * **Beautiful Cities of Morrowind - BCOM Core** (Main Files)
+
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Core
   * [x] 01 Haalu Council Hall Plaza - Izy Style
@@ -33,7 +36,7 @@ This needs to be installed before BCOM
   * [x] `abotBoatsTR2101.esp`
   * [x] `abotRiverStridersTR2101.esp`
 
-⭐ [**Gondoliers110b**](https://www.nexusmods.com/morrowind/mods/43291) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
+⭐ [**Gondoliers**](https://www.nexusmods.com/morrowind/mods/43291) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
  real time travel Vivec gondoliers
 
 * Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
@@ -72,11 +75,15 @@ New effects and textures for the waterfalls. Includes LOD on the particle effect
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Core
 
+⭐ [**Waterfalls Tweaks**](https://www.nexusmods.com/morrowind/mods/46271)\
+Various modifications to waterfalls and water splashes. Born to fit Better Waterfalls mod. 
+
 ⭐ [**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 Fixes flickering on lava. Reduces the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
 
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Core
+  * [x] 02 Tamriel_Data Patch
 
 ⭐ [**Fireflies**](https://www.nexusmods.com/morrowind/mods/51443) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
 Adds fireflies around the Bitter Coast and the Ascadian Isles
@@ -86,6 +93,9 @@ Adds a visual effect to all vanilla flies sound emitters.
 
 ⭐ [**Nocturnal Moths**](https://www.nexusmods.com/morrowind/mods/44148) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
  Adds moths flying around some of the lanterns at night.
+
+* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
+  * [x] `Nocturnal Moths - Vanilla.ESP`
 
 ⭐ [**Cave Drips**](https://www.nexusmods.com/morrowind/mods/43488) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
  Adds a visual effect to all vanilla cave drip sound emitters.
@@ -123,19 +133,19 @@ The shader included in this mod needs to be registered in MGE XE to work as inte
 ⭐ [**Know Thy Ancestors**](https://www.nexusmods.com/morrowind/mods/49678/)\
 Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family name in Daedric.
 
+* Files to install:
+  * **Know The Ancestors** (Main Files)
+  * **Know The Ancestors - Tamriel Rebuilt Addon** (Optional Files)
+
 [**Loot Well Urned**](https://www.nexusmods.com/morrowind/mods/44976)\
  Ancestral Tomb Loot Enhancement Mod
 
-⭐ [**Caverns Overhaul by Luigian - Individual mods (Fixed and Improved)**](https://www.nexusmods.com/morrowind/mods/48683)\
+⭐ [**Caverns Overhaul - Fixed**](https://www.nexusmods.com/morrowind/mods/48683)\
 RandomPal's random mods and patches
 The original mod has a lot of great ideas but was never finished or fixed. Other mods make Cavern Overhaul an outdated mod anyway, but there's some locations that have not been covered by any other mod.
 
-{% hint style="info" %}
-The Dubdilla overhaul also carries over/incorporates/merges the edits of Dubdilla Location Fix so don't use both.
-{% endhint %}
-
 * Files to install:
-  * **Caverns Overhaul**
+  * **Caverns Overhaul - Fixed**
 
 ## Ascadian Isles
 
@@ -230,14 +240,14 @@ To align with what the in-game dialogue suggests, the entrance to the Cavern of 
   * [x] 00 Core
   * [x] 03- Ashfall add-on
 
-[**Ashlander Traders - Remastered**](https://www.nexusmods.com/morrowind/mods/48009)\
- Brother Juniper's excellent Ashlander Traders mod, edited for compatibility and extra dialogue. Adds Ashlander Traders who will sometimes appear in Balmora, Ald-ruhn, or Suran.
-
 [**Salt Gems of Bensamsi**](https://www.nexusmods.com/morrowind/mods/45126) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  His methods are atypical, but an Argonian in the Sixth House base of Bensamsi has discovered a way to create soul gems from ash salts. Talk to Heem-La in the Ald-ruhn Guild of Mages about research opportunities if you would like to learn more.
 
 [**Cavern Of The Incarnate Overhaul**](https://www.nexusmods.com/morrowind/mods/42860)\
  Cavern of the Incarnate overhaul + optional pluginless replacer of the cavern and the statue meshes
+
+* Files to install:
+  * **Cavern of the Incarnate Overhaul** (Main Files)
 
 [**The Beacon of St Rilms**](https://www.nexusmods.com/morrowind/mods/49515)\
  Along the path between Ald-Ruhn and Ghostgate is a place of rest for those walking their pilgrimage, owned and operated by House Redoran as a gift to the people.
@@ -570,6 +580,9 @@ Adds Imperial and Solstheim variants for the well mesh, blending in better with 
 [**OAAB Saplings**](https://www.nexusmods.com/morrowind/mods/50334) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  This mod places saplings from OAAB_Data in most regions on Vvardenfell.
 
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 Merged
+
 [**Get Wrecked**](https://www.nexusmods.com/morrowind/mods/51237)\
 Overhauls all shipwreck interiors with additional detail and individuality.
 
@@ -601,6 +614,10 @@ Overhauls all shipwreck interiors with additional detail and individuality.
 
 [**Anna-Sera**](https://www.nexusmods.com/morrowind/mods/51343)\
  Anna-Sera is a ship located in the Sheogorad region. On board you will meet Sugar-Scales and his partner in crime, Zan'si.
+
+{% hint style="warning" %}
+This mod requires the **Beta/actor collision box fix** feature to be enabled in the Morrowind Code Patch.
+{% endhint %}
 
 [**Water Life**](https://www.nexusmods.com/morrowind/mods/42417) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
 This plugin mainly adds to Morrowind (most) peaceful aquatic creatures.
@@ -716,16 +733,14 @@ Grass modules
 * Files to install:
   * **Beautiful Cities of Morrowind - Grass Patches**
 
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 01 Remiros Groundcover
+
 * Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
   * [x] `REM_AC.ESP`
   * [x] `Rem_AI.esp`
   * [x] `Rem_BC.esp`
   * [x] `Rem_WG.esp`
-
-⭐ [**Ashlander Traders - Remastered - BCOM and Wares**](https://www.nexusmods.com/morrowind/mods/48009)
-
-* Files to install:
-  * **Ashlander Traders Remastered - BCOM and Wares**
 
 [**Various compatibility patches for HOTV Tomb of the Snow prince Solstheim Overhaul](https://www.nexusmods.com/morrowind/mods/48422)\
  Various patches, including the White Wolf of Lokken, Wanderes of Solstheim, Children of Morrowind, Thirsk Expanded more....an ongoing project
@@ -736,6 +751,12 @@ Grass modules
 
 * Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
   * [x] `Wanderers of Solstheim-TOTSP.ESP`
+
+⭐ [**Ashlander Traders - Remastered - BCOM and Wares**](https://www.nexusmods.com/morrowind/mods/48009)
+Brother Juniper's excellent Ashlander Traders mod, edited for compatibility and extra dialogue. Adds Ashlander Traders who will sometimes appear in Balmora, Ald-ruhn, or Suran.
+
+* Files to install:
+  * **Ashlander Traders Remastered - BCOM and Wares**
 
 ⭐ [**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232)\
 Compatibility patches for canton mods.

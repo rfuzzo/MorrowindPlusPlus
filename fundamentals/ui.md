@@ -3,8 +3,16 @@
 ⭐ [**Unstretched Videos**](https://www.nexusmods.com/morrowind/mods/50482) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
 Adds black bars to the sides of the vanilla game videos, including the Bloodmoon videos, so they won't appear stretched when playing in widescreen (16:9).
 
+{% hint style="warning" %}
+This mod requires the **Mod Specific/Hi-def cutscene support** feature to be enabled in the Morrowind Code Patch.
+{% endhint %}
+
 [**Cutscenes Revamped - Cavern of the Incarnate**](https://www.nexusmods.com/morrowind/mods/49126)\
 A modern HD replacer for the Azura Cutscene that plays in the Cavern of the Incarnate. Works with Morrowind and OpenMW.
+
+{% hint style="warning" %}
+This mod requires the **Mod Specific/Hi-def cutscene support** feature to be enabled in the Morrowind Code Patch.
+{% endhint %}
 
 ## Menus
 
@@ -121,6 +129,10 @@ Expands UI functionality with searching, filtering, and more visual feedback.
 
 ⭐ [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036)\
 Fixes gameplay and interface inconsistencies in the alchemy menu, provides it with a built-in effect filter and implements a Skyrim-like system for remembering ingredient effects.
+
+{% hint style="warning" %}
+This mod requires the **Game mechanics/Healty appetite** feature to be enabled in the Morrowind Code Patch.
+{% endhint %}
 
 ⭐ [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272)\
 Allows highlighting and hiding quests in the Journal questlist.

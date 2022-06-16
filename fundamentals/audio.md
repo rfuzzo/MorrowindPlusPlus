@@ -17,6 +17,10 @@ Reduces the frequency of idle Cliff Racer screeches.
 ⭐ [**AURA**](https://www.nexusmods.com/morrowind/mods/48255)\
 Customizable sound overhaul which adds ambient sounds, interior weather, extended voices, and more.
 
+* Files to install:
+  * **AURA 4.0.0** (Optional files)
+  * **AURA 4.0.2** (Update files)
+
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Core
   * [x] 01 Replacer
@@ -99,3 +103,6 @@ An Ashlander music expansion of original tracks by be created for the Morrowind 
 
 [**MUSE Music Expansion - Dwemer**](https://www.nexusmods.com/morrowind/mods/51169)\
 A Dwemer music expansion of original tracks by be created for the Morrowind MUSE mod. Featuring 5 new exploration tracks and 4 new combat tracks.
+
+* Files to install:
+  * **MUSE Expansion - Dwemer (Vanilla - Tribunal)** (Main files)

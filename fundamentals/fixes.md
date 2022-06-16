@@ -14,6 +14,8 @@ Asset repository required for Solstheim - Tomb of the Snow Prince and Nordic Dag
 * Files to install:
   * **Tamriel Data (HD)** (Main files)
 
+* On MO2 installation, an installer window will pop up asking you to set a Data Files Directory. Right click on `00 Core` and select "Set as < data files > directory".
+
 {% hint style="info" %}
 To register the mod's BSA file, launch **Wrye Mash** from Mod Organizer 2. In the Mods tab, click the BSA Archives tab to the right, and check the BSA you want to register.
 {% endhint %}
@@ -39,8 +41,16 @@ To register the mod's BSA file, launch **Wrye Mash** from Mod Organizer 2. In th
 ⭐ [**Skyrim Home Of The Nords**](https://www.nexusmods.com/morrowind/mods/44921)\
 The Imperial Legion maintains a border wall between Dragonstar East, ruled by Jarl Jona the Ansei-Ender, and Dragonstar West, a Crown holding surrounded almost entirely by the Kingdom of the Reach.  Residents of the cities are forbidden from crossing the wall due to threats of constant violence, something they know too well.  Outside the cities, life goes on for the Reachmen of the Alovach and Taliesinn tribes; however, they keep one ear to the ground. If war were to again break out in Dragonstar, they would inevitably be dragged in...
 
+{% hint style="warning" %}
+After installation, disable `Sky_Main_Grass.esp` in your load order. ⚠️ **Do not hide or delete them**, as they are necessary for the mod to work as intended when generating Distant Land.
+{% hint style="endhint" %}
+
 ⭐ [**Province Cyrodiil**](https://www.nexusmods.com/morrowind/mods/44922)\
 Set almost exactly between the great ports of Cyrodiil, Hammerfell, Valenwood and Summerset, the isle of Stirk offers a safe harbor to the many trade ships that sail on the wide Abecean Sea. Though poor and provincial compared to the mighty cities of Cyrodiil, the island thrives on passing trade and the rich fishing grounds that surround it.
+
+{% hint style="warning" %}
+After installation, disable `Cyrodiil_Grass.ESP` in your load order. ⚠️ **Do not hide or delete them**, as they are necessary for the mod to work as intended when generating Distant Land.
+{% hint style="endhint" %}
 
 ## Bug fixes
 
@@ -221,9 +231,6 @@ Fixes a collision bug with harvested Ash Yams.
 
 [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864) by [GrunTella](https://www.nexusmods.com/morrowind/users/2356095)\
 Makes picking a glowing plant also remove the glow-light.
-
-⭐ [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194) by [rotat](https://www.nexusmods.com/morrowind/users/40752190)\
-Restores visual effects on creatures that weren't displayed for technical reasons.
 
 [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
 Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.

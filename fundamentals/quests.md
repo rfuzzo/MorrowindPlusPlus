@@ -21,6 +21,9 @@ Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Be
 ⭐ [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714)\
 Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
 
+* Files to install:
+  * **Bloodmoon Rebalance - Patch for Purists version** (Main files)
+
 ⭐ [**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913)\
 This mod overhauls the Main Quest.
 
@@ -49,6 +52,7 @@ Adds extra service refusal dialogue once you progress further into the main ques
 
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Morrowind Only
+  * [x] 01 TR Version
 
 ⭐ [**Service Requirements Revised**](https://www.nexusmods.com/morrowind/mods/50715)\
 Factions will refuse services to the player depending on their faction affiliation and rank. Certain services, such as guild travel and healer services, are exempt from such restrictions.
@@ -95,8 +99,12 @@ This mod adds a new supply chest to Caius Cosades' house for members of the Blad
 [**Rise of House Telvanni**](https://www.nexusmods.com/morrowind/mods/27545)\
 This mod adds quests for the Telvanni Archmagister, allowing him/her to gain more political power and strengthen House Telvanni.
 
-* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
-  * [x] `Rise of House Telvanni.esm`
+* Files to install:
+  * **Rise of House Telvanni v1_52** (Main files)
+  * **Flask mesh update** (Optional files)
+
+* On MO2 installation, check the following options in the FOMOD installer:
+  * [x] Base Mod
 
 [**Rise of House Telvanni - 2.0**](https://www.nexusmods.com/morrowind/mods/48225)\
 This mod gives a much needed facelift to one of the greatest quest mods of all time - Rise of House Telvanni.
@@ -104,7 +112,7 @@ This mod gives a much needed facelift to one of the greatest quest mods of all t
 [**Roleplay Options for Great House Hlaalu**](https://www.nexusmods.com/morrowind/mods/45208) by [Caeris](https://www.nexusmods.com/morrowind/users/43442372)\
  Adds immersive dialogue options to Great House Hlaalu quests.
 
-[**Hlaalu Rank Adjust V**](https://mw.modhistory.com/download-87-5839) by [Caeris](https://www.nexusmods.com/morrowind/users/43442372)\
+[**Hlaalu Rank Adjust**](https://mw.modhistory.com/download-87-5839) by [Caeris](https://www.nexusmods.com/morrowind/users/43442372)\
 Now there is a proper structure to House Hlaalu, with actual governers for Suran and Gnaar Mok, not just Caldera. The Treasury actually has a master now, and the Hlaalu quest givers have an official title. Rankings were adjusted to make more sense and now the player can actually become a Councillor - something that was impossible in the original game for some unknown reason.
 
 ## Factions
@@ -121,6 +129,9 @@ Expands and redecorates the interiors of the Balmora mages and fighters guild (a
 ⭐ [**Fighters Guild Improved**](https://www.nexusmods.com/morrowind/mods/51409)\
 This mod overhauls the Fighters Guild questline by improving the background and narrative side of most of its quests, as well as adding more variety and available choices to them.
 
+* On MO2 installation, check the following options in the FOMOD installer:
+  * [x] Merged
+
 [**Mage Robes**](https://www.nexusmods.com/morrowind/mods/45739)\
 Many Mages Guild members will now wear the new robes and the player can acquire the robes through quests and purchase.
 
@@ -131,7 +142,7 @@ Many Mages Guild members will now wear the new robes and the player can acquire 
 [**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773)\
 Members of the Mages Guild can now deliver a coded message, solve a murder, investigate a heist, barter with the Telvanni and retrieve a tome of dark power for the Master Wizard of Caldera
 
-[**thieves guild stash**](https://www.lonebullet.com/mods/download-thieves-guild-stash-v10-elder-scrolls-iii-morrowind-mod-free-43942.htm)\
+[**Thieves Guild Stash**](https://www.lonebullet.com/mods/download-thieves-guild-stash-v10-elder-scrolls-iii-morrowind-mod-free-43942.htm)\
 This mod adds several "Thieves' Guild Stash" chests, similar to the Fighters' Guild Equipment Chests and Mages' Guild Supply Chests, next to some of the higher-ranking thieves.
 
 ⭐ [**Thieves' Guild Overhaul**](https://www.nexusmods.com/morrowind/mods/49944)\
@@ -165,6 +176,10 @@ Makes the Madstone of the Ahemmusa align with its in game description so that th
 [**The Sanguine Rose**](https://www.nexusmods.com/morrowind/mods/46214)\
 The Sanguine Rose adds a fully featured Daedric Quest for Sanguine, the prince of hedonistic revelry, debauchery, and passionate indulgences of darker natures. An Ordinator has been sniffing out Sanguine's shrine and he wants you to take care of the nosy do-gooder in an unconventional way.
 
+* On MO2 installation, check the following options in the FOMOD installer:
+  * [x] 00 Core
+  * [x] 02 MWSE ME Patch
+
 [**The Demon of Knowledge**](https://www.nexusmods.com/morrowind/mods/46126)\
 A mysterious book has fallen into your possession… How did it get there? Who does it belong to? Follow the clues, as you find yourself taken away by a detailed, multilayered story steeped in TES Lore.
 
@@ -174,6 +189,13 @@ A sprawling questline full of action and intrigue with a fully radiant quest sys
 [**Hircine's Quest**](https://www.nexusmods.com/morrowind/mods/47651)\
 Participate in the challenge of Hircine and hunt down his three aspects.
 
+* On MO2 installation, check the following options in the FOMOD installer:
+  * [x] 00 Core
+  * [x] 01 - Anthology
+
+* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
+  * [x] `HircineQuest_VSW.ESP`
+
 [**Join the Royal Guards**](https://www.nexusmods.com/morrowind/mods/50676)\
 Become a Royal Guard and do quests for them.
 
@@ -182,9 +204,6 @@ Adds the Imperial Knights into the game, as a joinable faction.
 
 [**The Talos Cult Conspiracy**](https://www.nexusmods.com/morrowind/mods/47576)\
 Join the Talos Cult and embark on a conspiracy to kill the emperor.
-
-[**Talos Cult Revised - Alice's Version**](https://www.nexusmods.com/morrowind/mods/47571)\
-This mod improves the Talos Cult shrine in the Gnisis legion barracks in an attempt to give a more interesting depiction of the cult.
 
 [**Vvardenfell Brotherhood**](https://www.nexusmods.com/morrowind/mods/47314)\
 A mod that allows you to join the Dark Brotherhood on Vvardenfell, in a semi lore-friendly (it expands lore) and enticing story, that stays true to the vanilla vision.
