@@ -7,15 +7,6 @@ This is the maximum compatibility version of Rocky West Gash, especially for pla
 This needs to be installed before BCOM
 {% endhint %}
 
-⭐ [**White Suran 2 - MD Edition**](https://www.nexusmods.com/morrowind/mods/44153) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
- Some tweaks and improvements to the original White Suran 2 mod which gives Suran a unique, pearly white texture to distinguish it from other Hlaalu settlements.
-
-* On MO2 installation, check the following options in the BAIN installer:
-  * [x] Glow in the Dhark -> Yes
-  * [ ] City of Balmora -> No
-  * [ ] Vurt's Ascadian Isles II -> No
-  * [ ] Suran Underworld 3 -> No
-
 ⭐ [**Beautiful Cities of Morrowind**](https://www.nexusmods.com/morrowind/mods/49231) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
  Overhaul of almost every settlement of Morrowind, inspired by concept art and aimed at a vanilla+ feeling.
 
@@ -29,20 +20,20 @@ This needs to be installed before BCOM
   * [x] 03 Plaza Weather Mechanics (MWSE) - Required
   * [x] 05 White Suran
 
-⭐ [**Boats**](https://www.nexusmods.com/morrowind/mods/42270) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
+⭐📃 [**Boats**](https://www.nexusmods.com/morrowind/mods/42270) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
  You can travel by boat, ship and river strider in real time, and dismount anywhere in between trip starting and ending points
 
 * Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
   * [x] `abotBoatsTR2101.esp`
   * [x] `abotRiverStridersTR2101.esp`
 
-⭐ [**Gondoliers**](https://www.nexusmods.com/morrowind/mods/43291) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
+⭐📃 [**Gondoliers**](https://www.nexusmods.com/morrowind/mods/43291) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
  real time travel Vivec gondoliers
 
 * Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
   * [x] `abotGondoliers.esp`
 
-⭐ [**Silt Striders**](https://www.nexusmods.com/morrowind/mods/42267) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
+⭐📃 [**Silt Striders**](https://www.nexusmods.com/morrowind/mods/42267) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
  I wanted to travel Morrowind on top of a real Silt Strider so strongly, and after years waiting for some similar mod to be completed, I decided to try myself.
 
 * Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
@@ -66,7 +57,7 @@ After installation, disable all of the mod's plugins in your load order. ⚠️ 
 Distant Land generation is required to make this mod work as intended. Instructions will be given in the **Re-running Distant Land** section.
 {% endhint %}
 
-⭐ [**Adjustable Landscape Texture Scale**](https://www.nexusmods.com/morrowind/mods/49689) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
+⭐📃 [**Adjustable Landscape Texture Scale**](https://www.nexusmods.com/morrowind/mods/49689) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  This mod allows you to manually increase the scale of the landscape texture to make it look more detailed without the need for hi-res replacers.
 
 ⭐ [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
@@ -74,6 +65,7 @@ New effects and textures for the waterfalls. Includes LOD on the particle effect
 
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Core
+  * [x] 02 Tamriel Rebuilt Water
 
 ⭐ [**Waterfalls Tweaks**](https://www.nexusmods.com/morrowind/mods/46271)\
 Various modifications to waterfalls and water splashes. Born to fit Better Waterfalls mod. 
@@ -106,21 +98,21 @@ Adds a visual effect to all vanilla flies sound emitters.
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Core
 
-⭐ [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
+⭐📃 [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 Adds floating dust to areas where dead are entombed similar to what is seen in Skyrim barrows.
 
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Core
   * [x] 01 Default Dust
 
-⭐ [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973)  
+⭐📃 [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973)  
 Adds a heat haze shader. Subtle, gets faster and stronger when near lava pools.
 
 {% hint style="info" %}
 The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](/fundamentals/shaders.md#shader-setup) section.
 {% endhint %}
 
-⭐ [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
+⭐📃 [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
 Adds recurring earthquakes to certain volcanically active regions of Vvardenfell. You'll hear the sounds of moving earth and breaking rocks, your screen will start to tremble with increasing intensity, and, if inside an interior, dust and particles will shake loose and fall from the walls and ceiling.
 
 {% hint style="info" %}
@@ -134,7 +126,7 @@ The shader included in this mod needs to be registered in MGE XE to work as inte
 Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family name in Daedric.
 
 * Files to install:
-  * **Know The Ancestors** (Main Files)
+  * **Know Thy Ancestors** (Main Files)
   * **Know The Ancestors - Tamriel Rebuilt Addon** (Optional Files)
 
 [**Loot Well Urned**](https://www.nexusmods.com/morrowind/mods/44976)\
@@ -204,7 +196,7 @@ Community expansion to Glass Domes of Vivec - visual fixes, new region mechanics
   * [x] 00 Core
   * [x] 01 Guar Stables
 
-[**Ebonheart Underworks**](https://www.nexusmods.com/morrowind/mods/47272)\
+📃 [**Ebonheart Underworks**](https://www.nexusmods.com/morrowind/mods/47272)\
  Ebonheart now has its own sewage system. With filth, rats, people and quests.
 
 [**Big Imperial Halls**](https://www.nexusmods.com/morrowind/mods/47533)\
@@ -312,7 +304,7 @@ This mod is a model and texture replacer for the Mudcrab Merchant, making him st
 
 ## Bitter Coast
 
-⭐ [**Glowbugs**](https://www.nexusmods.com/morrowind/mods/50538) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
+⭐📃 [**Glowbugs**](https://www.nexusmods.com/morrowind/mods/50538) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 Adds firefly-like insects called glowbugs across the Bitter Coast region which come out on calm nights. They can be caught by the agile adventurer and their thorax makes a quality component in potions of Light.
 
 * On MO2 installation, check the following options in the BAIN installer:
@@ -563,7 +555,7 @@ Allows installation of the Skyrim-like Trees option without having to install th
 
 ## Misc
 
-[**More believable bandit camps - an addon for Ashfall**](https://www.nexusmods.com/morrowind/mods/50066)\
+📃 [**More believable bandit camps - an addon for Ashfall**](https://www.nexusmods.com/morrowind/mods/50066)\
  Adds appropriate clutter to the various bandit camps.
 
 [**Well Diversified STOTSP**](https://www.nexusmods.com/morrowind/mods/50725)\
@@ -666,10 +658,10 @@ On MO2 installation, it does not matter if you install too many mods, we will go
   * [x] 07 Rise of House Telvanni 2.0
   * [x] 08 Scrolls of the nine barriers
   * [x] 10 Concept Art Plantations
-  * [x] 18 Abots Boats - TR - activate both esp
-  * [x] 19 Abot's boats patch for Tomb of the Snow Prince - TR
-  * [x] 20 Abot's gondoliers - activate both esp
-  * [x] 21 Abots Silt Striders - TR
+  * [x] 📃 18 Abots Boats - TR - activate both esp
+  * [x] 📃 19 Abot's boats patch for Tomb of the Snow Prince - TR
+  * [x] 📃 20 Abot's gondoliers - activate both esp
+  * [x] 📃 21 Abots Silt Striders - TR
   * [x] 22 TR_Travels
   * [x] 24 Skyrim Home of The Nords Patch
   * [x] 25 Province Cyrodiil Patch
@@ -686,46 +678,14 @@ On MO2 installation, it does not matter if you install too many mods, we will go
   * [x] 64 The Publicans
   * [x] 69 Glass Domes
   * [x] 73 Store Entrance Chimes
-  * [x] 75 The Sanguine Rose
+  * [x] 📃 75 The Sanguine Rose
   * [x] 79 Main Quest Overhaul
   * [x] 80 Mamaea Awakened
-  * [x] 82 Ashfall interop
+  * [x] 📃 82 Ashfall interop
   * [x] 83 OAAB Pomegranates patch
 
-* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
-  * [x] `abotBoatsTR2101.esp`
-  * [x] `abotGondoliers.esp`
-  * [x] `abotSiltStridersTR2101.esp`
-  * [x] `Animated_Morrowind - merged.esp`
-  * [x] `AreaEffectArrows.esp`
-  * [x] `Ashlander Traders Remastered.esp`
-  * [x] `BCOM_OAAB_Pomegranates_patch.ESP`
-  * [x] `BOM_abot_boats.esp`
-  * [x] `BOM_AbotSiltStriders.ESP`
-  * [x] `BOM_PfP_patch.ESP`
-  * [x] `BOM_Scrolls of the Nine Barriers_patch.ESP`
-  * [x] `Bounty Hunter Assignments.ESP`
-  * [x] `Concept_Arts_plantations.esp`
-  * [x] `Ebonheart_Underworks.esp`
-  * [x] `Foyada Mamaea Overhaul.ESP`
-  * [x] `Glass Domes of Vivec.esp`
-  * [x] `Main_Quest_Overhaul.ESP`
-  * [x] `Mamaea Awakened.ESP`
-  * [x] `Morrowind Anti-Cheese.ESP`
-  * [x] `PC_patch.ESP`
-  * [x] `Realistic_Repair_Add-on.ESP`
-  * [x] `ROHT_2_0_8.ESP`
-  * [x] `SHOT_patch.ESP`
-  * [x] `Sload and Slavers.ESP`
-  * [x] `Store Entrance Chimes - Alt Ver.ESP`
-  * [x] `The Publicans.ESP`
-  * [x] `The Sanguine Rose.ESP`
-  * [x] `TLAD Full - Still - Necro Colors.esp`
-  * [x] `TOTSP_abotBoats.esp`
-  * [x] `TR_Travels Patch.ESP`
-  * [x] `Velothi Wall Art Re-Addon.ESP`
-  * [x] `Velothi Wall Art.ESP`
-  * [x] `Yet Another Guard Diversity - Regular.ESP`
+* Double click the mod in MO2 and go to the Optional ESPs tab: Under "Optional ESPs" have only:
+  * [x] `abotGondoliers_RVP.esp`
 
 ⭐ [**Beautiful Cities of Morrowind - Grass Patches**](https://www.nexusmods.com/morrowind/mods/49231)\
 Grass modules
@@ -742,7 +702,7 @@ Grass modules
   * [x] `Rem_BC.esp`
   * [x] `Rem_WG.esp`
 
-[**Various compatibility patches for HOTV Tomb of the Snow prince Solstheim Overhaul](https://www.nexusmods.com/morrowind/mods/48422)\
+📃 [**Various compatibility patches for HOTV Tomb of the Snow prince Solstheim Overhaul**](https://www.nexusmods.com/morrowind/mods/48422)\
  Various patches, including the White Wolf of Lokken, Wanderes of Solstheim, Children of Morrowind, Thirsk Expanded more....an ongoing project
 
 * Files to install:

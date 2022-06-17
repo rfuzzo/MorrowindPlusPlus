@@ -51,6 +51,9 @@ Compatibility patch for Morrowind Enhanced Textures.
 ⭐ [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)\
 Replaces generic copy-pasted guards with a variety of more unique-looking guards.
 
+* Files to install:
+  * **Yet Another Guard Diversity - Regular** (Main files)
+
 ⭐ [**Yet Another Guard Diversity - Uniform Ordinators**](https://www.nexusmods.com/morrowind/mods/49232)\
 Patches the Ordinator helmet and shield's leveled lists from Yet Another Guard Diversity to ensure they always spawn with them.
 
@@ -81,6 +84,7 @@ This mod adds a glowbug swarm around Spriggans to make them look more fae-like a
 Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
 
 * Files to install:
+  * **kart_facelift_meshes** (Main files)
   * **kart_fut_TR_PT** (Main files)
 
 [**Familiar Faces by Caleb**](https://www.nexusmods.com/morrowind/mods/50093)\
@@ -104,7 +108,7 @@ Replaces the "plastic wrap" effect around in-game magic items (those equipped by
 ⭐ [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)\
 Makes it so many smoke effects are much more laid back and easier on the eyes.
 
-[**MWSE Blood Diversity**](https://www.nexusmods.com/morrowind/mods/47913?)\
+📃 [**MWSE Blood Diversity**](https://www.nexusmods.com/morrowind/mods/47913?)\
 Povides high resolution new blood types for the creatures of Morrowind, Tribunal, Bloodmoon, the Official Plugins, and a variety of mods based on real-world and lore considerations.
 
 * On MO2 installation, check the following options in the BAIN installer:
@@ -140,10 +144,10 @@ Texture Name 7=Energy
 [**Shield Spells Reforged pt.1. (2022 upg)**](https://www.nexusmods.com/morrowind/mods/50073)\
 Visual overhaul of Elemental Shield spells, with additional on-hit effects.
 
-⭐ [**Chameleon**](https://www.nexusmods.com/morrowind/mods/47996)\
+⭐📃 [**Chameleon**](https://www.nexusmods.com/morrowind/mods/47996)\
 The weid transparency of models (clothes, hair) with alpha channels issue fixed: Your character is not transparent at all.
 
-⭐ [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912)\
+⭐📃 [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912)\
 Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
 
 ⭐ [**True Lights and Darkness - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47133)\
@@ -155,7 +159,7 @@ Modified version of True Lights and Darkness that reverts some of TLAD's more ra
 * Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
   * [x] `TLAD Full - Still - Necro Colors.esp`
 
-⭐ [**Vapourmist**](https://www.nexusmods.com/morrowind/mods/50517)\
+⭐📃 [**Vapourmist**](https://www.nexusmods.com/morrowind/mods/50517)\
 MWSE-Lua 3D clouds and mist.
 
 [**Crystal Soul Gems**](https://www.nexusmods.com/morrowind/mods/48300)\
@@ -164,7 +168,7 @@ MWSE-Lua 3D clouds and mist.
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 - Data Files
 
-[**Fallen Ash**](https://www.nexusmods.com/morrowind/mods/48711) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
+📃 [**Fallen Ash**](https://www.nexusmods.com/morrowind/mods/48711) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
  Dynamically adds ash decals to people, places, things, and probably concepts during ash storms.
 
 [**Keg Drip**](https://www.nexusmods.com/morrowind/mods/47903) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
@@ -179,7 +183,7 @@ This mod uses a previously unused keg droplet texture from the game files to add
 
 ## Weather
 
-⭐ [**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636)\
+⭐📃 [**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636)\
 Weather overhaul with randomised cloud textures, more dynamic weathers, weather changes in interiors, seasonal weather chances, daytime hours changing with latitude and season, varied rain/snow density, dynamic cloud speeds, and more.
 
 * On MO2 installation, check the following options in the BAIN installer:
@@ -189,7 +193,7 @@ Weather overhaul with randomised cloud textures, more dynamic weathers, weather 
   * [x] 03 Rain mesh replacer - regular
   * [x] 04 Weather particles replacer
 
-⭐ [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)\
+⭐📃 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)\
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
 
 [**Better Sun**](https://www.nexusmods.com/morrowind/mods/49886)\
@@ -222,10 +226,10 @@ Adds wooden shutters to Nord windows (like those in the vanilla game), which ope
   * [x] 03 Vanilla style sunrays\
     Adds interior sunrays. Windows use the original vanilla stones.
 
-[**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)\
+📃 [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)\
 Toggle lights on and off. Town lights turn off during the day. Lights are no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.
 
-[**Transporter Lights - MWSE**](https://www.nexusmods.com/morrowind/mods/48050)\
+📃 [**Transporter Lights - MWSE**](https://www.nexusmods.com/morrowind/mods/48050)\
 Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
 
 ## Equipment
@@ -288,7 +292,7 @@ Model replacer for book and scroll models.
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Core
 
-[**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680)\
+📃 [**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680)\
 Lets you open or close any book or scroll in the game.
 
 * On MO2 installation, check the following options in the BAIN installer:
@@ -333,7 +337,7 @@ Many of the dwemer ruins use unfitting cobblestone textures in their exteriors. 
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Core
 
-[**OAAB Scroll Qualities**](https://www.nexusmods.com/morrowind/mods/49045?)\
+📃 [**OAAB Scroll Qualities**](https://www.nexusmods.com/morrowind/mods/49045?)\
 Uses the new scroll models in OAAB\_Data to automatically replace the models and icons of the enchanted scrolls in the game based on their value.
 
 * On MO2 installation, check the following options in the BAIN installer:

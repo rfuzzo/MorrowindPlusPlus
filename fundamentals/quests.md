@@ -159,7 +159,7 @@ The Morag Tong Guild is the most poorly written faction in Morrowind. This mod f
 
 ## Misc
 
-[**Save the Date**](https://www.nexusmods.com/morrowind/mods/50074)\
+📃 [**Save the Date**](https://www.nexusmods.com/morrowind/mods/50074)\
 Most Daedric quests can be started only on the Daedric Prince's summoning day - one day a year - and only with an appropriate offering.
 
 [**Even More Mysterious Killings in Vivec**](https://www.nexusmods.com/morrowind/mods/49661)\
@@ -170,20 +170,17 @@ The Mysterious Killings in Vivec quest now has a new reward and some more flavou
 [**Hostages**](https://www.nexusmods.com/morrowind/mods/47916)\
 Adds hostages to random dungeons of Vvardenfell and the opportunity for you to free them.
 
-[**The Madstone**](https://www.nexusmods.com/morrowind/mods/47653)\
-Makes the Madstone of the Ahemmusa align with its in game description so that the enchantment also affects the player and you will now hear the whispers of the ancestors when you use it. In addition, the mod also provides a new model and textures for the amulet. And adds some flavor dialogue to give some background on the amulet.
-
-[**The Sanguine Rose**](https://www.nexusmods.com/morrowind/mods/46214)\
+📃 [**The Sanguine Rose**](https://www.nexusmods.com/morrowind/mods/46214)\
 The Sanguine Rose adds a fully featured Daedric Quest for Sanguine, the prince of hedonistic revelry, debauchery, and passionate indulgences of darker natures. An Ordinator has been sniffing out Sanguine's shrine and he wants you to take care of the nosy do-gooder in an unconventional way.
 
 * On MO2 installation, check the following options in the FOMOD installer:
   * [x] 00 Core
   * [x] 02 MWSE ME Patch
 
-[**The Demon of Knowledge**](https://www.nexusmods.com/morrowind/mods/46126)\
+📃 [**The Demon of Knowledge**](https://www.nexusmods.com/morrowind/mods/46126)\
 A mysterious book has fallen into your possession… How did it get there? Who does it belong to? Follow the clues, as you find yourself taken away by a detailed, multilayered story steeped in TES Lore.
 
-[**Ministry of Clarity**](https://www.nexusmods.com/morrowind/mods/46093)\
+📃 [**Ministry of Clarity**](https://www.nexusmods.com/morrowind/mods/46093)\
 A sprawling questline full of action and intrigue with a fully radiant quest system, new loot and more!
 
 [**Hircine's Quest**](https://www.nexusmods.com/morrowind/mods/47651)\
@@ -211,7 +208,7 @@ A mod that allows you to join the Dark Brotherhood on Vvardenfell, in a semi lor
 [**What is something that can be perceived**](https://www.nexusmods.com/morrowind/mods/47598)\
 Adds Dark Brotherhood armor to the members of the faction in Vvardenfell.
 
-[**Pimp My Shrine - The Daedric Legend of Vernaccus**](https://www.nexusmods.com/morrowind/mods/49173)\
+📃 [**Pimp My Shrine - The Daedric Legend of Vernaccus**](https://www.nexusmods.com/morrowind/mods/49173)\
 A lore-friendly quest mod based on an in-game book brought to life, with dungeons, mind-bending puzzles, quests, Daedra, and the power to summon items from oblivion.
 
 [**Failed Incarnates Pilgrimage**](https://www.nexusmods.com/morrowind/mods/48717)\

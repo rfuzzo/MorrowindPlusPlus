@@ -68,13 +68,13 @@ Fixes many issues present in Bethesda's original Official Plugins.
 ⭐ [**Bethesda Official Plugins Naturalized**](https://www.nexusmods.com/morrowind/mods/51107) by [PikachunoTM](https://www.nexusmods.com/morrowind/users/16269634)\
  Implementation of Bethesda's Official Plugins with some slightly improved implementation. Uses UMOPP as a base.
 
-⭐ [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
+⭐📃 [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
 Forces the game to instantly close on exit.
 
-⭐ [**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
+⭐📃 [**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
 Provides an in-game HUD element which warns the player as the game approaches critical memory limits. At a critical threshold, it can prompt to save and quit.
 
-⭐ [**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
+⭐📃 [**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
 Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to.
 
 [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364) by [PikachunoTM](https://www.nexusmods.com/morrowind/users/16269634)\
@@ -89,47 +89,47 @@ Restores previously unused Silt Strider animation - it was present in the model,
 [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
 Construction materials and scaffolding are now visible at the Great House strongholds during construction of the later stages.
 
-⭐ [**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971) by [VitruvianGuar](https://www.nexusmods.com/morrowind/users/34081875)\
+⭐📃 [**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971) by [VitruvianGuar](https://www.nexusmods.com/morrowind/users/34081875)\
 Prevents Fortify Health and Drain Health effects from killing actors outright, leaving them at least one health point after they expire and are casted, respectively.
 
-⭐ [**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
+⭐📃 [**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
 Carries over unique item information, such as condition and script data when enchanting items.
 
-⭐ [**Fortify MAX**](https://www.nexusmods.com/morrowind/mods/49825) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
+⭐📃 [**Fortify MAX**](https://www.nexusmods.com/morrowind/mods/49825) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
 Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the current stat.
 
-⭐ [**Attribute Effect Tweaks**](https://www.nexusmods.com/morrowind/mods/51161) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
+⭐📃 [**Attribute Effect Tweaks**](https://www.nexusmods.com/morrowind/mods/51161) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
 Tweaks how Restore/Damage Attribute works on the player. Required by certain mods. No meaningful gameplay effect on its own.
 
-[**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947) by [Petetehgoat](https://www.nexusmods.com/morrowind/users/25319994)\
+📃 [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947) by [Petetehgoat](https://www.nexusmods.com/morrowind/users/25319994)\
 Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
 
-⭐ [**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
+⭐📃 [**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
 Dropped items and corpses are automatically positioned and oriented to align with the ground.
 
-⭐ [**Perfect Placement**](https://www.nexusmods.com/morrowind/mods/46562) by [Hrnchamd](https://www.nexusmods.com/morrowind/users/843673)\
+⭐📃 [**Perfect Placement**](https://www.nexusmods.com/morrowind/mods/46562) by [Hrnchamd](https://www.nexusmods.com/morrowind/users/843673)\
 Adds interactive placement, rotation and wall mounting of items. Arrange gear, books and anything else you can pick up. Requires MWSE 2.1.
 
-[**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
+📃 [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
 Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
 
-⭐ [**Putting Power In Willpower (Necro Edit)**](https://github.com/Sigourn/nerevarrising/blob/master/mods/Putting%20Power%20in%20Willpower%20(Necro%20Edit).7z) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
+⭐📃 [**Putting Power In Willpower (Necro Edit)**](https://github.com/Sigourn/nerevarrising/blob/master/mods/Putting%20Power%20in%20Willpower%20(Necro%20Edit).7z) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description.
 
 {% hint style="info" %}
 [**Link**](https://www.nexusmods.com/morrowind/mods/45742) to original mod by **R-Zero**. The featured version includes fixes by **Necrolesian**.
 {% endhint %}
 
-⭐ [**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269) by [FMZ4](https://www.nexusmods.com/morrowind/users/87930688)\
+⭐📃 [**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269) by [FMZ4](https://www.nexusmods.com/morrowind/users/87930688)\
 Makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
 
-⭐ [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029) by [FMZ4](https://www.nexusmods.com/morrowind/users/87930688)\
+⭐📃 [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029) by [FMZ4](https://www.nexusmods.com/morrowind/users/87930688)\
 This mod fixes several engine bugs related to GMSTs used when raising skills via NPC training and skill books.
 
-[**Thrown Projectiles Revamped**](https://www.nexusmods.com/morrowind/mods/49609) by [Ryuzaki1](https://www.nexusmods.com/morrowind/users/3890785)\
+📃 [**Thrown Projectiles Revamped**](https://www.nexusmods.com/morrowind/mods/49609) by [Ryuzaki1](https://www.nexusmods.com/morrowind/users/3890785)\
 Corrects thrown projectiles inflicting twice their listed damage, by halving their damage output.
 
-[**Doors Anti Stuck**](https://www.nexusmods.com/morrowind/mods/50931) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
+📃 [**Doors Anti Stuck**](https://www.nexusmods.com/morrowind/mods/50931) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
 
 Avoids actors getting stuck while opening doors.
 
@@ -229,7 +229,7 @@ Note that **Project Atlas** utilizes its own texture sets for its edited meshes,
 [**Graphic Herbalism- Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154) by [NoUsernamesNotTaken](https://www.nexusmods.com/morrowind/users/50837536)\
 Fixes a collision bug with harvested Ash Yams.
 
-[**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864) by [GrunTella](https://www.nexusmods.com/morrowind/users/2356095)\
+📃 [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864) by [GrunTella](https://www.nexusmods.com/morrowind/users/2356095)\
 Makes picking a glowing plant also remove the glow-light.
 
 [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\

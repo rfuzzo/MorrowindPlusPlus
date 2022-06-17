@@ -16,7 +16,7 @@ This mod requires the **Mod Specific/Hi-def cutscene support** feature to be ena
 
 ## Menus
 
-⭐ [**Improved Main Menu**](https://www.nexusmods.com/morrowind/mods/50856)\
+⭐📃 [**Improved Main Menu**](https://www.nexusmods.com/morrowind/mods/50856)\
 Adds several toggleable quality of life improvements to the Main Menu, including a Continue button and New Game confirmation prompts.
 
 ⭐ [**Title Screen and Logo Video Intro Reworked**](https://www.nexusmods.com/morrowind/mods/43657) by [Phobos90](https://www.nexusmods.com/morrowind/users/2470746)\
@@ -80,64 +80,64 @@ Replaces the effect seen on magic items in the inventory, allowing easier distin
 
 ## HUD
 
-⭐ [**Tamrielic Lore Tooltips**](https://www.nexusmods.com/morrowind/mods/45954) by [PhDinSorcery](https://www.nexusmods.com/morrowind/users/8404526)\
+⭐📃 [**Tamrielic Lore Tooltips**](https://www.nexusmods.com/morrowind/mods/45954) by [PhDinSorcery](https://www.nexusmods.com/morrowind/users/8404526)\
  Yagrum Bagarn's book Tamrielic Lore gives brief descriptions of the story behind several artifacts, all of which appear in-game. This mod adds excerpts from the book to the tooltips of each respective artifact.
 
-⭐ [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842) by [Anumaril21](https://www.nexusmods.com/morrowind/users/60236996)\
+⭐📃 [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842) by [Anumaril21](https://www.nexusmods.com/morrowind/users/60236996)\
  Tooltips Complete provides helpful and lore-friendly flavour texts for nearly every item in Morrowind, Tribunal, Bloodmoon, the Official Plugins, and an expanding collection of mods.
 
 * Files to install:
   * **Tooltips Complete** (Main files)
   * **Tamrielic Lore Exclusions** (Optional files)
 
-⭐ [**MWSE Compare Tooltips**](https://www.nexusmods.com/morrowind/mods/51087) by [rfuzzo](https://www.nexusmods.com/morrowind/users/16300749)\
+⭐📃 [**MWSE Compare Tooltips**](https://www.nexusmods.com/morrowind/mods/51087) by [rfuzzo](https://www.nexusmods.com/morrowind/users/16300749)\
  This mod adds compare tooltips for looked-at or equipped items against the equipped item of the same category. The mod has multiple MCM options to configure the comparison style.
 
-⭐ [**MWSE Loading Splash Screens**](https://www.nexusmods.com/morrowind/mods/51076) by [rfuzzo](https://www.nexusmods.com/morrowind/users/16300749)\
+⭐📃 [**MWSE Loading Splash Screens**](https://www.nexusmods.com/morrowind/mods/51076) by [rfuzzo](https://www.nexusmods.com/morrowind/users/16300749)\
  This mod uses MWSE to display splash screens during cell loading instead of freezing the frame as vanilla does.
 
-⭐ [**Travel Tooltips**](https://www.nexusmods.com/morrowind/mods/48306) by [tewlwolow](https://www.nexusmods.com/morrowind/users/1152341)\
+⭐📃 [**Travel Tooltips**](https://www.nexusmods.com/morrowind/mods/48306) by [tewlwolow](https://www.nexusmods.com/morrowind/users/1152341)\
  Adds tooltips with location descriptions and maps to travel menu.
 
-⭐ [**Accurate Tooltip Stats**](https://www.nexusmods.com/morrowind/mods/51354) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
+⭐📃 [**Accurate Tooltip Stats**](https://www.nexusmods.com/morrowind/mods/51354) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
  Implements more accurate, context-dependent tooltip displays for weapon damage and armor ratings, using MWSE-lua.
 
-[**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267)\
+📃 [**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267)\
 Provides configurable, dynamic crosshair indicators while sneaking and for essential NPCs, quest items, owned objects, and more. In addition, a variety of settings are included to manage how these aspects of the game work.
 
-[**Ownership Indicator**](https://www.nexusmods.com/morrowind/mods/45940)
+📃 [**Ownership Indicator**](https://www.nexusmods.com/morrowind/mods/45940)
 Uses MWSE Lua to add an Oblivion style ownership indicator, when you look at owned items, beds, and more.
 
 * After installation, hide the mod's **MWSE\mods\ownership-indicator\main.lua** file.
 
-[**Companion Health Bars MWSE Lua Script**](https://www.nexusmods.com/morrowind/mods/46136)\
+📃 [**Companion Health Bars MWSE Lua Script**](https://www.nexusmods.com/morrowind/mods/46136)\
 Adds bars to the UI that displays your companions and summoned creatures' health.
 
-[**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962)\
+📃 [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962)\
 Adds a bar to the UI that shows the currently equipped weapon's charge under the weapon condition bar.
 
-[**Clocks**](https://www.nexusmods.com/morrowind/mods/50840)\
+📃 [**Clocks**](https://www.nexusmods.com/morrowind/mods/50840)\
 Adds a clock to the UI that displays either game world time or real time.
 
-[**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295)\
+📃 [**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295)\
 Removes "Diseased", "Blighted", and similar adjectives from creature names using MWSE-lua.
 
 ## Gameplay
 
-⭐ [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)\
+⭐📃 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)\
 Expands UI functionality with searching, filtering, and more visual feedback.
 
-⭐ [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036)\
+⭐📃 [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036)\
 Fixes gameplay and interface inconsistencies in the alchemy menu, provides it with a built-in effect filter and implements a Skyrim-like system for remembering ingredient effects.
 
 {% hint style="warning" %}
 This mod requires the **Game mechanics/Healty appetite** feature to be enabled in the Morrowind Code Patch.
 {% endhint %}
 
-⭐ [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272)\
+⭐📃 [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272)\
 Allows highlighting and hiding quests in the Journal questlist.
 
-⭐ [**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/nerevarrising/blob/master/mods/What%20Are%20My%20Attributes%20(Necro%20Edit).7z)\
+⭐📃 [**What Are My Attributes (Necro Edit)**](https://github.com/Sigourn/nerevarrising/blob/master/mods/What%20Are%20My%20Attributes%20(Necro%20Edit).7z)\
 Adds an Attribute and Description widget to the Race menu so you can better plan your character.
 
 {% hint style="info" %}
@@ -148,10 +148,10 @@ Adds an Attribute and Description widget to the Race menu so you can better plan
 [**Link**](https://www.nexusmods.com/morrowind/mods/49912) to original mod by **RingComics**. The featured version includes UI fixes by **Necrolesian**.
 {% endhint %}
 
-⭐ [**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527)\
+⭐📃 [**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527)\
 Restores the class description tooltip to the class selection menu, making it easier to decide which class you want to go with.
 
-⭐ [**Map and Compass**](https://www.nexusmods.com/morrowind/mods/48455)\
+⭐📃 [**Map and Compass**](https://www.nexusmods.com/morrowind/mods/48455)\
 This mod allows you to replace the magical vanilla map with a selection of more mundane maps, and the minimap with a compass.
 
 {% hint style="info" %}
@@ -163,19 +163,19 @@ This mod allows you to replace the magical vanilla map with a selection of more 
 * Exit the menu.
 {% endhint %}
 
-⭐ [**Map Replacements for Maps and Compass Wagner Style - Brujoloco Edition**](https://www.nexusmods.com/morrowind/mods/48460)  
+⭐📃 [**Map Replacements for Maps and Compass Wagner Style - Brujoloco Edition**](https://www.nexusmods.com/morrowind/mods/48460)  
 Replaces the maps from **Map and Compass** to give them a more immersive look.
 
 * On MO2 installation, check the following options in the BAIN installer:
   * [X] 00 Yellowed Maps
 
-⭐ [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851)\
+⭐📃 [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851)\
 Keep track of what books you have read by showing a **(Read)** indicator next to their names. You can also see a list of previously read books in the mod's Mod Config menu.
 
-⭐ [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275)\
+⭐📃 [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275)\
 Adds tooltips with the effect's name to shrines when hovering over the different options.
 
-⭐ [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492)\
+⭐📃 [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492)\
 Adds several new options for the journal and quest pages.
 
 * After installation, hide the mod's **Textures** folder.
@@ -186,7 +186,7 @@ Renames keys so they'll have a consistent naming scheme.
 * Files to install:
   * **Consistent Keys - MWSE Version** (Main files)
 
-⭐ [**Propylon Index Renamer**](https://www.nexusmods.com/morrowind/mods/49941)\
+⭐📃 [**Propylon Index Renamer**](https://www.nexusmods.com/morrowind/mods/49941)\
 Renames propylon indexes so they'll group together in the inventory.
 
 ⭐ [**Soulgem Renamer**](https://www.nexusmods.com/morrowind/mods/49861)\
@@ -197,26 +197,26 @@ Adds a cancel button to Temple shrines and Imperial Cult altars.
 
 ## Hotkeys
 
-⭐ [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341)\
+⭐📃 [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341)\
 Adds a hotkey for equipping a selected inventory item.
 
-⭐ [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055)\
+⭐📃 [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055)\
 Expands the amount of quick menu hotkeys available.
 
-⭐ [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458)\
+⭐📃 [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458)\
 Adds a hotkey for exiting any menu.
 
-⭐ [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038)\
+⭐📃 [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038)\
 Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
 
-⭐ [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747)\
+⭐📃 [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747)\
 Adds a hotkey for equipping light sources, prioritizing already used lights.
 
-[**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723)\
+📃 [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723)\
 Adds a hotkey for summons, followers and companions to attack the selected target.
 
-[**Better Buoyancy**](https://www.nexusmods.com/morrowind/mods/48929)\
+📃 [**Better Buoyancy**](https://www.nexusmods.com/morrowind/mods/48929)\
 Add hotkeys for swimming and levitating. Use the jump key to float upwards, and the sneak key to sink downwards.
 
-[**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625)\
+📃 [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625)\
 Adds a hotkey for picking up books.
