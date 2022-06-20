@@ -56,8 +56,8 @@ can fix/improve some companions/followers features, detect abot's modded Scenic 
 ⭐📃 [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383)\
 Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
 
-⭐📃 [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715)\
-Takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
+⭐📃 [**Realistic Archery**](https://www.nexusmods.com/morrowind/mods/51473) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
+Arrows and thrown weapons always do damage when they hit a target, but projectiles are less accurate at lower marksman levels, and damage is reduced at close range.
 
 ⭐📃 [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)\
 Modifies critical strike coefficient depending on the weapon you use.
