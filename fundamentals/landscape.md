@@ -68,7 +68,7 @@ New effects and textures for the waterfalls. Includes LOD on the particle effect
   * [x] 02 Tamriel Rebuilt Water
 
 ⭐ [**Waterfalls Tweaks**](https://www.nexusmods.com/morrowind/mods/46271)\
-Various modifications to waterfalls and water splashes. Born to fit Better Waterfalls mod. 
+Various modifications to waterfalls and water splashes. Born to fit Better Waterfalls mod.
 
 ⭐ [**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 Fixes flickering on lava. Reduces the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
@@ -563,7 +563,6 @@ Adds Imperial and Solstheim variants for the well mesh, blending in better with 
 
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Core
-  * [ ] 01 Option 1 Vanilla
   * [x] 01 Option 2 STOTSP
 
 [**OAAB Pomegranates**](https://www.nexusmods.com/morrowind/mods/50726) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
@@ -581,6 +580,16 @@ Overhauls all shipwreck interiors with additional detail and individuality.
 * Files to install:
   * **Get Wrecked 1.1** (Main files)
   * **Uncharted Artifacts Compatibility Patch** (Optional files)
+
+[**Magical lights for Telvanni**](https://www.nexusmods.com/morrowind/mods/49453)\
+Adds some unique, Telvanni style light sources to various Telvanni settlements
+
+* Files to install:
+  * **OAAB - Magical Lights** (Main files)
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 Core
+  * [x] 01 BCoM Version
 
 ## Add-ons
 
@@ -613,6 +622,9 @@ This mod requires the **Beta/actor collision box fix** feature to be enabled in 
 
 [**Water Life**](https://www.nexusmods.com/morrowind/mods/42417) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
 This plugin mainly adds to Morrowind (most) peaceful aquatic creatures.
+
+[**Far From Home**](https://www.nexusmods.com/morrowind/mods/46860)\
+This mod adds a quest to a new and dangerous tomb which brings the player to unexpected places and the player has a chance to acquire a curious new home.
 
 ## Patches
 
@@ -683,6 +695,7 @@ On MO2 installation, it does not matter if you install too many mods, we will go
   * [x] 80 Mamaea Awakened
   * [x] 📃 82 Ashfall interop
   * [x] 83 OAAB Pomegranates patch
+  * [x] 88 Far From Home
 
 * Double click the mod in MO2 and go to the Optional ESPs tab: Under "Optional ESPs" have only:
   * [x] `abotGondoliers_RVP.esp`

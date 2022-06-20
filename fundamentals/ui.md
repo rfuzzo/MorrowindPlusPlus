@@ -110,8 +110,11 @@ Uses MWSE Lua to add an Oblivion style ownership indicator, when you look at own
 
 * After installation, hide the mod's **MWSE\mods\ownership-indicator\main.lua** file.
 
-📃 [**Companion Health Bars MWSE Lua Script**](https://www.nexusmods.com/morrowind/mods/46136)\
-Adds bars to the UI that displays your companions and summoned creatures' health.
+📃 [**More Detailed Companion HealthBars MWSE Lua Script**](https://www.nexusmods.com/morrowind/mods/51389) by [Spammer21](https://www.nexusmods.com/morrowind/users/140139148)\
+Tweaked version of Mesafoo's Companion HealthBars, showing Magicka, Fatigue as well as currently selected weapon.
+
+* Files to install:
+  * **Compact Version** (Main files)
 
 📃 [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962)\
 Adds a bar to the UI that shows the currently equipped weapon's charge under the weapon condition bar.

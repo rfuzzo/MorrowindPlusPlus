@@ -77,7 +77,7 @@ This mod takes several community resources as well as my own work and adds seven
 * Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
   * [x] `Atronach Expansion.ESP`
 
-[**Atronach Rebalance**](https://www.nexusmods.com/morrowind/mods/51309) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
+[**Atronach Rebalance**](https://www.nexusmods.com/morrowind/mods/51309)\
 This mod makes all atronachs the same power. As the player levels up, these Daedra will also gain strength every 5 levels up to 30 level. They can cast spells every 30 seconds, and their damage depends on the attack animation.
 
 * Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
