@@ -31,6 +31,7 @@ No major combat or gameplay overhauls have been installed, and the vanilla level
 * [Catalogue of Alice Roleplaying Mods for Morrowind](https://alicemorrowindmods.wordpress.com/2021/06/03/catalogue-of-alice-roleplaying-mods-for-morrowind/)
 * [Morrowind Themed Mod Lists - 2019 Edition](https://github.com/Lucevar/mw-immersion-mods)
 * [A Morrowind Mod List by Necrolesian](https://github.com/Necrolesian/morrowind-mod-list)
+* [Pharis' Mod list](https://github.com/PharisMods/pharis-mod-list)
 
 ## Setup
 
