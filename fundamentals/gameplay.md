@@ -14,8 +14,19 @@ Adds buttons to randomise race, appearance, class, and birthsign during characte
 ⭐📃 [**MWSE Character Creation Name Generator**](https://www.nexusmods.com/morrowind/mods/46189)\
 UI overhaul allowing generate random name for you character upon character creation.
 
-⭐📃 [**L.A.M.P. ---- Leftover Attribute Modifiers Persist**](https://www.nexusmods.com/morrowind/mods/51310)\
+⭐📃 [**Improved Vanilla Leveling**](https://www.nexusmods.com/morrowind/mods/48065)\
+This mod attempts to preserve vanilla leveling mechanics while eliminating the need to micromanage skill and attribute increases in order to achieve optimal character progression.
+
+{% hint style="info" %}
+MCM: DISABLE Retroactive Health Calculation
+{% endhint %}
+
+<details>	<summary>Alternatives</summary>
+
+[**L.A.M.P. ---- Leftover Attribute Modifiers Persist**](https://www.nexusmods.com/morrowind/mods/51310)\
  Saves any unused skill ups for the next time you level up. No ESP needed.
+
+</details>
 
 ⭐📃 [**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133)\
 A state-based health mod implemented in MWSE. Health is now calculated based on current endurance, strength and level.

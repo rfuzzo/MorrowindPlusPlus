@@ -167,6 +167,19 @@ The Mysterious Killings in Vivec quest now has a new reward and some more flavou
 
 ## Add-ons
 
+[**A Conjurer's Calling**](https://www.nexusmods.com/morrowind/mods/51070)\
+Follow a short questline to discover the nature of a recluse conjurer's mysterious research and gain magical rewards. Start by stumbling into in his lair on an island in the Azura's Coast region, north of the Grazelands.
+
+[**A Hermits Request**](https://www.nexusmods.com/morrowind/mods/23714)\
+To the west of Seyda Neen, along the bitter coast, there lives a hermit by the name of Thexn Akaasul. It would seem that Thexn has a series of tasks for any adventurous soul willing to seek him out, though they deal mostly with the necessities of life rather than adventures of the grandiose sort.
+
+[**A Merchant's Whim**](https://www.nexusmods.com/morrowind/mods/51068)\
+A merchant has set up shop outside of Vivec. Talk with him, and after some time he will ask you for some help with a personal matter from his past.
+
+* On BAIN installation, check the following options:
+  * [x] Core Files
+  * **Alternate Location** -> No
+
 [**Hostages**](https://www.nexusmods.com/morrowind/mods/47916)\
 Adds hostages to random dungeons of Vvardenfell and the opportunity for you to free them.
 
@@ -234,3 +247,33 @@ A lore-friendly quest mod based on an in-game book brought to life, with dungeon
 
 [**Aspect of Azura**](https://www.nexusmods.com/morrowind/mods/51079) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 Adds a Daedric helm bearing the aspect of Azura which you can acquire through a new quest which starts at the Holamayan Monastery near the Shrine of Azura. Explore the hidden depths below the shrine to become the Champion of Azura!
+
+[**Apothecary's Demise**](https://www.nexusmods.com/morrowind/mods/44331)
+Apothecary's Demise is a quest mod about choice, that starts in the quaint abode in the Ascadian Isles. Upon entering this nice Apothecary's Abode, you are greeted with a dead apothecary, and a note that reads: "Don't go in the cellar, under any circumstance!"
+
+[**Astrologian's Guild**](https://www.nexusmods.com/morrowind/mods/51216)
+Join a fully playable guild and gain ranks to the top. Included are several dungeons, some new and others extensions of existing ones.
+
+[**Frozen in Time**](https://www.nexusmods.com/morrowind/mods/50077)
+This quest will bring you back in time, to solve a mystery untouched for hundreds of years.
+
+📜 [**Galerion's Tools**](https://www.nexusmods.com/morrowind/mods/47901)\
+Visit an old but familiar face to embark on a quest to discover an ancient enchanting tool, created by Galerion the Mystic, and unlock an entirely new enchanting mechanic.
+
+[**God of Worms**](https://www.nexusmods.com/morrowind/mods/48028)\
+Introduces five new quests to investigate the Order of the Black Worm's presence in Vvardenfell.
+
+[**Love in the Time of Daedra**](https://www.nexusmods.com/morrowind/mods/48683)\
+An open ended quest mod about love, death, Daedra, vengeance, and whiney Bosmer conmen.
+
+* Files to install:
+  * **Love in the Time of Daedra**
+
+[**Master of Puppets**](https://www.nexusmods.com/morrowind/mods/51393)\
+Recover a stolen arcane tome from a renegade wizard and his magically animated puppet servants.
+
+[**Sorcerer of Alteration**](https://www.nexusmods.com/morrowind/mods/51224)
+Journey through this quest mod to improve your alteration magic.
+
+📜 [**The Wabbajack**](https://www.nexusmods.com/morrowind/mods/44653)
+Adds the legendary Wabbajack artifact!

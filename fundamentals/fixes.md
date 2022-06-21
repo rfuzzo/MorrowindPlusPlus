@@ -20,15 +20,18 @@ Asset repository required for Solstheim - Tomb of the Snow Prince and Nordic Dag
 To register the mod's BSA file, launch **Wrye Mash** from Mod Organizer 2. In the Mods tab, click the BSA Archives tab to the right, and check the BSA you want to register.
 {% endhint %}
 
-⭐ [**An Addendum to Tamrielic Lore Data**](https://www.nexusmods.com/morrowind/mods/50647)\
+⭐ [**AATL Data - An Addendum to Tamrielic Lore Data**](https://www.nexusmods.com/morrowind/mods/50647)\
 Asset repository for **PikacunoTM**'s An Addendum to Tamrielic Lore mod project.
 
 * Files to install:
   * **AATL_Data**
 
-* On MO2 installation, check the following options in the BAIN installer:
-  * [x] Core
-  * [x] High Res Textures
+* On BAIN installation, check the following options:
+  * [x] Core Files
+  * **Install Hi-Res Textures** -> Yes
+  * **Compatibility Options** -> Ashfall
+  * **Playable Classes** -> Yes
+  * **Install Modder's Resource** -> No
 
 ⭐ [**Tamriel Rebuilt**](https://www.nexusmods.com/morrowind/mods/42145)\
  Tamriel Rebuilt is a large fan project that aims to complete development of The Elder Scrolls III: Morrowind by reconstructing the world to include the province’s mainland, through the study of creation of lore, and preservation of the game’s creative vision and direction.
@@ -168,6 +171,9 @@ This omits the restoration of Hecerinde's Secret Master tools from [**Services R
 
 [**Early Transport to Mournhold**](https://www.nexusmods.com/morrowind/mods/47985) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
 Allows travel to Mournhold before the Dark Brotherhood attacks begin.
+
+[**Lord's Mail and Morningstars**](https://www.nexusmods.com/morrowind/mods/49878)\
+Fixes two inconsistencies in the game: one concerning the enchantment of Lord's Mail and another concerning the lack of morningstars in the game.
 
 ## Mesh fixes
 

@@ -5,6 +5,9 @@
 ⭐ [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767)\
 Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
 
+⭐ [Idle Talk](https://www.nexusmods.com/morrowind/mods/46948)\
+Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
+
 [**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232)\
 Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
 

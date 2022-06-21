@@ -469,9 +469,6 @@ To the west and slightly north of Dagon Fel, you'll find a small cottage along t
   * **New Ilunibi**
   * **Patch for Main Quest Overhaul and Sixth House Smugglers** (Optional files)
 
-⭐ [**Caldera Mine Expanded**](https://www.nexusmods.com/morrowind/mods/45194) by **Greatness7 - Melchior Dahrk - TheDrunkenMudcrab**
- This mod expands Caldera Mine in every way possible. New quests (Including a Great House quest for all three Great Houses), new NPCs, new side quests, an expanded exterior and interior, and overall a completely lore-friendly revamp of Caldera Mine.
-
 ⭐ [**Foyada Mamaea Overhaul**](https://www.nexusmods.com/morrowind/mods/46424) by [Remiros(Flash3113)](https://www.nexusmods.com/morrowind/users/899234)\
  Completely overhauls Foyada Mamaea.
 
