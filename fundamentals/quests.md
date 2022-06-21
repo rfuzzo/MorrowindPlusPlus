@@ -157,15 +157,10 @@ This mod is a complete overhaul of the Imperial Legion faction. New quests, item
 ⭐ [**Morag Tong Polished**](https://www.nexusmods.com/morrowind/mods/47041)\
 The Morag Tong Guild is the most poorly written faction in Morrowind. This mod fixes that by giving the guild a much needed touch up.
 
-## Misc
-
-📃 [**Save the Date**](https://www.nexusmods.com/morrowind/mods/50074)\
-Most Daedric quests can be started only on the Daedric Prince's summoning day - one day a year - and only with an appropriate offering.
+## Add-ons
 
 [**Even More Mysterious Killings in Vivec**](https://www.nexusmods.com/morrowind/mods/49661)\
 The Mysterious Killings in Vivec quest now has a new reward and some more flavour for the murderer.
-
-## Add-ons
 
 [**A Conjurer's Calling**](https://www.nexusmods.com/morrowind/mods/51070)\
 Follow a short questline to discover the nature of a recluse conjurer's mysterious research and gain magical rewards. Start by stumbling into in his lair on an island in the Azura's Coast region, north of the Grazelands.
