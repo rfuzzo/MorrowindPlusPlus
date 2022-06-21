@@ -232,8 +232,8 @@ Running and Swimming uses much less Fatigue, but Fatigue regenerates slower
 {% endhint %}
 
 **Alternative for less stamina:**
-<details>
-<summary>Screenshot</summary>
+
+<details>   <summary>Screenshot</summary>
 
 [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029) by [Remiros(Flash3113)](https://www.nexusmods.com/morrowind/users/899234)\
 Rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural.

@@ -50,8 +50,7 @@ For our modding tools to work in Mod Organizer 2, we need to register and config
 * Click **Apply**.
 
 **Screenshot:**
-<details>
-<summary>Screenshot</summary>
+<details>   <summary>Screenshot</summary>
 
 ![Screenshot](../pictures/MO2_mlox_update.jpg)
 
@@ -69,8 +68,7 @@ Make sure you have mlox installed properly [as described here](./tools.md#⭐-ml
 * Click **Apply**.
 
 **Screenshot:**
-<details>
-<summary>Screenshot</summary>
+<details>   <summary>Screenshot</summary>
 
 ![Screenshot](../pictures/MO2_mlox_gui.jpg)
 
@@ -101,8 +99,7 @@ Make sure you have mlox installed properly [as described here](./tools.md#⭐-ml
 * Click **Apply**.
 
 **Screenshot:**
-<details>
-<summary>Screenshot</summary>
+<details>   <summary>Screenshot</summary>
 
 ![Screenshot](../pictures/MO2_mlox_auto.jpg)
 

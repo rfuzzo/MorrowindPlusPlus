@@ -58,3 +58,18 @@ All said, delete the following from your `Morrowind\Data Files` folder in order 
 Your Data Files folder should now look like this.
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/pictures/Data_Files.png)
+
+### DXVK **[*Original Engine Only*]**
+
+A Vulkan-based translation layer for Direct3D 9/10/11. Gives you more FPS. Yes.
+Use either:
+
+* [dxvk-async](https://github.com/Sporif/dxvk-async/releases/latest)
+* [dxvk](https://github.com/doitsujin/dxvk/releases/latest)
+
+Install instructions:
+
+* Open the archive with 7zip
+* Open the archive within the archive
+* Open the x32 folder
+* Put the d3d9.dll in that folder into your Morrowind directory

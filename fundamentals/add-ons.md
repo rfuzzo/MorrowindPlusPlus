@@ -46,6 +46,24 @@ This is Animated Morrowind - merged by Abot, made compatible with my town overha
   * [x] 00 Core
   * [x] 01 Vanilla engine
 
+[Divine Dagoths](https://www.nexusmods.com/morrowind/mods/45536)\
+Pluginless replacer for Dagoth Ur and his brothers, with tweaked body proportions and shadow meshes, new HD particles, and corpse models.
+
+* Files to install:
+  * **Divine Dagoths**
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] Core Files
+  * [x] No Halo Glow
+  * [x] No Halo Sigils
+
+* Double click the mod in MO2 and go to the Optional ESPs tab: Under "Optional ESPs" have only (move to the left):
+  * [x] `Bob's Diverse Dagoths - DNGDR - Hostile Gilvoth.esp`
+  * [x] `Bob's Diverse Dagoths - DNGDR.esp`
+  * [x] `Bob's Diverse Dagoths - Hostile Gilvoth.esp`
+  * [x] `Bob's Diverse Dagoths.esp`
+  * [x] `Unique Dagoth Brandy & Amulet.ESP`
+
 [**Walkers of Morrowind**](https://www.nexusmods.com/morrowind/mods/49889) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
  Allows npcs in the wilderness who were given an AIWander package to actually wander within their cell.
 

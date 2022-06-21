@@ -26,9 +26,7 @@ Compatibility patch for Morrowind Enhanced Textures.
 These two big texture packs can be freely swapped mid-game. You can also install both if you want and let one override the other (MET has 209 textures that IT does not cover, and IT has 7 that MET does not)
 {% endhint %}
 
-<details>
-
-<summary>Extended Content</summary>
+<details>   <summary>Extended Content</summary>
 
 [**Morrowind Enhanced Textures**](https://www.nexusmods.com/morrowind/mods/46221)\
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. Also includes reworked meshes from **Facelift**.

@@ -20,6 +20,16 @@ Asset repository required for Solstheim - Tomb of the Snow Prince and Nordic Dag
 To register the mod's BSA file, launch **Wrye Mash** from Mod Organizer 2. In the Mods tab, click the BSA Archives tab to the right, and check the BSA you want to register.
 {% endhint %}
 
+⭐ [**An Addendum to Tamrielic Lore Data**](https://www.nexusmods.com/morrowind/mods/50647)\
+Asset repository for **PikacunoTM**'s An Addendum to Tamrielic Lore mod project.
+
+* Files to install:
+  * **AATL_Data**
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] Core
+  * [x] High Res Textures
+
 ⭐ [**Tamriel Rebuilt**](https://www.nexusmods.com/morrowind/mods/42145)\
  Tamriel Rebuilt is a large fan project that aims to complete development of The Elder Scrolls III: Morrowind by reconstructing the world to include the province’s mainland, through the study of creation of lore, and preservation of the game’s creative vision and direction.
 

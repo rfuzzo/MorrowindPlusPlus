@@ -170,8 +170,18 @@ Replaces the water in the Palace of Vivec's canals.
   * [x] 00 Core
   * [x] 01 Original Color
 
+https://www.nexusmods.com/morrowind/mods/49456
+
 [**Prerelease Prisonmoon**](https://www.nexusmods.com/morrowind/mods/49627)\
  Adds some more clutter to the ministry of truth inspired by early screenshots and concept art.
+
+<details>	<summary>Alternatives</summary>
+
+* [Baar Dau](https://www.nexusmods.com/morrowind/mods/49456)
+* [Meteorite Ministry](https://www.nexusmods.com/morrowind/mods/45506)
+* [Baar Dau - Ministry of Truth](https://www.nexusmods.com/morrowind/mods/50877)
+
+</details>
 
 [**ReadMe - Library of Vivec Overhaul**](https://www.nexusmods.com/morrowind/mods/49916)\
 This mod redesigns the Library of Vivec from scratch to make it look and feel like a true library, with many books added from Tamriel_Data and OAAB_Data for you to read. There are also new NPCs for you to interact with, and two new quests that set you on the hunt for a unique book the resource for which was provided by RubberMan.
@@ -302,6 +312,9 @@ This mod is a model and texture replacer for the Mudcrab Merchant, making him st
   * [x] 00 - Main Files
   * [x] 01 - Main ESP - English
 
+[**Telvanni Council House Lounge Room**](https://www.nexusmods.com/morrowind/mods/49285) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
+Adds a new room in the Telvanni Council House where the player, and the other npcs, can relax, sleep and eat.
+
 ## Bitter Coast
 
 ⭐📃 [**Glowbugs**](https://www.nexusmods.com/morrowind/mods/50538) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
@@ -362,6 +375,9 @@ A distraught nephew, a missing uncle, a manor slowly sinking into the swamps of 
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Core
   * [x] 01 Remiros Groundcover GL Patch
+
+⭐ [**Melchior's Excellent Grazelands Acacia**](https://www.nexusmods.com/morrowind/mods/51058) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
+A pluginless replacer for the Grazelands trees inspired by the umbrella thorn acacia species.
 
 [**RR Mod Series - Telvanni Lighthouse Tel Vos**](https://www.nexusmods.com/morrowind/mods/42744)\
  This mod adds a Telvanni style Lighthouse not far from Tel Vos and Tel Mora.
