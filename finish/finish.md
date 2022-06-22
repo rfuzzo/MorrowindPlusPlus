@@ -6,8 +6,7 @@ If you just installed this modlist or ar updating it you need to always run the 
 
 ## 01 Updates
 
-* Run **MWSE-Update** in Mod Organizer 2.
-* Run **Mlox-Update** in Mod Organizer 2.
+* Run **MWSE-Update** from your game folder.
 
 ## 02 MLOX
 
@@ -30,16 +29,6 @@ If you just installed this modlist or ar updating it you need to always run the 
 * Click on the faulty plugin, and a panel to the right will display the plugin's masters. Right click on either of them, and an **Update Masters** window will appear. Click **Yes**.
 * Once the window has closed, click on the **Save** button further below the same panel.
 * Repeat this process for each of the faulty plugins.
-
-### Conflict resolution
-
-{% hint style="info" %}
-For leveled list conflicts, we use **tes3cmd**, generating a **multipatch.esp** file which we will place at the end of our load order.
-{% endhint %}
-
-* In the **Mods** tab, click the **Misc** header and go to **TES3cmd** -> **Create MultiPatch**. Click **Yes** on the prompt.
-* tes3cmd will now generate the multipatch. After the process is over, click **OK**.
-* **multipatch.esp** will now be present at the end of your load order.
 
 ### Updating and repairing saves
 
@@ -64,15 +53,7 @@ For record conflicts, we use **TES3Merge**, generating a **Merged Objects.esp** 
 * The tool will generate a Merged Objects.esp, solving conflicts in your load order.
 * Activate **Merged Objects.esp** at the end of your load order.
 
-## 05 MLOX silent mode
-
-{% hint style="info" %}
-After creating the **multipatch.esp** and the **Merged Objects.esp**, these need to be in the correct order. The fastest is to simply run MLOX again
-{% endhint %}
-
-* Run **MLOX silent mode** in Mod Organizer 2.
-
-## 06 MGXE
+## 05 MGXE
 
 {% hint style="info" %}
 Recreate Distant Land
@@ -85,6 +66,6 @@ Recreate Distant Land
 * Click **Run above steps using saved / default settings**.
 * Click **Finish** when the process is over.
 
-## Run the game
+## 06 Run the game
 
 * Run the game through MO2

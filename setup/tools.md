@@ -80,7 +80,7 @@ mlox is a tool for analyzing and sorting your Morrowind plugin load order.
 
 ## ⭐ [**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)
 
-Used to repair and update saves, update the masters of mods, and to run tes3cmd in order to clean plugins and generate a **multipatch**.
+Used to repair and update saves, update the masters of mods, and to run tes3cmd in order to clean plugins.
 
 * Download and run **Wrye Mash 2019 x64 - Installer** (Main files).
 * When prompted to choose an install location, choose your Morrowind **Root** folder (**C:\Games\Morrowind**).

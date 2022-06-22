@@ -87,23 +87,20 @@ Make sure you have mlox installed properly [as described here](./tools.md#⭐-ml
 * In the **Start In** field, select your Morrowind **Root** folder (`C:\Games\Morrowind`).
 * Click **Apply**, and repeat the process for the remaining tools.
 
-### MLOX silent mode
+Exlusion rules:
 
-{% hint style="warning" %}
-Make sure you have mlox installed properly [as described here](./tools.md#⭐-mloxhttpsgithubcomrfuzzomloxreleaseslatest)
-{% endhint %}
+* Navigate to `C:\Games\Morrowind` and open `TES3Merge.ini` with some text editor.
+* Find the section **[FileFilters]** and add the following:
 
-* Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/MO2/MO_Add_File.png) button and select _Add from file..._.
-* Navigate to your Morrowind **Root** folder (`C:\Games\Morrowind`) and double click `mlox.exe`.
-* In the **Arguments** field, type: `-n -u --local`.
-* Click **Apply**.
-
-**Screenshot:**
-<details>   <summary>Screenshot</summary>
-
-![Screenshot](../pictures/MO2_mlox_auto.jpg)
-
-</details>
+```txt
+[FileFilters]
+; Tamriel_Data.esm = false
+BOM_pathgrid_reset.esp=false
+Interior exterior flag reset.esp=false
+BOM_OpenMW_plazas.esp=false
+POST_merge_VFWE_patch.esp=false
+VFWE_merged_objects_fix.esp=false
+```
 
 ### MGE XE
 
