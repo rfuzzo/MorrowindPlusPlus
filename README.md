@@ -96,3 +96,13 @@ This is the mod list proper - install the mods in order as they appear here. MO2
 {% content-ref url="finish/finish.md" %}
 [finish.md](finish/finish.md)
 {% endcontent-ref %}
+
+## Credits
+
+For help with this mod list and many many bug fixes:
+
+* C19i
+* PoodleSandwich
+* Richie Marcus
+* Sigourn
+* zertyuiop
