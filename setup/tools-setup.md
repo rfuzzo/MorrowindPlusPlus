@@ -31,6 +31,16 @@ Max Snowflakes=1500
 
 * Click **Save** and close the window.
 
+## Morrowind Code Patch setup
+
+* Execute **Morrowind Code Patch.exe**, found in your **Root** folder.
+* The **Morrowind Code Patch** will prompt you to install your patches of choice. Use this [**spreadsheet**](https://docs.google.com/spreadsheets/d/1r6fv59to4-KgHJgCm-GDNnwSmD3LdDmamSDEs5jKFdM/edit?usp=sharing) as a reference to install or skip patches.
+* Click **Apply chosen patches** when you are finished. Close the application.
+
+{% hint style="info" %}
+A backup of **Morrowind.exe** (pre-patch) will apear in your **Root** folder, named **Morrowind.Original.exe**.
+{% endhint %}
+
 ## Registering tools in Mod Organizer 2
 
 For our modding tools to work in Mod Organizer 2, we need to register and configure them.
