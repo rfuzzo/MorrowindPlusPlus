@@ -60,6 +60,12 @@ Distant Land generation is required to make this mod work as intended. Instructi
 ⭐📃 [**Adjustable Landscape Texture Scale**](https://www.nexusmods.com/morrowind/mods/49689) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  This mod allows you to manually increase the scale of the landscape texture to make it look more detailed without the need for hi-res replacers.
 
+⭐📃 [**Vanilla Land**](https://www.nexusmods.com/morrowind/mods/45953)\
+ New hi-rez textures of all regions. Textures repeat the style of the original game, and using these textures you can recall your old experience of the journey through Valilla Land in 2k.
+
+* Files to install:
+  * **Vanilla Land v.1.1** (Main Files)
+
 ⭐ [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
 

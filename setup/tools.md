@@ -75,9 +75,8 @@ The **Readme** elaborates on how to use these overrides, so you should definitel
 
 mlox is a tool for analyzing and sorting your Morrowind plugin load order.
 
-* Expand **Assets** and download **mlox-update.bat**.
-* Place `mlox-update.bat` in **C:\Games\Morrowind**.
-* Double click `mlox-update.bat`
+* Expand **Assets** and download **mlox.exe**.
+* Place `mlox.exe` in **C:\Games\Morrowind**.
 
 ## ⭐ [**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)
 

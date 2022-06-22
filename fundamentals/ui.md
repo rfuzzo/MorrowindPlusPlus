@@ -78,6 +78,9 @@ Replaces the effect seen on magic items in the inventory, allowing easier distin
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Original Blue Color
 
+[**UI Expansion Better Training Icons**](https://www.nexusmods.com/morrowind/mods/51190)by [tewlwolow](https://www.nexusmods.com/morrowind/users/1152341)\
+ This mod replaces UI Expansion training menu icons with sharper, cleaner versions.
+
 ## HUD
 
 ⭐📃 [**Tamrielic Lore Tooltips**](https://www.nexusmods.com/morrowind/mods/45954) by [PhDinSorcery](https://www.nexusmods.com/morrowind/users/8404526)\
