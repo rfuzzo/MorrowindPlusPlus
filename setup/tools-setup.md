@@ -105,11 +105,11 @@ Exlusion rules:
 ```txt
 [FileFilters]
 ; Tamriel_Data.esm = false
-BOM_pathgrid_reset.esp=false
-Interior exterior flag reset.esp=false
-BOM_OpenMW_plazas.esp=false
-POST_merge_VFWE_patch.esp=false
-VFWE_merged_objects_fix.esp=false
+VFWE_merged_objects_fix.ESP = false
+BCOM_pathgrid_reset.ESP = false
+BCOM_White_Suran.ESP = false
+BCOM_Izi_Hlaalu_plaza.ESP = false
+Interior exterior flag reset.ESP = false
 ```
 
 ### MGE XE
