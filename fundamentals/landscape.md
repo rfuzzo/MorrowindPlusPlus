@@ -666,20 +666,26 @@ You need to rename the .esp file in this mod! In MO2, double click the mod and g
 Even Seedier Eight Plates is merged into BCOM - no need to install the main file
 {% endhint %}
 
-⭐ [**Beautiful Cities of Morrowind - Atlas**](https://www.nexusmods.com/morrowind/mods/49231)\
-Pluginless mesh replacers. Included here there's also a vanilla friendly version of the Ghostgate pillars.
+⭐ [**Beautiful Cities of Morrowind - Grass Patches**](https://www.nexusmods.com/morrowind/mods/49231)\
+Grass modules
 
 * Files to install:
-  * **Beautiful Cities of Morrowind - Project Atlas and GITD Patches**
+  * **BCoM - Grass Patches**
 
 * On MO2 installation, check the following options in the BAIN installer:
-  * [x] 02 GITD + Atlas
+  * [x] 01 Remiros Groundcover
+
+* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
+  * [x] `REM_AC.ESP`
+  * [x] `Rem_AI.esp`
+  * [x] `Rem_BC.esp`
+  * [x] `Rem_WG.esp`
 
 ⭐ [**Beautiful Cities of Morrowind - Patches**](https://www.nexusmods.com/morrowind/mods/49231)\
 Patches for various mods
 
 * Files to install:
-  * **Beautiful Cities of Morrowind - Patches**
+  * **BCoM - Patches**
 
 {% hint style="info" %}
 On MO2 installation, it does not matter if you install too many mods, we will go over the individual ESPs later again:
@@ -719,23 +725,17 @@ On MO2 installation, it does not matter if you install too many mods, we will go
   * [x] 83 OAAB Pomegranates patch
   * [x] 88 Far From Home
 
-* Double click the mod in MO2 and go to the Optional ESPs tab: Under "Optional ESPs" have only:
+* Double click the mod in MO2 and go to the Optional ESPs tab: Move the following esps to the left (disable them):
   * [x] `abotGondoliers_RVP.esp`
 
-⭐ [**Beautiful Cities of Morrowind - Grass Patches**](https://www.nexusmods.com/morrowind/mods/49231)\
-Grass modules
+⭐ [**Beautiful Cities of Morrowind - Atlas**](https://www.nexusmods.com/morrowind/mods/49231)\
+Pluginless mesh replacers. Included here there's also a vanilla friendly version of the Ghostgate pillars.
 
 * Files to install:
-  * **Beautiful Cities of Morrowind - Grass Patches**
+  * **Beautiful Cities of Morrowind - Project Atlas - GITD - RR statues patches**
 
 * On MO2 installation, check the following options in the BAIN installer:
-  * [x] 01 Remiros Groundcover
-
-* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
-  * [x] `REM_AC.ESP`
-  * [x] `Rem_AI.esp`
-  * [x] `Rem_BC.esp`
-  * [x] `Rem_WG.esp`
+  * [x] 02 GITD + Atlas
 
 📃 [**Various compatibility patches for HOTV Tomb of the Snow prince Solstheim Overhaul**](https://www.nexusmods.com/morrowind/mods/48422)\
  Various patches, including the White Wolf of Lokken, Wanderes of Solstheim, Children of Morrowind, Thirsk Expanded more....an ongoing project

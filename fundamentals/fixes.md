@@ -208,12 +208,13 @@ We do not install `01 Lake Fjalding Anti-Suck` because this is included in Tomb 
 Makes vanilla windows glow in the dark.
 
 * On MO2 installation, check the following options in the FOMOD installer:
-  * [x] Nord Glass Windows\
-    Replaces the wooden shuttered Nord windows in the vanilla game with glass panes.
-  * [x] Raven Rock Glass Windows\
-    Raven Rock windows will glow at night. Without this, the Raven Rock buildings will be shuttered like they are in the base game.
-  * [x] No Telvanni Dormers on Vvardenfell\
-    Omits the unused Telvanni dormers in settlements.
+  * [x] Nord Glass Windows -> Yes
+  * [x] Raven Rock Glass Windows -> Yes
+  * [ ] Dark Molag Mar -> No
+  * [x] Hi res Window Texture Replacer -> As you like
+  * [ ] Windoors Patch -> No
+  * [ ] Telvanni Dormers -> None
+  * [x] Telvanni Tower Interior Glow -> MGE XE (Vanilla)/OpenMW (Openmw)
 
 ⭐ [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599) by [Stuporstar](https://www.nexusmods.com/morrowind/users/526886)\
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
