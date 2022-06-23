@@ -105,13 +105,6 @@ This mod makes all atronachs the same power. As the player levels up, these Daed
 ⭐📃 [**DRIP - Dynamic Randomised Item Properties**](https://www.nexusmods.com/morrowind/mods/51242) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
 Drip adds Diablo 2 style loot to Morrowind. Unique weapons, armor, clothing and accesories are dynamically generated, with over a hundred unique modifiers and more than a million possible combinations. Chance to apply modifiers configurable MCM.
 
-⭐📃 [**Clothing Requirements**](https://www.nexusmods.com/morrowind/mods/47813) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
- Implements level requirements to equip all of Morrowind's clothing items.
-
-* On MO2 installation, check the following options in the BAIN installer:
-  * [x] Clothing Requirements
-  * [x] Equipment Requirements (Necro Edit)
-
 ⭐ [**Wares for NPCs**](https://www.nexusmods.com/morrowind/mods/49997) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
 Vanilla and TR npcs will now wear randomised clothes, armour and weapons.
 Vanilla and TR containers will now hold randomised clothes, armour and weapons.

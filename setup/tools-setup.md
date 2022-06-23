@@ -74,7 +74,6 @@ Make sure you have mlox installed properly [as described here](./tools.md#⭐-ml
 
 * Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/MO2/MO_Add_File.png) button and select _Add from file..._.
 * Navigate to your Morrowind **Root** folder (`C:\Games\Morrowind`) and double click `mlox.exe`.
-* In the **Arguments** field, type: `--gui --local`.
 * Click **Apply**.
 
 **Screenshot:**
@@ -95,6 +94,7 @@ Make sure you have mlox installed properly [as described here](./tools.md#⭐-ml
 * Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/MO2/MO_Add_File.png) button and select _Add from file..._.
 * Navigate to the `C:\Games\MorrowindPlusPlus\Tools\TES3Merge\TES3Merge.exe` file.
 * In the **Start In** field, select your Morrowind **Root** folder (`C:\Games\Morrowind`).
+* In the **Arguments** field, type `-i`.
 * Click **Apply**, and repeat the process for the remaining tools.
 
 Exlusion rules:
