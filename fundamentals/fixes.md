@@ -242,22 +242,24 @@ Files to install:
 Note that **Project Atlas** utilizes its own texture sets for its edited meshes, meaning any retexture designed with the vanilla meshes in mind will require a patch for it to work alongside this mod.
 {% endhint %}
 
-[**Graphic Herbalism- Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154) by [NoUsernamesNotTaken](https://www.nexusmods.com/morrowind/users/50837536)\
+⭐ [**Graphic Herbalism- Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154) by [NoUsernamesNotTaken](https://www.nexusmods.com/morrowind/users/50837536)\
 Fixes a collision bug with harvested Ash Yams.
 
-📃 [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864) by [GrunTella](https://www.nexusmods.com/morrowind/users/2356095)\
+⭐📃 [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864) by [GrunTella](https://www.nexusmods.com/morrowind/users/2356095)\
 Makes picking a glowing plant also remove the glow-light.
+
+⭐ [**Improved Lights for All Shaders**](https://www.nexusmods.com/morrowind/mods/51463) by [mwclevername](https://www.nexusmods.com/morrowind/users/102938538)\
+Adjusts every vanilla light mesh to enhance the effects of other shader and lighting mods. Compatible with MGE, OpenMW, ReShade, True Lights And Darkness, Enlightened Flames, and just about everything else.
+
+* On MO2 installation, check the following options in the BAIN installer:
+  * [x] 00 Core
+  * [x] 01 Smoke and Steam Emitters
 
 [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
 Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
 
 * On MO2 installation, right-click on **Data Files**.
 * Click **Set as data files directory** and click **OK**.
-
-[**Glowing Flames**](https://www.nexusmods.com/morrowind/mods/46124) by [PoodleSandwich2](https://www.nexusmods.com/morrowind/users/45710542)\
-Flames are now glow mapped and/or properly illuminated.
-
-* After installation, hide the mod's **Glowing Flames - TrueLightsAndDarkness Tweaks.ESP** plugin.
 
 [**Better Scamps**](https://www.nexusmods.com/morrowind/mods/48008) by [tronvillain](https://www.nexusmods.com/morrowind/users/597111)\
 Fixes the Scamp mesh, reducing distortion, seams, and other UV errors.

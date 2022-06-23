@@ -14,7 +14,6 @@
     * On MO2 installation, check the following options in the BAIN installer:
       * [x] 00 Master file
       * [x] 01 TR
-      * [x] 01 Vvardenfell
 
   * **BCOM Wares**
   * **OAAB WARES**

@@ -1,5 +1,8 @@
 # UI
 
+⭐ [**Cantons on the Global Map**](https://www.nexusmods.com/morrowind/mods/50534) by [mwclevername](https://www.nexusmods.com/morrowind/users/102938538)\
+Vivec and Molag Mar no longer look like empty water on the global map.
+
 ⭐ [**Unstretched Videos**](https://www.nexusmods.com/morrowind/mods/50482) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
 Adds black bars to the sides of the vanilla game videos, including the Bloodmoon videos, so they won't appear stretched when playing in widescreen (16:9).
 

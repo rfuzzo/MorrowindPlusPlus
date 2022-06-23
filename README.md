@@ -103,6 +103,7 @@ This is the mod list proper - install the mods in order as they appear here. MO2
 For help with this mod list and many many bug fixes:
 
 * C19i
+* Pharis
 * PoodleSandwich
 * Richie Marcus
 * Sigourn

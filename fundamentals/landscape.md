@@ -49,6 +49,9 @@ Adds groundcover to almost all regions.
   * [x] 01b Thicker Grass MGE XE
   * [x] 03 TR Plugins
 
+* Double click the mod in MO2 and go to the Optional ESPs tab: Move the following esps to the left (disable it):
+  * [ ] `Rem_Solstheim.esp`
+
 {% hint style="warning" %}
 After installation, disable all of the mod's plugins in your load order. ⚠️ **Do not hide or delete them**, as they are necessary for the mod to work as intended when generating Distant Land.
 {% hint style="endhint" %}
@@ -82,6 +85,9 @@ Fixes flickering on lava. Reduces the occurrence of seams found in large lava po
 * On MO2 installation, check the following options in the BAIN installer:
   * [x] 00 Core
   * [x] 02 Tamriel_Data Patch
+
+⭐ [**I Lava Good Intelligent Textures Compatibility Patch - Fix**](https://www.nexusmods.com/morrowind/mods/51521)\
+Compatibility Patch for "I Lava Good Mesh Replacer" by Melchior Dahrk with "Intelligent Textures" by Remiros.
 
 ⭐ [**Fireflies**](https://www.nexusmods.com/morrowind/mods/51443) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
 Adds fireflies around the Bitter Coast and the Ascadian Isles
@@ -265,9 +271,6 @@ To align with what the in-game dialogue suggests, the entrance to the Cavern of 
 
 [**Mandas Manor**](https://www.nexusmods.com/morrowind/mods/49911) by [EndoranWest](https://www.nexusmods.com/morrowind/users/44230747)\
  This mod adds in the Mandas family manor, which was mentioned in Delyna Mandas' dialogue but never seen in-game.
-
-[**Sarandas Family Hearth**](https://www.nexusmods.com/morrowind/mods/48056) by [EndoranWest](https://www.nexusmods.com/morrowind/users/44230747)\
- The Sarandas estate is no longer a measly one-room hut. The house is now made more fitting of the family's reputation
 
 ## Azura's Coast
 

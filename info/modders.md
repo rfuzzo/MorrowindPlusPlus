@@ -28,6 +28,7 @@ by [malbogatra](https://www.nexusmods.com/morrowind/users/3785301)\
 by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
 by [MTRHasAlreadyBeenTaken](https://www.nexusmods.com/morrowind/users/88247468)\
+by [mwclevername](https://www.nexusmods.com/morrowind/users/102938538)\
 by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
 by [NoUsernamesNotTaken](https://www.nexusmods.com/morrowind/users/50837536)\
 by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
