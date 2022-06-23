@@ -148,9 +148,6 @@ Avoids actors getting stuck while opening doors.
 
 ## Lore Fixes
 
-⭐ [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588) by [half11](https://www.nexusmods.com/morrowind/users/36879320)\
-Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
-
 ⭐ [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
 
