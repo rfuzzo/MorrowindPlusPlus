@@ -27,16 +27,17 @@ Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with B
 ⭐ [**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913)\
 This mod overhauls the Main Quest.
 
+⭐ [**LDM - Choices and Consequences**](https://github.com/Lucevar/ldm) by [Lucevar](https://www.nexusmods.com/morrowind/users/3099525)\
+Lucevar's Dialogue Mod for Morrowind
+
+* Files to download:
+  * **01 Choices and Consequences** (Github)
+* Zip the files in the Folder  **01 Choices and Consequences** and install with MO2. (Ctrl+M)
+
 ## Fixes
 
 ⭐ [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410)\
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
-
-⭐ [**The Vanilla Quest Tweaks RP Choices**](https://www.nexusmods.com/morrowind/mods/47466)\
- combination of 20 of my previous mods from the vanilla quest tweaks/RP choices/consequences category.
-
-⭐ [**FMI - Alice's Package**](https://www.nexusmods.com/morrowind/mods/48003)\
-Various fixes of gameplay vs. lore inconsistencies.
 
 ⭐ [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107)\
 Restores and expands the implied mechanic of Hospitality Papers required to conduct trade in Sadrith Mora.
@@ -67,26 +68,14 @@ Prevents the player from renting a bed if diseased, be it common, blight, or cor
 ⭐ [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)\
 Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
 
-⭐ [**LDM - Balmora Rumour Fix**](https://www.nexusmods.com/morrowind/mods/47455)\
-Adds an option to refuse Larrius Varro's Bloodbath quest, and edits the filtering on vanilla Balmora rumours so that they don't get overwritten by the Varro rumours. 16+ rumours now appear!
-
 ⭐ [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063)\
 Replaces the three standard No Lore greetings with over sixty new ones, adding variety to dialogue.
 
 ⭐ [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066)\
 Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
 
-⭐ [**Quarantined Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47335)\
-As Asciene Rene's dialogue suggests, you won't be allowed to travel to Mournhold if you have a disease now.
-
 ⭐ [**Dual Faction Membership for NPCs**](https://www.nexusmods.com/morrowind/mods/49885)\
 NPCs that actually belong to two factions will reflect this in their dialogue.
-
-⭐ [**NPC Faction Affiliation Corrector**](https://www.nexusmods.com/morrowind/mods/47743)\
-Adds NPCs into factions, that are not in a faction, but realistically should be, or change the faction of some NPCs that belong to a faction when they should belong to another.
-
-* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
-  * [x] `NPC Faction Affiliation Corrector (Maximalistic).ESP`
 
 ## Main Quest
 
@@ -161,6 +150,18 @@ The Morag Tong Guild is the most poorly written faction in Morrowind. This mod f
 
 [**Even More Mysterious Killings in Vivec**](https://www.nexusmods.com/morrowind/mods/49661)\
 The Mysterious Killings in Vivec quest now has a new reward and some more flavour for the murderer.
+
+[**BDC-Seyda Neen**](https://www.nexusmods.com/morrowind/mods/51133) by [Enclavekiller1](https://www.nexusmods.com/morrowind/users/20927579)\
+Better Dialogue-Choices is a quest overhaul project focused on implementing rpg elements in dialogue while extending quests by giving the player multiple ways to complete them. This mod overhauls all Seyda Neen side quests.
+
+* Files to install:
+  * **BDC-Seyda Neen** (Main Files)
+  * **BDC-SN Hotfix 2** (Update files)
+  * **BDC-SN and Census and Excise Faction Compatibility** (Optional files)
+  * **BDC-SN and LDM-Choices and Consequences Compatibility** (Optional files)
+
+[**Census and Excise Office Faction**](https://www.nexusmods.com/morrowind/mods/46798) by [AliceL93](https://www.nexusmods.com/morrowind/users/4709296)\
+ This mod gives you the opportunity to join the Census and Excise Office and do quests for them.
 
 [**A Conjurer's Calling**](https://www.nexusmods.com/morrowind/mods/51070)\
 Follow a short questline to discover the nature of a recluse conjurer's mysterious research and gain magical rewards. Start by stumbling into in his lair on an island in the Azura's Coast region, north of the Grazelands.
