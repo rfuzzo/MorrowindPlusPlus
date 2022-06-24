@@ -37,10 +37,15 @@ Max Snowflakes=1500
 * The **Morrowind Code Patch** will prompt you to install your patches of choice.
 * Click **Apply chosen patches** when you are finished. Close the application.
 
-Apply the following patches:
+Apply all patches **except** (optional, please read through the descriptions and decide for yourself):
 
-- [x] dff
-- [ ] 
+* [ ] Beta/Doppler Audio Fix
+* [ ] Game Mechanics/Followers defend immediately
+* [ ] Visuals/Over-the-shoulder third person camera
+* [ ] Mod Specific/Weapon resistance change
+* [ ] Mode Specific/NPC AI casts zero cost powers
+* [ ] Interface/Spell select by name
+* [ ] International -> select as you wish/need
 
 ## Registering tools in Mod Organizer 2
 
