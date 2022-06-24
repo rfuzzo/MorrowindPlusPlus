@@ -8,7 +8,7 @@ Customize/randomize your starting attributes, skills, spells, items, companion, 
 * On MO2 installation, an installer window will pop up asking you to set a Data Files Directory.
 * Right click on `Data Files` and select "Set as < data files > directory".
 
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
   * [x] `CREL_Complete_AnthSol_v3.1.esp`
   * [x] `CREL_Complete_ATOTSP_v3.1.esp`
   * [x] `CREL_Complete_v3.1.esp`

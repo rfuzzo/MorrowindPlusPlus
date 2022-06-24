@@ -81,13 +81,13 @@ This mod requires the **Mod Specific/First person swim animations** feature to b
 [**Atronach Expansion**](https://www.nexusmods.com/morrowind/mods/22189) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 This mod takes several community resources as well as my own work and adds seven new types of monsters as summonable creatures: Bone Golem, Flesh Atronach, Iron Golem, Swamp Myconid, Telvanni Myconid, Ash Golem, Crystal Golem
 
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
   * [x] `Atronach Expansion_summonsOnly.ESP`
 
 [**Atronach Rebalance**](https://www.nexusmods.com/morrowind/mods/51309)\
 This mod makes all atronachs the same power. As the player levels up, these Daedra will also gain strength every 5 levels up to 30 level. They can cast spells every 30 seconds, and their damage depends on the attack animation.
 
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
   * [x] `PR Atronach Rebalance M 1.0.esp`
   * [x] `PR Atronach Rebalance Test.esp`
 
@@ -166,7 +166,7 @@ This mod adds the missing 7th and 8th barrier scrolls, adds a quest to find the 
 [**Ebony Shortsword Challenge**](https://www.nexusmods.com/morrowind/mods/50358)\
  An ebony shortsword is hidden somewhere in the western half of Vvardenfell. Will you be able to find it?
 
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
   * [x] `Ebony Shortsword Challenge 2.ESP`
   * [x] `Ebony Shortsword Challenge 3.ESP`
   * [x] `Ebony Shortsword Challenge 4.ESP`

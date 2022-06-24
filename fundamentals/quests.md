@@ -198,7 +198,7 @@ Participate in the challenge of Hircine and hunt down his three aspects.
   * [x] 00 Core
   * [x] 01 - Anthology
 
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
   * [x] `HircineQuest.ESP`
 
 [**Join the Royal Guards**](https://www.nexusmods.com/morrowind/mods/50676)\
@@ -237,7 +237,7 @@ A lore-friendly quest mod based on an in-game book brought to life, with dungeon
 [**Of Justice and Innocence**](https://www.nexusmods.com/morrowind/mods/34046)\
  In the small village of Dagon Fel there lives a woman by the name of Rinida Honwyer. She claims her poor, sweet innocent brother has been kidnapped by smugglers. This unfortunate outcome is a result of an unlikely series of events and her poor brother's own naivety. Now Rinida fears for her brothers life, sure that these smugglers mean nothing
 
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
   * [x] `Of Justice and Innocence.esp`
 
 [**Aspect of Azura**](https://www.nexusmods.com/morrowind/mods/51079) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
@@ -274,7 +274,7 @@ Recover a stolen arcane tome from a renegade wizard and his magically animated p
   * **Master of Puppets** (Main Files)
   * **Master of Puppets-Better Typography** (Optional Files)
 
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
   * [x] `MasterofPuppets.ESP`
 
 [**Sorcerer of Alteration**](https://www.nexusmods.com/morrowind/mods/51224)

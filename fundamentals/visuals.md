@@ -102,7 +102,7 @@ Pluginless replacer for Dagoth Ur and his brothers, with tweaked body proportion
   * [x] No Halo Glow
   * [x] No Halo Sigils
 
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
   * [x] `Bob's Diverse Dagoths - DNGDR.esp`
   * [x] `Bob's Diverse Dagoths - DNGDR - Hostile Gilvoth.esp`
   * [x] `Bob's Diverse Dagoths.esp`
@@ -174,7 +174,7 @@ Modified version of True Lights and Darkness that reverts some of TLAD's more ra
   * [x] 00 Full Mod
   * [x] 02 MWSE TLAD Lights
 
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
   * [x] `TLAD Daylight - No Vivec Plazas.esp`
   * [x] `TLAD Daylight.esp`
   * [x] `TLAD Full - Still - Original Colors.esp`

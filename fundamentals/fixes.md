@@ -94,7 +94,7 @@ Provides more types of autosaves, as well as a rotating list of quicksaves/autos
 [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364) by [PikachunoTM](https://www.nexusmods.com/morrowind/users/16269634)\
 The Warp Script for the Propylon Indices will now prompt you before teleporting.
 
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
   * [x] `Better Propylon Teleport Warp.esp`
 
 [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
@@ -154,7 +154,7 @@ Avoids actors getting stuck while opening doors.
 ⭐ [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
 
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
   * [x] `Ownership Overhaul.esp`
 
 ⭐ [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068) by [half11](https://www.nexusmods.com/morrowind/users/36879320)\
