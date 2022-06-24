@@ -94,8 +94,8 @@ Provides more types of autosaves, as well as a rotating list of quicksaves/autos
 [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364) by [PikachunoTM](https://www.nexusmods.com/morrowind/users/16269634)\
 The Warp Script for the Propylon Indices will now prompt you before teleporting.
 
-* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
-  * [x] `Better Propylon Teleport Warp-Master Index.ESP`
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
+  * [x] `Better Propylon Teleport Warp.esp`
 
 [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
 Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
@@ -154,8 +154,8 @@ Avoids actors getting stuck while opening doors.
 ⭐ [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
 Assigns ownership to the many, many items and containers that rightly should be owned but weren't, and otherwise makes adjustments to item ownership.
 
-* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
-  * [x] `Ownership Overhaul.ESM`
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
+  * [x] `Ownership Overhaul.esp`
 
 ⭐ [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068) by [half11](https://www.nexusmods.com/morrowind/users/36879320)\
 Adds the missing master trainer for Medium Armor, Cinia Urtius.

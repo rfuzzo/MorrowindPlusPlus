@@ -8,8 +8,14 @@ Customize/randomize your starting attributes, skills, spells, items, companion, 
 * On MO2 installation, an installer window will pop up asking you to set a Data Files Directory.
 * Right click on `Data Files` and select "Set as < data files > directory".
 
-* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
-  * [x] `CREL_Vanilla_v3.1.esp`
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
+  * [x] `CREL_Complete_AnthSol_v3.1.esp`
+  * [x] `CREL_Complete_ATOTSP_v3.1.esp`
+  * [x] `CREL_Complete_v3.1.esp`
+  * [x] `CREL_TR_AnthSol_v3.1.esp`
+  * [x] `CREL_TR_ATOTSP_v3.1.esp`
+  * [x] `CREL_TR_v3.1.esp`
+  * [x] `CREL_Vanilla_STOTSP_v3.1.esp`
 
 ⭐📃 [**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915)\
 Adds buttons to randomise race, appearance, class, and birthsign during character generation.

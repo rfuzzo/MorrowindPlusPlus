@@ -98,6 +98,10 @@ This is the mod list proper - install the mods in order as they appear here. MO2
 [finish.md](finish/finish.md)
 {% endcontent-ref %}
 
+{% content-ref url="finish/finish.md" %}
+[in_game_config.md](finish/in_game_config.md)
+{% endcontent-ref %}
+
 ## Credits
 
 For help with this mod list and many many bug fixes:

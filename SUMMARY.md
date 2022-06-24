@@ -23,6 +23,7 @@
 ## Finish
 
 * [Finish](finish/finish.md)
+* [in-Game Config](finish/in_game_config.md)
 
 ## Info
 

@@ -23,21 +23,25 @@ This needs to be installed before BCOM
 ⭐📃 [**Boats**](https://www.nexusmods.com/morrowind/mods/42270) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
  You can travel by boat, ship and river strider in real time, and dismount anywhere in between trip starting and ending points
 
-* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
-  * [x] `abotBoatsTR2101.esp`
-  * [x] `abotRiverStridersTR2101.esp`
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
+  * [x] `_abotBoatsWP.esp`
+  * [x] `_abotRiverStridersWP.esp`
+  * [x] `abotBoats.esp`
 
 ⭐📃 [**Gondoliers**](https://www.nexusmods.com/morrowind/mods/43291) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
  real time travel Vivec gondoliers
 
-* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
-  * [x] `abotGondoliers.esp`
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
+  * [x] `abotGondoliersRV.esp`
+  * [x] `abotGondoliersRVWP.esp`
+  * [x] `abotGondoliersWP.esp`
 
 ⭐📃 [**Silt Striders**](https://www.nexusmods.com/morrowind/mods/42267) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
  I wanted to travel Morrowind on top of a real Silt Strider so strongly, and after years waiting for some similar mod to be completed, I decided to try myself.
 
-* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
-  * [x] `abotSiltStridersTR2101.esp`
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
+  * [x] `ab01NPCLCVSchedulesFix.esp`
+  * [x] `abotSiltStriders.esp`
 
 ## Environment
 
@@ -49,7 +53,7 @@ Adds groundcover to almost all regions.
   * [x] 01b Thicker Grass MGE XE
   * [x] 03 TR Plugins
 
-* Double click the mod in MO2 and go to the Optional ESPs tab: Move the following esps to the left (disable it):
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
   * [ ] `Rem_Solstheim.esp`
 
 {% hint style="warning" %}
@@ -98,7 +102,7 @@ Adds a visual effect to all vanilla flies sound emitters.
 ⭐ [**Nocturnal Moths**](https://www.nexusmods.com/morrowind/mods/44148) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
  Adds moths flying around some of the lanterns at night.
 
-* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
   * [x] `Nocturnal Moths - Vanilla.ESP`
 
 ⭐ [**Cave Drips**](https://www.nexusmods.com/morrowind/mods/43488) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
@@ -427,8 +431,8 @@ There were also dirty edits that have been removed and some small tweaks here an
  Sloadic Cargo Transports have arrived at Molag Mar. One is docked at the strider port and one will fly a route north of Molag Mar. There is a standard version and a necro version. Use only one .esp file.
 A very good place to view the flying airship is from the northeast corner of the Molag Mar canton.
 
-* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
-  * [x] `Sloadic Transport.ESP`
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
+  * [x] `Sloadic Transport Necro.ESP`
 
 [**Maren's Misfit Mabrigash**](https://www.nexusmods.com/morrowind/mods/48709)\
  Explore a revamped Maren Ancestral Tomb in search of a mysterious Ashlander outcast. Part of the Summer Modjam 2020.
@@ -532,10 +536,13 @@ Worldspace overhaul of Solstheim, improving the graphical fidelity, environmenta
     * [X] 013 Fierce Wolf Helms
     * [X] 014 Hide-Like Animal Pelts
   
-  * Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
-    * [x] `TOTSP_abotBoats.esp`
-    * [x] `TOTSP_Patch_for_Purists_4.0.2.esp`
-  
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
+  * [x] `TOTSP TD Content Integration - Spiders.esp`
+  * [x] `TOTSP TD Content Integration.esp`
+  * [x] `TOTSP_Forceful_Travel_NPC_Override.ESP`
+  * [x] `TOTSP_TR_Preview.esp`
+
+* Files to install:
   * **Solstheim Graphical Replacer** (Main files)
   
   * On MO2 installation, check the following options in the installer:
@@ -570,8 +577,8 @@ Allows installation of the Skyrim-like Trees option without having to install th
 ⭐ [**The Stone Halls of Solstheim - Reforged**](https://www.nexusmods.com/morrowind/mods/49841) by [Corsair83](https://www.nexusmods.com/morrowind/users/23131859)\
  A complete rebuilt of Bloodmoon barrows.
 
-* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
-  * [x] `Stone Halls of Solstheim - Mortified.ESP`
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
+  * [x] `Stone Halls of Solstheim.ESP`
 
 ## Mournhold
 
@@ -689,11 +696,11 @@ Grass modules
 * On MO2 installation, check the following options in the installer:
   * [x] 01 Remiros Groundcover
 
-* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
-  * [x] `REM_AC.ESP`
-  * [x] `Rem_AI.esp`
-  * [x] `Rem_BC.esp`
-  * [x] `Rem_WG.esp`
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
+  * [x] `REM_AC_No_Sheogorad.ESP`
+  * [x] `Rem_AL_RMR+Kogoruhn Expanded.esp`
+  * [x] `Rem_GL_Trackless_GL.esp`
+  * [x] `Rem_WG - StoneWood Pass.esp`
 
 ⭐ [**Beautiful Cities of Morrowind - Patches**](https://www.nexusmods.com/morrowind/mods/49231)\
 Patches for various mods
@@ -739,7 +746,7 @@ On MO2 installation, it does not matter if you install too many mods, we will go
   * [x] 83 OAAB Pomegranates patch
   * [x] 88 Far From Home
 
-* Double click the mod in MO2 and go to the Optional ESPs tab: Move the following esps to the left (disable them):
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
   * [x] `abotGondoliers_RVP.esp`
 
 ⭐ [**Beautiful Cities of Morrowind - Atlas**](https://www.nexusmods.com/morrowind/mods/49231)\
@@ -758,8 +765,11 @@ Pluginless mesh replacers. Included here there's also a vanilla friendly version
   * **The Moldy Horker - TOTSP Solstheim - Animated Morrowind**
   * **Various Patches for Tomb of the Snow prince - All in One**
 
-* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
-  * [x] `Wanderers of Solstheim-TOTSP.ESP`
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
+  * [x] `BT_Whitewolf_2_0_TOTSP.esm`
+  * [x] `Grandfather Frost - TOTSP.ESP`
+  * [x] `Thirsk Expanded for TOTSP.ESP`
+  * [x] `Tomb of snow prince_MW_Chilren_Patch.ESP`
 
 ⭐ [**Ashlander Traders - Remastered - BCOM and Wares**](https://www.nexusmods.com/morrowind/mods/48009)
 Brother Juniper's excellent Ashlander Traders mod, edited for compatibility and extra dialogue. Adds Ashlander Traders who will sometimes appear in Balmora, Ald-ruhn, or Suran.

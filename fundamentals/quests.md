@@ -198,8 +198,8 @@ Participate in the challenge of Hircine and hunt down his three aspects.
   * [x] 00 Core
   * [x] 01 - Anthology
 
-* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
-  * [x] `HircineQuest_VSW.ESP`
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
+  * [x] `HircineQuest.ESP`
 
 [**Join the Royal Guards**](https://www.nexusmods.com/morrowind/mods/50676)\
 Become a Royal Guard and do quests for them.
@@ -237,8 +237,8 @@ A lore-friendly quest mod based on an in-game book brought to life, with dungeon
 [**Of Justice and Innocence**](https://www.nexusmods.com/morrowind/mods/34046)\
  In the small village of Dagon Fel there lives a woman by the name of Rinida Honwyer. She claims her poor, sweet innocent brother has been kidnapped by smugglers. This unfortunate outcome is a result of an unlikely series of events and her poor brother's own naivety. Now Rinida fears for her brothers life, sure that these smugglers mean nothing
 
-* Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
-  * [x] `OJAI - Framerate Version.esp`
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
+  * [x] `Of Justice and Innocence.esp`
 
 [**Aspect of Azura**](https://www.nexusmods.com/morrowind/mods/51079) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 Adds a Daedric helm bearing the aspect of Azura which you can acquire through a new quest which starts at the Holamayan Monastery near the Shrine of Azura. Explore the hidden depths below the shrine to become the Champion of Azura!
@@ -260,9 +260,6 @@ Introduces five new quests to investigate the Order of the Black Worm's presence
 
 [**Love in time of the daedra**](https://www.nexusmods.com/morrowind/mods/43635) by [HangHimHigher](https://www.nexusmods.com/morrowind/users/14318784)\
 An open ended quest mod about love, death, Daedra, vengeance, and whiney Bosmer conmen.
-
-* Double click the mod in MO2 and go to the Optional ESPs tab: Under **available ESPs** have only:
-  * [x] `NON1.LoveintheTimeofDaedra.v1.03_Abot.esp`
 
 [**Love in time of the daedra - TR patch**](https://www.nexusmods.com/morrowind/mods/48683) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
 An open ended quest mod about love, death, Daedra, vengeance, and whiney Bosmer conmen.

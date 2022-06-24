@@ -18,7 +18,9 @@ A compilation of a handful of community-made shaders.
 * Run MGE XE in Mod Organizer 2.
 * In the **Graphics tab**, click **Enable shaders**.
 * Click **Shader setup...**.
-* On the **Set active shaders** window, click **Modding >>>**. Set your **Active Shaders** as follows, by double clicking on the corresponding shader under **Available shaders**.
+* On the **Set active shaders** window, click **Modding >>>**.
+* Double click on the corresponding shader under **Available shaders** to activate.
+* Under **Active Shaders** have the following:
 
 ```text
 SSAO HQ
@@ -32,6 +34,8 @@ Special Process
 Eye Adaptation (HDR)
 heathaze
 r0_qk_shaker
+skoomaesthesia
+warp
 ```
 
 * Click **Save** after setting up your shader chain.
