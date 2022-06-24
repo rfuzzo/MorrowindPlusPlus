@@ -32,15 +32,6 @@ Used to repair and update saves, update the masters of mods, and to run tes3cmd 
 The **Mods Installers directory** we left empty above is redundant to us, as we will use Mod Organizer 2 to install our mods. However, assigning a directory is required to install Wrye Mash.
 {% endhint %}
 
-### Cleaning plugins
-
-For general dirty records, we use **Wrye Mash**, automatically cleaning them.
-
-* Run Wrye Mash (**mash64**) in Mod Organizer 2.
-* In the **Mods** tab, CTRL+left click on the plugin you want to clean.
-* With the plugin selected, right-click and click **Clean with tes3cmd**.
-* After the process is over, close the window.
-
 ## ⭐ [**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/)
 
 Used to clean plugins by automatically deleting identical-to-master records (records that are usually _unintended_ by the author as they do nothing in practice, but which may override _intended_ changes by other mods) and solve a number of conflicts/issues by means of a plugin, **multipatch.esp**.
@@ -53,6 +44,12 @@ Used to clean plugins by automatically deleting identical-to-master records (rec
 Used to solve conflicts by merging conflicting records into a separate plugin, **Merged Objects.esp**.
 
 * Extract the contents of the file in `C:\Games\MorrowindPlusPlus\Tools\TES3Merge`.
+
+## ⭐ [**TESAME**](http://mw.modhistory.com/download-95-15443)
+
+Used to clean plugins and solve conflicts by manually deleting conflicting or dirty records (unintended changes by the mod's author).
+
+* Extract the contents of the file in `C:\Games\MorrowindPlusPlus\Tools\TESAME`.
 
 ## ⭐ [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 

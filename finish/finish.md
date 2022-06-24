@@ -1,10 +1,24 @@
 # Finishing
 
+## Running the game for the first time
+
+### Mod Config Menu
+
+In the **Mod Config Menu**, I recommend these options:
+
+**Improved Vanilla Levelling:** DISABLE Retroactive Health Calculation
+**Map and Compass:** Optionally select map
+**PvP:** Increase attack frequency of enemies -> No
+
+### Settings
+
+**Character Sound Overhaul:** The author recommends you set the Footsteps volume to minimum in your in-game audio settings.
+
+## 01 Updates
+
 {% hint style="info" %}
 If you just installed this modlist or ar updating it you need to always run the following steps in this order:
 {% endhint %}
-
-## 01 Updates
 
 * Run **MWSE-Update** from your game folder.
 
@@ -20,6 +34,19 @@ If you just installed this modlist or ar updating it you need to always run the 
 
 {% hint style="info" %}
 **This section is based on:** Sigourn @ [https://github.com/Sigourn/nerevarrising/blob/master/main.md](https://github.com/Sigourn/nerevarrising/blob/master/main.md)
+{% endhint %}
+
+### Cleaning plugins
+
+For general dirty records, we use **Wrye Mash**, automatically cleaning them.
+
+* Run Wrye Mash (**mash64**) in Mod Organizer 2.
+* In the **Mods** tab, CTRL+left click on the plugin you want to clean.
+* With the plugin selected, right-click and click **Clean with tes3cmd**.
+* After the process is over, close the window.
+
+{% hint style="warning" %}
+Do not clean **Beautiful Cities of Morrowind**. It will create a broken esp.
 {% endhint %}
 
 ### Synchronizing mod masters

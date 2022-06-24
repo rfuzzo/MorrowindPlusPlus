@@ -160,7 +160,7 @@ Assigns ownership to the many, many items and containers that rightly should be 
 ⭐ [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068) by [half11](https://www.nexusmods.com/morrowind/users/36879320)\
 Adds the missing master trainer for Medium Armor, Cinia Urtius.
 
-* Run [**TESAME**](tools.md#tesame) in Mod Organizer 2.
+* Run [**TESAME**](./../setup/tools.md#⭐-tesamehttpmwmodhistorycomdownload-95-15443) in Mod Organizer 2.
 * Delete the following record from **Services Restored.ESP**:
   * NPC **hecerinde**
 * Save the plugin as **Services Restored.ESP**, overwriting the original.

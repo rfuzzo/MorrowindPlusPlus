@@ -103,3 +103,6 @@ A Dwemer music expansion of original tracks by be created for the Morrowind MUSE
 
 * Files to install:
   * **MUSE Expansion - Dwemer (Vanilla - Tribunal)** (Main files)
+
+📃 [**Tamriel Rebuilt - Original Soundtrack**](https://www.nexusmods.com/morrowind/mods/47254)\
+Adds whole new soundtrack for Tamriel Rebuilt areas, with region based music, dungeons, cities and other.

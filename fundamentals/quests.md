@@ -201,6 +201,24 @@ Participate in the challenge of Hircine and hunt down his three aspects.
 * Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
   * [x] `HircineQuest.ESP`
 
+{% hint style="warning" %}
+
+* Run Wrye Mash (**mash64**) in Mod Organizer 2.
+* In the **Mods** tab, find `HircineQuest_VSW.ESP` and select it (It will have a red color).
+* On the right-hand side, you will see a list of "Masters", click into it and a popup will display (click OK).
+* Right click on `VSW_Tomb_of_the_Snow_Prince.esm` in the list of Masters > "Change To".
+* Select `Solstheim Tomb of The Snow Prince.esm` in your Morrowind Data Folder (the current window).
+* Click Save.
+
+{% endhint %}
+
+<details>   <summary>Screenshots</summary>
+
+![Screenshot](../pictures/hircine_01.png)
+![Screenshot](../pictures/hircine_02.png)
+
+</details>
+
 [**Join the Royal Guards**](https://www.nexusmods.com/morrowind/mods/50676)\
 Become a Royal Guard and do quests for them.
 
@@ -260,6 +278,10 @@ Introduces five new quests to investigate the Order of the Black Worm's presence
 
 [**Love in time of the daedra**](https://www.nexusmods.com/morrowind/mods/43635) by [HangHimHigher](https://www.nexusmods.com/morrowind/users/14318784)\
 An open ended quest mod about love, death, Daedra, vengeance, and whiney Bosmer conmen.
+
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
+  * [x] `NON1.LoveintheTimeofDaedra.v1.03.esp`
+  * [x] `NON1.LoveintheTimeofDaedra.v1.03_Abot.esp`
 
 [**Love in time of the daedra - TR patch**](https://www.nexusmods.com/morrowind/mods/48683) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
 An open ended quest mod about love, death, Daedra, vengeance, and whiney Bosmer conmen.
