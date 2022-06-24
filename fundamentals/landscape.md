@@ -13,7 +13,7 @@ This needs to be installed before BCOM
 * Files to install:
   * **Beautiful Cities of Morrowind - BCOM Core** (Main Files)
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Haalu Council Hall Plaza - Izy Style
   * [x] 02 Riverside - Simple Cluttering
@@ -44,7 +44,7 @@ This needs to be installed before BCOM
 ⭐ [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by [Remiros(Flash3113)](https://www.nexusmods.com/morrowind/users/899234)\
 Adds groundcover to almost all regions.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core MGE XE
   * [x] 01b Thicker Grass MGE XE
   * [x] 03 TR Plugins
@@ -72,7 +72,7 @@ Distant Land generation is required to make this mod work as intended. Instructi
 ⭐ [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 02 Tamriel Rebuilt Water
 
@@ -82,7 +82,7 @@ Various modifications to waterfalls and water splashes. Born to fit Better Water
 ⭐ [**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 Fixes flickering on lava. Reduces the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 02 Tamriel_Data Patch
 
@@ -107,13 +107,13 @@ Adds a visual effect to all vanilla flies sound emitters.
 ⭐ [**Parasol Particles**](https://www.nexusmods.com/morrowind/mods/47755?tab=description) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  Adds falling spores particle effects to the iconic emperor parasol mushrooms.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
 
 ⭐📃 [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 Adds floating dust to areas where dead are entombed similar to what is seen in Skyrim barrows.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Default Dust
 
@@ -156,7 +156,7 @@ The original mod has a lot of great ideas but was never finished or fixed. Other
 ⭐ [**Concept Arts plantations**](https://www.nexusmods.com/morrowind/mods/50020)\
  A concept arts-based overhaul of the Arvel and Dren plantations.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 02 - Remiros grass patch
   * [x] 03 - BcoM Remiros grass patch
@@ -171,18 +171,16 @@ Replaces all of the trees in the Ascadian Isles region.
 [**Concept Art Palace (Vivec City)**](https://www.nexusmods.com/morrowind/mods/48136)\
  The Concept Art Palace mod (C.A.P.) is my attempt to bring the Vivec palace closer the original Kirkbride's concept art.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 - Core Files
   * [x] 05 - GitD - patch
 
 [**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291)\
 Replaces the water in the Palace of Vivec's canals.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Original Color
-
-https://www.nexusmods.com/morrowind/mods/49456
 
 [**Prerelease Prisonmoon**](https://www.nexusmods.com/morrowind/mods/49627)\
  Adds some more clutter to the ministry of truth inspired by early screenshots and concept art.
@@ -204,7 +202,7 @@ Replaces the tops of Vivec's cantons with "glass" domes, so that the plaza inter
 [**Glass Domes of Vivec - Moonrain Edition**](https://www.nexusmods.com/morrowind/mods/48946)\
 Community expansion to Glass Domes of Vivec - visual fixes, new region mechanics, and more.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [X] 00 Core Visual Assets
   * [X] 01 Glow in the Dahrk Patch - flickering
   * [X] 01 Optional Green Glow for GitD Patch - flickering
@@ -214,7 +212,7 @@ Community expansion to Glass Domes of Vivec - visual fixes, new region mechanics
 [**Guar Stables of Vivec**](https://www.nexusmods.com/morrowind/mods/50118) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
  Adds guar stables to Vivec
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Guar Stables
 
@@ -223,6 +221,9 @@ Community expansion to Glass Domes of Vivec - visual fixes, new region mechanics
 
 [**Big Imperial Halls**](https://www.nexusmods.com/morrowind/mods/47533)\
  2 small mods using new interior tiles for the In_ImpBig set making larger open areas possible.
+
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
+  * [x] `Imp_Big_4way.ESP`
 
 [**Severa Magia DB Fix**](https://www.nexusmods.com/morrowind/mods/45647) by [Corsair83](https://www.nexusmods.com/morrowind/users/23131859)\
  Updates Severa Magia's hideout to look and feel more like a DB sanctuary.
@@ -238,19 +239,20 @@ To align with what the in-game dialogue suggests, the entrance to the Cavern of 
 [**Strider Burial**](https://www.nexusmods.com/morrowind/mods/47661)\
  Strider Burial is an overhaul of the area containing a few Strider husks East of Urshilaku Camp, turning the zone in a small Silt Strider graveyard complete with an optional high-level unmarked quest.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 For Vanilla Rocks
 
 [**Faces of Vel - Ash Mire**](https://www.nexusmods.com/morrowind/mods/44200)\
  Adds a large mud pit in the foyada south of Bthuand and Zergonipal.
 
-* On MO2 installation, an installer window will pop up asking you to set a Data Files Directory. Right click on `Data Files` and select "Set as < data files > directory".
+* On MO2 installation, an installer window will pop up asking you to set a Data Files Directory.
+* Right click on `Data Files` and select "Set as < data files > directory".
 
 [**The magic rock of Maar Gan**](https://www.nexusmods.com/morrowind/mods/50763)\
  Experience the Maar Gan shrine as the sacred place it should have been.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 03- Ashfall add-on
 
@@ -277,7 +279,7 @@ To align with what the in-game dialogue suggests, the entrance to the Cavern of 
 ⭐ [**OAAB Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  OAAB Tel Mora enhances the city of Tel Mora by adding new buildings, new quests, detailing the landscape, and more. It accomplishes all this while staying lore friendly and without (in my opinion) going over the top by making the city too big.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Female Guards
 
@@ -299,7 +301,7 @@ Near Sadrith Mora is a series of ancient pillars, rumoured to be a long abandone
 [**The Corprusarium experience**](https://www.nexusmods.com/morrowind/mods/49738) by [Vegetto88](https://www.nexusmods.com/morrowind/users/4655319)\
   Overhaul of the corprusarium, making it the creepy place it was meant to be.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
 
 [**RR Mod Series - Melchiors Mudcrab Merchant**](https://www.nexusmods.com/morrowind/mods/42685)\
@@ -317,7 +319,7 @@ This mod is a model and texture replacer for the Mudcrab Merchant, making him st
 [**RR Mod Series - Telvanni Lighthouse Tel Branora**](https://www.nexusmods.com/morrowind/mods/42664)\
  This mod adds a Telvanni style Lighthouse to Tel Branora.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 - Main Files
   * [x] 01 - Main ESP - English
 
@@ -329,7 +331,7 @@ Adds a new room in the Telvanni Council House where the player, and the other np
 ⭐📃 [**Glowbugs**](https://www.nexusmods.com/morrowind/mods/50538) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 Adds firefly-like insects called glowbugs across the Bitter Coast region which come out on calm nights. They can be caught by the agile adventurer and their thorax makes a quality component in potions of Light.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Glowbugs BC
   * [x] 02 Glowbugs AI
@@ -337,7 +339,7 @@ Adds firefly-like insects called glowbugs across the Bitter Coast region which c
 ⭐ [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout region which appears during the night and certain weather conditions. It will burn off in the morning sun.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Vanilla Mist Replacer
 
@@ -366,7 +368,7 @@ A distraught nephew, a missing uncle, a manor slowly sinking into the swamps of 
 [**Morrowind Swamp Trees**](https://www.nexusmods.com/morrowind/mods/50151) by [Vegetto88](https://www.nexusmods.com/morrowind/users/4655319)\
  Reworks MD Grath trees in Bitter Coast to make them more vanilla friendly.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 02 Huge Roots trees variation
 
@@ -381,12 +383,16 @@ A distraught nephew, a missing uncle, a manor slowly sinking into the swamps of 
 ⭐ [**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  This mod is an overhaul of Vos and Tel Vos, the land surrounding them, the two nearby egg mines, covering a large portion of the northern Grazelands. Currently, the mod does not cover the entire Grazelands region, but additional work is planned in future updates. The mod includes 16+ new quests with approximately 18,000 words of dialogue.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Remiros Groundcover GL Patch
 
 ⭐ [**Melchior's Excellent Grazelands Acacia**](https://www.nexusmods.com/morrowind/mods/51058) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 A pluginless replacer for the Grazelands trees inspired by the umbrella thorn acacia species.
+
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Core
+  * [x] 01 OAAB Saplings Patch
 
 [**RR Mod Series - Telvanni Lighthouse Tel Vos**](https://www.nexusmods.com/morrowind/mods/42744)\
  This mod adds a Telvanni style Lighthouse not far from Tel Vos and Tel Mora.
@@ -395,7 +401,7 @@ A pluginless replacer for the Grazelands trees inspired by the umbrella thorn ac
   * **Telvanni Lighthouse - Tel Vos** (Main files)
   * **Telvanni Lighthouse - Tel Vos Patch** (Update files)
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 - Main Files
   * [x] 01 - Main Files GITD Patch
   * [x] 02 - Main ESP - English
@@ -405,7 +411,7 @@ Overhauls Dwemer ruins so that they are more memorable, more fun to explore, and
 
 * Files to install:
   * **BDI - Nchuleft** (Main files)
-  * **Better Dwemer Interiors Master** (Update files)
+  * **Better Dwemer Interiors Master** (Main files)
   * **BDI master update** (Update files)
 
 [**Fixed Falensarano**](https://www.nexusmods.com/morrowind/mods/48683)\
@@ -444,7 +450,7 @@ Small expansion to the mushroom grove near Dagon Fel.
 ⭐ [**Gray North - Ruined Redaynia**](https://www.nexusmods.com/morrowind/mods/49862) by [Anumaril21](https://www.nexusmods.com/morrowind/users/60236996)\
  Implements the cut village of Ald Redaynia and overhauls the nearby Velothi tower it's named for, expanding on existing content as well as adding an optional unmarked quest.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 GITD Patch
 
@@ -481,7 +487,7 @@ To the west and slightly north of Dagon Fel, you'll find a small cottage along t
 ⭐ [**Foyada Mamaea Overhaul**](https://www.nexusmods.com/morrowind/mods/46424) by [Remiros(Flash3113)](https://www.nexusmods.com/morrowind/users/899234)\
  Completely overhauls Foyada Mamaea.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
 
 ⭐ [**Mamaea Awakened**](https://www.nexusmods.com/morrowind/mods/46096) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
@@ -490,7 +496,7 @@ To the west and slightly north of Dagon Fel, you'll find a small cottage along t
 ⭐ [**Of Eggs and Dwarves - Gnisis Eggmine and Bethamez Overhaul**](https://www.nexusmods.com/morrowind/mods/51171)by [seelof](https://www.nexusmods.com/morrowind/users/4139826)\
 This mod rebuilds and expands the Gnisis Eggmine complex from scratch, which includes the Eggmine, the Lower Eggmine, the Underground Stream, and Bethamez. It also adds a quest, which asks the player to investigate the origins of the tremors that have been plaguing the eggmine ever since the Dwemer ruin was uncovered. Features actual earth quakes!
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 BCOM Patch
 
@@ -519,7 +525,7 @@ Worldspace overhaul of Solstheim, improving the graphical fidelity, environmenta
 * Files to install:
   * **Solstheim Tomb of the Snow Prince** (Main files)
   
-  * On MO2 installation, check the following options in the BAIN installer:
+  * On MO2 installation, check the following options in the installer:
     * [X] 000 Core
     * [X] 010 Solstheim - Tomb of the Snow Prince
     * [X] 011 TOTSP Patches
@@ -532,7 +538,7 @@ Worldspace overhaul of Solstheim, improving the graphical fidelity, environmenta
   
   * **Solstheim Graphical Replacer** (Main files)
   
-  * On MO2 installation, check the following options in the BAIN installer:
+  * On MO2 installation, check the following options in the installer:
     * [X] 011 Skyrim-Like Trees
     * [X] 012 Remiros' Groundcover for TOTSP
 
@@ -580,20 +586,28 @@ Allows installation of the Skyrim-like Trees option without having to install th
 📃 [**More believable bandit camps - an addon for Ashfall**](https://www.nexusmods.com/morrowind/mods/50066)\
  Adds appropriate clutter to the various bandit camps.
 
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Core
+  * [x] 01 TOTSP Addon
+
 [**Well Diversified STOTSP**](https://www.nexusmods.com/morrowind/mods/50725)\
 Adds Imperial and Solstheim variants for the well mesh, blending in better with their surrounding architecture.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Option 2 STOTSP
 
 [**OAAB Pomegranates**](https://www.nexusmods.com/morrowind/mods/50726) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  Inspired by their mention of growing in the badlands of Morrowind in Sermon 12, a regional variety of pomegranates can now be found growing atop Mount Assarnibibi.
 
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Core
+  * [x] 01 WWGTMA Patch
+
 [**OAAB Saplings**](https://www.nexusmods.com/morrowind/mods/50334) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  This mod places saplings from OAAB_Data in most regions on Vvardenfell.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Merged
 
 [**Get Wrecked**](https://www.nexusmods.com/morrowind/mods/51237)\
@@ -609,7 +623,7 @@ Adds some unique, Telvanni style light sources to various Telvanni settlements
 * Files to install:
   * **OAAB - Magical Lights** (Main files)
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 BCoM Version
 
@@ -618,7 +632,7 @@ Adds some unique, Telvanni style light sources to various Telvanni settlements
  [**OAAB - Tel Raloran**](https://www.nexusmods.com/morrowind/mods/46841) by [Corsair83](https://www.nexusmods.com/morrowind/users/23131859)\
  A Telvanni mushroom house with MWSE functions.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [X] 00 Core
   * [X] 01 Vanilla
 
@@ -632,7 +646,7 @@ Adds some unique, Telvanni style light sources to various Telvanni settlements
  Lyithdonea: The Azurian Isles is a landmass mod for Morrowind featuring a tropical paradise between Tamriel and Akavir. The mod has a strong influence from the Daedric Lord Azura with dusk and dawn themes and Azura being the focus of religion in the region. Explore a detailed new landmass, discover strange creatures, battle pirates, immerse in the
 
 {% hint style="info" %}
-[**Development Version can be found on github**](https://github.com/MelchiorDahrk/Lyithdonea) Download the files, zip them and install with MO2 to get a BAIN installer.
+[**Development Version can be found on github**](https://github.com/MelchiorDahrk/Lyithdonea) Download the files, zip them and install with MO2 to get a installer.
 {% endhint %}
 
 [**Anna-Sera**](https://www.nexusmods.com/morrowind/mods/51343)\
@@ -672,7 +686,7 @@ Grass modules
 * Files to install:
   * **BCoM - Grass Patches**
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 01 Remiros Groundcover
 
 * Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
@@ -691,7 +705,7 @@ Patches for various mods
 On MO2 installation, it does not matter if you install too many mods, we will go over the individual ESPs later again:
 {% endhint %}
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 01 Patch for Purists Patch
   * [x] 03 Foyada Mamaea Overhaul
   * [x] 05 Animated Morrowind
@@ -734,7 +748,7 @@ Pluginless mesh replacers. Included here there's also a vanilla friendly version
 * Files to install:
   * **Beautiful Cities of Morrowind - Project Atlas - GITD - RR statues patches**
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 02 GITD + Atlas
 
 📃 [**Various compatibility patches for HOTV Tomb of the Snow prince Solstheim Overhaul**](https://www.nexusmods.com/morrowind/mods/48422)\
@@ -756,7 +770,7 @@ Brother Juniper's excellent Ashlander Traders mod, edited for compatibility and 
 ⭐ [**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232)\
 Compatibility patches for canton mods.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [X] 00 Glass Domes of Vivec
   * [ ] 01 No-Frills Closed Molag Mar
   * [ ] 01 No-Frills Open Arena

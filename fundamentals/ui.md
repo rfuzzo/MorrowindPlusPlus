@@ -13,6 +13,17 @@ This mod requires the **Mod Specific/Hi-def cutscene support** feature to be ena
 [**Cutscenes Revamped - Cavern of the Incarnate**](https://www.nexusmods.com/morrowind/mods/49126)\
 A modern HD replacer for the Azura Cutscene that plays in the Cavern of the Incarnate. Works with Morrowind and OpenMW.
 
+* On MO2 installation, an installer window will pop up asking you to set a Data Files Directory. Right click on `<data files>` and select "Create directory".
+* Type in "Video" to create the Video folder
+* Move `mw_cavern.bik` into it
+
+<details>   <summary>Screenshot</summary>
+
+![Screenshot](../pictures/mo2_datafiles.png)
+![Screenshot](../pictures/coti_01.png.png)
+
+</details>
+
 {% hint style="warning" %}
 This mod requires the **Mod Specific/Hi-def cutscene support** feature to be enabled in the Morrowind Code Patch.
 {% endhint %}
@@ -78,7 +89,7 @@ Forwards PfP fixes to the plugin.
 [**Magic Icons**](https://www.nexusmods.com/morrowind/mods/50223)\
 Replaces the effect seen on magic items in the inventory, allowing easier distinction between different magic items.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Original Blue Color
 
 [**UI Expansion Better Training Icons**](https://www.nexusmods.com/morrowind/mods/51190)by [tewlwolow](https://www.nexusmods.com/morrowind/users/1152341)\
@@ -114,7 +125,11 @@ Provides configurable, dynamic crosshair indicators while sneaking and for essen
 📃 [**Ownership Indicator**](https://www.nexusmods.com/morrowind/mods/45940)
 Uses MWSE Lua to add an Oblivion style ownership indicator, when you look at owned items, beds, and more.
 
-* After installation, hide the mod's **MWSE\mods\ownership-indicator\main.lua** file.
+* On MO2 installation, an installer window will pop up asking you to set a Data Files Directory.
+* Right click on `Data Files` and select "Set as < data files > directory".
+
+* After installation, in MO2, go to **Filetree**:
+* `MWSE\mods\ownership-indicator\main.lua` -> right click: **Hide**.
 
 📃 [**More Detailed Companion HealthBars MWSE Lua Script**](https://www.nexusmods.com/morrowind/mods/51389) by [Spammer21](https://www.nexusmods.com/morrowind/users/140139148)\
 Tweaked version of Mesafoo's Companion HealthBars, showing Magicka, Fatigue as well as currently selected weapon.
@@ -175,7 +190,7 @@ This mod allows you to replace the magical vanilla map with a selection of more 
 ⭐📃 [**Map Replacements for Maps and Compass Wagner Style - Brujoloco Edition**](https://www.nexusmods.com/morrowind/mods/48460)  
 Replaces the maps from **Map and Compass** to give them a more immersive look.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [X] 00 Yellowed Maps
 
 ⭐📃 [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851)\

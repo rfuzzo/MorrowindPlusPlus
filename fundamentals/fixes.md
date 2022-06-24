@@ -5,7 +5,7 @@
 ⭐ [**OAAB\_Data**](https://www.nexusmods.com/morrowind/mods/49042)\
 Asset repository required for OAAB mods and Nordic Dagon Fel.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
 
 ⭐ [**Tamriel\_Data**](https://www.nexusmods.com/morrowind/mods/44537)\
@@ -14,7 +14,8 @@ Asset repository required for Solstheim - Tomb of the Snow Prince and Nordic Dag
 * Files to install:
   * **Tamriel Data (HD)** (Main files)
 
-* On MO2 installation, an installer window will pop up asking you to set a Data Files Directory. Right click on `00 Core` and select "Set as < data files > directory".
+* On MO2 installation, an installer window will pop up asking you to set a Data Files Directory.
+* Right click on `00 Core` and select "Set as < data files > directory".
 
 {% hint style="info" %}
 To register the mod's BSA file, launch **Wrye Mash** from Mod Organizer 2. In the Mods tab, click the BSA Archives tab to the right, and check the BSA you want to register.
@@ -26,7 +27,7 @@ Asset repository for **PikacunoTM**'s An Addendum to Tamrielic Lore mod project.
 * Files to install:
   * **AATL_Data**
 
-* On BAIN installation, check the following options:
+* On MO2 installation, check the following options:
   * [x] Core Files
   * **Install Hi-Res Textures** -> Yes
   * **Compatibility Options** -> Ashfall
@@ -39,7 +40,7 @@ Asset repository for **PikacunoTM**'s An Addendum to Tamrielic Lore mod project.
 * Files to install:
   * **Tamriel Rebuilt** (Main files)
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Faction Integration
   * [x] 03 Travel Network for Core and Vvardenfell
@@ -47,7 +48,7 @@ Asset repository for **PikacunoTM**'s An Addendum to Tamrielic Lore mod project.
 
 * **Tamriel Rebuilt 21.01 hotfix 1**
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Faction Integration
 
@@ -73,7 +74,7 @@ Unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition t
 ⭐ [**Unofficial Morrowind Official Plugins Patched**](https://www.nexusmods.com/morrowind/mods/43931) by [PikachunoTM](https://www.nexusmods.com/morrowind/users/16269634)\
 Fixes many issues present in Bethesda's original Official Plugins.
 
-* On BAIN installation, check the following options:
+* On MO2 installation, check the following options:
   * **Merged or Individual** -> UMOPP Merged
   * **Compatibility Version** -> Yes
   * **Install Better Armor Compatibility** > No
@@ -143,8 +144,10 @@ This mod fixes several engine bugs related to GMSTs used when raising skills via
 Corrects thrown projectiles inflicting twice their listed damage, by halving their damage output.
 
 📃 [**Doors Anti Stuck**](https://www.nexusmods.com/morrowind/mods/50931) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
-
 Avoids actors getting stuck while opening doors.
+
+[**Creature VFX restoration**](https://www.nexusmods.com/morrowind/mods/46194)\
+ Restores visual effects on creatures.
 
 ## Lore Fixes
 
@@ -186,7 +189,7 @@ Equipped weapons will be shown on the character's hip or back. This new function
 ⭐ [**Morrowind Optimization Patch**](https://www.nexusmods.com/morrowind/mods/45384) by [Remiros](https://www.nexusmods.com/morrowind/users/899234)\
 Greatly improves performance and fixes some mesh errors.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [ ] 01 Lake Fjalding Anti-Suck\
     Increases performance around Lake Fjalding by replacing several of the smaller meshes with larger, merged ones. Has no impact on visuals.
@@ -204,7 +207,7 @@ We do not install `01 Lake Fjalding Anti-Suck` because this is included in Tomb 
 ⭐ [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 Makes vanilla windows glow in the dark.
 
-* On MO2 installation, check the following options in the FOMOD installer:
+* On MO2 installation, check the following options in the installer:
   * [x] Nord Glass Windows -> Yes
   * [x] Raven Rock Glass Windows -> Yes
   * [ ] Dark Molag Mar -> No
@@ -216,7 +219,7 @@ Makes vanilla windows glow in the dark.
 ⭐ [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599) by [Stuporstar](https://www.nexusmods.com/morrowind/users/526886)\
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core + Vanilla Meshes
 
 ⭐ [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399?) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
@@ -225,7 +228,7 @@ Optimizes the most performance heavy areas of vanilla Morrowind through texture 
 Files to install:
 
 * **Project Atlas** (Main files)
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 BATs
   * [x] 00 Core
   * [x] 01 Textures - Vanilla
@@ -249,7 +252,7 @@ Makes picking a glowing plant also remove the glow-light.
 ⭐ [**Improved Lights for All Shaders**](https://www.nexusmods.com/morrowind/mods/51463) by [mwclevername](https://www.nexusmods.com/morrowind/users/102938538)\
 Adjusts every vanilla light mesh to enhance the effects of other shader and lighting mods. Compatible with MGE, OpenMW, ReShade, True Lights And Darkness, Enlightened Flames, and just about everything else.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Smoke and Steam Emitters
 
@@ -278,20 +281,20 @@ Fixes the Mudcrab mesh, reducing distortion and other UV errors.
 [**Nordic Mesh Improvements**](https://www.nexusmods.com/morrowind/mods/46792) by [Remiros](https://www.nexusmods.com/morrowind/users/899234)\
  Replaces the meshes for all nordic weapons.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Weapon Sheathing Patch
 
 [**Silver Mesh Improvements**](https://www.nexusmods.com/morrowind/mods/46787) by [Remiros](https://www.nexusmods.com/morrowind/users/899234)\
 Replaces the meshes of the silver weapons with higher quality ones.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Weapon Sheathing Patch
 
 [**Overlooked Meshes Replacer**](https://www.nexusmods.com/morrowind/mods/46855) by [Remiros](https://www.nexusmods.com/morrowind/users/899234)\
 Replaces a lot of meshes that haven't (properly) been covered by other mods yet.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Iron Repair Prongs

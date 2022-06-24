@@ -5,6 +5,9 @@
 ⭐ [**Chargen Revamped**](https://www.nexusmods.com/morrowind/mods/44615)\
 Customize/randomize your starting attributes, skills, spells, items, companion, faction, and location on Vvardenfell, Solstheim, Mainland Morrowind (TR), Skyrim (SHOTN), or Cyrodiil (PC).
 
+* On MO2 installation, an installer window will pop up asking you to set a Data Files Directory.
+* Right click on `Data Files` and select "Set as < data files > directory".
+
 * Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
   * [x] `CREL_Vanilla_v3.1.esp`
 
@@ -34,7 +37,7 @@ A state-based health mod implemented in MWSE. Health is now calculated based on 
 📃 [**Ahead of the Classes**](https://www.nexusmods.com/morrowind/mods/50346)\
 Ahead of the classes makes many vanilla and TR classes playable and adds many new classes.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 FF addon
 
@@ -82,7 +85,7 @@ Adds a Luck-based Critical Strike mechanic.
 📃 [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)\
 Opens up an entire new facet of gameplay by granting the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Labelled Potions
 
@@ -127,7 +130,7 @@ Adds negative consequences to casting spells that are beyond the caster's abilit
 ⭐📃 [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111)\
 A lua-based framework for creating new, fully functional magic effects.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 - Framework
 
 {% hint style="info" %}
@@ -137,13 +140,13 @@ This framework is a pre-requisite for **Miscast Enhanced**, and the **Magic Mech
 ⭐📃 [**MM - Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480)\
 Adds new Oblivion-inspired visual effects and mechanics for the vanilla Detection magic effects, as well as adds 7 new magic effects. It integrates those effects into new spells and distributes them in-game to spell vendors.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 - Core
 
 ⭐📃 [**Enhanced Detection Lite**](https://www.nexusmods.com/morrowind/mods/48471)\
 Lite version of Enhanced Detection that adds the cool new visual effects without changes such as new magic effects and spells. Includes less lite version with two new effects only.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] Enhanced Detection Less Lite
 
 ⭐📃 [**MM - Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565)  
@@ -156,7 +159,7 @@ The shader included in this mod needs to be registered in MGE XE to work as inte
 ⭐📃 [**MM - Enhanced Light**](https://www.nexusmods.com/morrowind/mods/47672)\
 Replaces the Light magic effect with a Skyrim-style magelight effect, which creates an orb of light that will follow and float around you and other NPCs. Casting the magelight on a target location will create an orb of light at the location for the duration of the spell.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Optional FPS
 
@@ -167,7 +170,7 @@ The Optional FPS option provides better performance at the expense of high quali
 ⭐📃 [**MM - Enhanced Telekinesis**](https://www.nexusmods.com/morrowind/mods/47534)\
 Using Telekinesis will now propel objects towards you with new VFX instead of immediately picking the item up.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Cast VFX
 
@@ -199,7 +202,7 @@ Levitation speed is now based on Willpower attribute instead of Speed.
 ⭐ [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)\
 Increases the availability of restocking Restore Magicka, Restore Fatigue, and Restore Health potions across Alchemists, Apothecaries, and Healers. Now these potions will be easier to come across for sale.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Poison Crafting Patch
 
@@ -242,9 +245,7 @@ Running and Swimming uses much less Fatigue, but Fatigue regenerates slower
 [**External Link**](https://github.com/rfuzzo/MorrowindPlusPlus/raw/main/assets/RunningFatigue_Overhaul_Beta.7z) to the download.
 {% endhint %}
 
-**Alternative for less stamina:**
-
-<details>   <summary>Screenshot</summary>
+<details>   <summary>Alternatives</summary>
 
 [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029) by [Remiros(Flash3113)](https://www.nexusmods.com/morrowind/users/899234)\
 Rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural.
@@ -278,7 +279,7 @@ Makes fire sources damage the player when standing too close to them.
 Allows you to have a chance to successfully detect traps and locks based on your security skill and relevant attributes, with a formula similar to the vanilla game.
 
 {% hint style="warning" %}
-This mod requires the **Hidden locks** and **Hidden traps** features to be enabled in the Morrowind Code Patch. Failing to enable them can cause you to be unable to start a new game or resume a game when paired alongside Improved Main Menu.
+This mod requires the **Game Mechanics/Hidden locks** and **Game Mechanics/Hidden traps** features to be enabled in the Morrowind Code Patch.
 {% endhint %}
 
 📃 [**Visually Trapped Objects**](https://www.nexusmods.com/morrowind/mods/48936)\

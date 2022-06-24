@@ -11,9 +11,6 @@ Adds over 200 new voice entries for NPCs, mostly using edited original voice fil
 [**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232)\
 Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
 
-[**Sheep-no-More**](https://www.nexusmods.com/morrowind/mods/45168)\
-Removes sheep sounds from Morrowind.
-
 ⭐ [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588)\
 Reduces the frequency of idle Cliff Racer screeches.
 
@@ -21,10 +18,10 @@ Reduces the frequency of idle Cliff Racer screeches.
 Customizable sound overhaul which adds ambient sounds, interior weather, extended voices, and more.
 
 * Files to install:
-  * **AURA 4.0.0** (Optional files)
-  * **AURA 4.0.2** (Update files)
+  * **AURA** (Main files)
+  * **AURA** (Update files)
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Replacer
 
@@ -63,7 +60,7 @@ Thunder Sound ID 3=Distant_Thunder_03
 [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826)\
 Gives Nord barrows their own unique sound. You will hear some deep-voiced chanting and perhaps some drums in the distance if you listen closely enough; hearkening back to ancient battles and burial rites.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Fire Sound Replacer
 
@@ -82,9 +79,6 @@ Note that users often forget about installing this mod, leading to questions on 
 
 [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586)\
 Adds entrance bell chimes with sound effects to imperial town tradehouses and taverns.
-
-[**Creature VFX restoration**](https://www.nexusmods.com/morrowind/mods/46194)\
- Restores visual effects on creatures.
 
 ## Music
 

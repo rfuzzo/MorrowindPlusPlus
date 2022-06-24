@@ -18,6 +18,7 @@ by [FMZ4](https://www.nexusmods.com/morrowind/users/87930688)\
 by [Greatness7](https://www.nexusmods.com/morrowind/users/64030)\
 by [GrunTella](https://www.nexusmods.com/morrowind/users/2356095)\
 by [half11](https://www.nexusmods.com/morrowind/users/36879320)\
+by [HangHimHigher](https://www.nexusmods.com/morrowind/users/14318784)\
 by [hater8](https://www.nexusmods.com/morrowind/users/57926276)\
 by [Hrnchamd](https://www.nexusmods.com/morrowind/users/843673)\
 by [istred](https://www.nexusmods.com/morrowind/users/2476481)\

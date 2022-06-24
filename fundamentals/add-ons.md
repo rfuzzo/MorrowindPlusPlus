@@ -11,7 +11,7 @@
 * Files to install:
   * **Wares** (Main files)
 
-    * On MO2 installation, check the following options in the BAIN installer:
+    * On MO2 installation, check the following options in the installer:
       * [x] 00 Master file
       * [x] 01 TR
 
@@ -21,14 +21,14 @@
 ⭐ [**Friends and Foes**](https://www.nexusmods.com/morrowind/mods/49251) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
  Adds friendly and less friendly npcs to the game.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 TR addon
 
 ⭐ [**Vanilla friendly creatures and undeads expansion**](https://www.nexusmods.com/morrowind/mods/48818) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
  Vanilla friendly creatures and undeads expansion mod based on some of the great old creatures mods, TR_data and OAAB_Data
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Glowing Netch and Netch Betty
   * [ ] 02 Daedric creatures use bound weapons
@@ -41,27 +41,9 @@ This is Animated Morrowind - merged by Abot, made compatible with my town overha
 * Files to install:
   * **Animated Morrowind**
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Vanilla engine
-
-[Divine Dagoths](https://www.nexusmods.com/morrowind/mods/45536)\
-Pluginless replacer for Dagoth Ur and his brothers, with tweaked body proportions and shadow meshes, new HD particles, and corpse models.
-
-* Files to install:
-  * **Divine Dagoths**
-
-* On MO2 installation, check the following options in the BAIN installer:
-  * [x] Core Files
-  * [x] No Halo Glow
-  * [x] No Halo Sigils
-
-* Double click the mod in MO2 and go to the Optional ESPs tab: Under "Optional ESPs" have only (move to the left):
-  * [x] `Bob's Diverse Dagoths - DNGDR - Hostile Gilvoth.esp`
-  * [x] `Bob's Diverse Dagoths - DNGDR.esp`
-  * [x] `Bob's Diverse Dagoths - Hostile Gilvoth.esp`
-  * [x] `Bob's Diverse Dagoths.esp`
-  * [x] `Unique Dagoth Brandy & Amulet.ESP`
 
 [**Walkers of Morrowind**](https://www.nexusmods.com/morrowind/mods/49889) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
  Allows npcs in the wilderness who were given an AIWander package to actually wander within their cell.
@@ -72,7 +54,8 @@ Replaces the Corprus Stalker with a Dunmer version. For those who dislike that i
 * Files to install:
   * **Corprus Natives**
 
-* On MO2 installation, an installer window will pop up asking you to set a Data Files Directory. Right click on `512px > Data Files` and select "Set as < data files > directory".
+* On MO2 installation, an installer window will pop up asking you to set a Data Files Directory.
+* Right click on `512px > Data Files` and select "Set as < data files > directory".
 
 [**Ghost Revenge**](https://www.nexusmods.com/morrowind/mods/45674) by [rotat](https://www.nexusmods.com/morrowind/users/40752190)\
 Newly murdered characters are now drawn to the tombs of their ancestors. You will meet your victims again.
@@ -83,10 +66,17 @@ Newly murdered characters are now drawn to the tombs of their ancestors. You wil
 [**MCAR**](https://www.nexusmods.com/morrowind/mods/48628)\
  Replaces 1st person animations.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* Files to install:
+  * **MCAR plus swim animation**
+
+* On MO2 installation, check the following options in the installer:
   * [x] 00 - MCAR
   * [x] 01 - Magic casting
-  * [x] 02 - Melee combat (Incl. bows&crossbows)
+  * [x] 02- Melee combat
+
+{% hint style="warning" %}
+This mod requires the **Mod Specific/First person swim animations** feature to be enabled in the Morrowind Code Patch.
+{% endhint %}
 
 [**Atronach Expansion**](https://www.nexusmods.com/morrowind/mods/22189) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 This mod takes several community resources as well as my own work and adds seven new types of monsters as summonable creatures: Bone Golem, Flesh Atronach, Iron Golem, Swamp Myconid, Telvanni Myconid, Ash Golem, Crystal Golem
@@ -109,14 +99,14 @@ Drip adds Diablo 2 style loot to Morrowind. Unique weapons, armor, clothing and 
 Vanilla and TR npcs will now wear randomised clothes, armour and weapons.
 Vanilla and TR containers will now hold randomised clothes, armour and weapons.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Vv + TR
 
 ⭐ [**Taddeus' Foods of Tamriel**](https://www.nexusmods.com/morrowind/mods/49388) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
 This mod adds Ashfall compatible Foods from all over Tamriel as well as a few shops and Food Outposts.
 It also adds ovens that can be used to bake bread and pies. More baking recipes are available if you have a rolling pin.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Full version
 
@@ -133,7 +123,7 @@ This is a compilation of mods that does a couple of things:
 * Files to install:
   * **Vanilla friendly weareables expansion**
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Morag Tong Polished Patch
   * [x] 02 Cephalopod Armor - OAAB Patch
@@ -147,6 +137,9 @@ Players skilled in Mysticism and Enchant can learn to Identify
 
 ⭐ [**Indexes of Morrowind**](https://www.nexusmods.com/morrowind/mods/47501)\
  This mod provides useful in-game indexes of tracking down various items and locations. They come as either books or flyers and can be found in various places.
+
+* On MO2 installation, an installer window will pop up asking you to set a Data Files Directory.
+* Right click on `Indexes of MW > Data Files` and select "Set as < data files > directory".
 
 ⭐ [**OAAB Integrations**](https://www.nexusmods.com/morrowind/mods/49045)\
  This page will be used to upload minor mods which integrate content from OAAB_Data into the game by the OAAB team.
@@ -165,7 +158,7 @@ Players skilled in Mysticism and Enchant can learn to Identify
 [**Scrolls of The Nine Barriers**](https://www.nexusmods.com/morrowind/mods/45831)\
 This mod adds the missing 7th and 8th barrier scrolls, adds a quest to find the (now rare) 9th barrier scroll, adds new lore surrounding The Nine Barriers, and much more!
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 MWSE Flavor Text
 

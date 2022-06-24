@@ -51,7 +51,7 @@ Camonna Tong NPCs will now refuse to provide services to Argonians and Khajiit u
 ⭐ [**Nerevarine Service Refusal**](https://www.nexusmods.com/morrowind/mods/49528)\
 Adds extra service refusal dialogue once you progress further into the main quest. Any member of the Tribunal Temple and House Redoran will refuse to offer you their services as long as the persecution of the Nerevarine is still going on, or in the case of the Redoran, until you become their Hortator.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Morrowind Only
   * [x] 01 TR Version
 
@@ -59,8 +59,7 @@ Adds extra service refusal dialogue once you progress further into the main ques
 Factions will refuse services to the player depending on their faction affiliation and rank. Certain services, such as guild travel and healer services, are exempt from such restrictions.
 
 * Files to install:
-  * **Service Requirements Revised** (Main files)
-  * **Service Requirements Revised** (Optional files)
+  * **Service Requirements Revised** (Update files)
 
 ⭐ [**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232?)\
 Prevents the player from renting a bed if diseased, be it common, blight, or corprus disease.
@@ -92,7 +91,7 @@ This mod adds quests for the Telvanni Archmagister, allowing him/her to gain mor
   * **Rise of House Telvanni v1_52** (Main files)
   * **Flask mesh update** (Optional files)
 
-* On MO2 installation, check the following options in the FOMOD installer:
+* On MO2 installation, check the following options in the installer:
   * [x] Base Mod
 
 [**Rise of House Telvanni - 2.0**](https://www.nexusmods.com/morrowind/mods/48225)\
@@ -101,7 +100,7 @@ This mod gives a much needed facelift to one of the greatest quest mods of all t
 [**Roleplay Options for Great House Hlaalu**](https://www.nexusmods.com/morrowind/mods/45208) by [Caeris](https://www.nexusmods.com/morrowind/users/43442372)\
  Adds immersive dialogue options to Great House Hlaalu quests.
 
-[**Hlaalu Rank Adjust**](https://mw.modhistory.com/download-87-5839) by [Caeris](https://www.nexusmods.com/morrowind/users/43442372)\
+[**Hlaalu Rank Adjust**](https://mw.modhistory.com/download-87-5839) by Ithilien87\
 Now there is a proper structure to House Hlaalu, with actual governers for Suran and Gnaar Mok, not just Caldera. The Treasury actually has a master now, and the Hlaalu quest givers have an official title. Rankings were adjusted to make more sense and now the player can actually become a Councillor - something that was impossible in the original game for some unknown reason.
 
 ## Factions
@@ -118,13 +117,13 @@ Expands and redecorates the interiors of the Balmora mages and fighters guild (a
 ⭐ [**Fighters Guild Improved**](https://www.nexusmods.com/morrowind/mods/51409)\
 This mod overhauls the Fighters Guild questline by improving the background and narrative side of most of its quests, as well as adding more variety and available choices to them.
 
-* On MO2 installation, check the following options in the FOMOD installer:
+* On MO2 installation, check the following options in the installer:
   * [x] Merged
 
 [**Mage Robes**](https://www.nexusmods.com/morrowind/mods/45739)\
 Many Mages Guild members will now wear the new robes and the player can acquire the robes through quests and purchase.
 
-* On MO2 installation, check the following options in the FOMOD installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Automatic Add-Ons (MWSE)
 
@@ -172,7 +171,7 @@ To the west of Seyda Neen, along the bitter coast, there lives a hermit by the n
 [**A Merchant's Whim**](https://www.nexusmods.com/morrowind/mods/51068)\
 A merchant has set up shop outside of Vivec. Talk with him, and after some time he will ask you for some help with a personal matter from his past.
 
-* On BAIN installation, check the following options:
+* On MO2 installation, check the following options:
   * [x] Core Files
   * **Alternate Location** -> No
 
@@ -182,7 +181,7 @@ Adds hostages to random dungeons of Vvardenfell and the opportunity for you to f
 📃 [**The Sanguine Rose**](https://www.nexusmods.com/morrowind/mods/46214)\
 The Sanguine Rose adds a fully featured Daedric Quest for Sanguine, the prince of hedonistic revelry, debauchery, and passionate indulgences of darker natures. An Ordinator has been sniffing out Sanguine's shrine and he wants you to take care of the nosy do-gooder in an unconventional way.
 
-* On MO2 installation, check the following options in the FOMOD installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 02 MWSE ME Patch
 
@@ -195,7 +194,7 @@ A sprawling questline full of action and intrigue with a fully radiant quest sys
 [**Hircine's Quest**](https://www.nexusmods.com/morrowind/mods/47651)\
 Participate in the challenge of Hircine and hunt down his three aspects.
 
-* On MO2 installation, check the following options in the FOMOD installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 - Anthology
 
@@ -259,14 +258,27 @@ Visit an old but familiar face to embark on a quest to discover an ancient encha
 [**God of Worms**](https://www.nexusmods.com/morrowind/mods/48028)\
 Introduces five new quests to investigate the Order of the Black Worm's presence in Vvardenfell.
 
-[**Love in the Time of Daedra**](https://www.nexusmods.com/morrowind/mods/48683)\
+[**Love in time of the daedra**](https://www.nexusmods.com/morrowind/mods/43635) by [HangHimHigher](https://www.nexusmods.com/morrowind/users/14318784)\
+An open ended quest mod about love, death, Daedra, vengeance, and whiney Bosmer conmen.
+
+* Double click the mod in MO2 and go to the Optional ESPs tab: Under **available ESPs** have only:
+  * [x] `NON1.LoveintheTimeofDaedra.v1.03_Abot.esp`
+
+[**Love in time of the daedra - TR patch**](https://www.nexusmods.com/morrowind/mods/48683) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
 An open ended quest mod about love, death, Daedra, vengeance, and whiney Bosmer conmen.
 
 * Files to install:
-  * **Love in the Time of Daedra**
+  * **Love in time of the daedra - TR version**
 
 [**Master of Puppets**](https://www.nexusmods.com/morrowind/mods/51393)\
 Recover a stolen arcane tome from a renegade wizard and his magically animated puppet servants.
+
+* Files to install:
+  * **Master of Puppets** (Main Files)
+  * **Master of Puppets-Better Typography** (Optional Files)
+
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
+  * [x] `MasterofPuppets.ESP`
 
 [**Sorcerer of Alteration**](https://www.nexusmods.com/morrowind/mods/51224)
 Journey through this quest mod to improve your alteration magic.

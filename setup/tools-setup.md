@@ -34,37 +34,19 @@ Max Snowflakes=1500
 ## Morrowind Code Patch setup
 
 * Execute **Morrowind Code Patch.exe**, found in your **Root** folder.
-* The **Morrowind Code Patch** will prompt you to install your patches of choice. Use this [**spreadsheet**](https://docs.google.com/spreadsheets/d/1r6fv59to4-KgHJgCm-GDNnwSmD3LdDmamSDEs5jKFdM/edit?usp=sharing) as a reference to install or skip patches.
+* The **Morrowind Code Patch** will prompt you to install your patches of choice.
 * Click **Apply chosen patches** when you are finished. Close the application.
 
-{% hint style="info" %}
-A backup of **Morrowind.exe** (pre-patch) will apear in your **Root** folder, named **Morrowind.Original.exe**.
-{% endhint %}
+Apply the following patches:
+
+- [x] dff
+- [ ] 
 
 ## Registering tools in Mod Organizer 2
 
 For our modding tools to work in Mod Organizer 2, we need to register and configure them.
 
 * Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/MO2/MO_Executables.png) button.
-
-### MWSE-Update
-
-* Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/MO2/MO_Add_File.png) button and select _Add from file..._.
-* Navigate to your Morrowind **Root** folder (`C:\Games\Morrowind`) and double click `MWSE-Update.exe`.
-* Click **Apply**.
-
-### Update MLOX Rules
-
-* Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/MO2/MO_Add_File.png) button and select _Add from file..._.
-* Navigate to your Morrowind **Root** folder (`C:\Games\Morrowind`) and double click `mlox-update.bat`.
-* Click **Apply**.
-
-**Screenshot:**
-<details>   <summary>Screenshot</summary>
-
-![Screenshot](../pictures/MO2_mlox_update.jpg)
-
-</details>
 
 ### MLOX
 
@@ -76,7 +58,6 @@ Make sure you have mlox installed properly [as described here](./tools.md#⭐-ml
 * Navigate to your Morrowind **Root** folder (`C:\Games\Morrowind`) and double click `mlox.exe`.
 * Click **Apply**.
 
-**Screenshot:**
 <details>   <summary>Screenshot</summary>
 
 ![Screenshot](../pictures/MO2_mlox_gui.jpg)

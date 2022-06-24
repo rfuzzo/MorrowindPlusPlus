@@ -10,7 +10,7 @@ Replaces almost all textures in the vanilla game and its expansions with high re
 * Files to install:
   * **Intelligent Textures** (Main files)
   * **Intelligent Textures Hotfix** (Optional files)
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Atlas Textures
 
@@ -74,7 +74,7 @@ Replaces the Silt Strider according to many fan arts. Now the Silt Strider looks
 [**Spriggans Glow**](https://www.nexusmods.com/morrowind/mods/43350)\
 This mod adds a glowbug swarm around Spriggans to make them look more fae-like and magical. It optionally includes a replacer I made for the spriggans themselves, patches for other popular replacers, and masculine "twiggan" versions of the spriggan if you use my replacer.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] Replacer -> MD Replacer
   * [x] Twiggans Option -> Twiggans, Twiggans Groot Extra
 
@@ -88,6 +88,25 @@ Addresses numerous mesh and textures issues with the vanilla head, leading to mu
 [**Familiar Faces by Caleb**](https://www.nexusmods.com/morrowind/mods/50093)\
 An in-depth yet completely vanilla friendly touch up of every head and almost every hair in the game.
 
+* After installation, in MO2, go to **Filetree**:
+* `(optional) Redguard Female Teeth Texture Fix.mohidden` -> right click: **Hide**.
+
+[Divine Dagoths](https://www.nexusmods.com/morrowind/mods/45536)\
+Pluginless replacer for Dagoth Ur and his brothers, with tweaked body proportions and shadow meshes, new HD particles, and corpse models.
+
+* Files to install:
+  * **Divine Dagoths**
+
+* On MO2 installation, check the following options in the installer:
+  * [x] Core Files
+  * [x] No Halo Glow
+  * [x] No Halo Sigils
+
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left:
+  * [x] `Bob's Diverse Dagoths - DNGDR.esp`
+  * [x] `Bob's Diverse Dagoths - DNGDR - Hostile Gilvoth.esp`
+  * [x] `Bob's Diverse Dagoths.esp`
+
 ## VFX
 
 ⭐ [**Mist Retexture**](https://www.nexusmods.com/morrowind/mods/44322)\
@@ -99,7 +118,7 @@ Improves the texture for the mist. The mist is now much smoother and more detail
 ⭐ [**Subtle Magic Glow**](https://www.nexusmods.com/morrowind/mods/4468)\
 Replaces the "plastic wrap" effect around in-game magic items (those equipped by characters or on the ground) with less-obtrusive versions.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] fade\
     Non-moving effect that fades in and out.
 
@@ -109,7 +128,7 @@ Makes it so many smoke effects are much more laid back and easier on the eyes.
 📃 [**MWSE Blood Diversity**](https://www.nexusmods.com/morrowind/mods/47913?)\
 Povides high resolution new blood types for the creatures of Morrowind, Tribunal, Bloodmoon, the Official Plugins, and a variety of mods based on real-world and lore considerations.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 04 Qwertyquit's Textures
 * After installation, use the **INI Editor** under **Tools** to replace the \[Blood] section of your Morrowind.ini with the following:
@@ -151,7 +170,7 @@ Configurable mod for automatic adjustment of lighting, including override values
 ⭐ [**True Lights and Darkness - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47133)\
 Modified version of True Lights and Darkness that reverts some of TLAD's more radical color changes, removes the flicker effect from most lights, plus a few other changes.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Full Mod
   * [x] 02 MWSE TLAD Lights
 * Double click the mod in MO2 and go to the Optional ESPs tab: Under "available ESPs" have only:
@@ -163,7 +182,7 @@ MWSE-Lua 3D clouds and mist.
 [**Crystal Soul Gems**](https://www.nexusmods.com/morrowind/mods/48300)\
  Adds transparency, glowing effect and reflection to soul gems.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 - Data Files
 
 📃 [**Fallen Ash**](https://www.nexusmods.com/morrowind/mods/48711) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
@@ -172,7 +191,7 @@ MWSE-Lua 3D clouds and mist.
 [**Keg Drip**](https://www.nexusmods.com/morrowind/mods/47903) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 This mod uses a previously unused keg droplet texture from the game files to add a new effect to select kegstands in the game.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 MWSE Version
 
@@ -184,11 +203,11 @@ This mod uses a previously unused keg droplet texture from the game files to add
 ⭐📃 [**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636)\
 Weather overhaul with randomised cloud textures, more dynamic weathers, weather changes in interiors, seasonal weather chances, daytime hours changing with latitude and season, varied rain/snow density, dynamic cloud speeds, and more.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Lua core
   * [x] 01 Textures 1k
   * [x] 02 Weather Adjuster config
-  * [x] 03 Rain mesh replacer - regular
+  * [x] 03 Rain mesh replacer - natural
   * [x] 04 Weather particles replacer
 
 ⭐📃 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)\
@@ -219,7 +238,7 @@ A high resolution night sky replacer.
 [**Nords Shut Your Windows**](https://www.nexusmods.com/morrowind/mods/50087)\
 Adds wooden shutters to Nord windows (like those in the vanilla game), which open in the day and stay closed at night.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 03 Vanilla style sunrays\
     Adds interior sunrays. Windows use the original vanilla stones.
@@ -245,7 +264,7 @@ Forwards Patch for Purists fixes to the plugin.
 [**Imperial Steel Cuirass Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)\
 Adds the missing belt to the male Imperial Steel Cuirass.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Male Belt
 
 [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281)\
@@ -272,7 +291,7 @@ Adds several changes to the Tribunal cuirass replacers to make them more consist
 ⭐ [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957)\
 Makes road signs legible. Uses high resolution vanilla-friendly textures.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Meshes
   * [x] 01 Textures - High Resolution
   * [x] 02 ESP - Vvardenfell, Morrowind, and Cyrodiil
@@ -280,20 +299,29 @@ Makes road signs legible. Uses high resolution vanilla-friendly textures.
 [**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100)\
 Replaces all the bookcovers, bookpages and scrolls.
 
-{% hint style="info" %}
-Note that this mod contains lore-unfriendly textures for the books' pages. You can easily hide these textures, named `Tx\_book\_pages\_`.
-{% endhint %}
+* After installation, in MO2, go to **Filetree**:
+* `Textures\Tx_book_pages_01.dds` -> right click: **Hide**.
+* `Textures\Tx_book_pages_02.dds` -> right click: **Hide**.
+* `Textures\Tx_book_pages_03.dds` -> right click: **Hide**.
+* `Textures\Tx_book_pages_04.dds` -> right click: **Hide**.
+* `Textures\Tx_book_pages_05.dds` -> right click: **Hide**.
+* `Textures\Tx_book_pages_06.dds` -> right click: **Hide**.
+* `Textures\Tx_book_pages_07.dds` -> right click: **Hide**.
+* `Textures\Tx_book_pages_08.dds` -> right click: **Hide**.
+* `Textures\Tx_book_pages_09.dds` -> right click: **Hide**.
+* `Textures\Tx_book_pages_10.dds` -> right click: **Hide**.
+* `Textures\Tx_book_pages_11.dds` -> right click: **Hide**.
 
 [**Melchior's Magnificent Manuscripts**](https://www.nexusmods.com/morrowind/mods/45626)\
 Model replacer for book and scroll models.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
 
 📃 [**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680)\
 Lets you open or close any book or scroll in the game.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Closed Book Icons
   * [x] 03 Melchior's Magnificent Manuscripts
@@ -310,13 +338,13 @@ Upscaled **Simple Golden Gold** textures.
 [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383/)\
 Replaces the standard wooden chests in Nordic Tombs with a unique model, because the original looked horribly out of place.
 
-* On MO2 installation, check the following options in the FOMOD installer:
+* On MO2 installation, check the following options in the installer:
   * [x] Patch for Purists Plugin
 
 ⭐ [**Dunmer Lanterns Replacer**](https://www.nexusmods.com/morrowind/mods/43219)\
 This mod replaces all of the Dunmer lanterns (including the paper lanterns and streetlight) from the original game with smoother, more detailed versions (yet not with a ridiculous amount of new polies: they're optimized).
 
-* On BAIN installation, check the following options:
+* On MO2 installation, check the following options:
   * **Glow Effect** -> Yes
   * **OAAB Data** -> Yes
   * **Tamriel Data** > Yes
@@ -326,19 +354,19 @@ This mod replaces all of the Dunmer lanterns (including the paper lanterns and s
 [**OAAB Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236)\
 If you visit a dwemer ruin during a thunderstorm, you'll be greeted by blinding flashes as lightning strikes the steamstack lightning rods from the vanilla game.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 MWSE
 
 [**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237/)\
 Many of the dwemer ruins use unfitting cobblestone textures in their exteriors. This mod replaces the cobblestone textures outside of all Vvardenfell-based dwemer ruins with a new texture. In addition to the texture swap, it also uses a "road edge" mesh which helps blend this new pavement into the ruins and the surrounding landscape.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Core
 
 📃 [**OAAB Scroll Qualities**](https://www.nexusmods.com/morrowind/mods/49045?)\
 Uses the new scroll models in OAAB\_Data to automatically replace the models and icons of the enchanted scrolls in the game based on their value.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 00 Icons
 
 ⭐ [**Velothi Wall Art**](https://www.nexusmods.com/morrowind/mods/46454)\
@@ -360,7 +388,7 @@ Mesh and texture replacer for Tribunal shrines; no more distorted Temple imagery
 [**Qwerty's Various Graphics - Bridgeropes**](https://www.nexusmods.com/morrowind/mods/46026?)\
 Retexture of bridgeropes.
 
-* On MO2 installation, check the following options in the BAIN installer:
+* On MO2 installation, check the following options in the installer:
   * [x] 01 Dark
 
 [**R-Zero's Throbbing Meat - A Corprus Meat Replacer**](https://www.nexusmods.com/morrowind/mods/45339)\
