@@ -80,9 +80,6 @@ New effects and textures for the waterfalls. Includes LOD on the particle effect
   * [x] 00 Core
   * [x] 02 Tamriel Rebuilt Water
 
-⭐ [**Waterfalls Tweaks**](https://www.nexusmods.com/morrowind/mods/46271)\
-Various modifications to waterfalls and water splashes. Born to fit Better Waterfalls mod.
-
 ⭐ [**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 Fixes flickering on lava. Reduces the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
 
@@ -92,9 +89,6 @@ Fixes flickering on lava. Reduces the occurrence of seams found in large lava po
 
 ⭐ [**I Lava Good Intelligent Textures Compatibility Patch - Fix**](https://www.nexusmods.com/morrowind/mods/51521)\
 Compatibility Patch for "I Lava Good Mesh Replacer" by Melchior Dahrk with "Intelligent Textures" by Remiros.
-
-⭐ [**Fireflies**](https://www.nexusmods.com/morrowind/mods/51443) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
-Adds fireflies around the Bitter Coast and the Ascadian Isles
 
 ⭐ [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
 Adds a visual effect to all vanilla flies sound emitters.
@@ -339,6 +333,13 @@ Adds firefly-like insects called glowbugs across the Bitter Coast region which c
   * [x] 00 Core
   * [x] 01 Glowbugs BC
   * [x] 02 Glowbugs AI
+
+<details>	<summary>Alternatives</summary>
+
+⭐ [**Fireflies**](https://www.nexusmods.com/morrowind/mods/51443) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
+Adds fireflies around the Bitter Coast and the Ascadian Isles
+
+</details>
 
 ⭐ [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout region which appears during the night and certain weather conditions. It will burn off in the morning sun.
