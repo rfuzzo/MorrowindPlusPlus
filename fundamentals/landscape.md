@@ -650,13 +650,6 @@ Adds some unique, Telvanni style light sources to various Telvanni settlements
  [**The Manifold Spires**](https://www.nexusmods.com/morrowind/mods/46128) by [PhDinSorcery](https://www.nexusmods.com/morrowind/users/8404526)\
  A mod that adds the Manifold Spires, a new landmass, and an associated quest.
 
- [**Lyithdonea**](https://www.nexusmods.com/morrowind/mods/43749) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
- Lyithdonea: The Azurian Isles is a landmass mod for Morrowind featuring a tropical paradise between Tamriel and Akavir. The mod has a strong influence from the Daedric Lord Azura with dusk and dawn themes and Azura being the focus of religion in the region. Explore a detailed new landmass, discover strange creatures, battle pirates, immerse in the
-
-{% hint style="info" %}
-[**Development Version can be found on github**](https://github.com/MelchiorDahrk/Lyithdonea) Download the files, zip them and install with MO2 to get a installer.
-{% endhint %}
-
 [**Anna-Sera**](https://www.nexusmods.com/morrowind/mods/51343)\
  Anna-Sera is a ship located in the Sheogorad region. On board you will meet Sugar-Scales and his partner in crime, Zan'si.
 
