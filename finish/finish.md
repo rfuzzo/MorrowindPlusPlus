@@ -18,15 +18,18 @@ If you just installed this modlist or ar updating it you need to always run the 
 
 ## 03 Cleaning plugins
 
-For general dirty records, we use **Wrye Mash**, automatically cleaning them.
-
 * Run Wrye Mash (**mash64**) in Mod Organizer 2.
-* In the **Mods** tab, CTRL+left click on the plugin you want to clean.
+* In the **Mods** tab, select one or more plugins to clean.
 * With the plugin selected, right-click and click **Clean with tes3cmd**.
 * After the process is over, close the window.
 
 {% hint style="warning" %}
-Clean all mods except for **Beautiful Cities of Morrowind** (or the vanilla .esm files).
+Clean all mods except for the following:
+
+* **the vanilla .esm files**
+* **Beautiful Cities of Morrowind**
+* **Fixes for Purists**
+
 {% endhint %}
 
 ## 04 Synchronizing mod masters
@@ -49,6 +52,7 @@ For record conflicts, we use **TES3Merge**, generating a **Merged Objects.esp** 
 
 ## 06 Updating and repairing saves
 
+* Run Wrye Mash (**mash64**) in Mod Organizer 2.
 * In the **Saves** tab, you will see a list with all your saves. Saves that do not need to be synchronized have a **purple box** next to them. Those that do need to have their masters synchronized will have a box of a different color.
 * Click on the faulty save, and a panel to the right will display the save's masters and plugins. Right click on any of them, and an **Update Masters** window will appear. Click **Yes**.
 * Should you have uninstalled plugins in an on-going save, an **Update Masters** window will appear telling you some masters were automatically deselected (as they are no longer present in your load order). Read the description on the box, as it tells you how to proceed if this isn't what you expected to happen. Otherwise, click **OK**.
