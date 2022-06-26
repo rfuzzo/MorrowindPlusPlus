@@ -1,24 +1,10 @@
 # Finishing
 
-## Running the game for the first time
-
-### Mod Config Menu
-
-In the **Mod Config Menu**, I recommend these options:
-
-**Improved Vanilla Levelling:** DISABLE Retroactive Health Calculation
-**Map and Compass:** Optionally select map
-**PvP:** Increase attack frequency of enemies -> No
-
-### Settings
-
-**Character Sound Overhaul:** The author recommends you set the Footsteps volume to minimum in your in-game audio settings.
-
-## 01 Updates
-
 {% hint style="info" %}
 If you just installed this modlist or ar updating it you need to always run the following steps in this order:
 {% endhint %}
+
+## 01 Updates
 
 * Run **MWSE-Update** from your game folder.
 
@@ -30,13 +16,7 @@ If you just installed this modlist or ar updating it you need to always run the 
 * Click **Update Load Order**
 * Close the Window.
 
-## 03 Wrye Mash
-
-{% hint style="info" %}
-**This section is based on:** Sigourn @ [https://github.com/Sigourn/nerevarrising/blob/master/main.md](https://github.com/Sigourn/nerevarrising/blob/master/main.md)
-{% endhint %}
-
-### Cleaning plugins
+## 03 Cleaning plugins
 
 For general dirty records, we use **Wrye Mash**, automatically cleaning them.
 
@@ -46,10 +26,10 @@ For general dirty records, we use **Wrye Mash**, automatically cleaning them.
 * After the process is over, close the window.
 
 {% hint style="warning" %}
-Do not clean **Beautiful Cities of Morrowind**. It will create a broken esp.
+Clean all mods except for **Beautiful Cities of Morrowind** (or the vanilla .esm files).
 {% endhint %}
 
-### Synchronizing mod masters
+## 04 Synchronizing mod masters
 
 * Run Wrye Mash (**mash64**) in Mod Organizer 2.
 * In the **Mods** tab, you will see a list with all your plugins, both active and inactive. Plugins that do not need to have their masters synchronized have a green box next to them. Those that do need to have their masters synchronized will have a box of a different color.
@@ -57,7 +37,17 @@ Do not clean **Beautiful Cities of Morrowind**. It will create a broken esp.
 * Once the window has closed, click on the **Save** button further below the same panel.
 * Repeat this process for each of the faulty plugins.
 
-### Updating and repairing saves
+## 05 TES3Merge
+
+{% hint style="info" %}
+For record conflicts, we use **TES3Merge**, generating a **Merged Objects.esp** file which we will also place at the end of our load order.
+{% endhint %}
+
+* Run TES3Merge in Mod Organizer 2.
+* The tool will generate a Merged Objects.esp, solving conflicts in your load order.
+* Activate **Merged Objects.esp** at the end of your load order.
+
+## 06 Updating and repairing saves
 
 * In the **Saves** tab, you will see a list with all your saves. Saves that do not need to be synchronized have a **purple box** next to them. Those that do need to have their masters synchronized will have a box of a different color.
 * Click on the faulty save, and a panel to the right will display the save's masters and plugins. Right click on any of them, and an **Update Masters** window will appear. Click **Yes**.
@@ -70,17 +60,7 @@ The next step is to repair our updated save.
 * Right click on the save updated in the previous step, and click on **Repair All**. Wrye Mash will repair your save file.
 * You will get a message window with two possible outcomes: your save has been repaired by Wrye Mash, or Wrye Mash will tell you no problems where found. Close the window.
 
-## 04 TES3Merge
-
-{% hint style="info" %}
-For record conflicts, we use **TES3Merge**, generating a **Merged Objects.esp** file which we will also place at the end of our load order.
-{% endhint %}
-
-* Run TES3Merge in Mod Organizer 2.
-* The tool will generate a Merged Objects.esp, solving conflicts in your load order.
-* Activate **Merged Objects.esp** at the end of your load order.
-
-## 05 MGXE
+## 07 MGXE
 
 {% hint style="info" %}
 Recreate Distant Land
@@ -93,6 +73,18 @@ Recreate Distant Land
 * Click **Run above steps using saved / default settings**.
 * Click **Finish** when the process is over.
 
-## 06 Run the game
+## 08 Run the game
 
 * Run the game through MO2
+
+### Mod Config Menu
+
+In the **Mod Config Menu**, I recommend these options:
+
+**Improved Vanilla Levelling:** DISABLE Retroactive Health Calculation
+**Map and Compass:** Optionally select map
+**PvP:** Increase attack frequency of enemies -> No
+
+### Settings
+
+**Character Sound Overhaul:** The author recommends you set the Footsteps volume to minimum in your in-game audio settings.
