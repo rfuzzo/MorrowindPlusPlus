@@ -75,8 +75,11 @@ Unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition t
 Fixes many issues present in Bethesda's original Official Plugins.
 
 * On MO2 installation, check the following options:
-  * **Merged or Individual** -> UMOPP Merged
-  * **Compatibility Version** -> Yes
+  * **Merged or Individual** -> UMOPP Individual
+  * **Individual Plugins** ->
+    * [x] Bitter Coast Sounds
+    * [x] Entertainers
+    * [x] LeFemm Armor
   * **Install Better Armor Compatibility** > No
   
 ⭐ [**Bethesda Official Plugins Naturalized**](https://www.nexusmods.com/morrowind/mods/51107) by [PikachunoTM](https://www.nexusmods.com/morrowind/users/16269634)\
