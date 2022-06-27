@@ -27,26 +27,13 @@ Rebalances Bloodmoon as if it shipped with Morrowind. Intended to be used with B
 ⭐ [**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913)\
 This mod overhauls the Main Quest.
 
-⭐ [**LDM - Choices and Consequences**](https://github.com/Lucevar/ldm) by [Lucevar](https://www.nexusmods.com/morrowind/users/3099525)\
-Lucevar's Dialogue Mod for Morrowind
-
-* Files to download:
-  * **01 Choices and Consequences** (Github)
-* Zip the files in the Folder  **01 Choices and Consequences** and install with MO2. (Ctrl+M)
-
 ## Fixes
 
 ⭐ [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410)\
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
-⭐ [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107)\
-Restores and expands the implied mechanic of Hospitality Papers required to conduct trade in Sadrith Mora.
-
-⭐ [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569)\
-Improves idle dialogue filtering so that not all Dunmer refer to themselves as slavers, and not all Argonians refer to themselves as slaves.
-
-⭐ [**LDM - Racist Service Refusal**](https://www.nexusmods.com/morrowind/mods/50870)\
-Camonna Tong NPCs will now refuse to provide services to Argonians and Khajiit unless at a very high disposition.
+⭐ [**Dual Faction Membership for NPCs**](https://www.nexusmods.com/morrowind/mods/49885)\
+NPCs that actually belong to two factions will reflect this in their dialogue.
 
 ⭐ [**Nerevarine Service Refusal**](https://www.nexusmods.com/morrowind/mods/49528)\
 Adds extra service refusal dialogue once you progress further into the main quest. Any member of the Tribunal Temple and House Redoran will refuse to offer you their services as long as the persecution of the Nerevarine is still going on, or in the case of the Redoran, until you become their Hortator.
@@ -61,20 +48,23 @@ Factions will refuse services to the player depending on their faction affiliati
 * Files to install:
   * **Service Requirements Revised** (Update files)
 
-⭐ [**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232?)\
-Prevents the player from renting a bed if diseased, be it common, blight, or corprus disease.
-
-⭐ [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)\
-Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
-
 ⭐ [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063)\
 Replaces the three standard No Lore greetings with over sixty new ones, adding variety to dialogue.
 
 ⭐ [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066)\
 Greetings regarding clothes are limited to clothiers, nobles and snooty High Elves.
 
-⭐ [**Dual Faction Membership for NPCs**](https://www.nexusmods.com/morrowind/mods/49885)\
-NPCs that actually belong to two factions will reflect this in their dialogue.
+⭐ [**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232?)\
+Prevents the player from renting a bed if diseased, be it common, blight, or corprus disease.
+
+⭐ [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by [PoodleSandwich2](https://www.nexusmods.com/morrowind/users/45710542)\
+Restores and expands the implied mechanic of Hospitality Papers required to conduct trade in Sadrith Mora.
+
+⭐ [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569) by [PoodleSandwich2](https://www.nexusmods.com/morrowind/users/45710542)\
+Improves idle dialogue filtering so that not all Dunmer refer to themselves as slavers, and not all Argonians refer to themselves as slaves.
+
+⭐ [**FMI - Caius Big Package**](https://www.nexusmods.com/morrowind/mods/47580) by [PoodleSandwich2](https://www.nexusmods.com/morrowind/users/45710542)\
+Give Caius Cosades a package worthy of the Grand Spymaster of Vvardenfell.
 
 ## Main Quest
 
@@ -145,12 +135,33 @@ This mod is a complete overhaul of the Imperial Legion faction. New quests, item
 ⭐ [**Morag Tong Polished**](https://www.nexusmods.com/morrowind/mods/47041)\
 The Morag Tong Guild is the most poorly written faction in Morrowind. This mod fixes that by giving the guild a much needed touch up.
 
+## Misc
+
+⭐ [**LDM - Racist Service Refusal**](https://www.nexusmods.com/morrowind/mods/50870)\
+Camonna Tong NPCs will now refuse to provide services to Argonians and Khajiit unless at a very high disposition.
+
+⭐ [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)\
+Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
+
+⭐ [**LDM - Choices and Consequences**](https://github.com/Lucevar/ldm) by [Lucevar](https://www.nexusmods.com/morrowind/users/3099525)\
+Lucevar's Dialogue Mod for Morrowind
+
+* Files to download:
+  * **01 Choices and Consequences** (Github)
+* Zip the files in the Folder  **01 Choices and Consequences** and install with MO2. (Ctrl+M)
+
+[**Choice and Consequence - Rogues of Pelagiad**](https://www.nexusmods.com/morrowind/mods/51182)\
+This mod adds several new options and tweaks for dealing with the two rogues at Pelagiad's Halfway Tavern.
+
+[**Choice and Consequence - Shady Orcs of Caldera**](https://www.nexusmods.com/morrowind/mods/51445)\
+This mod adds several new options and tweaks for dealing with Bugrol gro-Bagul and Bashuk gra-Bat.
+
+[**Choice and Consequence - Other Friend in Deed**](https://www.nexusmods.com/morrowind/mods/51541)\
+This mod adds several new options and tweaks for the "A Friend in Deed" quest in Vivec.
+
 ## Add-ons
 
-[**Even More Mysterious Killings in Vivec**](https://www.nexusmods.com/morrowind/mods/49661)\
-The Mysterious Killings in Vivec quest now has a new reward and some more flavour for the murderer.
-
-[**BDC-Seyda Neen**](https://www.nexusmods.com/morrowind/mods/51133) by [Enclavekiller1](https://www.nexusmods.com/morrowind/users/20927579)\
+⭐ [**BDC-Seyda Neen**](https://www.nexusmods.com/morrowind/mods/51133) by [Enclavekiller1](https://www.nexusmods.com/morrowind/users/20927579)\
 Better Dialogue-Choices is a quest overhaul project focused on implementing rpg elements in dialogue while extending quests by giving the player multiple ways to complete them. This mod overhauls all Seyda Neen side quests.
 
 * Files to install:
@@ -159,8 +170,11 @@ Better Dialogue-Choices is a quest overhaul project focused on implementing rpg 
   * **BDC-SN and Census and Excise Faction Compatibility** (Optional files)
   * **BDC-SN and LDM-Choices and Consequences Compatibility** (Optional files)
 
-[**Census and Excise Office Faction**](https://www.nexusmods.com/morrowind/mods/46798) by [AliceL93](https://www.nexusmods.com/morrowind/users/4709296)\
+⭐ [**Census and Excise Office Faction**](https://www.nexusmods.com/morrowind/mods/46798) by [AliceL93](https://www.nexusmods.com/morrowind/users/4709296)\
  This mod gives you the opportunity to join the Census and Excise Office and do quests for them.
+
+⭐ [**Even More Mysterious Killings in Vivec**](https://www.nexusmods.com/morrowind/mods/49661)\
+The Mysterious Killings in Vivec quest now has a new reward and some more flavour for the murderer.
 
 [**A Conjurer's Calling**](https://www.nexusmods.com/morrowind/mods/51070)\
 Follow a short questline to discover the nature of a recluse conjurer's mysterious research and gain magical rewards. Start by stumbling into in his lair on an island in the Azura's Coast region, north of the Grazelands.
