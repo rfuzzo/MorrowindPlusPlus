@@ -2,17 +2,14 @@
 
 ## SFX
 
-⭐ [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767)\
-Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
+⭐ [**FMBP - Michael Michael Michael**](https://www.nexusmods.com/morrowind/mods/48598) by [PoodleSandwich2](https://www.nexusmods.com/morrowind/users/45710542)\
+Fixes Michael Mack's misreadings of the word "Dunmer".
+
+⭐ [**FMBP - Greet Service**](https://www.nexusmods.com/morrowind/mods/50937) by [PoodleSandwich2](https://www.nexusmods.com/morrowind/users/45710542)\
+Makes it so service NPCs will greet you appropriatly.
 
 ⭐ [Idle Talk](https://www.nexusmods.com/morrowind/mods/46948)\
 Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
-
-[**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232)\
-Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
-
-⭐ [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588)\
-Reduces the frequency of idle Cliff Racer screeches.
 
 ⭐📃 [**AURA**](https://www.nexusmods.com/morrowind/mods/48255)\
 Customizable sound overhaul which adds ambient sounds, interior weather, extended voices, and more.
@@ -25,6 +22,25 @@ Customizable sound overhaul which adds ambient sounds, interior weather, extende
   * [x] 00 Core
   * [x] 01 Replacer
 
+⭐📃 [**Character Sound Overhaul**](https://www.nexusmods.com/morrowind/mods/49654)\
+Customizable sound overhaul of the movement, combat, and item sounds of Morrowind. Unique, varied terrain-based footstep sounds, armor rattling sounds, new sounds for interacting with items, containers, and more.
+
+{% hint style="info" %}
+The author recommends you set the **Footsteps** volume to minimum in your in-game audio settings.
+{% endhint %}
+
+⭐📃 [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178)\
+The Heart of Lorkhan is still beating. You can hear it even on the surface - assuming you are brave (or foolish) enough to venture beyond the Ghostfence...
+
+⭐ [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068)\
+Outdoor banners now play sound alongside their animations. The sound will vary depending on the weather.
+
+[**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232)\
+Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
+
+[**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588)\
+Reduces the frequency of idle Cliff Racer screeches.
+
 [**Quieter Doors and Spells**](https://github.com/rfuzzo/MorrowindPlusPlus/blob/main/assets/Quieter%20Doors%20and%20Spells.7z)\
 Reduces the volume of doors and spells. Mod by **Sigourn**.
 
@@ -32,15 +48,8 @@ Reduces the volume of doors and spells. Mod by **Sigourn**.
 [**External Link**](https://github.com/rfuzzo/MorrowindPlusPlus/raw/main/assets/Quieter%20Doors%20and%20Spells.7z) to the download.
 {% endhint %}
 
-⭐ [**Spell Sounds Enhanced**](https://www.nexusmods.com/morrowind/mods/46338)\
+[**Spell Sounds Enhanced**](https://www.nexusmods.com/morrowind/mods/46338)\
 Vanilla-friendly replacer of each vanilla spell sound.
-
-⭐📃 [**Character Sound Overhaul**](https://www.nexusmods.com/morrowind/mods/49654)\
-Customizable sound overhaul of the movement, combat, and item sounds of Morrowind. Unique, varied terrain-based footstep sounds, armor rattling sounds, new sounds for interacting with items, containers, and more.
-
-{% hint style="info" %}
-The author recommends you set the **Footsteps** volume to minimum in your in-game audio settings.
-{% endhint %}
 
 📃 [**Distant Thunder**](https://www.nexusmods.com/morrowind/mods/43471)\
 Adds a randomized bit of lead time to thunderclaps after lightning strikes for additional realism.
@@ -63,12 +72,6 @@ Gives Nord barrows their own unique sound. You will hear some deep-voiced chanti
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Fire Sound Replacer
-
-⭐📃 [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178)\
-The Heart of Lorkhan is still beating. You can hear it even on the surface - assuming you are brave (or foolish) enough to venture beyond the Ghostfence...
-
-[**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068)\
-Outdoor banners now play sound alongside their animations. The sound will vary depending on the weather.
 
 📃 [**Sounds of Souls**](https://www.nexusmods.com/morrowind/mods/45657)\
 Soul gems in the world, in the player's inventory, and that the player interacts with will play sounds, corresponding to the creature trapped inside of it. This includes creatures added by mods.
