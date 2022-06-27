@@ -18,7 +18,9 @@ This needs to be installed before BCOM
   * [x] 01 Haalu Council Hall Plaza - Izy Style
   * [x] 02 Riverside - Simple Cluttering
   * [x] 03 Plaza Weather Mechanics (MWSE) - Required
+  * [x] 04 Suran dock epansion&clutter addon
   * [x] 05 White Suran
+  * [x] 08 Expanded Sadrith Mora Dock
 
 ⭐📃 [**Boats**](https://www.nexusmods.com/morrowind/mods/42270) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
  You can travel by boat, ship and river strider in real time, and dismount anywhere in between trip starting and ending points
@@ -106,7 +108,9 @@ Adds a visual effect to all vanilla flies sound emitters.
  Adds falling spores particle effects to the iconic emperor parasol mushrooms.
 
 * On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
+  * Replacers -> none
+  * Do you use Ashfall -> yes
+  * Patches -> [x] OAAB Data
 
 ⭐📃 [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 Adds floating dust to areas where dead are entombed similar to what is seen in Skyrim barrows.
@@ -271,6 +275,9 @@ To align with what the in-game dialogue suggests, the entrance to the Cavern of 
 
 [**Mandas Manor**](https://www.nexusmods.com/morrowind/mods/49911) by [EndoranWest](https://www.nexusmods.com/morrowind/users/44230747)\
  This mod adds in the Mandas family manor, which was mentioned in Delyna Mandas' dialogue but never seen in-game.
+
+[**OAAB Huleen's Hut Overhaul**](https://www.nexusmods.com/morrowind/mods/51458) by [Lucevar](https://www.nexusmods.com/morrowind/users/3099525)\
+OAAB overhaul of Huleen's Hut, now with 100% more destroyed crates. If Listien survives he will now tidy up after the quest, and he will have some extra dialogue.
 
 ## Azura's Coast
 
