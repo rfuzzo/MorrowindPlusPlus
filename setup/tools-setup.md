@@ -93,7 +93,7 @@ Exlusion rules:
 ; Tamriel_Data.esm = false
 VFWE_merged_objects_fix.ESP = false
 BCOM_pathgrid_reset.ESP = false
-BCOM_Suran Expansion.ESP
+BCOM_Suran Expansion.ESP = false
 BCOM_White_Suran.ESP = false
 BCOM_Izi_Hlaalu_plaza.ESP = false
 Interior exterior flag reset.ESP = false
