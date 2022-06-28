@@ -37,6 +37,10 @@ Max Snowflakes=1500
 * The **Morrowind Code Patch** will prompt you to install your patches of choice.
 * Click **Apply chosen patches** when you are finished. Close the application.
 
+{% hint style="info" %}
+Necro has a very detailed explanation of all the MCP options [here.](https://github.com/Necrolesian/morrowind-mod-list/blob/main/list.md#morrowind-code-patch-stable-beta))
+{% endhint %}
+
 Apply all patches **except** (optional, please read through the descriptions and decide for yourself):
 
 * [ ] Beta/Doppler Audio Fix
@@ -111,69 +115,40 @@ The_magic_rock_of_Maar_Gan.esp = false
 * In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **MGE XE**.
 * Click **Run** to run the executable.
 
-### In-game tab
+{% hint style="info" %}
 
-![Screenshot](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/pictures/In-game.png)
+MGE XE Settings are often a subjective matter, these are some great existing guides and you should read through them:
 
-{% hint style="warning" %}
-You may be tempted to enable **High detail actor shadows (buggy)**. As the name says, they are buggy and can be very taxing on your framerate. I don't recommend them.
+* [Necro's settings](https://github.com/Necrolesian/morrowind-mod-list/blob/main/list.md#morrowind-graphics-extender-xe-distant-statics-overrides)
+* [Sigourn's settings](https://github.com/Sigourn/morrowindsharp/blob/master/setup.md#configuring-mge-xe-in-mod-organizer-2)  
+
+Below are screenshots that I use (they are similar to Necro's guide):
+
 {% endhint %}
-
-### Config tab
-
-* Click the **Report max AA and AF** under **Information** to get your graphics card's max antialiasing and anisotropic filtering levels.
 
 ### Graphics tab
 
-![Screenshot](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/pictures/Graphics.png)
-
-Apart from the recommended settings (as seen on the image), there are a couple of options you should look out for.
-
-#### Display
-
-* You should select your resolution and refresh rate.
-* Set your **Antialiasing** and **Anisotropic filtering** settings to the values reported in the **Config** tab.
-* Turn **VSync** on to prevent screen-tearing.
-
-#### Windowed mode
-
-* Most users then to ALT+TAB during gameplay. However, if you want to maximize performance at the cost of stability when ALT+TABbing, you should uncheck this option.
-
-#### Renderer
-
-* Check **Enable shaders**.
-* Higher **Menu UI scaling** settings will scale up the UI. If you are playing on high resolutions (1080p and higher) I recommend starting with values at 1,20.
-* Lower **FPS Limiter** settings will increase the consistency of your framerate. I personally set it to **60**.
-
-**Shader setup...**
-
-* On the **Set active shaders** window, click **Modding >>>**. Double clicking on the **Available shaders** makes them **Active shaders**, meaning the game will run them.
-* For now, set your shader combination as follows.
-
-```text
-SSAO HQ
-Underwater Effects
-Underwater Interior Effects
-Sunshafts
-```
-
-* Click **Save** after setting up your shader chain.
-
-{% hint style="warning" %}
-Note that **Antialiasing**, **Anisotropic filtering**, **VSync**, and **Enable shaders** will all take a heavy toll on your framerate.
-{% endhint %}
+![Screenshot](./../pictures/mge_graphics.png)
 
 ### Distant Land tab
 
-This tab lets you generate distant land, which in other words means you will see beyond the vanilla Morrowind fog. Tweaking these settings to achieve the optimal look can be difficult, and it boils down to personal taste. Distant Land can really hurt your FPS, especially when used alongside shaders, as there's more to post-process.
+This tab lets you generate distant land, which in other words means you will see beyond the vanilla Morrowind fog. Tweaking these settings to achieve the optimal look can be difficult, and it boils down to personal taste.
 
+{% hint style="info" %}
 All options minus **Use Distant Land** and **Distant land generator wizard** are disabled when you get to this tab. We need to generate distant land for these options to become available.
+{% endhint %}
 
 * Click **Distant land generator wizard**.
 * On the **Distant Land Setup Wizard**, click **Select all**. The checked plugins will be used for distant land generation.
 * Click **Continue**. This will open the **Distant Land Generation** window.
 * In the **Land Textures** tab, simply click **Create Land Textures**. By default, the options you should see are 2048 and 1024 texture and normalmap resolution, respectively.
+
+![Screenshot](./../pictures/mge_dl_02.png)
+
 * In the **Land Meshes** tab, select **Ultra High** from the **World mesh detail** dropdown menu. Click **Create Land Meshes**.
+
+![Screenshot](./../pictures/mge_dl_03.png)
+
 * In the **Statics** tab:
   * Set **Minimum Static Size** to 100.
   * Check **Include reflective water in interiors**.
@@ -185,18 +160,20 @@ All options minus **Use Distant Land** and **Distant land generator wizard** are
   * Click **Create Statics**.
 * Once the statics have been created, click **Finish**.
 
+![Screenshot](./../pictures/mge_dl_04.png)
+
 {% hint style="info" %}
 A rule of thumb is to regenerate your distant land any time you install or uninstall mods. Most importantly, the process will be much easier as you only need to click on **Run above steps using saved / default settings** the next time you are on the **Distant Land Generation** window. On your first distant land generation, MGE XE defaults to **Distant Land configuration setup...**.
 {% endhint %}
 
-![Screenshot](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/pictures/Distant_Land.png)
+Now that you are back on the **Distant Land** tab you will see all previously unavailable options are now enabled.
 
-Now that you are back on the **Distant Land** tab you will see all previously unavailable options are now enabled. To get you started, I recommend you copy the settings as shown in the image above. In the future you may want to modify them.
+![Screenshot](./../pictures/mge_distant_land.png)
 
-{% hint style="info" %}
-These draw distance settings will preserve the foggy aesthetic of vanilla Morrowind, which I recommend over the absurd draw distance seen in most modern Morrowind screenshots. If you are aching for a little bit of extra draw distance, I suggest increasing the **Draw Distance** to 5,0, and cranking up the **Above Water Fog** settings to Start 3,0 and End 5,0.
-{% endhint %}
+### In-game tab
 
-{% hint style="warning" %}
-Note that Per-pixel lighting takes a heavy toll on your framerate. You can disable it entirely, or limit it to **Interiors only**.
-{% endhint %}
+![Screenshot](./../pictures/mge_ingame.png)
+
+### Config tab
+
+* Click the **Report max AA and AF** under **Information** to get your graphics card's max antialiasing and anisotropic filtering levels.
