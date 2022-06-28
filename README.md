@@ -8,6 +8,10 @@ This mod relies on [MLOX](setup/tools.md#⭐-mlox-ruleshttpsgithubcommloxmloxrel
 
 Feel free to remove or add additional mods to your liking. I wrote a small guide on how to update your mod load order and plugins [at the end of this guide here](finish/finish.md).
 
+{% hint style="info" %}
+You can run through this mod list by navigating from top to bottom in the left-hand sidebar, starting with [Setup](./setup/setup.md) until [Finish](./finish/finish.md).
+{% endhint %}
+
 ## Philosophy
 
 This mod list is built around some major mod projects related to landscape:

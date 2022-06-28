@@ -1,9 +1,5 @@
 # Setup Tools
 
-{% hint style="info" %}
-**BASED ON:** Sigourn @ [https://github.com/Sigourn/nerevarrising/blob/master/setup.md](https://github.com/Sigourn/nerevarrising/blob/master/setup.md)
-{% endhint %}
-
 This section contains tweaks to the morrowind ini and how to set up the modding tools properly in MO2.
 
 ## Adjusting Morrowind.ini
@@ -66,12 +62,6 @@ Make sure you have mlox installed properly [as described here](./tools.md#⭐-ml
 * Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/MO2/MO_Add_File.png) button and select _Add from file..._.
 * Navigate to your Morrowind **Root** folder (`C:\Games\Morrowind`) and double click `mlox.exe`.
 * Click **Apply**.
-
-<details>   <summary>Screenshot</summary>
-
-![Screenshot](../pictures/MO2_mlox_gui.jpg)
-
-</details>
 
 ### Wrye Mash
 

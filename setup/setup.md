@@ -1,9 +1,5 @@
 # Setup
 
-{% hint style="info" %}
-**BASED ON:** Sigourn @ [https://github.com/Sigourn/nerevarrising/blob/master/setup.md](https://github.com/Sigourn/nerevarrising/blob/master/setup.md)
-{% endhint %}
-
 ## Requirements
 
 * An english copy of the game.
