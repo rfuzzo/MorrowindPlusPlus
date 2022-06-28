@@ -205,6 +205,12 @@ This mod uses a previously unused keg droplet texture from the game files to add
 [**Spells Reforged - purple Shield**](https://www.nexusmods.com/morrowind/mods/50905) by [Kurpulio](https://www.nexusmods.com/morrowind/users/83970208)\
  Replaces Shield spell visual effect.
 
+[**Luminous VFX Atronachs**](https://www.nexusmods.com/morrowind/mods/48291) by [Anumaril21](https://www.nexusmods.com/morrowind/users/60236996)\
+Takes the Atronach models from Rotat's Creature VFX Restoration and adds to them the glow maps from Peterbitt's Luminous Atronachs, thus rendering the mods compatible. Neither mods are required for use.
+
+* Files to install:
+  * **Luminous VFX Atronachs**
+
 ## Weather
 
 ⭐📃 [**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636)\

@@ -177,8 +177,11 @@ Replaces all of the trees in the Ascadian Isles region.
   * [x] 00 - Core Files
   * [x] 05 - GitD - patch
 
-[**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291)\
-Replaces the water in the Palace of Vivec's canals.
+[**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291) by [Anumaril21](https://www.nexusmods.com/morrowind/users/60236996)\
+Replaces the water in the Palace of Vivec's canals using the animation method and textures of Tamriel Rebuilt's water statics. Two versions included, one with the original color and one made more blue.
+
+* Files to install:
+  * **Vivec Palace Water Replacer**
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
@@ -272,12 +275,6 @@ To align with what the in-game dialogue suggests, the entrance to the Cavern of 
 
 [**Valley of the Wind Atmospheric Enhancements**](https://www.nexusmods.com/morrowind/mods/47563) by [Lucevar](https://www.nexusmods.com/morrowind/users/3099525)\
  According to Ashlander dialogue, the Valley of the Wind is rarely travelled because the spirits there are restless. This mod adds haunting sound effects and removes fences from the Valley of the Wind, because really - who would bother to put them there?
-
-[**Mandas Manor**](https://www.nexusmods.com/morrowind/mods/49911) by [EndoranWest](https://www.nexusmods.com/morrowind/users/44230747)\
- This mod adds in the Mandas family manor, which was mentioned in Delyna Mandas' dialogue but never seen in-game.
-
-[**OAAB Huleen's Hut Overhaul**](https://www.nexusmods.com/morrowind/mods/51458) by [Lucevar](https://www.nexusmods.com/morrowind/users/3099525)\
-OAAB overhaul of Huleen's Hut, now with 100% more destroyed crates. If Listien survives he will now tidy up after the quest, and he will have some extra dialogue.
 
 ## Azura's Coast
 
