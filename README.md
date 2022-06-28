@@ -136,3 +136,4 @@ For help with this mod list and many many bug fixes:
 * Thunderstruck sound replacer
 * [Andrano Tomb+Retribution](https://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=122&Itemid=50&-Andrano-Tomb-Retribution)
 * [Animated Morrowind - merged](https://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=39&Itemid=50&-Animated-Morrowind-merged)
+* remove TLAD esp
