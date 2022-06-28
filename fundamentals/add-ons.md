@@ -125,10 +125,11 @@ This is a compilation of mods that does a couple of things:
   * **Vanilla friendly weareables expansion**
 
 * On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 01 Morag Tong Polished Patch
-  * [x] 02 Cephalopod Armor - OAAB Patch
-  * [x] 03 Cepalopod Armor - TR patch
+  * Optional Patches:
+    * [x] Morag Tong Polished Patch
+    * [x] Cephalopod Armor - OAAB Patch
+    * [x] Cepalopod Armor - TR patch
+  * Economy Adjust Edits -> **No**
 
 ⭐📃 [**Unidentified Items**](https://www.nexusmods.com/morrowind/mods/48964)\
 Adds unidentified rings, amulets, belts, robes, pants and shirts to the game, as well as an Identify Service from Enchanters.

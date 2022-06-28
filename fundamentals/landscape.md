@@ -400,8 +400,9 @@ A distraught nephew, a missing uncle, a manor slowly sinking into the swamps of 
 A pluginless replacer for the Grazelands trees inspired by the umbrella thorn acacia species.
 
 * On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 01 OAAB Saplings Patch
+  * Select Add-ons
+    * [x] 📜 Ashfall
+    * [x] OAAB_Data
 
 [**RR Mod Series - Telvanni Lighthouse Tel Vos**](https://www.nexusmods.com/morrowind/mods/42744)\
  This mod adds a Telvanni style Lighthouse not far from Tel Vos and Tel Mora.
@@ -502,12 +503,21 @@ To the west and slightly north of Dagon Fel, you'll find a small cottage along t
 ⭐ [**Mamaea Awakened**](https://www.nexusmods.com/morrowind/mods/46096) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  In vanilla Morrowind, Mamaea is a dull maze of caves with nothing remarkable about them aside from the spine of bone down the center of the cavern network. This mod aims to make Mamaea a more memorable visit for the player.
 
-⭐ [**Of Eggs and Dwarves - Gnisis Eggmine and Bethamez Overhaul**](https://www.nexusmods.com/morrowind/mods/51171)by [seelof](https://www.nexusmods.com/morrowind/users/4139826)\
+⭐ [**Of Eggs and Dwarves - Gnisis Eggmine and Bethamez Overhaul**](https://www.nexusmods.com/morrowind/mods/51171) by [seelof](https://www.nexusmods.com/morrowind/users/4139826)\
 This mod rebuilds and expands the Gnisis Eggmine complex from scratch, which includes the Eggmine, the Lower Eggmine, the Underground Stream, and Bethamez. It also adds a quest, which asks the player to investigate the origins of the tremors that have been plaguing the eggmine ever since the Dwemer ruin was uncovered. Features actual earth quakes!
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 BCOM Patch
+
+⭐ [**Vanilla-friendly West Gash Tree Replacer**](https://www.nexusmods.com/morrowind/mods/44173) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
+A West Gash tree replacer for players who desire a look closer to the vanilla game for the region. 
+
+* On MO2 installation, check the following options in the installer:
+  * Install Options
+    * [x] Pine (Default)
+    * [x] OAAB Saplings
+    * [x] Ashfall trees patch
 
 [**The Island - Aln'Baldrahn**](https://www.nexusmods.com/morrowind/mods/43187) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  This mod adds a beautiful new island to the West Gash Region near Khuul. I actually made this mod as my interior/exterior showcase for the Tamriel Rebuilt project but I spent so much time on it and I liked it so much that I thought I would release it here for others to enjoy.
