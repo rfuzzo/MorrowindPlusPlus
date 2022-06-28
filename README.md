@@ -118,3 +118,21 @@ For help with this mod list and many many bug fixes:
 * Richie Marcus
 * [Sigourn/Lucas9](https://www.nexusmods.com/morrowind/users/14600469)
 * [zertyuiop](https://github.com/rfuzzo/MorrowindPlusPlus/issues/2)
+
+## Candidates
+
+* [Morrowind Animated Hammocks (MAH)](https://www.nexusmods.com/morrowind/mods/49767)
+* [Enlightened Flames](https://www.nexusmods.com/morrowind/mods/48816)
+* [The Blight](https://www.nexusmods.com/morrowind/mods/49504)
+* Voices of Vvardenfell
+* Ambient Town Sounds for Morrowind
+* Tunnel Cough
+* So. You're the Nerevarine.
+* Voice Overhaul
+* Sea of Sound
+* Water Sounds
+* Sound Spell Sound Effect
+* [Thunders & Lightnings v1.3](https://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=8&Itemid=50&-Thunders-Lightnings)
+* Thunderstruck sound replacer
+* [Andrano Tomb+Retribution](https://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=122&Itemid=50&-Andrano-Tomb-Retribution)
+* [Animated Morrowind - merged](https://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=39&Itemid=50&-Animated-Morrowind-merged)
