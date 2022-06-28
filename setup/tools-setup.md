@@ -97,6 +97,7 @@ BCOM_Suran Expansion.ESP = false
 BCOM_White_Suran.ESP = false
 BCOM_Izi_Hlaalu_plaza.ESP = false
 Interior exterior flag reset.ESP = false
+The_magic_rock_of_Maar_Gan.esp = false
 ```
 
 ### MGE XE
