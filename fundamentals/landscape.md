@@ -352,6 +352,27 @@ Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout
   * [x] 00 Core
   * [x] 01 Vanilla Mist Replacer
 
+[**Cawumaloe Manor**](https://mw.modhistory.com/download-44-12735) by *Blue Eagle*\
+Adds an airborne mudball house southeast of Gnaar Mok.
+
+* After installation, in MO2, go to **Filetree**:
+* `Pundaab Playset v1.esp` -> right click: **Hide**.
+
+⭐ [**Graht Morrowind Swamp Trees**](https://www.nexusmods.com/morrowind/mods/49771) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
+Adds enormous trees to the Bitter Coast region to provide a dense canopy overheard and large roots jutting out of the ground below.
+
+* On MO2 installation, check the following options in the installer:
+  * Tree Replacers -> **None**
+  * Mod compatibility
+    * [x] Ashfall
+    * [x] OAAB_Data
+  * Denser Bitter Coast -> No
+    * [ ] Vality's Bitter Coast Patch
+  * Mod Patches
+    * [x] Cawumaloe Manor
+    * [x] Tamriel Rebuilt Sundred Scar Region
+    * [ ] Nevena's Twin Lamps
+
 [**Andrano Ancestral Tomb Remastered**](https://www.nexusmods.com/morrowind/mods/44672)\
  An overhaul for the second main quest and its associated dungeon.
 
@@ -373,13 +394,6 @@ A distraught nephew, a missing uncle, a manor slowly sinking into the swamps of 
 * Files to install:
   * **Expedition to Mzelthuand** (Main files)
   * **Expedition to Mzelthuand - Cleaned Melchior Dahrk** (Optional files)
-
-[**Morrowind Swamp Trees**](https://www.nexusmods.com/morrowind/mods/50151) by [Vegetto88](https://www.nexusmods.com/morrowind/users/4655319)\
- Reworks MD Grath trees in Bitter Coast to make them more vanilla friendly.
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 02 Huge Roots trees variation
 
 [**Seamless abandoned shack**](https://www.nexusmods.com/morrowind/mods/49527) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
  Seamless Abandoned shack built in the exterior cell.
