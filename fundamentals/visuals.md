@@ -1,5 +1,9 @@
 # Visuals
 
+{% hint style="info" %}
+Pure texture replacer mods are generally compatible with everything and can be added or removed mid-playthrough. This mod list is somewhat light on texture mods because I like the vanilla aesthetics of **Intelligent Textures** and that's why this is the baseline and not much else is added. Feel free to install any texture replacer at will.
+{% endhint %}
+
 ## Texture packs
 
 ### Intelligent Textures
@@ -26,15 +30,14 @@ Compatibility patch for Morrowind Enhanced Textures.
 These two big texture packs can be freely swapped mid-game. You can also install both if you want and let one override the other (MET has 209 textures that IT does not cover, and IT has 7 that MET does not)
 {% endhint %}
 
-<details>   <summary>Extended Content</summary>
+<details>   <summary>Alternatives</summary>
 
 [**Morrowind Enhanced Textures**](https://www.nexusmods.com/morrowind/mods/46221)\
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. Also includes reworked meshes from **Facelift**.
 
-[**MET Hofix**](https://github.com/Sigourn/nerevarrising/blob/master/mods/MET%20Hotfix.7z)\
-Hotfix for two textures which lacked mipmaps.
-
-[**External Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/MET%20Hotfix.7z) to the download.
+* Files to install:
+  * **Morrowind Enhanced Textures 5.2** (Main files)
+  * **Patch from 5.1 to 5.2** (Update files)
 
 [**Project Atlas - MET**](https://www.nexusmods.com/morrowind/mods/45399?)\
 Compatibility patch for Morrowind Enhanced Textures.
@@ -125,6 +128,47 @@ Replaces the "plastic wrap" effect around in-game magic items (those equipped by
 ⭐ [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)\
 Makes it so many smoke effects are much more laid back and easier on the eyes.
 
+⭐📃 [**Chameleon**](https://www.nexusmods.com/morrowind/mods/47996)\
+The weid transparency of models (clothes, hair) with alpha channels issue fixed: Your character is not transparent at all.
+
+⭐📃 [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912)\
+Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
+
+⭐ [**True Lights and Darkness - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47133)\
+Modified version of True Lights and Darkness that reverts some of TLAD's more radical color changes, removes the flicker effect from most lights, plus a few other changes.
+
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Full Mod
+  * [x] 02 MWSE TLAD Lights
+
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
+  * [x] `TLAD Daylight - No Vivec Plazas.esp`
+  * [x] `TLAD Daylight.esp`
+  * [x] `TLAD Full - Still - Original Colors.esp`
+  * [x] `TLAD Lights - Logical Flicker - Necro Colors.esp`
+  * [x] `TLAD Lights - Logical Flicker - Original Colors.esp`
+  * [x] `TLAD Lights - Still - Necro Colors.esp`
+  * [x] `TLAD Lights - Still - Original Colors.esp`
+
+⭐📃 [**Vapourmist**](https://www.nexusmods.com/morrowind/mods/50517)\
+MWSE-Lua 3D clouds and mist.
+
+[**Crystal Soul Gems**](https://www.nexusmods.com/morrowind/mods/48300)\
+ Adds transparency, glowing effect and reflection to soul gems.
+
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 - Data Files
+
+⭐📃 [**Fallen Ash**](https://www.nexusmods.com/morrowind/mods/48711) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
+ Dynamically adds ash decals to people, places, things, and probably concepts during ash storms.
+
+[**Keg Drip**](https://www.nexusmods.com/morrowind/mods/47903) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
+This mod uses a previously unused keg droplet texture from the game files to add a new effect to select kegstands in the game.
+
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Core
+  * [x] 01 MWSE Version
+
 📃 [**MWSE Blood Diversity**](https://www.nexusmods.com/morrowind/mods/47913?)\
 Povides high resolution new blood types for the creatures of Morrowind, Tribunal, Bloodmoon, the Official Plugins, and a variety of mods based on real-world and lore considerations.
 
@@ -160,47 +204,6 @@ Texture Name 7=Energy
 
 [**Shield Spells Reforged pt.1. (2022 upg)**](https://www.nexusmods.com/morrowind/mods/50073)\
 Visual overhaul of Elemental Shield spells, with additional on-hit effects.
-
-⭐📃 [**Chameleon**](https://www.nexusmods.com/morrowind/mods/47996)\
-The weid transparency of models (clothes, hair) with alpha channels issue fixed: Your character is not transparent at all.
-
-⭐📃 [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912)\
-Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
-
-⭐ [**True Lights and Darkness - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47133)\
-Modified version of True Lights and Darkness that reverts some of TLAD's more radical color changes, removes the flicker effect from most lights, plus a few other changes.
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Full Mod
-  * [x] 02 MWSE TLAD Lights
-
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
-  * [x] `TLAD Daylight - No Vivec Plazas.esp`
-  * [x] `TLAD Daylight.esp`
-  * [x] `TLAD Full - Still - Original Colors.esp`
-  * [x] `TLAD Lights - Logical Flicker - Necro Colors.esp`
-  * [x] `TLAD Lights - Logical Flicker - Original Colors.esp`
-  * [x] `TLAD Lights - Still - Necro Colors.esp`
-  * [x] `TLAD Lights - Still - Original Colors.esp`
-
-⭐📃 [**Vapourmist**](https://www.nexusmods.com/morrowind/mods/50517)\
-MWSE-Lua 3D clouds and mist.
-
-[**Crystal Soul Gems**](https://www.nexusmods.com/morrowind/mods/48300)\
- Adds transparency, glowing effect and reflection to soul gems.
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 - Data Files
-
-📃 [**Fallen Ash**](https://www.nexusmods.com/morrowind/mods/48711) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
- Dynamically adds ash decals to people, places, things, and probably concepts during ash storms.
-
-[**Keg Drip**](https://www.nexusmods.com/morrowind/mods/47903) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
-This mod uses a previously unused keg droplet texture from the game files to add a new effect to select kegstands in the game.
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 01 MWSE Version
 
 [**Spells Reforged - purple Shield**](https://www.nexusmods.com/morrowind/mods/50905) by [Kurpulio](https://www.nexusmods.com/morrowind/users/83970208)\
  Replaces Shield spell visual effect.
@@ -309,7 +312,54 @@ Makes road signs legible. Uses high resolution vanilla-friendly textures.
   * [x] 01 Textures - High Resolution
   * [x] 02 ESP - Vvardenfell, Morrowind, and Cyrodiil
 
-[**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100)\
+⭐ [**Dunmer Lanterns Replacer**](https://www.nexusmods.com/morrowind/mods/43219)\
+This mod replaces all of the Dunmer lanterns (including the paper lanterns and streetlight) from the original game with smoother, more detailed versions (yet not with a ridiculous amount of new polies: they're optimized).
+
+* On MO2 installation, check the following options:
+  * **Glow Effect** -> Yes
+  * **OAAB Data** -> Yes
+  * **Tamriel Data** > Yes
+  * **Ashlander Lantern Style** > More detailed (Default)
+  * **Ashlander Lantern Textures** > Use my own (Default)
+
+⭐ [**OAAB Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236)\
+If you visit a dwemer ruin during a thunderstorm, you'll be greeted by blinding flashes as lightning strikes the steamstack lightning rods from the vanilla game.
+
+* 📃 On MO2 installation, check the following options in the installer:
+  * [x] 00 MWSE
+
+⭐ [**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237/)\
+Many of the dwemer ruins use unfitting cobblestone textures in their exteriors. This mod replaces the cobblestone textures outside of all Vvardenfell-based dwemer ruins with a new texture. In addition to the texture swap, it also uses a "road edge" mesh which helps blend this new pavement into the ruins and the surrounding landscape.
+
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Core
+
+⭐📃 [**OAAB Scroll Qualities**](https://www.nexusmods.com/morrowind/mods/49045?)\
+Uses the new scroll models in OAAB\_Data to automatically replace the models and icons of the enchanted scrolls in the game based on their value.
+
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Icons
+
+⭐ [**Velothi Wall Art**](https://www.nexusmods.com/morrowind/mods/46454)\
+Adds dunmer concept art around vvardenfell on the velothi buildings and temples in various locations as can be seen in some of bethesda's own concept art for Morrowind. Mostly in vivec city plaza's but also in a few obscure places as well.
+
+⭐ [**One True Faith - Saints and Frescoes Retexture**](https://www.nexusmods.com/morrowind/mods/43810)\
+Retexture for saints, Tribuns and TT-frescoes
+
+* Files to install:
+  * **Saints and Tribunal Frescoes HQ** (Main Files)
+
+⭐ [**Improved Tribunal shrine meshes**](https://www.nexusmods.com/morrowind/mods/46464)\
+Mesh and texture replacer for Tribunal shrines; no more distorted Temple imagery. Included two texture sets and an add-on for Tamriel Rebuilt.
+
+* Files to install:
+  * **Shrines - main file**
+  * **Shrines - TR add-on** (Optional files)
+
+⭐ [**R-Zero's Throbbing Meat - A Corprus Meat Replacer**](https://www.nexusmods.com/morrowind/mods/45339)\
+Replaces corprus meat models with animated, twitching ones ones.
+
+⭐ [**Arukinns Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100)\
 Replaces all the bookcovers, bookpages and scrolls.
 
 * After installation, in MO2, go to **Filetree**:
@@ -354,55 +404,9 @@ Replaces the standard wooden chests in Nordic Tombs with a unique model, because
 * On MO2 installation, check the following options in the installer:
   * [x] Patch for Purists Plugin
 
-⭐ [**Dunmer Lanterns Replacer**](https://www.nexusmods.com/morrowind/mods/43219)\
-This mod replaces all of the Dunmer lanterns (including the paper lanterns and streetlight) from the original game with smoother, more detailed versions (yet not with a ridiculous amount of new polies: they're optimized).
-
-* On MO2 installation, check the following options:
-  * **Glow Effect** -> Yes
-  * **OAAB Data** -> Yes
-  * **Tamriel Data** > Yes
-  * **Ashlander Lantern Style** > More detailed (Default)
-  * **Ashlander Lantern Textures** > Use my own (Default)
-
-[**OAAB Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236)\
-If you visit a dwemer ruin during a thunderstorm, you'll be greeted by blinding flashes as lightning strikes the steamstack lightning rods from the vanilla game.
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 MWSE
-
-[**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237/)\
-Many of the dwemer ruins use unfitting cobblestone textures in their exteriors. This mod replaces the cobblestone textures outside of all Vvardenfell-based dwemer ruins with a new texture. In addition to the texture swap, it also uses a "road edge" mesh which helps blend this new pavement into the ruins and the surrounding landscape.
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-
-📃 [**OAAB Scroll Qualities**](https://www.nexusmods.com/morrowind/mods/49045?)\
-Uses the new scroll models in OAAB\_Data to automatically replace the models and icons of the enchanted scrolls in the game based on their value.
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Icons
-
-⭐ [**Velothi Wall Art**](https://www.nexusmods.com/morrowind/mods/46454)\
-Adds dunmer concept art around vvardenfell on the velothi buildings and temples in various locations as can be seen in some of bethesda's own concept art for Morrowind. Mostly in vivec city plaza's but also in a few obscure places as well.
-
-⭐ [**One True Faith - Saints and Frescoes Retexture**](https://www.nexusmods.com/morrowind/mods/43810)\
-Retexture for saints, Tribuns and TT-frescoes
-
-* Files to install:
-  * **Saints and Tribunal Frescoes HQ** (Main Files)
-
-⭐ [**Improved Tribunal shrine meshes**](https://www.nexusmods.com/morrowind/mods/46464)\
-Mesh and texture replacer for Tribunal shrines; no more distorted Temple imagery. Included two texture sets and an add-on for Tamriel Rebuilt.
-
-* Files to install:
-  * **Shrines - main file**
-  * **Shrines - TR add-on** (Optional files)
-
 [**Qwerty's Various Graphics - Bridgeropes**](https://www.nexusmods.com/morrowind/mods/46026?)\
 Retexture of bridgeropes.
 
 * On MO2 installation, check the following options in the installer:
   * [x] 01 Dark
 
-[**R-Zero's Throbbing Meat - A Corprus Meat Replacer**](https://www.nexusmods.com/morrowind/mods/45339)\
-Replaces corprus meat models with animated, twitching ones ones.
