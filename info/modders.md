@@ -12,6 +12,7 @@ by [Corsair83](https://www.nexusmods.com/morrowind/users/23131859)\
 by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
 by [darkelfguy](https://www.nexusmods.com/morrowind/users/19250)\
 by [DarkKnight040802](https://www.nexusmods.com/morrowind/users/89255633)\
+by [Dragon32](https://www.nexusmods.com/morrowind/users/2553)\
 by [Enclavekiller1](https://www.nexusmods.com/morrowind/users/20927579)\
 by [EndoranWest](https://www.nexusmods.com/morrowind/users/44230747)\
 by [FMZ4](https://www.nexusmods.com/morrowind/users/87930688)\
@@ -49,6 +50,7 @@ by [Remiros(Flash3113)](https://www.nexusmods.com/morrowind/users/899234)\
 by [rfuzzo](https://www.nexusmods.com/morrowind/users/16300749)\
 by [rotat](https://www.nexusmods.com/morrowind/users/40752190)\
 by [Ryuzaki1](https://www.nexusmods.com/morrowind/users/3890785)\
+by [SilentJacket](https://www.nexusmods.com/morrowind/users/7006096)\
 by [seelof](https://www.nexusmods.com/morrowind/users/4139826)\
 by [Sephumbra](https://www.nexusmods.com/morrowind/users/3827919)\
 by [Spammer21](https://www.nexusmods.com/morrowind/users/140139148)\

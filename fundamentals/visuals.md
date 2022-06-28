@@ -409,4 +409,3 @@ Retexture of bridgeropes.
 
 * On MO2 installation, check the following options in the installer:
   * [x] 01 Dark
-

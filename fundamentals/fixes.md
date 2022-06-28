@@ -149,7 +149,7 @@ Corrects thrown projectiles inflicting twice their listed damage, by halving the
 📃 [**Doors Anti Stuck**](https://www.nexusmods.com/morrowind/mods/50931) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
 Avoids actors getting stuck while opening doors.
 
-[**Creature VFX restoration**](https://www.nexusmods.com/morrowind/mods/46194)\
+⭐ [**Creature VFX restoration**](https://www.nexusmods.com/morrowind/mods/46194)\
  Restores visual effects on creatures.
 
 ## Lore Fixes

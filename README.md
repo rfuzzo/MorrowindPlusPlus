@@ -106,9 +106,11 @@ This is the mod list proper - install the mods in order as they appear here. MO2
 
 For help with this mod list and many many bug fixes:
 
-* C19i
-* Pharis
-* PoodleSandwich
+* [C19i/SilentJacket](https://www.nexusmods.com/morrowind/users/7006096)
+* [Dragon32](https://www.nexusmods.com/morrowind/users/2553)
+* [Pharis](https://github.com/PharisMods/pharis-mod-list)
+* [PoodleSandwich2](https://www.nexusmods.com/morrowind/users/45710542)
+* [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)
 * Richie Marcus
-* Sigourn
-* zertyuiop
+* [Sigourn/Lucas9](https://www.nexusmods.com/morrowind/users/14600469)
+* [zertyuiop](https://github.com/rfuzzo/MorrowindPlusPlus/issues/2)
