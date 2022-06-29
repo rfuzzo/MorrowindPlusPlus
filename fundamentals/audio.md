@@ -1,16 +1,5 @@
 # Audio
 
-## SFX
-
-⭐ [**FMBP - Michael Michael Michael**](https://www.nexusmods.com/morrowind/mods/48598) by [PoodleSandwich2](https://www.nexusmods.com/morrowind/users/45710542)\
-Fixes Michael Mack's misreadings of the word "Dunmer".
-
-⭐ [**FMBP - Greet Service**](https://www.nexusmods.com/morrowind/mods/50937) by [PoodleSandwich2](https://www.nexusmods.com/morrowind/users/45710542)\
-Makes it so service NPCs will greet you appropriatly.
-
-⭐ [Idle Talk](https://www.nexusmods.com/morrowind/mods/46948)\
-Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
-
 ⭐📃 [**AURA**](https://www.nexusmods.com/morrowind/mods/48255)\
 Customizable sound overhaul which adds ambient sounds, interior weather, extended voices, and more.
 
@@ -28,6 +17,22 @@ Customizable sound overhaul of the movement, combat, and item sounds of Morrowin
 {% hint style="info" %}
 The author recommends you set the **Footsteps** volume to minimum in your in-game audio settings.
 {% endhint %}
+
+## Voices
+
+⭐ [**FMBP - Michael Michael Michael**](https://www.nexusmods.com/morrowind/mods/48598) by [PoodleSandwich2](https://www.nexusmods.com/morrowind/users/45710542)\
+Fixes Michael Mack's misreadings of the word "Dunmer".
+
+⭐ [**FMBP - Greet Service**](https://www.nexusmods.com/morrowind/mods/50937) by [PoodleSandwich2](https://www.nexusmods.com/morrowind/users/45710542)\
+Makes it so service NPCs will greet you appropriatly.
+
+⭐ [Idle Talk](https://www.nexusmods.com/morrowind/mods/46948)\
+Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
+
+⭐ [Voice Overhaul](https://www.nexusmods.com/morrowind/mods/51215) by [PhoenixRime](https://www.nexusmods.com/morrowind/users/2250219)\
+All dialogues with voice phrases in the game have been re-sorted. Restored many unused lines, increased the variety of audible phrases. Many bugs fixed.
+
+## SFX
 
 ⭐📃 [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178)\
 The Heart of Lorkhan is still beating. You can hear it even on the surface - assuming you are brave (or foolish) enough to venture beyond the Ghostfence...
@@ -51,20 +56,15 @@ Reduces the volume of doors and spells. Mod by **Sigourn**.
 [**Spell Sounds Enhanced**](https://www.nexusmods.com/morrowind/mods/46338)\
 Vanilla-friendly replacer of each vanilla spell sound.
 
-📃 [**Distant Thunder**](https://www.nexusmods.com/morrowind/mods/43471)\
-Adds a randomized bit of lead time to thunderclaps after lightning strikes for additional realism.
+[**Thunders & Lightnings v1.3**](https://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=8&Itemid=50&-Thunders-Lightnings) by *abot*\
+This is my (abot) "atmospheric" version of thunders & lightnings, inspired by
+Jac's Lightning Strike mod.
 
-* Files to install:
-  * **Distant Thunder v1.1 (No Scripts)** (Optional files)
+* On MO2 installation, an installer window will pop up asking you to set a Data Files Directory.
+* Drag the folder `Extras > Data Files > Sound > Fx` to `Data Files > Sound`
+* Right click on `Data Files` and select "Set as < data files > directory".
 
-* After installation, use the **INI Editor** under **Tools** to replace the Thunder Sound IDs of your Morrowind.ini with the following:
-
-```txt
-Thunder Sound ID 0=Distant_Thunder_00
-Thunder Sound ID 1=Distant_Thunder_01
-Thunder Sound ID 2=Distant_Thunder_02
-Thunder Sound ID 3=Distant_Thunder_03
-```
+![Screenshot](../pictures/abot_lighting_01.png)
 
 [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826)\
 Gives Nord barrows their own unique sound. You will hear some deep-voiced chanting and perhaps some drums in the distance if you listen closely enough; hearkening back to ancient battles and burial rites.
@@ -82,6 +82,12 @@ Note that users often forget about installing this mod, leading to questions on 
 
 [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586)\
 Adds entrance bell chimes with sound effects to imperial town tradehouses and taverns.
+
+[**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
+Makes Miner class NPCs cough.
+
+[**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
+With this plugin the player can hear an actual noise when he's under the effects of the Sound magic. Its volume depends on the total magnitude of the effect.
 
 ## Music
 
