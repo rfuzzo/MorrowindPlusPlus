@@ -373,8 +373,8 @@ Adds enormous trees to the Bitter Coast region to provide a dense canopy overhea
     * [x] Tamriel Rebuilt Sundred Scar Region
     * [ ] Nevena's Twin Lamps
 
-[**Andrano Ancestral Tomb Remastered**](https://www.nexusmods.com/morrowind/mods/44672)\
- An overhaul for the second main quest and its associated dungeon.
+[**Andrano Tomb+Retribution**](https://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=122&Itemid=50&-Andrano-Tomb-Retribution) by *abot*\
+Andrano Ancestral Tomb remastered + (the no more available sequel) Andrano retribution merged, some changes (e.g. now compatible with ROHT) for hopefully better compatibility.
 
 [**Samarys Ancestral Tomb Expanded**](https://www.nexusmods.com/morrowind/mods/45612)\
  An ancient burial lies in ruins outside of Seyda Neen – the few who know of the secrets it holds guard them closely, and the tomb lays all but forgotten.

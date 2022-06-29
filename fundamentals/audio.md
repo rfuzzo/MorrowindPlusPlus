@@ -26,10 +26,10 @@ Fixes Michael Mack's misreadings of the word "Dunmer".
 ⭐ [**FMBP - Greet Service**](https://www.nexusmods.com/morrowind/mods/50937) by [PoodleSandwich2](https://www.nexusmods.com/morrowind/users/45710542)\
 Makes it so service NPCs will greet you appropriatly.
 
-⭐ [Idle Talk](https://www.nexusmods.com/morrowind/mods/46948)\
+⭐ [**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948)\
 Adds over 200 new voice entries for NPCs, mostly using edited original voice files.
 
-⭐ [Voice Overhaul](https://www.nexusmods.com/morrowind/mods/51215) by [PhoenixRime](https://www.nexusmods.com/morrowind/users/2250219)\
+⭐ [**Voice Overhaul**](https://www.nexusmods.com/morrowind/mods/51215) by [PhoenixRime](https://www.nexusmods.com/morrowind/users/2250219)\
 All dialogues with voice phrases in the game have been re-sorted. Restored many unused lines, increased the variety of audible phrases. Many bugs fixed.
 
 ## SFX

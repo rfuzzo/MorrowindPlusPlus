@@ -226,7 +226,7 @@ A crafting framework for Morrowind, allowing other mods to register recipes, cra
 ⭐📃 [**Ashfall - A Camping Survival and Needs Mod**](https://www.nexusmods.com/morrowind/mods/49057) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
 A survival mod with hunger, thirst, tiredness, cooking, camping and temperature mechanics, as well as incredible new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack. Additionally implements the possibility of contracting blight diseases while out in a blight storm. A detailed guide for the mod [**can be found here**](https://github.com/jhaakma/ashfall/wiki).
 
-⭐📃 [The Blight](https://www.nexusmods.com/morrowind/mods/49504) by [OperatorJack](https://www.nexusmods.com/morrowind/users/61791411)\
+⭐📃 [**The Blight**](https://www.nexusmods.com/morrowind/mods/49504) by [OperatorJack](https://www.nexusmods.com/morrowind/users/61791411)\
 Significantly expands on how blight diseases work, adding new mechanics, interactions, and visuals.
 
 ⭐ [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\

@@ -119,9 +119,6 @@ For help with this mod list and many many bug fixes:
 * [Sigourn/Lucas9](https://www.nexusmods.com/morrowind/users/14600469)
 * [zertyuiop](https://github.com/rfuzzo/MorrowindPlusPlus/issues/2)
 
-## Candidates
+## TODO (maybe)
 
 * [Morrowind Animated Hammocks (MAH)](https://www.nexusmods.com/morrowind/mods/49767)
-* [Andrano Tomb+Retribution](https://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=122&Itemid=50&-Andrano-Tomb-Retribution)
-* [Animated Morrowind - merged](https://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=39&Itemid=50&-Animated-Morrowind-merged)
-* remove TLAD esp
