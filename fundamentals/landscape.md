@@ -766,6 +766,7 @@ On MO2 installation, it does not matter if you install too many mods, we will go
   * [x] 80 Mamaea Awakened
   * [x] 📃 82 Ashfall interop
   * [x] 83 OAAB Pomegranates patch
+  * [ ] 86 Tel Aruhn Chronicles quest and Yansirramus Overhaul addon
   * [x] 88 Far From Home
 
 * Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
