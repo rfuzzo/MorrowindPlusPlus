@@ -214,6 +214,9 @@ Takes the Atronach models from Rotat's Creature VFX Restoration and adds to them
 * Files to install:
   * **Luminous VFX Atronachs**
 
+📜 [**Enlightened Flames**](https://www.nexusmods.com/morrowind/mods/48816) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
+Replaces the game's particle-based candle flames with new, higher quality and better performance billboard-based ones.
+
 ## Weather
 
 ⭐📃 [**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636)\
