@@ -72,6 +72,7 @@ Gives Nord barrows their own unique sound. You will hear some deep-voiced chanti
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Fire Sound Replacer
+  * [x] 02 SHS Patch
 
 📃 [**Sounds of Souls**](https://www.nexusmods.com/morrowind/mods/45657)\
 Soul gems in the world, in the player's inventory, and that the player interacts with will play sounds, corresponding to the creature trapped inside of it. This includes creatures added by mods.
