@@ -223,11 +223,10 @@ Replaces the game's particle-based candle flames with new, higher quality and be
 Weather overhaul with randomised cloud textures, more dynamic weathers, weather changes in interiors, seasonal weather chances, daytime hours changing with latitude and season, varied rain/snow density, dynamic cloud speeds, and more.
 
 * On MO2 installation, check the following options in the installer:
-  * [x] 00 Lua core
-  * [x] 01 Textures 1k
+  * [x] 00 Core
+  * [x] 01 Clouds Textures 1k
   * [x] 02 Weather Adjuster config
-  * [x] 03 Rain mesh replacer - natural
-  * [x] 04 Weather particles replacer
+  * [x] 03 Weather particles replacer
 
 ⭐📃 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)\
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.

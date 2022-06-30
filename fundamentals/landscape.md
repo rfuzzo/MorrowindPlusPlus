@@ -11,16 +11,38 @@ This needs to be installed before BCOM
  Overhaul of almost every settlement of Morrowind, inspired by concept art and aimed at a vanilla+ feeling.
 
 * Files to install:
-  * **Beautiful Cities of Morrowind - BCOM Core** (Main Files)
+  * **Beautiful Cities of Morrowind - Core** (Main Files)
 
 * On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 01 Haalu Council Hall Plaza - Izy Style
-  * [x] 02 Riverside - Simple Cluttering
-  * [x] 03 Plaza Weather Mechanics (MWSE) - Required
-  * [x] 04 Suran dock epansion&clutter addon
-  * [x] 05 White Suran
-  * [x] 08 Expanded Sadrith Mora Dock
+  * **Installation Options**
+    * OpenME or MGEXE -> **MGEXE** (or OpenMW on OpenMW)
+    * Default Bcom -> **Default BCOM**
+    * Waterfront Options -> **Simple Cluttering** (*personal preference*)
+    * Haalu Council Hall Plaza -> **Izy Style** (*personal preference*)
+    * [ ] Vanilla Style Ghost Fence -> no (*personal preference*)
+    * Suran Options (*personal preference*)
+      * [x] Vanilla Style Ghost Fence
+      * [x] White Suran
+    * [ ] Taller Lighthouse -> no (*personal preference*)
+    * Stav's MGO -> **No**
+    * [ ] Vicec Open Arena -> no (*personal preference*)
+    * Glow in the Dahrk -> **Yes + Atlas**
+    * [x] Expanded Sadrith Mora Dock -> yes (*personal preference*)
+    * [x] Project Atlas -> **yes**
+    * [ ] HD Textures -> No (*personal preference*)
+    * Balmora Bridges with bigger arch -> **No** (*personal preference*)
+    * [ ] RR Statues Patch -> **No**
+  * **Grass Patches**
+    * Remiros Groundcover
+      * [x] Azura's Coast
+      * [ ] Azura's Coast No Sheogorad
+      * [x] Ascadian Isles
+      * [ ] Ashlands + Red Mountain Reborn + Kogoruhn Expanded
+      * [x] Bitter Coast
+      * [ ] Grazelands - Trackless Grazelands
+      * [ ] West Gash - Stonewood pass
+      * [x] West Gash
+  * **Balmora Waterworks Options** -> none
 
 ⭐📃 [**Boats**](https://www.nexusmods.com/morrowind/mods/42270) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
  You can travel by boat, ship and river strider in real time, and dismount anywhere in between trip starting and ending points
@@ -525,7 +547,7 @@ This mod rebuilds and expands the Gnisis Eggmine complex from scratch, which inc
   * [x] 01 BCOM Patch
 
 ⭐ [**Vanilla-friendly West Gash Tree Replacer**](https://www.nexusmods.com/morrowind/mods/44173) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
-A West Gash tree replacer for players who desire a look closer to the vanilla game for the region. 
+A West Gash tree replacer for players who desire a look closer to the vanilla game for the region.
 
 * On MO2 installation, check the following options in the installer:
   * Install Options
@@ -716,77 +738,74 @@ You need to rename the .esp file in this mod! In MO2, double click the mod and g
 Even Seedier Eight Plates is merged into BCOM - no need to install the main file
 {% endhint %}
 
-⭐ [**Beautiful Cities of Morrowind - Grass Patches**](https://www.nexusmods.com/morrowind/mods/49231)\
-Grass modules
-
-* Files to install:
-  * **BCoM - Grass Patches**
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 01 Remiros Groundcover
-
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
-  * [x] `REM_AC_No_Sheogorad.ESP`
-  * [x] `Rem_AL_RMR+Kogoruhn Expanded.esp`
-  * [x] `Rem_GL_Trackless_GL.esp`
-  * [x] `Rem_WG - StoneWood Pass.esp`
-
 ⭐ [**Beautiful Cities of Morrowind - Patches**](https://www.nexusmods.com/morrowind/mods/49231)\
 Patches for various mods
 
 * Files to install:
-  * **BCoM - Patches**
+  * **Beautiful Cities of Morrowind - Patches**
 
 {% hint style="info" %}
 On MO2 installation, it does not matter if you install too many mods, we will go over the individual ESPs later again:
 {% endhint %}
 
 * On MO2 installation, check the following options in the installer:
-  * [x] 01 Patch for Purists Patch
-  * [x] 03 Foyada Mamaea Overhaul
-  * [x] 05 Animated Morrowind
-  * [x] 07 Rise of House Telvanni 2.0
-  * [x] 08 Scrolls of the nine barriers
-  * [x] 10 Concept Art Plantations
-  * [x] 📃 18 Abots Boats - TR - activate both esp
-  * [x] 📃 19 Abot's boats patch for Tomb of the Snow Prince - TR
-  * [x] 📃 20 Abot's gondoliers - activate both esp
-  * [x] 📃 21 Abots Silt Striders - TR
-  * [x] 22 TR_Travels
-  * [x] 24 Skyrim Home of The Nords Patch
-  * [x] 25 Province Cyrodiil Patch
-  * [x] 27 Ebonheart Underworks
-  * [x] 29 Yet Another Guard Diversity - Regular
-  * [x] 30 Morrowind Anticheese
-  * [x] 38 Bounty Hunter Assignments
-  * [x] 39 Ashlander Traders Remastered
-  * [x] 41 Realistic Repair Addon
-  * [x] 42 True Light and Darkness Patch
-  * [x] 48 Velothi Wall Art
-  * [x] 54 Area of effect Arrows
-  * [x] 57 Sload and Slavers
-  * [x] 64 The Publicans
-  * [x] 69 Glass Domes
-  * [x] 73 Store Entrance Chimes
-  * [x] 📃 75 The Sanguine Rose
-  * [x] 79 Main Quest Overhaul
-  * [x] 80 Mamaea Awakened
-  * [x] 📃 82 Ashfall interop
-  * [x] 83 OAAB Pomegranates patch
-  * [ ] 86 Tel Aruhn Chronicles quest and Yansirramus Overhaul addon
-  * [x] 88 Far From Home
-
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
-  * [x] `abotGondoliers_RVP.esp`
-
-⭐ [**Beautiful Cities of Morrowind - Atlas**](https://www.nexusmods.com/morrowind/mods/49231)\
-Pluginless mesh replacers. Included here there's also a vanilla friendly version of the Ghostgate pillars.
-
-* Files to install:
-  * **Beautiful Cities of Morrowind - Project Atlas - GITD - RR statues patches**
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 02 GITD + Atlas
+  * Patches
+    * [x] Patch for Purists
+    * [x] Scrolls of the nine barriers
+    * [x] Concept Art Plantations
+  * OAAB Foyada Mamaea Overhaul -> **OAAB Foyada Mamaea Overhaul**
+  * Main Quest Enhanceers -> **None**
+  * Animated Morrowind -> **Animated Morrowind**
+  * [ ] Improved Inns Expanded -> none
+  * Rise of House Telvanni -> **RoHT 2.0**
+  * NX9 Buyable Houses -> **None**
+  * [ ] Vivec City -> none
+  * Abots Boats -> **Abots Boats TR Version**
+  * Abots Boats for Tomb of the Snow Prince -> **Boats for TOTSP - TR Version**
+  * [x] Abot's Gondoliers -> yes
+  * Abots Silt Striders -> Abots Silt Striders for Tamriel Rebuilt
+  * TR_Travels
+    * [x] TR_Travels
+  * Welcome to the Arena -> **None**
+  * More Patches
+    * [x] Skyrim Home of The Nords
+    * [x] Province Cyrodiil
+    * [x] Ebonheart Underworks
+  * Yet Another Guard Diversity -> **Regular**
+  * Selct all that apply
+    * [x] Morrowind Anticheese
+    * [x] Bounty Hunter Assignments
+    * [x] Ashlander Traders Remastered
+    * [x] Realistic Repair Addon
+    * [x] True Light and Darkness
+  * Apartments of Morrowind -> **None**
+  * Mines and Caverns -> **None**
+  * Suran Underworld -> **None**
+  * Welcome Home -> **None**
+  * Selct all that apply
+    * [x] Velothi Wall Art
+    * [x] Velothi Wall Art Re-Addon
+    * [x] Area of effect Arrows
+    * [x] Sload and Slavers
+    * [x] Sload and Slavers
+  * Unique Banners -> **None**
+  * Starfire -> **None**
+  * Selct all that apply
+    * [x] The Publicans
+    * [x] Glass Domes
+    * [x] Store Entrance Chimes
+  * Travelling Merchants -> **None**
+  * Dura Gra-Bol -> **None**
+  * Balmora Docks -> **None**
+  * Selct all that apply
+    * [x] 📃 75 The Sanguine Rose
+    * [x] Main Quest Overhaul
+    * [x] Mamaea Awakened
+    * [x] 📃 82 Ashfall interop
+    * [x] OAAB Pomegranates
+    * [x] Tel Aruhn Chronicles quest and Yansirramus Overhaul addon
+    * [x] Far From Home
+  * Morrowind Crafting -> **None**
 
 📃 [**Various compatibility patches for HOTV Tomb of the Snow prince Solstheim Overhaul**](https://www.nexusmods.com/morrowind/mods/48422)\
  Various patches, including the White Wolf of Lokken, Wanderes of Solstheim, Children of Morrowind, Thirsk Expanded more....an ongoing project

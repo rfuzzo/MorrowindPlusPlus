@@ -29,10 +29,9 @@
  Vanilla friendly creatures and undeads expansion mod based on some of the great old creatures mods, TR_data and OAAB_Data
 
 * On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 01 Glowing Netch and Netch Betty
-  * [ ] 02 Daedric creatures use bound weapons
-  * [ ] 03 Summons have 0 soul
+  * Glowing Netch -> **Yes**
+  * Daedric creatures use bound weapons -> **No** (personal preference)
+  * Summons have 0 soul -> **No** (personal preference)
 
 ⭐ [**Animated Morrowind**](https://www.nexusmods.com/morrowind/mods/48683) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
 RandomPal's random mods and patches
