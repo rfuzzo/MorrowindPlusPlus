@@ -64,6 +64,17 @@ The next step is to repair our updated save.
 * Right click on the save updated in the previous step, and click on **Repair All**. Wrye Mash will repair your save file.
 * You will get a message window with two possible outcomes: your save has been repaired by Wrye Mash, or Wrye Mash will tell you no problems where found. Close the window.
 
+{% hint style="warning" %}
+If reair all fails, you need to repair two esps:
+
+* Run Wrye Mash (**mash64**) in Mod Organizer 2.
+* In the **Mods** tab, select `BM_S_Inn - (Vanilla Inns - Animated Morrowind).ESP`
+* Right click -> **Repair Refs**
+* In the **Mods** tab, select `Know Thy Ancestors - TR.ESP`
+* Right click -> **Repair Refs**
+
+{% hint style="endhint" %}
+
 ## 07 MGXE
 
 {% hint style="info" %}

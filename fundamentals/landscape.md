@@ -165,6 +165,15 @@ Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family na
   * **Know Thy Ancestors** (Main Files)
   * **Know The Ancestors - Tamriel Rebuilt Addon** (Optional Files)
 
+{% hint style="warning" %}
+After installation
+
+* Run Wrye Mash (**mash64**) in Mod Organizer 2.
+* In the **Mods** tab, select `Know Thy Ancestors - TR.ESP`
+* Right click -> **Repair Refs**
+
+{% hint style="endhint" %}
+
 [**Loot Well Urned**](https://www.nexusmods.com/morrowind/mods/44976)\
  Ancestral Tomb Loot Enhancement Mod
 
@@ -819,6 +828,15 @@ On MO2 installation, it does not matter if you install too many mods, we will go
   * [x] `Grandfather Frost - TOTSP.ESP`
   * [x] `Thirsk Expanded for TOTSP.ESP`
   * [x] `Tomb of snow prince_MW_Chilren_Patch.ESP`
+
+{% hint style="warning" %}
+After installation
+
+* Run Wrye Mash (**mash64**) in Mod Organizer 2.
+* In the **Mods** tab, select `BM_S_Inn - (Vanilla Inns - Animated Morrowind).ESP`
+* Right click -> **Repair Refs**
+
+{% hint style="endhint" %}
 
 ⭐ [**Ashlander Traders - Remastered - BCOM and Wares**](https://www.nexusmods.com/morrowind/mods/48009)
 Brother Juniper's excellent Ashlander Traders mod, edited for compatibility and extra dialogue. Adds Ashlander Traders who will sometimes appear in Balmora, Ald-ruhn, or Suran.
