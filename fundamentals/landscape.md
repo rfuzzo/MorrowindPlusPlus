@@ -729,6 +729,9 @@ This plugin mainly adds to Morrowind (most) peaceful aquatic creatures.
 [**Far From Home**](https://www.nexusmods.com/morrowind/mods/46860)\
 This mod adds a quest to a new and dangerous tomb which brings the player to unexpected places and the player has a chance to acquire a curious new home.
 
+* After installation, in MO2, go to **Filetree**:
+* `Far From Home v1.4.ESP` -> right click: **Hide**.
+
 ## Patches
 
 ⭐ [**Even Seedier Eight Plates - Morag Tong Polished Patch**](https://www.nexusmods.com/morrowind/mods/49236)\
@@ -795,7 +798,6 @@ On MO2 installation, it does not matter if you install too many mods, we will go
     * [x] Velothi Wall Art
     * [x] Velothi Wall Art Re-Addon
     * [x] Area of effect Arrows
-    * [x] Sload and Slavers
     * [x] Sload and Slavers
   * Unique Banners -> **None**
   * Starfire -> **None**
