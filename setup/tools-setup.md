@@ -112,7 +112,7 @@ MGE XE Settings are often a subjective matter, these are some great existing gui
 * [Necro's settings](https://github.com/Necrolesian/morrowind-mod-list/blob/main/list.md#morrowind-graphics-extender-xe-distant-statics-overrides)
 * [Sigourn's settings](https://github.com/Sigourn/morrowindsharp/blob/master/setup.md#configuring-mge-xe-in-mod-organizer-2)  
 
-Below are screenshots that I use (they are similar to Necro's guide):
+Below are screenshots that I use (they are similar to Sigourn's guide):
 
 {% endhint %}
 
