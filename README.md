@@ -126,3 +126,12 @@ For help with this mod list and many many bug fixes:
 * [Balanced Passive Races and Birthsigns](https://www.nexusmods.com/morrowind/mods/47782)
 * [Imperial Altar in Vivec](https://www.nexusmods.com/morrowind/mods/50273)
 * [Smart Heads](https://www.nexusmods.com/morrowind/mods/50098)
+* Ethereal Ghosts
+* Caius Gives You a Cover Story
+* Ashlanders Herd
+* Buoyant Lord Vivec
+* Telvanni Staff for the Telvanni Staff
+* Shrine of Boethiah Expansion
+* Vanity
+* Sepulchral Curses
+* Ancestral Tomb Amulets (MWSE)
