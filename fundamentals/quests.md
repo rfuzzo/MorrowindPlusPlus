@@ -263,11 +263,20 @@ A lore-friendly quest mod based on an in-game book brought to life, with dungeon
 [**Silent Island**](https://www.nexusmods.com/morrowind/mods/50274)\
  This is a horror themed mod, with pirates, Sixth House, and romance. Though this mod plays fairly different, where many tough enemies can be killed by the environment. You can play the mod running and avoiding enemies the entire way, or kill every single one of them.
 
+[**The Rise of the Tribe Unmourned**](https://www.nexusmods.com/morrowind/mods/45165) by [Caeris](https://www.nexusmods.com/morrowind/users/43442372)\
+Dagoth Ur has been defeated, but the continued presence of the Sixth House still poses a threat to Morrowind. A lieutenant of the Tribe Unmourned has come out of the shadows in a sinister plot to resurrect Dagoth Ur.
+
+* Files to install:
+  * **Crown Edition** (Main Files)
+
 [**After the Blight**](https://www.nexusmods.com/morrowind/mods/46099) by [Caeris](https://www.nexusmods.com/morrowind/users/43442372)\
- Are you interested in what House Dagoth was like in the first era, before they became a cult of tentacle monsters and madmen? Have you ever wanted to join them? Then this mod is for you.
+The Sixth House have been defeated and Morrowind is saved. Yet, reports of a group of Ashlanders camped outside of Kogoruhn will lead the Nerevarine into a new story. Restore a fallen house, defeat a new enemy, and recover ancient artifacts.
+
+* Files to install:
+  * **Crown Edition** (Main Files)
 
 [**Camonna Tong**](https://www.nexusmods.com/morrowind/mods/50740) by [Caeris](https://www.nexusmods.com/morrowind/users/43442372)\
- Begin a tale about the largest criminal organization in Morrowind, the Camonna Tong. Vye for power in all influences of society by working together with the likes of Orvas Dren, the Kingpin.
+Begin a tale about the largest criminal organization in Morrowind, the Camonna Tong. Vye for power in all influences of society by working together with the likes of Orvas Dren, the Kingpin.
 
 [**Of Justice and Innocence**](https://www.nexusmods.com/morrowind/mods/34046)\
  In the small village of Dagon Fel there lives a woman by the name of Rinida Honwyer. She claims her poor, sweet innocent brother has been kidnapped by smugglers. This unfortunate outcome is a result of an unlikely series of events and her poor brother's own naivety. Now Rinida fears for her brothers life, sure that these smugglers mean nothing

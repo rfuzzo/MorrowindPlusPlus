@@ -13,6 +13,7 @@ Additions
 - Finding the Erabenimsun Ashlander Camp
 - Disturbing Dreams
 - Better Dwarven Spectres
+- The Rise of the Tribe Unmourned
 
 Removals
 
