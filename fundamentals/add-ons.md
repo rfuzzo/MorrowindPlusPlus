@@ -164,7 +164,7 @@ This mod adds the missing 7th and 8th barrier scrolls, adds a quest to find the 
   * [x] 01 MWSE Flavor Text
 
 [**Ebony Shortsword Challenge**](https://www.nexusmods.com/morrowind/mods/50358)\
- An ebony shortsword is hidden somewhere in the western half of Vvardenfell. Will you be able to find it?
+An ebony shortsword is hidden somewhere in the western half of Vvardenfell. Will you be able to find it?
 
 * Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
   * [x] `Ebony Shortsword Challenge 2.ESP`
@@ -172,4 +172,4 @@ This mod adds the missing 7th and 8th barrier scrolls, adds a quest to find the 
   * [x] `Ebony Shortsword Challenge 4.ESP`
 
 [**Boots of Blazing Speed**](https://www.nexusmods.com/morrowind/mods/49428)\
- A fiery alternative to the Boots of Blinding Speed. They can be found in the locked and trapped bedroom on bottom floor of the Balmora Fighter's Guild.
+A fiery alternative to the Boots of Blinding Speed. They can be found in the locked and trapped bedroom on bottom floor of the Balmora Fighter's Guild.

@@ -82,6 +82,9 @@ Arrows and thrown weapons always do damage when they hit a target, but projectil
 ⭐📃 [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)\
 Modifies critical strike coefficient depending on the weapon you use.
 
+📃 [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862) by [Hrnchamd](https://www.nexusmods.com/morrowind/users/843673)\
+The life of a marksman is one of advantage. Distance, time, initiative. But, when it's all over there is no trace of your work. Wouldn't it be satisfying to see your arrows, bolts and darts sticking into men, mer, tavern doors, and signposts alike? This mod is for you. Place an arrow right between their eyes.
+
 📃 [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890)\
 Introduces a backstabbing mechanic - do more damage when stabbing an enemy from behind (based on Agility/Sneak). NPCs can backstab you as well. Mod Config menu includes option for Short Blades only or all weapons.
 
@@ -275,8 +278,6 @@ Adds a feature-rich sprinting functionality to the game.
 📃 [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783)\
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
 
-
-
 📃 [**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671)\
 The radius of a handheld light will gradually diminish and eventually go out when the light extinguishes.
 
@@ -325,7 +326,7 @@ The shader included in this mod needs to be registered in MGE XE to work as inte
 {% endhint %}
 
 📃 [**Necrocraft - A Comprehensive Necromancy Gameplay And Quests Mod**](https://www.nexusmods.com/morrowind/mods/51211) by [VitruvianGuar](https://www.nexusmods.com/morrowind/users/34081875)\
- Comprehensive modern day implementation of necromancy, using Skill Module, Magicka Expanded and Crafting Framework. Includes game mechanics overhaul, new quests and mysteries to solve, allowing to fully experience being the practicioner of a forbidden art of necromancy.
+Comprehensive modern day implementation of necromancy, using Skill Module, Magicka Expanded and Crafting Framework. Includes game mechanics overhaul, new quests and mysteries to solve, allowing to fully experience being the practicioner of a forbidden art of necromancy.
 
 📃 [**Fence it - MWSE**](https://www.nexusmods.com/morrowind/mods/51329) by [Spammer21](https://www.nexusmods.com/morrowind/users/140139148)\
- Tired of not being able to sell your diamonds to Nalcarya because of that stupid thieves guild quest? Give them to a pawnbroker and he will make them unrecognizable! For a price of course...
+Tired of not being able to sell your diamonds to Nalcarya because of that stupid thieves guild quest? Give them to a pawnbroker and he will make them unrecognizable! For a price of course...

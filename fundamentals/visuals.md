@@ -371,6 +371,16 @@ Replaces all the bookcovers, bookpages and scrolls.
 * `Textures\Tx_book_pages_10.dds` -> right click: **Hide**.
 * `Textures\Tx_book_pages_11.dds` -> right click: **Hide**.
 
+[**Bowled Ingredients**](https://www.nexusmods.com/morrowind/mods/48291) by [Anumaril21](https://www.nexusmods.com/morrowind/users/60236996)\
+Replaces powder, liquid, and other forms of ingredients that might be difficult to manage with meshes that have them placed in simple wooden bowls. In addition, an extra option is included to extend this to Ectoplasm and Muck.
+
+* Files to install:
+  * **Bowled Ingredients**
+
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Core
+  * [x] 01 Optional Ingredients
+
 [**Melchior's Magnificent Manuscripts**](https://www.nexusmods.com/morrowind/mods/45626)\
 Model replacer for book and scroll models.
 

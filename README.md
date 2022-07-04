@@ -111,6 +111,7 @@ This is the mod list proper - install the mods in order as they appear here. MO2
 For help with this mod list and many many bug fixes:
 
 * [C19i/SilentJacket](https://www.nexusmods.com/morrowind/users/7006096)
+* Dennai
 * [Dragon32](https://www.nexusmods.com/morrowind/users/2553)
 * [Pharis](https://github.com/PharisMods/pharis-mod-list)
 * [PoodleSandwich2](https://www.nexusmods.com/morrowind/users/45710542)
