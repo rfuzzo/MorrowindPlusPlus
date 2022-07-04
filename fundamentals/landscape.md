@@ -787,7 +787,6 @@ On MO2 installation, it does not matter if you install too many mods, we will go
   * Selct all that apply
     * [x] Morrowind Anticheese
     * [x] Bounty Hunter Assignments
-    * [x] Ashlander Traders Remastered
     * [x] Realistic Repair Addon
     * [x] True Light and Darkness
   * Apartments of Morrowind -> **None**
