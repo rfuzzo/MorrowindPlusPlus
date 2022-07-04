@@ -28,3 +28,4 @@
 ## Info
 
 * [General Tips](info/general-tips.md)
+* [Changelog](CHANGELOG.md)

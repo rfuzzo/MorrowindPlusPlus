@@ -135,3 +135,7 @@ For help with this mod list and many many bug fixes:
 * Vanity
 * Sepulchral Curses
 * Ancestral Tomb Amulets (MWSE)
+
+## Changelog
+
+See here: [Changelog](CHANGELOG.md)
