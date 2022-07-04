@@ -92,8 +92,15 @@ Replaces the effect seen on magic items in the inventory, allowing easier distin
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Original Blue Color
 
-📜 [**UI Expansion Better Training Icons**](https://www.nexusmods.com/morrowind/mods/51190)by [tewlwolow](https://www.nexusmods.com/morrowind/users/1152341)\
+📜 [**UI Expansion Better Training Icons**](https://www.nexusmods.com/morrowind/mods/51190) by [tewlwolow](https://www.nexusmods.com/morrowind/users/1152341)\
 This mod replaces UI Expansion training menu icons with sharper, cleaner versions.
+
+📜 [**Useful Maps and Guides**](https://www.nexusmods.com/morrowind/mods/51278) by [Lucevar](https://www.nexusmods.com/morrowind/users/3099525)\
+Makes the "Guide to..." scrolls more useful by scripting them to reveal the cities on your world map.
+
+* Files to install:
+  * **Useful Maps and Guides** (Main files)
+  * **TR Addon** (Optional files)
 
 ## HUD
 

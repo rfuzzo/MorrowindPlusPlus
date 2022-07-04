@@ -14,6 +14,7 @@ Additions
 - Disturbing Dreams
 - Better Dwarven Spectres
 - The Rise of the Tribe Unmourned
+- Useful Maps and Guides
 
 Removals
 
