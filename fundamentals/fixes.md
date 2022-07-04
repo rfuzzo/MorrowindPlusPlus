@@ -6,7 +6,7 @@
 Asset repository required for OAAB mods and Nordic Dagon Fel.
 
 * On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
+  * Install Options -> None
 
 ⭐ [**Tamriel\_Data**](https://www.nexusmods.com/morrowind/mods/44537)\
 Asset repository required for Solstheim - Tomb of the Snow Prince and Nordic Dagon Fel.

@@ -1,5 +1,24 @@
 # Landscape and Towns
 
+⭐ [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by [Remiros(Flash3113)](https://www.nexusmods.com/morrowind/users/899234)\
+Adds groundcover to almost all regions.
+
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Core MGE XE
+  * [x] 01b Thicker Grass MGE XE
+  * [x] 03 TR Plugins
+
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
+  * [ ] `Rem_Solstheim.esp`
+
+{% hint style="warning" %}
+After installation, disable all of the mod's plugins in your load order. ⚠️ **Do not hide or delete them**, as they are necessary for the mod to work as intended when generating Distant Land.
+{% hint style="endhint" %}
+
+{% hint style="warning" %}
+Distant Land generation is required to make this mod work as intended. Instructions will be given in the **Re-running Distant Land** section.
+{% endhint %}
+
 ⭐ [**BCOM Rocky West Gash**](https://www.nexusmods.com/morrowind/mods/50565) by [alexpublius](https://www.nexusmods.com/morrowind/users/49943436)\
 This is the maximum compatibility version of Rocky West Gash, especially for players using 'Beautiful Cities of Morrowind'. Now fully compatible with BCOM and all of its patches & replacers.
 
@@ -68,25 +87,6 @@ This needs to be installed before BCOM
   * [x] `abotSiltStriders.esp`
 
 ## Environment
-
-⭐ [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by [Remiros(Flash3113)](https://www.nexusmods.com/morrowind/users/899234)\
-Adds groundcover to almost all regions.
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Core MGE XE
-  * [x] 01b Thicker Grass MGE XE
-  * [x] 03 TR Plugins
-
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
-  * [ ] `Rem_Solstheim.esp`
-
-{% hint style="warning" %}
-After installation, disable all of the mod's plugins in your load order. ⚠️ **Do not hide or delete them**, as they are necessary for the mod to work as intended when generating Distant Land.
-{% hint style="endhint" %}
-
-{% hint style="warning" %}
-Distant Land generation is required to make this mod work as intended. Instructions will be given in the **Re-running Distant Land** section.
-{% endhint %}
 
 ⭐📃 [**Adjustable Landscape Texture Scale**](https://www.nexusmods.com/morrowind/mods/49689) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  This mod allows you to manually increase the scale of the landscape texture to make it look more detailed without the need for hi-res replacers.

@@ -176,6 +176,9 @@ Better Dialogue-Choices is a quest overhaul project focused on implementing rpg 
 ⭐ [**Even More Mysterious Killings in Vivec**](https://www.nexusmods.com/morrowind/mods/49661)\
 The Mysterious Killings in Vivec quest now has a new reward and some more flavour for the murderer.
 
+[**OAAB Brother Junipers Twin Lamps**](https://www.nexusmods.com/morrowind/mods/51424)\
+Update of Brother Juniper's classic quest mod. Join the Twin Lamps and fight against slavery through ~20 new quests. Now with overhauled locations, bug fixes, and extra dialogue and quest choices.
+
 [**A Conjurer's Calling**](https://www.nexusmods.com/morrowind/mods/51070)\
 Follow a short questline to discover the nature of a recluse conjurer's mysterious research and gain magical rewards. Start by stumbling into in his lair on an island in the Azura's Coast region, north of the Grazelands.
 
