@@ -174,15 +174,18 @@ After installation
 
 {% hint style="endhint" %}
 
-[**Loot Well Urned**](https://www.nexusmods.com/morrowind/mods/44976)\
- Ancestral Tomb Loot Enhancement Mod
-
 ⭐ [**Caverns Overhaul - Fixed**](https://www.nexusmods.com/morrowind/mods/48683)\
 RandomPal's random mods and patches
 The original mod has a lot of great ideas but was never finished or fixed. Other mods make Cavern Overhaul an outdated mod anyway, but there's some locations that have not been covered by any other mod.
 
 * Files to install:
   * **Caverns Overhaul - Fixed**
+
+[**Loot Well Urned**](https://www.nexusmods.com/morrowind/mods/44976)\
+ Ancestral Tomb Loot Enhancement Mod
+
+[**Thickle-Lo - The Succulent Hackle-Lo Mod**](https://www.nexusmods.com/morrowind/mods/47502)\
+Hackle-lo leaves are described as "a tasty edible succulent leaf of the Grazelands..." And yet the leaves appear to be flat and not reminiscent of a succulent. This mod edits the plants and ingredients to be thicker. The ingredient is now a single leaf split in half to reveal the tasty flesh inside that locals like to chew after a long day's work.
 
 ## Ascadian Isles
 
@@ -301,11 +304,26 @@ To align with what the in-game dialogue suggests, the entrance to the Cavern of 
 * Files to install:
   * **Cavern of the Incarnate Overhaul** (Main Files)
 
+[**Eye of the Needle**](https://www.nexusmods.com/morrowind/mods/49399)\
+Makes the rock spire over the Cavern of the Incarnate a landmark visible from miles away.
+
+* Files to install:
+  * **EyeOfTheNeedlePearlEdition** (Optional Files)
+
 [**The Beacon of St Rilms**](https://www.nexusmods.com/morrowind/mods/49515)\
  Along the path between Ald-Ruhn and Ghostgate is a place of rest for those walking their pilgrimage, owned and operated by House Redoran as a gift to the people.
 
 [**Valley of the Wind Atmospheric Enhancements**](https://www.nexusmods.com/morrowind/mods/47563) by [Lucevar](https://www.nexusmods.com/morrowind/users/3099525)\
  According to Ashlander dialogue, the Valley of the Wind is rarely travelled because the spirits there are restless. This mod adds haunting sound effects and removes fences from the Valley of the Wind, because really - who would bother to put them there?
+
+[**Valley of the Wind Overhaul**](https://www.nexusmods.com/morrowind/mods/46691) by [Leyawynn](https://www.nexusmods.com/morrowind/users/27841505)\
+Overhauls the Valley of the Wind with massive wind torn cliffs and fallen trees.
+
+[**Finding the Erabenimsun Ashlander Camp**](https://www.nexusmods.com/morrowind/mods/49227) by [Damius](https://www.nexusmods.com/morrowind/users/1729697)\
+Makes the Erabenimsun camp stand out from the rest of the ashlands with some unique rock formations.
+
+* Files to install:
+  * **Finding The Erabenimsun for BCOM** (Optional Files)
 
 ## Azura's Coast
 

@@ -1,5 +1,8 @@
 # Add-ons
 
+⭐📃 [**Disturbing Dreams**](https://www.nexusmods.com/morrowind/mods/51285) by [VitruvianGuar](https://www.nexusmods.com/morrowind/users/34081875)\
+MWSE lua mod changing the mechanics of Sixth House attacking the player during the sleep. 
+
 ## Creatures
 
 ⭐📃 [**The Guar Whisperer**](https://www.nexusmods.com/morrowind/mods/48247) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
@@ -89,6 +92,14 @@ This mod makes all atronachs the same power. As the player levels up, these Daed
 * Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
   * [x] `PR Atronach Rebalance M 1.0.esp`
   * [x] `PR Atronach Rebalance Test.esp`
+
+[**Better Dwarven Spectres - Mer and Maidens Edition**](https://www.nexusmods.com/morrowind/mods/48628) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
+In collaboration with OAAB Leveled Creatures, this mod will add female dwarven spectres to your game and replace the dwarven spectres with BB-style meshes. It also adds dwarven robes as random drops from spectres.
+
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Core
+  * [x] 01 Dwarven Spectres
+  * [x] 01 Dwemer Spectres
 
 ## Items
 

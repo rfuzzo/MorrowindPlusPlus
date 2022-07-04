@@ -123,3 +123,6 @@ For help with this mod list and many many bug fixes:
 ## TODO (maybe)
 
 * [Morrowind Animated Hammocks (MAH)](https://www.nexusmods.com/morrowind/mods/49767)
+* [Balanced Passive Races and Birthsigns](https://www.nexusmods.com/morrowind/mods/47782)
+* [Imperial Altar in Vivec](https://www.nexusmods.com/morrowind/mods/50273)
+* [Smart Heads](https://www.nexusmods.com/morrowind/mods/50098)
