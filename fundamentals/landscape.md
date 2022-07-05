@@ -566,6 +566,10 @@ To the west and slightly north of Dagon Fel, you'll find a small cottage along t
 ⭐ [**Mamaea Awakened**](https://www.nexusmods.com/morrowind/mods/46096) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  In vanilla Morrowind, Mamaea is a dull maze of caves with nothing remarkable about them aside from the spine of bone down the center of the cavern network. This mod aims to make Mamaea a more memorable visit for the player.
 
+{% hint style="info" %}
+[**Pharis' Better BCOM compatible version**](https://github.com/PharisMods/pharis-mod-list/blob/main/mods/Mamaea%20Awakened%20-%20BCOM%20Fixed.7z) to download. Use this one instead the original.
+{% endhint %}
+
 ⭐ [**Of Eggs and Dwarves - Gnisis Eggmine and Bethamez Overhaul**](https://www.nexusmods.com/morrowind/mods/51171) by [seelof](https://www.nexusmods.com/morrowind/users/4139826)\
 This mod rebuilds and expands the Gnisis Eggmine complex from scratch, which includes the Eggmine, the Lower Eggmine, the Underground Stream, and Bethamez. It also adds a quest, which asks the player to investigate the origins of the tremors that have been plaguing the eggmine ever since the Dwemer ruin was uncovered. Features actual earth quakes!
 
