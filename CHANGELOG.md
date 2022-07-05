@@ -78,39 +78,39 @@ Additions
 
 Removals
 
-- Consequences for Looting the Andrano Tomb
-- Thelas' Pillows Overhaul
-- Magicka Based Skill Progression
-- Sload and Slavers
-- Fireflies Invade Vvardenfell
-- Divayth Fyr Puzzle Fixed
-- Correct UV Rocks
-- mtrByTheDivines
-- mtrLineage
-- mtrCultures
-- MWSE Hide the Skooma
-- Ashlander Traders - Remastered
-- Talos Cult Revised - Alice's Version
-- Companion Health Bars MWSE Lua Script
-- Marksman Rebalanced
-- L.A.M.P. ---- Leftover Attribute Modifiers Persist
-- Caldera Mine Expanded
-- Save the Date
-- Glowing Flames
-- Sarandas Family Hearth
-- The Vanilla Quest Tweaks RP Choices
-- FMI - Alice's Package
-- LDM - Balmora Rumour Fix
-- Quarantined Vvardenfell
-- NPC Faction Affiliation Corrector
-- Expansion Delay
-- Sheep-no-More
-- Clothing Requirements
-- Great Service
-- Mandas Manor
-- Morrowind Swamp Trees
-- Distant Thunder
-- Andrano Ancestral Tomb Remastered
+- Consequences for Looting the Andrano Tomb (included in LDM)
+- Thelas' Pillows Overhaul (included in LDM)
+- Magicka Based Skill Progression (added alternative: magickaMastery)
+- Sload and Slavers (included in BCOM)
+- Fireflies Invade Vvardenfell (added alternative: Fireflies/Glowbugs)
+- Divayth Fyr Puzzle Fixed (included in Corprosarium Experience)
+- Correct UV Rocks (included in MOP)
+- mtrByTheDivines (personal preference)
+- mtrLineage (personal preference)
+- mtrCultures (personal preference)
+- MWSE Hide the Skooma (included in buying game)
+- Ashlander Traders - Remastered (included in BCOM)
+- Talos Cult Revised - Alice's Version (included in LDM)
+- Companion Health Bars MWSE Lua Script (added alternative: More Detailed Companion HealthBars MWSE Lua Script)
+- Marksman Rebalanced (added alternative: Realistic Archery)
+- L.A.M.P. ---- Leftover Attribute Modifiers Persist (added alternative)
+- Caldera Mine Expanded (conflicts)
+- Save the Date (personal preference)
+- Glowing Flames (added alternative: Improved Lights for All Shaders)
+- Sarandas Family Hearth (conflict with BCOM)
+- The Vanilla Quest Tweaks RP Choices (included in LDM)
+- FMI - Alice's Package (included in LDM)
+- LDM - Balmora Rumour Fix (included in LDM)
+- Quarantined Vvardenfell (included in LDM)
+- NPC Faction Affiliation Corrector (included in LDM)
+- Expansion Delay (included in LDM)
+- Sheep-no-More (included in AURA)
+- Clothing Requirements (personal preference)
+- Great Service (added alternative: FMBP - Greet Service)
+- Mandas Manor (conflict with BCOM)
+- Morrowind Swamp Trees (added alternative: Graht Morrowind Swamp Trees)
+- Distant Thunder (added alternative: abotThundersLightnings)
+- Andrano Ancestral Tomb Remastered (added alternative: AndranoTomb+Retribution)
 
 ## May 2022
 
@@ -165,4 +165,3 @@ Removals
 - Give or Take
 
 ## April 2022
-
