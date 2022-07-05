@@ -338,3 +338,6 @@ Journey through this quest mod to improve your alteration magic.
 
 📜 [**The Wabbajack**](https://www.nexusmods.com/morrowind/mods/44653)
 Adds the legendary Wabbajack artifact!
+
+[**Hunting Big Tooth (A Quest for Magical Starter Weapons)**](https://www.nexusmods.com/morrowind/mods/51457)
+ In this Mod you meet a Dunmer near Balmora who sends you on a Hunt for Big Tooth. Your reward is a magical starter Weapon of your choice.
