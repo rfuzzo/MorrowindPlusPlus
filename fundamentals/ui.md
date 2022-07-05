@@ -1,5 +1,8 @@
 # UI
 
+⭐📃 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)\
+Expands UI functionality with searching, filtering, and more visual feedback.
+
 ⭐ [**Cantons on the Global Map**](https://www.nexusmods.com/morrowind/mods/50534) by [mwclevername](https://www.nexusmods.com/morrowind/users/102938538)\
 Vivec and Molag Mar no longer look like empty water on the global map.
 
@@ -154,9 +157,6 @@ Adds a clock to the UI that displays either game world time or real time.
 Removes "Diseased", "Blighted", and similar adjectives from creature names using MWSE-lua.
 
 ## Gameplay
-
-⭐📃 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)\
-Expands UI functionality with searching, filtering, and more visual feedback.
 
 ⭐📃 [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036)\
 Fixes gameplay and interface inconsistencies in the alchemy menu, provides it with a built-in effect filter and implements a Skyrim-like system for remembering ingredient effects.
