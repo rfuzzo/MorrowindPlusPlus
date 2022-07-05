@@ -1,5 +1,27 @@
 # Finishing
 
+## Memory Management
+
+The game still struggles with the 32bit memory limit the program has. There are a couple of things you can do to aleviate the issue. And make sure you have the mod **Memory Monitor installed**, it will display when the game is about to crash.
+
+### Ini Tweaks
+There are some ini tweaks you can do to help with memory:
+
+* Click the **Tools** button, and click **INI Editor**. **morrowind.ini** will now open.
+* Use CTRL+F to input the section names and edit the respective entries to use these values.
+
+```text
+Interior Cell Buffer=0
+Exterior Cell Buffer=0
+
+DontThreadLoad=0
+```
+
+### External Programs
+
+* You may configure an exception in your Anti-Virus program for the Morrowind directory
+* Close overlays or programs like RivaTuner Statistics Server before starting Morrowind if you have memory proplems while in game
+
 {% hint style="info" %}
 If you just installed this modlist or ar updating it you need to always run the following steps in this order:
 {% endhint %}

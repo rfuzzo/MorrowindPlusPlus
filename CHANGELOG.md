@@ -15,6 +15,7 @@ Additions
 - Better Dwarven Spectres
 - The Rise of the Tribe Unmourned
 - Useful Maps and Guides
+- Hunting Big Tooth (A Quest for Magical Starter Weapons)
 
 Removals
 
