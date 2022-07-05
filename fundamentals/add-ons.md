@@ -36,16 +36,15 @@ MWSE lua mod changing the mechanics of Sixth House attacking the player during t
   * Daedric creatures use bound weapons -> **No** (personal preference)
   * Summons have 0 soul -> **No** (personal preference)
 
-⭐ [**Animated Morrowind**](https://www.nexusmods.com/morrowind/mods/48683) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
-RandomPal's random mods and patches
-This is Animated Morrowind - merged by Abot, made compatible with my town overhauls and with Lucevar's Even Seedies Eight Plates.
+⭐ [**Animated Morrowind**](https://www.nexusmods.com/morrowind/mods/49231)\
+This is Animated Morrowind - merged by Abot, made compatible with BCOM and with Lucevar's Even Seedies Eight Plates.
 
 * Files to install:
-  * **Animated Morrowind**
+  * **Resources - Animated Morrowind**
 
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 01 Vanilla engine
+{% hint style="info" %}
+This mod doesn't contain the esp file, it will be installed later together with Beautiful Cities of Morrowind.
+{% endhint %}
 
 [**Walkers of Morrowind**](https://www.nexusmods.com/morrowind/mods/49889) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
  Allows npcs in the wilderness who were given an AIWander package to actually wander within their cell.
