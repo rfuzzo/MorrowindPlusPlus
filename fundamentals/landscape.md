@@ -40,7 +40,7 @@ This needs to be installed before BCOM
     * Haalu Council Hall Plaza -> **Izy Style** (*personal preference*)
     * [ ] Vanilla Style Ghost Fence -> no (*personal preference*)
     * Suran Options (*personal preference*)
-      * [x] Vanilla Style Ghost Fence
+      * [x] Suran Dock Expansion
       * [x] White Suran
     * [ ] Taller Lighthouse -> no (*personal preference*)
     * Stav's MGO -> **No**
@@ -51,6 +51,7 @@ This needs to be installed before BCOM
     * [ ] HD Textures -> No (*personal preference*)
     * Balmora Bridges with bigger arch -> **No** (*personal preference*)
     * [ ] RR Statues Patch -> **No**
+  
   * **Grass Patches**
     * Remiros Groundcover
       * [x] Azura's Coast
@@ -61,6 +62,7 @@ This needs to be installed before BCOM
       * [ ] Grazelands - Trackless Grazelands
       * [ ] West Gash - Stonewood pass
       * [x] West Gash
+
   * **Balmora Waterworks Options** -> none
 
 ⭐📃 [**Boats**](https://www.nexusmods.com/morrowind/mods/42270) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
@@ -788,48 +790,39 @@ On MO2 installation, it does not matter if you install too many mods, we will go
     * [x] Scrolls of the nine barriers
     * [x] Concept Art Plantations
   * OAAB Foyada Mamaea Overhaul -> **OAAB Foyada Mamaea Overhaul**
-  * Main Quest Enhanceers -> **None**
   * Animated Morrowind -> **Animated Morrowind**
-  * [ ] Improved Inns Expanded -> none
   * Rise of House Telvanni -> **RoHT 2.0**
-  * NX9 Buyable Houses -> **None**
-  * [ ] Vivec City -> none
+
   * Abots Boats -> **Abots Boats TR Version**
   * Abots Boats for Tomb of the Snow Prince -> **Boats for TOTSP - TR Version**
   * [x] Abot's Gondoliers -> yes
   * Abots Silt Striders -> Abots Silt Striders for Tamriel Rebuilt
   * TR_Travels
     * [x] TR_Travels
-  * Welcome to the Arena -> **None**
   * More Patches
     * [x] Skyrim Home of The Nords
     * [x] Province Cyrodiil
     * [x] Ebonheart Underworks
   * Yet Another Guard Diversity -> **Regular**
-  * Selct all that apply
+
+  * Select all that apply
     * [x] Morrowind Anticheese
     * [x] Bounty Hunter Assignments
     * [x] Realistic Repair Addon
     * [x] True Light and Darkness
-  * Apartments of Morrowind -> **None**
-  * Mines and Caverns -> **None**
-  * Suran Underworld -> **None**
-  * Welcome Home -> **None**
+
   * Selct all that apply
     * [x] Velothi Wall Art
     * [x] Velothi Wall Art Re-Addon
     * [x] Area of effect Arrows
     * [x] Sload and Slavers
-  * Unique Banners -> **None**
-  * Starfire -> **None**
-  * Selct all that apply
+
+  * Select all that apply
     * [x] The Publicans
     * [x] Glass Domes
     * [x] Store Entrance Chimes
-  * Travelling Merchants -> **None**
-  * Dura Gra-Bol -> **None**
-  * Balmora Docks -> **None**
-  * Selct all that apply
+
+  * Select all that apply
     * [x] 📃 75 The Sanguine Rose
     * [x] Main Quest Overhaul
     * [x] Mamaea Awakened
@@ -837,7 +830,6 @@ On MO2 installation, it does not matter if you install too many mods, we will go
     * [x] OAAB Pomegranates
     * [x] Tel Aruhn Chronicles quest and Yansirramus Overhaul addon
     * [x] Far From Home
-  * Morrowind Crafting -> **None**
 
 📃 [**Various compatibility patches for HOTV Tomb of the Snow prince Solstheim Overhaul**](https://www.nexusmods.com/morrowind/mods/48422)\
  Various patches, including the White Wolf of Lokken, Wanderes of Solstheim, Children of Morrowind, Thirsk Expanded more....an ongoing project
