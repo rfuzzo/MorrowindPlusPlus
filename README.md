@@ -122,19 +122,20 @@ For help with this mod list and many many bug fixes:
 
 ## TODO (maybe)
 
-* [Morrowind Animated Hammocks (MAH)](https://www.nexusmods.com/morrowind/mods/49767)
-* [Balanced Passive Races and Birthsigns](https://www.nexusmods.com/morrowind/mods/47782)
-* [Imperial Altar in Vivec](https://www.nexusmods.com/morrowind/mods/50273)
-* [Smart Heads](https://www.nexusmods.com/morrowind/mods/50098)
-* Ethereal Ghosts
-* Caius Gives You a Cover Story
-* Ashlanders Herd
-* Buoyant Lord Vivec
-* Telvanni Staff for the Telvanni Staff
-* Shrine of Boethiah Expansion
-* Vanity
-* Sepulchral Curses
-* Ancestral Tomb Amulets (MWSE)
+* [Morrowind Animated Hammocks (MAH)](https://www.nexusmods.com/morrowind/mods/49767) (too minor?)
+* [Balanced Passive Races and Birthsigns](https://www.nexusmods.com/morrowind/mods/47782) (weird changes?)
+* [Imperial Altar in Vivec](https://www.nexusmods.com/morrowind/mods/50273) (too minor?)
+* [Smart Heads](https://www.nexusmods.com/morrowind/mods/50098) (not sure)
+* Ethereal Ghosts (+1)
+* Caius Gives You a Cover Story (too minor)
+* Ashlanders Herd (too minor? unimmersive?)
+* Buoyant Lord Vivec (comments mention he has no head tracking anymore?)
+* Telvanni Staff for the Telvanni Staff (too minor?)
+* Shrine of Boethiah Expansion (?)
+* Vanity (vanity)
+* Sepulchral Curses (maybe not needed)
+* Ancestral Tomb Amulets (MWSE) (unimmersive?)
+* [**Broadsheets and Notice Boards Redone**](https://www.nexusmods.com/morrowind/mods/50999) (has some edits to caves?)
 
 ## Changelog
 
