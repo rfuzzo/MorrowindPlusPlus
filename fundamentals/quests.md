@@ -269,11 +269,19 @@ Dagoth Ur has been defeated, but the continued presence of the Sixth House still
 * Files to install:
   * **Crown Edition** (Main Files)
 
+{% hint style="warning" %}
+This mod may currently be incompatible with **Beautiful Cities of Morrowind**. But both are such cool mods :(
+{% endhint %}
+
 [**After the Blight**](https://www.nexusmods.com/morrowind/mods/46099) by [Caeris](https://www.nexusmods.com/morrowind/users/43442372)\
 The Sixth House have been defeated and Morrowind is saved. Yet, reports of a group of Ashlanders camped outside of Kogoruhn will lead the Nerevarine into a new story. Restore a fallen house, defeat a new enemy, and recover ancient artifacts.
 
 * Files to install:
   * **Crown Edition** (Main Files)
+
+{% hint style="warning" %}
+This mod may currently be incompatible with **Beautiful Cities of Morrowind**. But both are such cool mods :(
+{% endhint %}
 
 [**Camonna Tong**](https://www.nexusmods.com/morrowind/mods/50740) by [Caeris](https://www.nexusmods.com/morrowind/users/43442372)\
 Begin a tale about the largest criminal organization in Morrowind, the Camonna Tong. Vye for power in all influences of society by working together with the likes of Orvas Dren, the Kingpin.
