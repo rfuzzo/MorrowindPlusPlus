@@ -79,7 +79,7 @@ Make sure you have mlox installed properly [as described here](./tools.md#⭐-ml
 
 Exlusion rules:
 
-* Navigate to `C:\Games\Morrowind` and open `TES3Merge.ini` with some text editor.
+* Navigate to `C:\Games\MorrowindPlusPlus\Tools\TES3Merge\` and open `TES3Merge.ini` with some text editor.
 * Find the section **[FileFilters]** and add the following:
 
 ```txt
