@@ -113,6 +113,7 @@ For help with this mod list and many many bug fixes:
 * [C19i/SilentJacket](https://www.nexusmods.com/morrowind/users/7006096)
 * Dennai
 * [Dragon32](https://www.nexusmods.com/morrowind/users/2553)
+* fray
 * [Pharis](https://github.com/PharisMods/pharis-mod-list)
 * [PoodleSandwich2](https://www.nexusmods.com/morrowind/users/45710542)
 * [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)

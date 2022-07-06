@@ -92,7 +92,7 @@ This mod makes all atronachs the same power. As the player levels up, these Daed
   * [x] `PR Atronach Rebalance M 1.0.esp`
   * [x] `PR Atronach Rebalance Test.esp`
 
-[**Better Dwarven Spectres - Mer and Maidens Edition**](https://www.nexusmods.com/morrowind/mods/48628) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
+[**Better Dwarven Spectres - Mer and Maidens Edition**](https://www.nexusmods.com/morrowind/mods/45617) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 In collaboration with OAAB Leveled Creatures, this mod will add female dwarven spectres to your game and replace the dwarven spectres with BB-style meshes. It also adds dwarven robes as random drops from spectres.
 
 * On MO2 installation, check the following options in the installer:

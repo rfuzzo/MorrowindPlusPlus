@@ -231,6 +231,8 @@ Optimizes the most performance heavy areas of vanilla Morrowind through texture 
 Files to install:
 
 * **Project Atlas** (Main files)
+* **Hotfix**
+  
 * On MO2 installation, check the following options in the installer:
   * [x] 00 BATs
   * [x] 00 Core
@@ -239,8 +241,6 @@ Files to install:
     Compatibility patch for Glow in the Dahrk. Uses compatible meshes.
   * [x] 07 Graphic Herbalism Patch\
     Compatibility patch for Graphic Herbalism. Uses compatible meshes.
-
-  * **Hotfix**
 
 {% hint style="warning" %}
 Note that **Project Atlas** utilizes its own texture sets for its edited meshes, meaning any retexture designed with the vanilla meshes in mind will require a patch for it to work alongside this mod.
