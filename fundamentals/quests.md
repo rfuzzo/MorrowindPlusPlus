@@ -101,9 +101,6 @@ Fleshes out the Imperial Cult and the Tribunal Temple.
 ⭐ [**Imperial Factions**](https://www.nexusmods.com/morrowind/mods/49855)\
 An overhaul of the Mages Guild, Thieves Guild and Fighters Guild.
 
-⭐ [**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859)\
-Expands and redecorates the interiors of the Balmora mages and fighters guild (as well as minor changes to the Temple).
-
 ⭐ [**Fighters Guild Improved**](https://www.nexusmods.com/morrowind/mods/51409)\
 This mod overhauls the Fighters Guild questline by improving the background and narrative side of most of its quests, as well as adding more variety and available choices to them.
 

@@ -19,6 +19,8 @@ Additions
 
 Removals
 
+- Balmora guilds expanded (partially incompatible with BCOM)
+
 ## June 2022
 
 - DXVK
