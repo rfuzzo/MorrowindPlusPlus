@@ -795,11 +795,11 @@ On MO2 installation, it does not matter if you install too many mods, we will go
   * Abots Silt Striders -> Abots Silt Striders for Tamriel Rebuilt
   * TR_Travels
     * [x] TR_Travels
+  * Yet Another Guard Diversity -> **Regular**
   * More Patches
     * [x] Skyrim Home of The Nords
     * [x] Province Cyrodiil
     * [x] Ebonheart Underworks
-  * Yet Another Guard Diversity -> **Regular**
 
   * Select all that apply
     * [x] Morrowind Anticheese
@@ -807,7 +807,7 @@ On MO2 installation, it does not matter if you install too many mods, we will go
     * [x] Realistic Repair Addon
     * [x] True Light and Darkness
 
-  * Selct all that apply
+  * Select all that apply
     * [x] Velothi Wall Art
     * [x] Velothi Wall Art Re-Addon
     * [x] Area of effect Arrows
@@ -819,15 +819,13 @@ On MO2 installation, it does not matter if you install too many mods, we will go
     * [x] Store Entrance Chimes
 
   * Select all that apply
-    * [x] 📃 75 The Sanguine Rose
+    * [x] 📃 The Sanguine Rose
     * [x] Main Quest Overhaul
-    * [x] 📃 82 Ashfall interop
+    * [x] Mamaea Awakened
+    * [x] 📃 Ashfall interop
     * [x] OAAB Pomegranates
     * [x] Tel Aruhn Chronicles quest and Yansirramus Overhaul addon
     * [x] Far From Home
-
-[**Mamaea Awakened - BCOM Fixed**](https://github.com/PharisMods/pharis-mod-list/blob/main/mods/Mamaea%20Awakened%20-%20BCOM%20Fixed.7z)\
-There are a few small issues with the mod that are still present in the BCOM version, a fixed version is provided above that you should use instead of either the BCOM version or the original. Use the edited plugin with the original mod's assets.
 
 {% hint style="info" %}
 [**Pharis' Better BCOM compatible version**](https://github.com/PharisMods/pharis-mod-list/blob/main/mods/Mamaea%20Awakened%20-%20BCOM%20Fixed.7z) to download on Github.
