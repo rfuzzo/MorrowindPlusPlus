@@ -118,9 +118,17 @@ Recreate Distant Land
 
 In the **Mod Config Menu**, I recommend these options:
 
-**Improved Vanilla Levelling:** DISABLE Retroactive Health Calculation
-**Map and Compass:** Optionally select map
-**PvP:** Increase attack frequency of enemies -> No
+Required
+
+* **Improved Vanilla Levelling:** DISABLE Retroactive Health Calculation
+* **PvP:** Increase attack frequency of enemies -> No
+* **Weather Adjuster:** Disable sky texture changes -> On
+
+Personal Preference
+
+* **Security Enhanced:** Pick up by default -> Off
+* **Map and Compass:** Optionally select map
+* **Realistic Repair:** Loot condition -> 25% - 75%
 
 ### Settings
 

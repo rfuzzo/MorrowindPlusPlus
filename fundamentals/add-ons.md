@@ -120,8 +120,8 @@ It also adds ovens that can be used to bake bread and pies. More baking recipes 
   * [x] 00 Core
   * [x] 01 Full version
 
-⭐ [**Killing Spree Helluva ways to kill**](https://www.nexusmods.com/morrowind/mods/49668)\
- This mod adds close to 500 weapons to the game, either via levelled lists or hand-placed (unique weapons)
+⭐ [**Weapons Expansion Project**](https://www.nexusmods.com/morrowind/mods/51587)\
+The project is designed to add all the missing original weapons in the game, at the moment all weapons have been added from daggers to long spears, there are also crossbows and bows, they will also be added over time
 
 ⭐ [**Vanilla Friendly Wearables Expansion**](https://www.nexusmods.com/morrowind/mods/48683) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
 This is a compilation of mods that does a couple of things:

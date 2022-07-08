@@ -129,17 +129,11 @@ Makes the "Guide to..." scrolls more useful by scripting them to reveal the citi
 ⭐📃 [**Accurate Tooltip Stats**](https://www.nexusmods.com/morrowind/mods/51354) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
  Implements more accurate, context-dependent tooltip displays for weapon damage and armor ratings, using MWSE-lua.
 
-📃 [**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267)\
-Provides configurable, dynamic crosshair indicators while sneaking and for essential NPCs, quest items, owned objects, and more. In addition, a variety of settings are included to manage how these aspects of the game work.
-
 📃 [**Ownership Indicator**](https://www.nexusmods.com/morrowind/mods/45940)
 Uses MWSE Lua to add an Oblivion style ownership indicator, when you look at owned items, beds, and more.
 
 * On MO2 installation, an installer window will pop up asking you to set a Data Files Directory.
 * Right click on `Data Files` and select "Set as < data files > directory".
-
-* After installation, in MO2, go to **Filetree**:
-* `MWSE\mods\ownership-indicator\main.lua` -> right click: **Hide**.
 
 📃 [**More Detailed Companion HealthBars MWSE Lua Script**](https://www.nexusmods.com/morrowind/mods/51389) by [Spammer21](https://www.nexusmods.com/morrowind/users/140139148)\
 Tweaked version of Mesafoo's Companion HealthBars, showing Magicka, Fatigue as well as currently selected weapon.

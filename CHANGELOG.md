@@ -16,10 +16,13 @@ Additions
 - The Rise of the Tribe Unmourned
 - Useful Maps and Guides
 - Hunting Big Tooth (A Quest for Magical Starter Weapons)
+- Weapons Expansion Project
 
 Removals
 
 - Balmora guilds expanded (partially incompatible with BCOM)
+- Killing Spree Helluva ways to kill (replaced with: Weapons Expansion Project)
+- Essential Indicators (not vanilla enough)
 
 ## June 2022
 

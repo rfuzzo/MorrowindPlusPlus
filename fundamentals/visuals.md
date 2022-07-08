@@ -225,12 +225,6 @@ Weather overhaul with randomised cloud textures, more dynamic weathers, weather 
 ⭐📃 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)\
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
 
-[**Better Sun**](https://www.nexusmods.com/morrowind/mods/49886)\
-Retextures the sun to make it more realistic and detailed.
-
-* Files to install:
-  * **Better Sun** (Main files)
-
 [**Dying Worlds - Moons Retexture**](https://www.nexusmods.com/morrowind/mods/43023)\
 Makes Masser and Secunda dying planets, where there is no more place for life. Also adds drying oceans to both moons and some greenery to Secunda. Inspired by 36 Lessons of Vivec and stories about imperial сonquest of moons.
 
