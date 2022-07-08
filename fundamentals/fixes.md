@@ -80,10 +80,19 @@ Fixes many issues present in Bethesda's original Official Plugins.
     * [x] Bitter Coast Sounds
     * [x] Entertainers
     * [x] LeFemm Armor
-  * **Install Better Armor Compatibility** > No
+  * **Install Better Armor Compatibility** -> No
   
 ⭐ [**Bethesda Official Plugins Naturalized**](https://www.nexusmods.com/morrowind/mods/51107) by [PikachunoTM](https://www.nexusmods.com/morrowind/users/16269634)\
  Implementation of Bethesda's Official Plugins with some slightly improved implementation. Uses UMOPP as a base.
+
+* On MO2 installation, check the following options:
+  * **Choose plugins**
+    * [x] Adamantium Armor
+    * [x] Area Effect Arrows
+    * [x] Helm of Tohan
+    * [x] Master Index
+    * [x] Siege at Firemoth
+  * **High res textures** -> No
 
 ⭐📃 [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
 Forces the game to instantly close on exit.
