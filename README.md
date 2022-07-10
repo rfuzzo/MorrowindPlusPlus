@@ -121,13 +121,21 @@ For help with this mod list and many many bug fixes:
 * [Sigourn/Lucas9](https://www.nexusmods.com/morrowind/users/14600469)
 * [zertyuiop](https://github.com/rfuzzo/MorrowindPlusPlus/issues/2)
 
-## TODO (maybe)
+## TODO (additions)
+
+### High Priority additions
+
+* Ethereal Ghosts
+
+### Medium Priority additions
 
 * [Morrowind Animated Hammocks (MAH)](https://www.nexusmods.com/morrowind/mods/49767) (too minor?)
 * [Balanced Passive Races and Birthsigns](https://www.nexusmods.com/morrowind/mods/47782) (weird changes?)
 * [Imperial Altar in Vivec](https://www.nexusmods.com/morrowind/mods/50273) (too minor?)
 * [Smart Heads](https://www.nexusmods.com/morrowind/mods/50098) (not sure)
-* Ethereal Ghosts (+1)
+
+### Low Priority additions
+
 * Caius Gives You a Cover Story (too minor)
 * Ashlanders Herd (too minor? unimmersive?)
 * Buoyant Lord Vivec (comments mention he has no head tracking anymore?)
@@ -137,6 +145,17 @@ For help with this mod list and many many bug fixes:
 * Sepulchral Curses (maybe not needed)
 * Ancestral Tomb Amulets (MWSE) (unimmersive?)
 * [**Broadsheets and Notice Boards Redone**](https://www.nexusmods.com/morrowind/mods/50999) (has some edits to caves?)
+
+## TODO (removals)
+
+* MWSE Blood Diversity (weird)
+* Imperial Steel Cuirass Tweaks (too minor)
+* LeFemm Redacted (too minor)
+* Simple Golden Gold (not vanilla enough)
+* Intelligent Textures - Simple Golden Gold (not vanilla enough)
+* Magic Icons (not vanilla enough)
+* Vanilla Land (I see no difference)
+* Loading Doors Lock Tune (needed?)
 
 ## Changelog
 

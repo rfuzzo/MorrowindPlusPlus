@@ -5,7 +5,6 @@ Customizable sound overhaul which adds ambient sounds, interior weather, extende
 
 * Files to install:
   * **AURA** (Main files)
-  * **AURA** (Update files)
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core

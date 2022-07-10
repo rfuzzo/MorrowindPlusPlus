@@ -129,7 +129,7 @@ Replaces the "plastic wrap" effect around in-game magic items (those equipped by
 Makes it so many smoke effects are much more laid back and easier on the eyes.
 
 ⭐📃 [**Chameleon**](https://www.nexusmods.com/morrowind/mods/47996)\
-The weid transparency of models (clothes, hair) with alpha channels issue fixed: Your character is not transparent at all.
+The weird transparency of models (clothes, hair) with alpha channels issue fixed: Your character is not transparent at all.
 
 ⭐📃 [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912)\
 Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
@@ -138,23 +138,21 @@ Configurable mod for automatic adjustment of lighting, including override values
 Modified version of True Lights and Darkness that reverts some of TLAD's more radical color changes, removes the flicker effect from most lights, plus a few other changes.
 
 * On MO2 installation, check the following options in the installer:
-  * [x] 00 Full Mod
+  * [ ] 00 Full Mod
+  * [ ] 01 Modular Plugins
   * [x] 02 MWSE TLAD Lights
-
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
-  * [x] `TLAD Full - Still - Original Colors.esp`
 
 ⭐📃 [**Vapourmist**](https://www.nexusmods.com/morrowind/mods/50517)\
 MWSE-Lua 3D clouds and mist.
+
+⭐📃 [**Fallen Ash**](https://www.nexusmods.com/morrowind/mods/48711) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
+ Dynamically adds ash decals to people, places, things, and probably concepts during ash storms.
 
 [**Crystal Soul Gems**](https://www.nexusmods.com/morrowind/mods/48300)\
  Adds transparency, glowing effect and reflection to soul gems.
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 - Data Files
-
-⭐📃 [**Fallen Ash**](https://www.nexusmods.com/morrowind/mods/48711) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
- Dynamically adds ash decals to people, places, things, and probably concepts during ash storms.
 
 [**Keg Drip**](https://www.nexusmods.com/morrowind/mods/47903) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 This mod uses a previously unused keg droplet texture from the game files to add a new effect to select kegstands in the game.
@@ -218,7 +216,7 @@ Weather overhaul with randomised cloud textures, more dynamic weathers, weather 
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
-  * [x] 01 Clouds Textures 1k
+  * [x] 01 Clouds textures
   * [x] 02 Weather Adjuster config
   * [x] 03 Weather particles replacer
 
@@ -257,23 +255,17 @@ Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion
 
 ## Equipment
 
-[**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572)\
+⭐ [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572)\
 Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
 
-[**Complete Armor Joints ESP Replacer**](https://github.com/Sigourn/nerevarrising/blob/master/mods/Complete%20Armor%20Joints%20\(PfP%20Edit\).7z)\
+⭐ [**Complete Armor Joints ESP Replacer**](https://github.com/Sigourn/nerevarrising/blob/master/mods/Complete%20Armor%20Joints%20\(PfP%20Edit\).7z)\
 Forwards Patch for Purists fixes to the plugin.
 
 {% hint style="info" %}
 [**External Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/Complete%20Armor%20Joints%20\(PfP%20Edit\).7z) to the download.
 {% endhint %}
 
-[**Imperial Steel Cuirass Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)\
-Adds the missing belt to the male Imperial Steel Cuirass.
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Male Belt
-
-[**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281)\
+⭐ [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281)\
 Replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws, matching the Bear and Snow Bear helmets.
 
 [**Alex's Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)\
@@ -291,6 +283,12 @@ Adds female variants to all the pants in vanilla Morrowind by recombining the as
 
 [**LeFemm Redacted**](https://www.nexusmods.com/morrowind/mods/50361)\
 Adds several changes to the Tribunal cuirass replacers to make them more consistent with their male counterparts.
+
+[**Imperial Steel Cuirass Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)\
+Adds the missing belt to the male Imperial Steel Cuirass.
+
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Male Belt
 
 ## Misc
 

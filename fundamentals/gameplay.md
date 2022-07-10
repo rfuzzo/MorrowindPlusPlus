@@ -107,34 +107,23 @@ Tweaks bows so that they line up better with the sheathing animation.
 [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)\
 Adds sheaths to weapons not covered by Weapon Sheathing.
 
-📃 [**PvP**](https://www.nexusmods.com/morrowind/mods/51034)\
-A combat based on parries and dodges. Enemies fight almost like real players.
-
-{% hint style="info" %}
-
-* Enter the **Mod config** menu in-game.
-* Select **PvP** from the mod list to the left.
-* Set **Increase attack frequenciy of enemies** to **No** (they attack to fast in my opinion with that on)
-* Exit the menu.
-{% endhint %}
-
 📃 [**Bleeding Injuries - MWSE**](https://www.nexusmods.com/morrowind/mods/51308) by [Spammer21](https://www.nexusmods.com/morrowind/users/140139148)\
 Going into a battle without proper armor will cause bleeding.
 
 ## Magic
+
+⭐📃 [**Putting Power In Willpower (Necro Edit)**](https://github.com/Sigourn/nerevarrising/blob/master/mods/Putting%20Power%20in%20Willpower%20(Necro%20Edit).7z) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
+Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description.
+
+{% hint style="info" %}
+[**Link**](https://www.nexusmods.com/morrowind/mods/45742) to original mod by **R-Zero**. The featured version includes fixes by **Necrolesian**.
+{% endhint %}
 
 ⭐📃 [**magickaMastery MWSE**](https://github.com/rfuzzo/MorrowindPlusPlus/blob/main/assets/magickaMastery.zip) by [Greatness7](https://www.nexusmods.com/morrowind/users/64030) and [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
 MWSE port of [Magicka Mastery](https://www.nexusmods.com/morrowind/mods/45058)
 
 ⭐📃 [**MWSE Magicka Regen**](https://www.nexusmods.com/morrowind/mods/48129) by [Anumaril21](https://www.nexusmods.com/morrowind/users/60236996)\
 MWSE Magicka Regen provides functional and configurable magicka regeneration for the player, NPCs, and creatures within Morrowind.
-
-⭐📃 [**Miscast Enhanced**](https://www.nexusmods.com/morrowind/mods/47948)\
-Adds negative consequences to casting spells that are beyond the caster's abilities. Unique miscast effects for every vanilla magic effect.
-
-* After installation, open the **MWSE\mods\OperatorJack\MiscastEnhanced\effects.lua** file in a text editor.
-* In line **725**, replace **tes3.effect.damageHealth** with **tes3.effect.damageMagicka**.
-* Save your changes. This stops the mod from most certainly killing your character whenever a Restore Health spell backfires. Instead, your Magicka will be damaged.
 
 ⭐📃 [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111)\
 A lua-based framework for creating new, fully functional magic effects.
@@ -189,22 +178,18 @@ Allows Soultrap to make more intelligent use of available soul gems, including s
 📃 [**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829)\
 Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
 
-📃 [**Wings of Will (Necro Edit)**](https://github.com/Sigourn/nerevarrising/blob/master/mods/Wings%20of%20Will%20(Necro%20Edit).7z)\
-Levitation speed is now based on Willpower attribute instead of Speed.
-
-{% hint style="info" %}
-[**External Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/Wings%20of%20Will%20(Necro%20Edit).7z) to the download.
-{% endhint %}
-
-{% hint style="info" %}
-[**Link**](https://www.nexusmods.com/morrowind/mods/46626) to original mod by **Sataniel**. The featured version includes fixes by **Necrolesian**.
-{% endhint %}
-
 📃 [**Seph's Library**](https://www.nexusmods.com/morrowind/mods/50708)by [Sephumbra](https://www.nexusmods.com/morrowind/users/3827919)\
  A MWSE lua library that may be required by other mods. It does nothing on its own.
 
 📃 [**Seph's NPC Soul Trapping**](https://www.nexusmods.com/morrowind/mods/50744)by [Sephumbra](https://www.nexusmods.com/morrowind/users/3827919)\
  A MWSE mod that lets you soul trap NPCs.
+
+📃 [**Miscast Enhanced**](https://www.nexusmods.com/morrowind/mods/47948)\
+Adds negative consequences to casting spells that are beyond the caster's abilities. Unique miscast effects for every vanilla magic effect.
+
+* After installation, open the **MWSE\mods\OperatorJack\MiscastEnhanced\effects.lua** file in a text editor.
+* In line **725**, replace **tes3.effect.damageHealth** with **tes3.effect.damageMagicka**.
+* Save your changes. This stops the mod from most certainly killing your character whenever a Restore Health spell backfires. Instead, your Magicka will be damaged.
 
 ## QoL
 
@@ -214,9 +199,6 @@ Increases the availability of restocking Restore Magicka, Restore Fatigue, and R
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Poison Crafting Patch
-
-📃 [**GMST Menu**](https://www.nexusmods.com/morrowind/mods/46428)\
-In-game menu allowing you to edit any Game Setting on the run. Useful to replace many minor mods that only edit Game Settings.
 
 ## General
 
@@ -228,9 +210,6 @@ A crafting framework for Morrowind, allowing other mods to register recipes, cra
 
 ⭐📃 [**Ashfall - A Camping Survival and Needs Mod**](https://www.nexusmods.com/morrowind/mods/49057) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
 A survival mod with hunger, thirst, tiredness, cooking, camping and temperature mechanics, as well as incredible new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack. Additionally implements the possibility of contracting blight diseases while out in a blight storm. A detailed guide for the mod [**can be found here**](https://github.com/jhaakma/ashfall/wiki).
-
-⭐📃 [**The Blight**](https://www.nexusmods.com/morrowind/mods/49504) by [OperatorJack](https://www.nexusmods.com/morrowind/users/61791411)\
-Significantly expands on how blight diseases work, adding new mechanics, interactions, and visuals.
 
 ⭐ [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
 Changes weather chances, including an increasing chance of blight throughout Vvardenfell before the Main Quest is complete.
@@ -250,7 +229,7 @@ Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Di
 ⭐📃 [**Buying Game**](https://www.nexusmods.com/morrowind/mods/50574)\
 Enhances Mercantile via new gameplay mechanics and UI elements. Includes new base pricing mechanic, regional pricing, value estimate, merchant specializations, forbidden goods, illicit trade, investing mechanics, and more.
 
-⭐📃 [**Talking Matters (Speechcraft overhaul)**](https://www.nexusmods.com/morrowind/mods/49089)\
+📃 [**Talking Matters (Speechcraft overhaul)**](https://www.nexusmods.com/morrowind/mods/49089)\
 This mod tries to make talking more inmersive by making it pass time, train speechcraft and generally giving NPCs a little more agency (being able to leave conversation if you talk too much or get offended if you fail to persuade them) on how the whole conversation business is handled.
 
 📃 [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248)\
@@ -275,6 +254,9 @@ Rebalances the speed attribute and overall movement in the game in an attempt to
 ⭐📃 [**Sprinting**](https://www.nexusmods.com/morrowind/mods/50839)\
 Adds a feature-rich sprinting functionality to the game.
 
+📃 [**The Blight**](https://www.nexusmods.com/morrowind/mods/49504) by [OperatorJack](https://www.nexusmods.com/morrowind/users/61791411)\
+Significantly expands on how blight diseases work, adding new mechanics, interactions, and visuals.
+
 📃 [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783)\
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
 
@@ -285,7 +267,7 @@ The radius of a handheld light will gradually diminish and eventually go out whe
 Makes fire sources damage the player when standing too close to them.
 
 📃 [**Lucky Loot**](https://www.nexusmods.com/morrowind/mods/49839)\
- Greater luck may grant you better loot
+Greater luck may grant you better loot
 
 📃 [**Locks and Traps Detection**](https://www.nexusmods.com/morrowind/mods/48528)\
 Allows you to have a chance to successfully detect traps and locks based on your security skill and relevant attributes, with a formula similar to the vanilla game.
@@ -314,9 +296,6 @@ Provides a configurable restriction on the amount of potions and ingredients the
 
 📃 [**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699)\
 Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells.
-
-📃 [**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373)\
-Creatures, NPCs and players alike affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time, preventing the spam of these effects for offensive purposes.
 
 📃 [**Skoomaesthesia**](https://www.nexusmods.com/morrowind/mods/49920) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
  Adds new skooma mechanics including animated skooma pipe smoking, psychedelic shaders and sound effects, and skooma addiction.

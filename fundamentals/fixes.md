@@ -139,13 +139,6 @@ Adds interactive placement, rotation and wall mounting of items. Arrange gear, b
 📃 [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
 Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
 
-⭐📃 [**Putting Power In Willpower (Necro Edit)**](https://github.com/Sigourn/nerevarrising/blob/master/mods/Putting%20Power%20in%20Willpower%20(Necro%20Edit).7z) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
-Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description.
-
-{% hint style="info" %}
-[**Link**](https://www.nexusmods.com/morrowind/mods/45742) to original mod by **R-Zero**. The featured version includes fixes by **Necrolesian**.
-{% endhint %}
-
 ⭐📃 [**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269) by [FMZ4](https://www.nexusmods.com/morrowind/users/87930688)\
 Makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
 
@@ -192,7 +185,7 @@ Fixes two inconsistencies in the game: one concerning the enchantment of Lord's 
 ⭐ [**Fix Those Bastard Rope Fences**](https://www.nexusmods.com/morrowind/mods/45741) by [Petetehgoat](https://www.nexusmods.com/morrowind/users/25319994)\
 Modifies collision boxes on rope-related meshes, player and NPC's hitboxes to prevent getting stuck.
 
-[**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by [Greatness7](https://www.nexusmods.com/morrowind/users/64030)\
+⭐ [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by [Greatness7](https://www.nexusmods.com/morrowind/users/64030)\
 Equipped weapons will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.
 
 * On MO2 installation, right-click on **Data Files**.

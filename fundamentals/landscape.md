@@ -93,12 +93,6 @@ This needs to be installed before BCOM
 ⭐📃 [**Adjustable Landscape Texture Scale**](https://www.nexusmods.com/morrowind/mods/49689) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  This mod allows you to manually increase the scale of the landscape texture to make it look more detailed without the need for hi-res replacers.
 
-⭐📃 [**Vanilla Land**](https://www.nexusmods.com/morrowind/mods/45953)\
- New hi-rez textures of all regions. Textures repeat the style of the original game, and using these textures you can recall your old experience of the journey through Valilla Land in 2k.
-
-* Files to install:
-  * **Vanilla Land v.1.1** (Main Files)
-
 ⭐ [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
 
@@ -184,10 +178,16 @@ The original mod has a lot of great ideas but was never finished or fixed. Other
   * **Caverns Overhaul - Fixed**
 
 [**Loot Well Urned**](https://www.nexusmods.com/morrowind/mods/44976)\
- Ancestral Tomb Loot Enhancement Mod
+Ancestral Tomb Loot Enhancement Mod
 
 [**Thickle-Lo - The Succulent Hackle-Lo Mod**](https://www.nexusmods.com/morrowind/mods/47502)\
 Hackle-lo leaves are described as "a tasty edible succulent leaf of the Grazelands..." And yet the leaves appear to be flat and not reminiscent of a succulent. This mod edits the plants and ingredients to be thicker. The ingredient is now a single leaf split in half to reveal the tasty flesh inside that locals like to chew after a long day's work.
+
+📃 [**Vanilla Land**](https://www.nexusmods.com/morrowind/mods/45953)\
+New hi-rez textures of all regions. Textures repeat the style of the original game, and using these textures you can recall your old experience of the journey through Valilla Land in 2k.
+
+* Files to install:
+  * **Vanilla Land v.1.1** (Main Files)
 
 ## Ascadian Isles
 
@@ -200,11 +200,26 @@ Hackle-lo leaves are described as "a tasty edible succulent leaf of the Grazelan
   * [x] 03 - BcoM Remiros grass patch
   * [x] 05 - Ashfall Addon
 
+⭐ [**Vibrant Ivy and trellis additions**](https://www.nexusmods.com/morrowind/mods/49863) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
+ A solution to your ivy-related issues.
+
+* On MO2 installation, check the following options in the installer:
+  * New Ivy -> **Yes**
+  * BCOM addon -> **Yes**
+  * Trellis addon -> **For the new ivy (BCOM Suran Expansion version)**
+
 ⭐ [**Remiros' Ascadian Isles Trees 2**](https://www.nexusmods.com/morrowind/mods/45779)\
 Replaces all of the trees in the Ascadian Isles region.
 
 * Files to install:
   * **Remiros' Ascadian Isles Trees - Vanilla**
+
+[**Less empty cantons of Vivec**](https://www.nexusmods.com/morrowind/mods/51592) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
+Lightweight clutter mod that uses planters to fill some empty spaces in Vivec
+
+* On MO2 installation, check the following options in the installer:
+  * Arena Canton -> **Planters**
+  * BCOM version -> **Yes**
 
 [**Concept Art Palace (Vivec City)**](https://www.nexusmods.com/morrowind/mods/48136)\
  The Concept Art Palace mod (C.A.P.) is my attempt to bring the Vivec palace closer the original Kirkbride's concept art.
@@ -267,7 +282,7 @@ Community expansion to Glass Domes of Vivec - visual fixes, new region mechanics
   * [x] `Imp_Big_4way.ESP`
 
 [**Severa Magia DB Fix**](https://www.nexusmods.com/morrowind/mods/45647) by [Corsair83](https://www.nexusmods.com/morrowind/users/23131859)\
- Updates Severa Magia's hideout to look and feel more like a DB sanctuary.
+Updates Severa Magia's hideout to look and feel more like a DB sanctuary.
 
 ## Ashlands
 
@@ -367,7 +382,7 @@ This mod is a model and texture replacer for the Mudcrab Merchant, making him st
   A complete overhaul of Magas Volar.
 
 [**Forge of Hilbongard**](https://www.nexusmods.com/morrowind/mods/43222)\
- This little mod tweaks the Forge of Hilbongard slightly to make it a little more unique. The pictures show pretty much all the current changes.
+This little mod tweaks the Forge of Hilbongard slightly to make it a little more unique. The pictures show pretty much all the current changes.
 
 [**RR Mod Series - Telvanni Lighthouse Tel Branora**](https://www.nexusmods.com/morrowind/mods/42664)\
  This mod adds a Telvanni style Lighthouse to Tel Branora.
@@ -805,7 +820,6 @@ On MO2 installation, it does not matter if you install too many mods, we will go
     * [x] Morrowind Anticheese
     * [x] Bounty Hunter Assignments
     * [x] Realistic Repair Addon
-    * [x] True Light and Darkness
 
   * Select all that apply
     * [x] Velothi Wall Art

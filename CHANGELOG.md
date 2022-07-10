@@ -17,12 +17,17 @@ Additions
 - Useful Maps and Guides
 - Hunting Big Tooth (A Quest for Magical Starter Weapons)
 - Weapons Expansion Project
+- Vibrant Ivy and trellis additions
+- Less empty cantons of Vivec
 
 Removals
 
-- Balmora guilds expanded (partially incompatible with BCOM)
+- Balmora guilds expanded (partially incompatible with BCOM) :(
 - Killing Spree Helluva ways to kill (replaced with: Weapons Expansion Project)
 - Essential Indicators (not vanilla enough)
+- reactive resistances (not vanilla enough)
+- pvp (weird mwse errors
+- wings of will (not vanilla enough))
 
 ## June 2022
 

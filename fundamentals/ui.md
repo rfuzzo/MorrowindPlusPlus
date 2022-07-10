@@ -89,21 +89,21 @@ Forwards PfP fixes to the plugin.
 [**External Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/Comrade%20Raven's%20Book%20Arts%20(PfP%20Edit).7z) to the download.
 {% endhint %}
 
-[**Magic Icons**](https://www.nexusmods.com/morrowind/mods/50223)\
-Replaces the effect seen on magic items in the inventory, allowing easier distinction between different magic items.
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Original Blue Color
-
-📜 [**UI Expansion Better Training Icons**](https://www.nexusmods.com/morrowind/mods/51190) by [tewlwolow](https://www.nexusmods.com/morrowind/users/1152341)\
+⭐📜 [**UI Expansion Better Training Icons**](https://www.nexusmods.com/morrowind/mods/51190) by [tewlwolow](https://www.nexusmods.com/morrowind/users/1152341)\
 This mod replaces UI Expansion training menu icons with sharper, cleaner versions.
 
-📜 [**Useful Maps and Guides**](https://www.nexusmods.com/morrowind/mods/51278) by [Lucevar](https://www.nexusmods.com/morrowind/users/3099525)\
+⭐📜 [**Useful Maps and Guides**](https://www.nexusmods.com/morrowind/mods/51278) by [Lucevar](https://www.nexusmods.com/morrowind/users/3099525)\
 Makes the "Guide to..." scrolls more useful by scripting them to reveal the cities on your world map.
 
 * Files to install:
   * **Useful Maps and Guides** (Main files)
   * **TR Addon** (Optional files)
+
+[**Magic Icons**](https://www.nexusmods.com/morrowind/mods/50223)\
+Replaces the effect seen on magic items in the inventory, allowing easier distinction between different magic items.
+
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Original Blue Color
 
 ## HUD
 
@@ -119,9 +119,6 @@ Makes the "Guide to..." scrolls more useful by scripting them to reveal the citi
 
 ⭐📃 [**MWSE Compare Tooltips**](https://www.nexusmods.com/morrowind/mods/51087) by [rfuzzo](https://www.nexusmods.com/morrowind/users/16300749)\
  This mod adds compare tooltips for looked-at or equipped items against the equipped item of the same category. The mod has multiple MCM options to configure the comparison style.
-
-⭐📃 [**MWSE Loading Splash Screens**](https://www.nexusmods.com/morrowind/mods/51076) by [rfuzzo](https://www.nexusmods.com/morrowind/users/16300749)\
- This mod uses MWSE to display splash screens during cell loading instead of freezing the frame as vanilla does.
 
 ⭐📃 [**Travel Tooltips**](https://www.nexusmods.com/morrowind/mods/48306) by [tewlwolow](https://www.nexusmods.com/morrowind/users/1152341)\
  Adds tooltips with location descriptions and maps to travel menu.
@@ -150,6 +147,9 @@ Adds a clock to the UI that displays either game world time or real time.
 📃 [**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295)\
 Removes "Diseased", "Blighted", and similar adjectives from creature names using MWSE-lua.
 
+📃 [**MWSE Loading Splash Screens**](https://www.nexusmods.com/morrowind/mods/51076) by [rfuzzo](https://www.nexusmods.com/morrowind/users/16300749)\
+ This mod uses MWSE to display splash screens during cell loading instead of freezing the frame as vanilla does.
+
 ## Gameplay
 
 ⭐📃 [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036)\
@@ -176,27 +176,6 @@ Adds an Attribute and Description widget to the Race menu so you can better plan
 ⭐📃 [**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527)\
 Restores the class description tooltip to the class selection menu, making it easier to decide which class you want to go with.
 
-⭐📃 [**Map and Compass**](https://www.nexusmods.com/morrowind/mods/48455)\
-This mod allows you to replace the magical vanilla map with a selection of more mundane maps, and the minimap with a compass.
-
-{% hint style="info" %}
-
-* Enter the **Mod config** menu in-game.
-* Select **Map and Compass** from the mod list to the left.
-* Click the **mapsWagner** tab.
-* Under the **vvardenfellMapWagner** header, click the **Select** button to make it your currently selected map.
-* Exit the menu.
-{% endhint %}
-
-⭐📃 [**Map Replacements for Maps and Compass Wagner Style - Brujoloco Edition**](https://www.nexusmods.com/morrowind/mods/48460)  
-Replaces the maps from **Map and Compass** to give them a more immersive look.
-
-* On MO2 installation, check the following options in the installer:
-  * [X] 00 Yellowed Maps
-
-⭐📃 [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851)\
-Keep track of what books you have read by showing a **(Read)** indicator next to their names. You can also see a list of previously read books in the mod's Mod Config menu.
-
 ⭐📃 [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275)\
 Adds tooltips with the effect's name to shrines when hovering over the different options.
 
@@ -219,6 +198,27 @@ Renames soulgems so they'll group together in the inventory.
 
 [**No Thank You**](https://www.nexusmods.com/morrowind/mods/49681)\
 Adds a cancel button to Temple shrines and Imperial Cult altars.
+
+📃 [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851)\
+Keep track of what books you have read by showing a **(Read)** indicator next to their names. You can also see a list of previously read books in the mod's Mod Config menu.
+
+📃 [**Map and Compass**](https://www.nexusmods.com/morrowind/mods/48455)\
+This mod allows you to replace the magical vanilla map with a selection of more mundane maps, and the minimap with a compass.
+
+{% hint style="info" %}
+
+* Enter the **Mod config** menu in-game.
+* Select **Map and Compass** from the mod list to the left.
+* Click the **mapsWagner** tab.
+* Under the **vvardenfellMapWagner** header, click the **Select** button to make it your currently selected map.
+* Exit the menu.
+{% endhint %}
+
+📃 [**Map Replacements for Maps and Compass Wagner Style - Brujoloco Edition**](https://www.nexusmods.com/morrowind/mods/48460)  
+Replaces the maps from **Map and Compass** to give them a more immersive look.
+
+* On MO2 installation, check the following options in the installer:
+  * [X] 00 Yellowed Maps
 
 ## Hotkeys
 
