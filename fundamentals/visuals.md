@@ -194,6 +194,21 @@ Texture Name 6=Orange Blood
 Texture Name 7=Energy
 ```
 
+<details>   <summary>Original ini values</summary>
+```txt
+[Blood]
+Model 0=BloodSplat.nif
+Model 1=BloodSplat2.nif
+Model 2=BloodSplat3.nif
+Texture 0=Tx_Blood.tga
+Texture 1=Tx_Blood_White.tga
+Texture 2=Tx_Blood_Gold.tga
+Texture Name 0=Default (Red)
+Texture Name 1=Skeleton (White)
+Texture Name 2=Metal Sparks (Gold)
+```
+</details>
+
 [**Shield Spells Reforged pt.1. (2022 upg)**](https://www.nexusmods.com/morrowind/mods/50073)\
 Visual overhaul of Elemental Shield spells, with additional on-hit effects.
 
