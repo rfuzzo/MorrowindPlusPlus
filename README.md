@@ -125,6 +125,7 @@ For help with this mod list and many many bug fixes:
 
 ### High Priority additions
 
+* [Remiros' Uniques](https://www.nexusmods.com/morrowind/mods/49674)
 * Ethereal Ghosts
 
 ### Medium Priority additions

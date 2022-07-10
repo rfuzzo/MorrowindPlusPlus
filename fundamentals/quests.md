@@ -307,7 +307,7 @@ Visit an old but familiar face to embark on a quest to discover an ancient encha
 [**God of Worms**](https://www.nexusmods.com/morrowind/mods/48028)\
 Introduces five new quests to investigate the Order of the Black Worm's presence in Vvardenfell.
 
-[**Love in time of the daedra**](https://www.nexusmods.com/morrowind/mods/43635) by [HangHimHigher](https://www.nexusmods.com/morrowind/users/14318784)\
+[**Love in the Time of Daedra**](https://www.nexusmods.com/morrowind/mods/43635) by [HangHimHigher](https://www.nexusmods.com/morrowind/users/14318784)\
 An open ended quest mod about love, death, Daedra, vengeance, and whiney Bosmer conmen.
 
 * Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
