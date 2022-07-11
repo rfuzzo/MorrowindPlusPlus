@@ -118,10 +118,9 @@ Recreate Distant Land
 
 In the **Mod Config Menu**, I recommend these options:
 
-Required
+Required (or strongly recommended)
 
 * **Improved Vanilla Levelling:** DISABLE Retroactive Health Calculation
-* **PvP:** Increase attack frequency of enemies -> No
 * **Weather Adjuster:** Disable sky texture changes -> On
 
 Personal Preference
@@ -129,6 +128,17 @@ Personal Preference
 * **Security Enhanced:** Pick up by default -> Off
 * **Map and Compass:** Optionally select map
 * **Realistic Repair:** Loot condition -> 25% - 75%
+* **Abot's smart journal:** Everything on, except
+  * Add a prefix ... -> No Prefix
+  * [ ] Add quest identifier -> Off
+  * [ ] Add source mod name -> Off
+  * [ ] Add source mod Author -> Off
+  * [ ] Open first URL -> Off
+  * [ ] Adjust bookmark size -> Off
+* **Sophisticated Save System:**
+  * Number of auto-saves -> 10
+  * Minimum time between -> 5
+  * Autosave timer duration -> 20
 
 ### Settings
 

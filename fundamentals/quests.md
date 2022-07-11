@@ -163,9 +163,10 @@ Better Dialogue-Choices is a quest overhaul project focused on implementing rpg 
 
 * Files to install:
   * **BDC-Seyda Neen** (Main Files)
-  * **BDC-SN Hotfix 2** (Update files)
+  * **BDC-SN Hotfix 3** (Update files)
   * **BDC-SN and Census and Excise Faction Compatibility** (Optional files)
   * **BDC-SN and LDM-Choices and Consequences Compatibility** (Optional files)
+  * **BDC-SN and Samarys Ancestral Tomb Expanded Compatibility** (Optional files)
 
 ⭐ [**Census and Excise Office Faction**](https://www.nexusmods.com/morrowind/mods/46798) by [AliceL93](https://www.nexusmods.com/morrowind/users/4709296)\
  This mod gives you the opportunity to join the Census and Excise Office and do quests for them.

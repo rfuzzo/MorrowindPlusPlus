@@ -184,13 +184,6 @@ Bound armor now uses the normal armor rating formula, taking light armor skill i
 📃 [**Seph's NPC Soul Trapping**](https://www.nexusmods.com/morrowind/mods/50744)by [Sephumbra](https://www.nexusmods.com/morrowind/users/3827919)\
  A MWSE mod that lets you soul trap NPCs.
 
-📃 [**Miscast Enhanced**](https://www.nexusmods.com/morrowind/mods/47948)\
-Adds negative consequences to casting spells that are beyond the caster's abilities. Unique miscast effects for every vanilla magic effect.
-
-* After installation, open the **MWSE\mods\OperatorJack\MiscastEnhanced\effects.lua** file in a text editor.
-* In line **725**, replace **tes3.effect.damageHealth** with **tes3.effect.damageMagicka**.
-* Save your changes. This stops the mod from most certainly killing your character whenever a Restore Health spell backfires. Instead, your Magicka will be damaged.
-
 ## QoL
 
 ⭐ [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232)\

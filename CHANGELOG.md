@@ -27,7 +27,8 @@ Removals
 - Essential Indicators (not vanilla enough)
 - reactive resistances (not vanilla enough)
 - pvp (weird mwse errors
-- wings of will (not vanilla enough))
+- wings of will (not vanilla enough)
+- Miscast Enhanced (maybe move to some optional mods)
 
 ## June 2022
 
