@@ -402,15 +402,6 @@ Lets you open or close any book or scroll in the game.
   * [x] 01 Closed Book Icons
   * [x] 03 Melchior's Magnificent Manuscripts
 
-[**Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/45124)\
-Turns the vanilla green coins into golden coins. A fortunate side effect is that they will be easier to spot in dungeons.
-
-* Files to install:
-  * **Gold coins** (Main files)
-
-[**Intelligent Textures - Simple Golden Gold**](https://www.nexusmods.com/morrowind/mods/50170?)\
-Upscaled **Simple Golden Gold** textures.
-
 [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383/)\
 Replaces the standard wooden chests in Nordic Tombs with a unique model, because the original looked horribly out of place.
 

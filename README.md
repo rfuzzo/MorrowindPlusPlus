@@ -126,7 +126,10 @@ For help with this mod list and many many bug fixes:
 ### High Priority additions
 
 * [Remiros' Uniques](https://www.nexusmods.com/morrowind/mods/49674)
-* Ethereal Ghosts
+* [Sixth House Informant - The Monastery of Ishdad Ab](https://www.nexusmods.com/morrowind/mods/51602)
+* [Static Scum Pond Remover](https://www.nexusmods.com/morrowind/mods/50140)
+* [Bitter Coast Scum Replacer](https://www.nexusmods.com/morrowind/mods/48291)
+* [Ethereal Ghosts](https://www.nexusmods.com/morrowind/mods/50757)
 
 ### Medium Priority additions
 
@@ -138,7 +141,7 @@ For help with this mod list and many many bug fixes:
 ### Low Priority additions
 
 * Caius Gives You a Cover Story (too minor)
-* Ashlanders Herd (too minor? unimmersive?)
+* Ashlanders Herd (too minor?)
 * Buoyant Lord Vivec (comments mention he has no head tracking anymore?)
 * Telvanni Staff for the Telvanni Staff (too minor?)
 * Shrine of Boethiah Expansion (?)
@@ -152,10 +155,7 @@ For help with this mod list and many many bug fixes:
 * MWSE Blood Diversity (weird)
 * Imperial Steel Cuirass Tweaks (too minor)
 * LeFemm Redacted (too minor)
-* Simple Golden Gold (not vanilla enough)
-* Intelligent Textures - Simple Golden Gold (not vanilla enough)
 * Magic Icons (not vanilla enough)
-* Vanilla Land (I see no difference)
 * Loading Doors Lock Tune (needed?)
 
 ## Changelog

@@ -123,6 +123,9 @@ Replaces the effect seen on magic items in the inventory, allowing easier distin
 ⭐📃 [**Travel Tooltips**](https://www.nexusmods.com/morrowind/mods/48306) by [tewlwolow](https://www.nexusmods.com/morrowind/users/1152341)\
  Adds tooltips with location descriptions and maps to travel menu.
 
+* On MO2 installation, right-click on **00 Core**.
+* Click **Set as data files directory** and click **OK**.
+
 ⭐📃 [**Accurate Tooltip Stats**](https://www.nexusmods.com/morrowind/mods/51354) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
  Implements more accurate, context-dependent tooltip displays for weapon damage and armor ratings, using MWSE-lua.
 

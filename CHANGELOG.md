@@ -1,5 +1,18 @@
 # Changelog
 
+## July 15th 2022
+
+Additions
+
+- URH - Ald Velothi
+
+Removals
+
+- Enhanced Detection Lite (for now, base mod got an update)
+- Vanilla Land (I can't see a difference)
+- Simple Golden Gold (minor, not vanilla)
+- Intelligent Textures - Simple Golden Gold (minor, not vanilla)
+
 ## July 2022
 
 Additions

@@ -130,22 +130,16 @@ A lua-based framework for creating new, fully functional magic effects.
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 - Framework
-
-{% hint style="info" %}
-This framework is a pre-requisite for **Miscast Enhanced**, and the **Magic Mechanics** series of mods.
-{% endhint %}
+  * [x] 01 - Resource Pack
+  * [x] 02 - Lore Friendly Pack
 
 ⭐📃 [**MM - Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480)\
 Adds new Oblivion-inspired visual effects and mechanics for the vanilla Detection magic effects, as well as adds 7 new magic effects. It integrates those effects into new spells and distributes them in-game to spell vendors.
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 - Core
-
-⭐📃 [**Enhanced Detection Lite**](https://www.nexusmods.com/morrowind/mods/48471)\
-Lite version of Enhanced Detection that adds the cool new visual effects without changes such as new magic effects and spells. Includes less lite version with two new effects only.
-
-* On MO2 installation, check the following options in the installer:
-  * [x] Enhanced Detection Less Lite
+  * [x] 01 - Cast VFX
+  * [x] 02 - Alternate VFX
 
 ⭐📃 [**MM - Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565)  
 Using invisibility changes the way you view the world. Instead of only becoming transparent, you see through an ethereal lens that warps and twists the environment around you. Daedra and Undead appear differently, making them distinct from other creatures around you.

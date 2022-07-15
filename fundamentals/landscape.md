@@ -183,12 +183,6 @@ Ancestral Tomb Loot Enhancement Mod
 [**Thickle-Lo - The Succulent Hackle-Lo Mod**](https://www.nexusmods.com/morrowind/mods/47502)\
 Hackle-lo leaves are described as "a tasty edible succulent leaf of the Grazelands..." And yet the leaves appear to be flat and not reminiscent of a succulent. This mod edits the plants and ingredients to be thicker. The ingredient is now a single leaf split in half to reveal the tasty flesh inside that locals like to chew after a long day's work.
 
-📃 [**Vanilla Land**](https://www.nexusmods.com/morrowind/mods/45953)\
-New hi-rez textures of all regions. Textures repeat the style of the original game, and using these textures you can recall your old experience of the journey through Valilla Land in 2k.
-
-* Files to install:
-  * **Vanilla Land v.1.1** (Main Files)
-
 ## Ascadian Isles
 
 ⭐ [**Concept Arts plantations**](https://www.nexusmods.com/morrowind/mods/50020)\
@@ -598,6 +592,9 @@ A West Gash tree replacer for players who desire a look closer to the vanilla ga
     * [x] Pine (Default)
     * [x] OAAB Saplings
     * [x] Ashfall trees patch
+
+[**URH - Ald Velothi**](https://www.nexusmods.com/morrowind/mods/51590) by [mwgek](https://www.nexusmods.com/morrowind/users/4462276)\
+An overhaul of the Ald Velothi outpost to give it a unique look. 
 
 [**The Island - Aln'Baldrahn**](https://www.nexusmods.com/morrowind/mods/43187) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  This mod adds a beautiful new island to the West Gash Region near Khuul. I actually made this mod as my interior/exterior showcase for the Tamriel Rebuilt project but I spent so much time on it and I liked it so much that I thought I would release it here for others to enjoy.
