@@ -160,6 +160,7 @@ Every Ancestral Tomb in Vvardenfell has a unique banner displaying the family na
 * Files to install:
   * **Know Thy Ancestors** (Main Files)
   * **Know The Ancestors - Tamriel Rebuilt Addon** (Optional Files)
+  * **Know Thy Ancestors - Valley of the Wind Overhaul Patch** (Optional Files)
 
 {% hint style="warning" %}
 After installation
@@ -837,10 +838,6 @@ On MO2 installation, it does not matter if you install too many mods, we will go
     * [x] OAAB Pomegranates
     * [x] Tel Aruhn Chronicles quest and Yansirramus Overhaul addon
     * [x] Far From Home
-
-{% hint style="info" %}
-[**Pharis' Better BCOM compatible version**](https://github.com/PharisMods/pharis-mod-list/blob/main/mods/Mamaea%20Awakened%20-%20BCOM%20Fixed.7z) to download on Github.
-{% endhint %}
 
 📃 [**Various compatibility patches for HOTV Tomb of the Snow prince Solstheim Overhaul**](https://www.nexusmods.com/morrowind/mods/48422)\
  Various patches, including the White Wolf of Lokken, Wanderes of Solstheim, Children of Morrowind, Thirsk Expanded more....an ongoing project
