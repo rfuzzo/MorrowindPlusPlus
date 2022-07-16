@@ -10,6 +10,10 @@ Additions
 - Sixth House Informant
 - Remiros' Uniques
 
+Removals
+
+- abotThundersLightnings (lightning strikes felt out of place)
+
 ## July 15th 2022
 
 Additions

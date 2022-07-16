@@ -55,16 +55,6 @@ Reduces the volume of doors and spells. Mod by **Sigourn**.
 [**Spell Sounds Enhanced**](https://www.nexusmods.com/morrowind/mods/46338)\
 Vanilla-friendly replacer of each vanilla spell sound.
 
-[**Thunders & Lightnings v1.3**](https://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=8&Itemid=50&-Thunders-Lightnings) by *abot*\
-This is my (abot) "atmospheric" version of thunders & lightnings, inspired by
-Jac's Lightning Strike mod.
-
-* On MO2 installation, an installer window will pop up asking you to set a Data Files Directory.
-* Drag the folder `Extras > Data Files > Sound > Fx` to `Data Files > Sound`
-* Right click on `Data Files` and select "Set as < data files > directory".
-
-![Screenshot](../pictures/abot_lighting_01.png)
-
 [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826)\
 Gives Nord barrows their own unique sound. You will hear some deep-voiced chanting and perhaps some drums in the distance if you listen closely enough; hearkening back to ancient battles and burial rites.
 
