@@ -130,6 +130,7 @@ For help with this mod list and many many bug fixes:
 * [Static Scum Pond Remover](https://www.nexusmods.com/morrowind/mods/50140)
 * [Bitter Coast Scum Replacer](https://www.nexusmods.com/morrowind/mods/48291)
 * [Ethereal Ghosts](https://www.nexusmods.com/morrowind/mods/50757)
+* [Repopulated Morrowind](https://www.nexusmods.com/morrowind/mods/51174)
 
 ### Medium Priority additions
 

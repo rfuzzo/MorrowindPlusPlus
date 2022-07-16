@@ -823,7 +823,6 @@ On MO2 installation, it does not matter if you install too many mods, we will go
     * [x] Velothi Wall Art
     * [x] Velothi Wall Art Re-Addon
     * [x] Area of effect Arrows
-    * [x] Sload and Slavers
 
   * Select all that apply
     * [x] The Publicans
