@@ -305,6 +305,9 @@ Adds the missing belt to the male Imperial Steel Cuirass.
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Male Belt
 
+[**Remiros' Uniques**](https://www.nexusmods.com/morrowind/mods/49674)\
+Gives certain weapons and armors unique models
+
 ## Misc
 
 ⭐ [**Near Vanilla Road Sign Replacer**](https://www.nexusmods.com/morrowind/mods/44957)\

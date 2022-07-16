@@ -1,9 +1,12 @@
 # Add-ons
 
 ⭐📃 [**Disturbing Dreams**](https://www.nexusmods.com/morrowind/mods/51285) by [VitruvianGuar](https://www.nexusmods.com/morrowind/users/34081875)\
-MWSE lua mod changing the mechanics of Sixth House attacking the player during the sleep. 
+MWSE lua mod changing the mechanics of Sixth House attacking the player during the sleep.
 
 ## Creatures
+
+⭐ [**Repopulated Morrowind**](https://www.nexusmods.com/morrowind/mods/51174)\
+Adds named NPCs to all cities using leveled lists with items from OAAB, TR_Data, and Morrowind/Bloodmoon/Tribunal.
 
 ⭐📃 [**The Guar Whisperer**](https://www.nexusmods.com/morrowind/mods/48247) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
  Allows your to tame and breed guars, and keep them as companions. Intelligent command menu gives unprecedented control over your guar. Attack enemies, fetch items, harvest plants etc. Build trust over time by keeping them happy and healthy to unlock more commands. Fight and play games to level up your guar.

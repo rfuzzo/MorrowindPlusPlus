@@ -462,6 +462,16 @@ A distraught nephew, a missing uncle, a manor slowly sinking into the swamps of 
 [**Shal Overgrown**](https://www.nexusmods.com/morrowind/mods/47219) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
  Travel to Shal and discover its secrets: the once small cave is now overgrown and even reaches into the nearby Daedric ruin Ashurnibibi.
 
+[**Bitter Coast Scum Replacer**](https://www.nexusmods.com/morrowind/mods/48291)\
+Replaces swamp scum using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture. Two versions are included, with a standalone edit of Lougians meshes that allow activation through the mesh.
+
+<details>	<summary>Alternatives</summary>
+
+[**Static Scum Pond Remover**](https://www.nexusmods.com/morrowind/mods/50140)\
+This mod of mine removes the default non animated scum texture covering many ponds on the Bitter Coast and beyond.
+
+</details>
+
 ## Grazelands
 
 ⭐ [**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\

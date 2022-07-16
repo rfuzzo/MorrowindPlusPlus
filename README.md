@@ -125,13 +125,6 @@ For help with this mod list and many many bug fixes:
 
 ### High Priority additions
 
-* [Remiros' Uniques](https://www.nexusmods.com/morrowind/mods/49674)
-* [Sixth House Informant - The Monastery of Ishdad Ab](https://www.nexusmods.com/morrowind/mods/51602)
-* [Static Scum Pond Remover](https://www.nexusmods.com/morrowind/mods/50140)
-* [Bitter Coast Scum Replacer](https://www.nexusmods.com/morrowind/mods/48291)
-* [Ethereal Ghosts](https://www.nexusmods.com/morrowind/mods/50757)
-* [Repopulated Morrowind](https://www.nexusmods.com/morrowind/mods/51174)
-
 ### Medium Priority additions
 
 * [Morrowind Animated Hammocks (MAH)](https://www.nexusmods.com/morrowind/mods/49767) (too minor?)

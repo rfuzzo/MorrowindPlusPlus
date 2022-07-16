@@ -296,3 +296,6 @@ Comprehensive modern day implementation of necromancy, using Skill Module, Magic
 
 📃 [**Fence it - MWSE**](https://www.nexusmods.com/morrowind/mods/51329) by [Spammer21](https://www.nexusmods.com/morrowind/users/140139148)\
 Tired of not being able to sell your diamonds to Nalcarya because of that stupid thieves guild quest? Give them to a pawnbroker and he will make them unrecognizable! For a price of course...
+
+📃 [**Ethereal Ghosts**](https://www.nexusmods.com/morrowind/mods/50757)\
+MWSE-lua mod that allows ghost and other incorporeal creatures to pass through closed doors

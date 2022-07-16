@@ -1,5 +1,15 @@
 # Changelog
 
+## July 16th 2022
+
+Additions
+
+- Repopulated Morrowind
+- Ethereal Ghosts
+- Bitter Coast Scum Replacer
+- Sixth House Informant
+- Remiros' Uniques
+
 ## July 15th 2022
 
 Additions
