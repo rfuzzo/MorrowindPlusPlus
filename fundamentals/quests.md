@@ -98,6 +98,9 @@ Now there is a proper structure to House Hlaalu, with actual governers for Suran
 ⭐ [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843)\
 Fleshes out the Imperial Cult and the Tribunal Temple.
 
+* On MO2 installation, check the following options in the installer:
+  * [x] Crown Edition
+
 ⭐ [**Imperial Factions**](https://www.nexusmods.com/morrowind/mods/49855)\
 An overhaul of the Mages Guild, Thieves Guild and Fighters Guild.
 
