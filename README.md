@@ -131,6 +131,8 @@ For help with this mod list and many many bug fixes:
 * [Balanced Passive Races and Birthsigns](https://www.nexusmods.com/morrowind/mods/47782) (weird changes?)
 * [Imperial Altar in Vivec](https://www.nexusmods.com/morrowind/mods/50273) (too minor?)
 * [Smart Heads](https://www.nexusmods.com/morrowind/mods/50098) (not sure)
+* [Kogoruhn Ruins](https://www.nexusmods.com/morrowind/mods/44034)
+* [Better Dunmer Strongholds](https://www.nexusmods.com/morrowind/mods/49692)
 
 ### Low Priority additions
 
@@ -146,6 +148,8 @@ For help with this mod list and many many bug fixes:
 
 ## TODO (removals)
 
+* Midnight oil (FPS)
+* MWSE fire damage (or tweak it)
 * MWSE Blood Diversity (weird)
 * Imperial Steel Cuirass Tweaks (too minor)
 * LeFemm Redacted (too minor)
