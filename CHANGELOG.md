@@ -1,5 +1,15 @@
 # Changelog
 
+## July 17th 2022
+
+Additions
+
+- Mines and Caverns
+- Jsp Mines and Caverns compatible with The Ashen Divide
+- Better Caves and Caverns
+- Better Dunmer Strongholds
+- Kogoruhn Expanded
+
 ## July 16th 2022
 
 Additions
