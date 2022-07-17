@@ -45,8 +45,10 @@ This needs to be installed before BCOM
     * [ ] Taller Lighthouse -> no (*personal preference*)
     * Stav's MGO -> **No**
     * [ ] Vicec Open Arena -> no (*personal preference*)
-    * Glow in the Dahrk -> **Yes + Atlas**
+    * [x] Vicec clutter addons -> Planters (*personal preference*)
+    * [x] Vicec clutter addons -> Temple Fountains (*personal preference*)
     * [x] Expanded Sadrith Mora Dock -> yes (*personal preference*)
+    * Glow in the Dahrk -> **Yes + Atlas**
     * [x] Project Atlas -> **yes**
     * [ ] HD Textures -> No (*personal preference*)
     * Balmora Bridges with bigger arch -> **No** (*personal preference*)
@@ -60,8 +62,8 @@ This needs to be installed before BCOM
       * [ ] Ashlands + Red Mountain Reborn + Kogoruhn Expanded
       * [x] Bitter Coast
       * [ ] Grazelands - Trackless Grazelands
-      * [ ] West Gash - Stonewood pass
       * [x] West Gash
+      * [ ] West Gash - Stonewood pass
 
   * **Balmora Waterworks Options** -> none
 
@@ -847,8 +849,7 @@ On MO2 installation, it does not matter if you install too many mods, we will go
   * Abots Boats for Tomb of the Snow Prince -> **Boats for TOTSP - TR Version**
   * [x] Abot's Gondoliers -> yes
   * Abots Silt Striders -> Abots Silt Striders for Tamriel Rebuilt
-  * TR_Travels
-    * [x] TR_Travels
+  * TR_Travels -> **TR_Travels**
   * Yet Another Guard Diversity -> **Regular**
   * More Patches
     * [x] Skyrim Home of The Nords
@@ -859,6 +860,7 @@ On MO2 installation, it does not matter if you install too many mods, we will go
     * [x] Morrowind Anticheese
     * [x] Bounty Hunter Assignments
     * [x] Realistic Repair Addon
+  * Mines and Caverns -> **Mines and Caverns**
 
   * Select all that apply
     * [x] Velothi Wall Art
