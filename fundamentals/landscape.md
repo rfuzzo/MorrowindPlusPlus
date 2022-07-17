@@ -178,6 +178,18 @@ The original mod has a lot of great ideas but was never finished or fixed. Other
 * Files to install:
   * **Caverns Overhaul - Fixed**
 
+⭐ [**Mines and Caverns**](https://www.nexusmods.com/morrowind/mods/44893)\
+This mod improves several vanilla dungeons aesthetically and/or expands them.
+
+⭐ [**Jsp Mines and Caverns compatible with The Ashen Divide**](https://www.nexusmods.com/morrowind/mods/48683)\
+Simply removes edits to Zainsipilu from Jsp Mines and Caverns for compatibility with The Ashen Divide
+
+* Files to install:
+  * **Jsp Mines and Caverns compatible with The Ashen Divide**
+
+⭐ [**Better Caves and Caverns**](https://www.nexusmods.com/morrowind/mods/51218)\
+Alteration to some of the Vanilla Caves and Caverns with a visual overhaul, as well as improved enemies and Bosses, all while maintaining maximum compatibility.
+
 [**Loot Well Urned**](https://www.nexusmods.com/morrowind/mods/44976)\
 Ancestral Tomb Loot Enhancement Mod
 
