@@ -132,7 +132,6 @@ For help with this mod list and many many bug fixes:
 * [Imperial Altar in Vivec](https://www.nexusmods.com/morrowind/mods/50273) (too minor?)
 * [Smart Heads](https://www.nexusmods.com/morrowind/mods/50098) (not sure)
 * [Kogoruhn Ruins](https://www.nexusmods.com/morrowind/mods/44034)
-* [Better Dunmer Strongholds](https://www.nexusmods.com/morrowind/mods/49692)
 
 ### Low Priority additions
 

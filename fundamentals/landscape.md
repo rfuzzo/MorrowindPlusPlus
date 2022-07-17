@@ -88,6 +88,22 @@ This needs to be installed before BCOM
   * [x] `ab01NPCLCVSchedulesFix.esp`
   * [x] `abotSiltStriders.esp`
 
+⭐ [Better Dunmer Strongholds](https://www.nexusmods.com/morrowind/mods/49692) by [Dallara1000](https://www.nexusmods.com/morrowind/users/3346952)\
+This little replacement make the old dunmer's strongholds less empty and a little bit more dangerous
+
+* On MO2 installation, check the following options in the installer:
+  * [x] Data Files
+  * [x] Option
+
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
+  * [x] `Dunmer Stronghold - Andasreth V1.0.esp`
+  * [x] `Dunmer Stronghold - Berandas V1.0.esp`
+  * [x] `Dunmer Stronghold - Falensarano V1.0.esp`
+  * [x] `Dunmer Stronghold - Full V1.0.esp`
+  * [x] `Dunmer Stronghold - Hlormaren V1.0.esp`
+  * [x] `Dunmer Stronghold - Kogorhun V1.0.esp`
+  * [x] `Dunmer Stronghold - Marandus V1.0.esp`
+
 ## Environment
 
 ⭐📃 [**Adjustable Landscape Texture Scale**](https://www.nexusmods.com/morrowind/mods/49689) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
@@ -348,6 +364,9 @@ Makes the Erabenimsun camp stand out from the rest of the ashlands with some uni
 
 * Files to install:
   * **Finding The Erabenimsun for BCOM** (Optional Files)
+
+[**Kogoruhn Expanded**](https://www.nexusmods.com/morrowind/mods/46098)\
+An expansion mod for Kogoruhn, the capital of House Dagoth.
 
 ## Azura's Coast
 
