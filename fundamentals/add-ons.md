@@ -8,6 +8,11 @@ MWSE lua mod changing the mechanics of Sixth House attacking the player during t
 ⭐ [**Repopulated Morrowind**](https://www.nexusmods.com/morrowind/mods/51174)\
 Adds named NPCs to all cities using leveled lists with items from OAAB, TR_Data, and Morrowind/Bloodmoon/Tribunal.
 
+* On MO2 installation, check the following options in the installer:
+  * Vanilla Bloodmoon -> **Tomb of the Snow Prince**
+  * Town Overhauls -> **BCOM**
+  * Gear Options -> **None**
+
 ⭐📃 [**The Guar Whisperer**](https://www.nexusmods.com/morrowind/mods/48247) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
  Allows your to tame and breed guars, and keep them as companions. Intelligent command menu gives unprecedented control over your guar. Attack enemies, fetch items, harvest plants etc. Build trust over time by keeping them happy and healthy to unlock more commands. Fight and play games to level up your guar.
 
