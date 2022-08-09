@@ -9,9 +9,8 @@ MWSE lua mod changing the mechanics of Sixth House attacking the player during t
 Adds named NPCs to all cities using leveled lists with items from OAAB, TR_Data, and Morrowind/Bloodmoon/Tribunal.
 
 * On MO2 installation, check the following options in the installer:
-  * Vanilla Bloodmoon -> **Tomb of the Snow Prince**
-  * Town Overhauls -> **BCOM**
-  * Gear Options -> **None**
+  * BCOM options -> **With BCOM**
+  * Bloodmoon options -> **With TOTSP**
 
 ⭐📃 [**The Guar Whisperer**](https://www.nexusmods.com/morrowind/mods/48247) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
  Allows your to tame and breed guars, and keep them as companions. Intelligent command menu gives unprecedented control over your guar. Attack enemies, fetch items, harvest plants etc. Build trust over time by keeping them happy and healthy to unlock more commands. Fight and play games to level up your guar.
@@ -146,7 +145,6 @@ This is a compilation of mods that does a couple of things:
     * [x] Morag Tong Polished Patch
     * [x] Cephalopod Armor - OAAB Patch
     * [x] Cepalopod Armor - TR patch
-  * Economy Adjust Edits -> **No**
 
 ⭐📃 [**Unidentified Items**](https://www.nexusmods.com/morrowind/mods/48964)\
 Adds unidentified rings, amulets, belts, robes, pants and shirts to the game, as well as an Identify Service from Enchanters.

@@ -125,16 +125,44 @@ For help with this mod list and many many bug fixes:
 
 ### High Priority additions
 
+* [Gonzo's Splash Screens](https://www.nexusmods.com/morrowind/mods/51667)
+* [Foreign Quarter Market Square](https://www.nexusmods.com/morrowind/mods/51700)
+* [Thickle-Lo Grove](https://www.nexusmods.com/morrowind/mods/51689)
+* [OAAB Market](https://www.nexusmods.com/morrowind/mods/51687)
+* [Tea Merchants - an addon for Ashfall](https://www.nexusmods.com/morrowind/mods/51656)
+* [Danaes DRIP Depot](https://www.nexusmods.com/morrowind/mods/51645)
+
 ### Medium Priority additions
 
 * [Morrowind Animated Hammocks (MAH)](https://www.nexusmods.com/morrowind/mods/49767) (too minor?)
 * [Balanced Passive Races and Birthsigns](https://www.nexusmods.com/morrowind/mods/47782) (weird changes?)
-* [Imperial Altar in Vivec](https://www.nexusmods.com/morrowind/mods/50273) (too minor?)
 * [Smart Heads](https://www.nexusmods.com/morrowind/mods/50098) (not sure)
 * [Kogoruhn Ruins](https://www.nexusmods.com/morrowind/mods/44034)
+* [Daedric Ruins (Half-Revamped)](https://www.nexusmods.com/morrowind/mods/51674)
+* [Imperial Altar in Vivec](https://www.nexusmods.com/morrowind/mods/50273) (too minor?)
+
+* [Sacred Necromancer Armor](https://www.nexusmods.com/morrowind/mods/51651)
+* [SM Morag Tong Armor](https://www.nexusmods.com/morrowind/mods/50953)
+
+* [The Pearl Divers](https://www.nexusmods.com/morrowind/mods/51703)
+* [Tirram Terala's Treasure Trove of Trinkets](https://www.nexusmods.com/morrowind/mods/51699)
+* [Leap of Faith](https://www.nexusmods.com/morrowind/mods/51702)
+* [Smuggler's Market](https://www.nexusmods.com/morrowind/mods/51698)
+* [Suran Silt Skiff](https://www.nexusmods.com/morrowind/mods/51697)
+* [Balmora Gravemarket](https://www.nexusmods.com/morrowind/mods/51696)
+* [QMS-The Repulsive Paramour](https://www.nexusmods.com/morrowind/mods/51694)
+* [Rescue Mission](https://www.nexusmods.com/morrowind/mods/51693)
+* [Where Merchants Flea](https://www.nexusmods.com/morrowind/mods/51691)
+* [Sa'Virr the traveling bladesmith](https://www.nexusmods.com/morrowind/mods/51684)
+
+* [OAAB Winged Twilight](https://www.nexusmods.com/morrowind/mods/51643)
+* [Arvesa - An Armigers Tale](https://www.nexusmods.com/morrowind/mods/50306)
 
 ### Low Priority additions
 
+* [Markets and Caravans](https://www.nexusmods.com/morrowind/mods/51704)
+* [More Progressive Vos](https://www.nexusmods.com/morrowind/mods/51701)
+* [Windows Glow Expansion](https://www.nexusmods.com/morrowind/mods/42271)
 * Caius Gives You a Cover Story (too minor)
 * Ashlanders Herd (too minor?)
 * Buoyant Lord Vivec (comments mention he has no head tracking anymore?)

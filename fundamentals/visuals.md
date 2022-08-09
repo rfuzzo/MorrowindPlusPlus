@@ -232,7 +232,7 @@ Weather overhaul with randomised cloud textures, more dynamic weathers, weather 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Clouds textures
-  * [x] 02 Weather Adjuster config
+  * [x] 02 Weather Adjuster config - modern MGE XE
   * [x] 03 Weather particles replacer
 
 ⭐📃 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)\
