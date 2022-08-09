@@ -841,6 +841,8 @@ On MO2 installation, it does not matter if you install too many mods, we will go
     * [x] Patch for Purists
     * [x] Scrolls of the nine barriers
     * [x] Concept Art Plantations
+    * [x] Arvesa - An Armigers Tale
+    * [x] Mandas Manor
   * OAAB Foyada Mamaea Overhaul -> **OAAB Foyada Mamaea Overhaul**
   * Animated Morrowind -> **Animated Morrowind**
   * Rise of House Telvanni -> **RoHT 2.0**
@@ -848,7 +850,7 @@ On MO2 installation, it does not matter if you install too many mods, we will go
   * Abots Boats -> **Abots Boats TR Version**
   * Abots Boats for Tomb of the Snow Prince -> **Boats for TOTSP - TR Version**
   * [x] Abot's Gondoliers -> yes
-  * Abots Silt Striders -> Abots Silt Striders for Tamriel Rebuilt
+  * Abots Silt Striders -> **Abots Silt Striders for Tamriel Rebuilt**
   * TR_Travels -> **TR_Travels**
   * Yet Another Guard Diversity -> **Regular**
   * More Patches
@@ -871,6 +873,7 @@ On MO2 installation, it does not matter if you install too many mods, we will go
     * [x] The Publicans
     * [x] Glass Domes
     * [x] Store Entrance Chimes
+    * [x] Far From Home
 
   * Select all that apply
     * [x] 📃 The Sanguine Rose
@@ -879,7 +882,6 @@ On MO2 installation, it does not matter if you install too many mods, we will go
     * [x] 📃 Ashfall interop
     * [x] OAAB Pomegranates
     * [x] Tel Aruhn Chronicles quest and Yansirramus Overhaul addon
-    * [x] Far From Home
 
 📃 [**Various compatibility patches for HOTV Tomb of the Snow prince Solstheim Overhaul**](https://www.nexusmods.com/morrowind/mods/48422)\
  Various patches, including the White Wolf of Lokken, Wanderes of Solstheim, Children of Morrowind, Thirsk Expanded more....an ongoing project
