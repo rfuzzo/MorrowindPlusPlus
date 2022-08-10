@@ -131,6 +131,8 @@ For help with this mod list and many many bug fixes:
 * [OAAB Market](https://www.nexusmods.com/morrowind/mods/51687)
 * [Tea Merchants - an addon for Ashfall](https://www.nexusmods.com/morrowind/mods/51656)
 * [Danaes DRIP Depot](https://www.nexusmods.com/morrowind/mods/51645)
+* [Give a Gift](https://www.nexusmods.com/morrowind/mods/46661)
+* [Misc Mates](https://www.nexusmods.com/morrowind/mods/48122)
 
 ### Medium Priority additions
 
@@ -154,6 +156,7 @@ For help with this mod list and many many bug fixes:
 * [Rescue Mission](https://www.nexusmods.com/morrowind/mods/51693)
 * [Where Merchants Flea](https://www.nexusmods.com/morrowind/mods/51691)
 * [Sa'Virr the traveling bladesmith](https://www.nexusmods.com/morrowind/mods/51684)
+* [Dras the Dunmer Legionnaire](https://www.nexusmods.com/morrowind/mods/51446)
 
 * [OAAB Winged Twilight](https://www.nexusmods.com/morrowind/mods/51643)
 * [Arvesa - An Armigers Tale](https://www.nexusmods.com/morrowind/mods/50306)
@@ -161,6 +164,7 @@ For help with this mod list and many many bug fixes:
 ### Low Priority additions
 
 * [Markets and Caravans](https://www.nexusmods.com/morrowind/mods/51704)
+* [Westly's Faces Refurbished](https://www.nexusmods.com/morrowind/mods/51214)
 * [More Progressive Vos](https://www.nexusmods.com/morrowind/mods/51701)
 * [Windows Glow Expansion](https://www.nexusmods.com/morrowind/mods/42271)
 * Caius Gives You a Cover Story (too minor)
