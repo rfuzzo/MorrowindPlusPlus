@@ -5,6 +5,7 @@ Customizable sound overhaul which adds ambient sounds, interior weather, extende
 
 * Files to install:
   * **AURA** (Main files)
+  * **AURA 5.2.2 Patch** (Main files)
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
@@ -102,6 +103,3 @@ A Dwemer music expansion of original tracks by be created for the Morrowind MUSE
 
 * Files to install:
   * **MUSE Expansion - Dwemer (Vanilla - Tribunal)** (Main files)
-
-📃 [**Tamriel Rebuilt - Original Soundtrack**](https://www.nexusmods.com/morrowind/mods/47254)\
-Adds whole new soundtrack for Tamriel Rebuilt areas, with region based music, dungeons, cities and other.

@@ -9,24 +9,31 @@ MWSE lua mod changing the mechanics of Sixth House attacking the player during t
 Adds named NPCs to all cities using leveled lists with items from OAAB, TR_Data, and Morrowind/Bloodmoon/Tribunal.
 
 * On MO2 installation, check the following options in the installer:
-  * BCOM options -> **With BCOM**
-  * Bloodmoon options -> **With TOTSP**
+  * BCOM -> **Yes**
+  * Bloodmoon options -> **TOTSP**
+  * [x] Tamriel Rebuilt
+  * [x] Mage Robes
+  * [x] Morag Tong Polished
+  * [x] Weapons Expansion Project
+  * [x] Redoran War Armor and Sathil Mercenary Equipment
+  * AM Sounds -> **Silent Sounds**
 
 ⭐📃 [**The Guar Whisperer**](https://www.nexusmods.com/morrowind/mods/48247) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
  Allows your to tame and breed guars, and keep them as companions. Intelligent command menu gives unprecedented control over your guar. Attack enemies, fetch items, harvest plants etc. Build trust over time by keeping them happy and healthy to unlock more commands. Fight and play games to level up your guar.
 
-⭐ [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
- Wares gives traders more Wares (duh). Includes Wares from other mods (such as Tamriel Rebuilt). Includes traders in the Mainland.
+⭐ [**Wares Ultimate**](https://www.nexusmods.com/morrowind/mods/52013) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
+Modular versions of WARES for Vvardenfell, Tamriel Rebuilt, Skyrim Home of the Nords, and Province Cyrodiil including items, traders, npcs, Hold it and containers.
 
 * Files to install:
-  * **Wares** (Main files)
+  * **Wares Ultimate** (Main files)
 
-    * On MO2 installation, check the following options in the installer:
-      * [x] 00 Master file
-      * [x] 01 TR
-
-  * **BCOM Wares**
-  * **OAAB WARES**
+  * On MO2 installation, check the following options in the installer:
+    * [x] 00 Core (must have)
+    * [x] 01 TD lists (Tamriel_Data.esm)
+    * [x] 02 Vvardenfell addons
+    * [x] 03 TR addons (TR_Mainland.esm)
+    * [x] 04 SHOTN addons (Sky_Main.esm)
+    * [x] 05 PC addons (Cyrodiil_Main.esm)
 
 ⭐ [**Friends and Foes**](https://www.nexusmods.com/morrowind/mods/49251) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
  Adds friendly and less friendly npcs to the game.
@@ -34,6 +41,8 @@ Adds named NPCs to all cities using leveled lists with items from OAAB, TR_Data,
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 TR addon
+  * [x] 02 no city exterior
+  * [x] 04 no sitters
 
 ⭐ [**Vanilla friendly creatures and undeads expansion**](https://www.nexusmods.com/morrowind/mods/48818) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
  Vanilla friendly creatures and undeads expansion mod based on some of the great old creatures mods, TR_data and OAAB_Data
@@ -112,13 +121,6 @@ In collaboration with OAAB Leveled Creatures, this mod will add female dwarven s
 ⭐📃 [**DRIP - Dynamic Randomised Item Properties**](https://www.nexusmods.com/morrowind/mods/51242) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
 Drip adds Diablo 2 style loot to Morrowind. Unique weapons, armor, clothing and accesories are dynamically generated, with over a hundred unique modifiers and more than a million possible combinations. Chance to apply modifiers configurable MCM.
 
-⭐ [**Wares for NPCs**](https://www.nexusmods.com/morrowind/mods/49997) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
-Vanilla and TR npcs will now wear randomised clothes, armour and weapons.
-Vanilla and TR containers will now hold randomised clothes, armour and weapons.
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Vv + TR
-
 ⭐ [**Taddeus' Foods of Tamriel**](https://www.nexusmods.com/morrowind/mods/49388) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
 This mod adds Ashfall compatible Foods from all over Tamriel as well as a few shops and Food Outposts.
 It also adds ovens that can be used to bake bread and pies. More baking recipes are available if you have a rolling pin.
@@ -145,6 +147,8 @@ This is a compilation of mods that does a couple of things:
     * [x] Morag Tong Polished Patch
     * [x] Cephalopod Armor - OAAB Patch
     * [x] Cepalopod Armor - TR patch
+    * [x] Arvesa
+    * [x] Redoran War
 
 ⭐📃 [**Unidentified Items**](https://www.nexusmods.com/morrowind/mods/48964)\
 Adds unidentified rings, amulets, belts, robes, pants and shirts to the game, as well as an Identify Service from Enchanters.
@@ -168,6 +172,24 @@ Players skilled in Mysticism and Enchant can learn to Identify
   * **OAAB Leveled Lists**
   * **OAAB Leveled Creatures**
   * **OAAB Drip**
+
+// TODO REQUIREMENTS
+⭐ [**OAAB_Data and Community Equipment Integration**](https://www.nexusmods.com/morrowind/mods/50307)\
+ Ongoing project dedicated to integrating into the game a variety of community-made weapons, armor, and clothing.
+
+* Files to install:
+  * **Community Weapons Integrated**
+  * **Redoran War and Sathil Mercenary Armor Integrated**
+  * **RuffinVangarr Armors Integrated**
+
+* On MO2 installation, check the following options in the installer:
+  * Core
+    * OAAB Weapons -> **Yes**
+    * Oriental Ebony Weapons -> **Yes**
+    * Rebalances - OAAB Weapons -> **Yes** (personal preference)
+    * Rebalances - Oriental Ebony Weapons -> **Yes** (personal preference)
+  * Patches
+    * Everything
 
 ⭐ [**Uncharted Artifacts**](https://www.nexusmods.com/morrowind/mods/49281)\
  All shipwrecks carry a hidden map revealing the location of a unique, non-quest related artifact. Let the treasure hunting begin!

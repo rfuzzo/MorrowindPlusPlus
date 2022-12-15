@@ -12,9 +12,6 @@ Fixes some of the biggest exploits and balance issues in the game.
 ⭐ [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036)\
 Makes the Sixth House, properly, the most difficult content in the game.
 
-⭐ [**Beware the Sixth House Tweaks**](https://www.nexusmods.com/morrowind/mods/49232)\
-Fixes a number of inconsistencies with the mod's creature edits.
-
 ⭐ [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713)\
 Rebalances Tribunal as if it shipped with Morrowind. Intended to be used with Beware the Sixth House.
 
@@ -108,14 +105,19 @@ An overhaul of the Mages Guild, Thieves Guild and Fighters Guild.
 This mod overhauls the Fighters Guild questline by improving the background and narrative side of most of its quests, as well as adding more variety and available choices to them.
 
 * On MO2 installation, check the following options in the installer:
-  * [x] Merged
+  * [x] 00 Merged
+  * [x] 02 Patch for Balmora Guilds Expanded
+  * [x] 03 Patch for Caeris' Camonna Tong
 
 [**Mage Robes**](https://www.nexusmods.com/morrowind/mods/45739)\
 Many Mages Guild members will now wear the new robes and the player can acquire the robes through quests and purchase.
 
 * On MO2 installation, check the following options in the installer:
-  * How do you play the game -> **📜 MGE XE**
+  * How do you play the game -> **📜 MGE XE** (or OpenMW)
   * [x] Vanilla style robe enchantments
+
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
+  * [x] `Mage Robes_Weak.ESP`
 
 [**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773)\
 Members of the Mages Guild can now deliver a coded message, solve a murder, investigate a heist, barter with the Telvanni and retrieve a tome of dark power for the Master Wizard of Caldera
@@ -345,3 +347,6 @@ Adds the legendary Wabbajack artifact!
 
 [**Sixth House Informant - The Monastery of Ishdad Ab**](https://www.nexusmods.com/morrowind/mods/51602)\
 This mod adds a new quest featuring a medium sized sixth house base.
+
+[**Ashlanders Herd**]<https://www.nexusmods.com/morrowind/mods/48720>)\
+ Ashlanders Herd provides a solution to a dialogue inconsistency and spices up Ashlander camps by adding domesticated Guar and Shalk painted with tribal identifiers.

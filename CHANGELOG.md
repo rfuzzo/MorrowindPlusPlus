@@ -1,5 +1,16 @@
 # Changelog
 
+## December 15th 2022
+
+Additions
+
+- Better Telvanni Crystal
+
+Removals
+
+- Tamriel Rebuilt Sound Overhaul (added TRMusic)
+- Better fitted female armors (minor)
+
 ## July 17th 2022
 
 Additions

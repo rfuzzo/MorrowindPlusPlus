@@ -6,16 +6,13 @@
 Asset repository required for OAAB mods and Nordic Dagon Fel.
 
 * On MO2 installation, check the following options in the installer:
-  * Install Options -> None
-
+  * Better Telvanni Crystals -> **Yes**
+  
 ⭐ [**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537)\
 Asset repository required for Solstheim - Tomb of the Snow Prince and Nordic Dagon Fel.
 
 * Files to install:
   * **Tamriel Data (HD)** (Main files)
-
-* On MO2 installation, an installer window will pop up asking you to set a Data Files Directory.
-* Right click on `00 Core` and select "Set as < data files > directory".
 
 {% hint style="info" %}
 To register the mod's BSA file, launch **Wrye Mash** from Mod Organizer 2. In the Mods tab, click the BSA Archives tab to the right, and check the BSA you want to register.
@@ -40,20 +37,24 @@ Asset repository for **PikacunoTM**'s An Addendum to Tamrielic Lore mod project.
 * Files to install:
   * **Tamriel Rebuilt** (Main files)
 
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 01 Faction Integration
-  * [x] 03 Travel Network for Core and Vvardenfell
-  * [x] 04 Patch for Abot's Travels mods
+  * On MO2 installation, check the following options in the installer:
+    * [x] 00 Core
+    * [x] 01 Faction Integration
+    * [x] 02 Siege at Firemoth Compatibility Patch
 
-* **Tamriel Rebuilt 21.01 hotfix 1**
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
+  * [x] `TR_OldTravels.ESP`
+  * [x] `TR_Travels.ESP`
 
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 01 Faction Integration
+  * **Tamriel Rebuilt hotfix** (Main files)
+  * **TRMusic** (Optional files)
 
 ⭐ [**Skyrim Home Of The Nords**](https://www.nexusmods.com/morrowind/mods/44921)\
 The Imperial Legion maintains a border wall between Dragonstar East, ruled by Jarl Jona the Ansei-Ender, and Dragonstar West, a Crown holding surrounded almost entirely by the Kingdom of the Reach.  Residents of the cities are forbidden from crossing the wall due to threats of constant violence, something they know too well.  Outside the cities, life goes on for the Reachmen of the Alovach and Taliesinn tribes; however, they keep one ear to the ground. If war were to again break out in Dragonstar, they would inevitably be dragged in...
+
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Core
+  * [x] 01 Grass for MGEXE and OpenMW
 
 {% hint style="warning" %}
 After installation, disable `Sky_Main_Grass.esp` in your load order. ⚠️ **Do not hide or delete them**, as they are necessary for the mod to work as intended when generating Distant Land.
@@ -61,6 +62,13 @@ After installation, disable `Sky_Main_Grass.esp` in your load order. ⚠️ **Do
 
 ⭐ [**Province Cyrodiil**](https://www.nexusmods.com/morrowind/mods/44922)\
 Set almost exactly between the great ports of Cyrodiil, Hammerfell, Valenwood and Summerset, the isle of Stirk offers a safe harbor to the many trade ships that sail on the wide Abecean Sea. Though poor and provincial compared to the mighty cities of Cyrodiil, the island thrives on passing trade and the rich fishing grounds that surround it.
+
+* Files to install:
+  * **Cyr_Main**
+  * **Cyrodiil_Main** (Archive)
+
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
+  * [x] `Cyrodiil_Main.esm`
 
 {% hint style="warning" %}
 After installation, disable `Cyrodiil_Grass.ESP` in your load order. ⚠️ **Do not hide or delete them**, as they are necessary for the mod to work as intended when generating Distant Land.
@@ -196,14 +204,13 @@ Greatly improves performance and fixes some mesh errors.
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
-  * [ ] 01 Lake Fjalding Anti-Suck\
-    Increases performance around Lake Fjalding by replacing several of the smaller meshes with larger, merged ones. Has no impact on visuals.
   * [x] 02 Weapon Sheathing Patch\
     Compatibility patch for Weapon Sheathing. Makes weapon sheaths show the fixed MOP weapon meshes instead of the vanilla ones.
   * [x] 03 Chuzei Fix\
     Fixes neck problems with the Native Chuzei Bonemold Helm.
   * [x] 04 Better Vanilla Textures\
     Includes several vanilla textures with fixed alphas and several other changes made specifically for MOP. Also fixes a lot of broken textures and makes textures that were supposed to be seamless actually seamless.
+  * [x] 05 Graphic Herbalism Patch (install separately)
 
 {% hint style="info" %}
 We do not install `01 Lake Fjalding Anti-Suck` because this is included in Tomb of the Snow Prince. If you do not intend to install TOTSP, then select Lake Fjalding Anti-Suck.

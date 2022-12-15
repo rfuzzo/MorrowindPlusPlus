@@ -30,11 +30,11 @@ This needs to be installed before BCOM
  Overhaul of almost every settlement of Morrowind, inspired by concept art and aimed at a vanilla+ feeling.
 
 * Files to install:
-  * **Beautiful Cities of Morrowind - Core** (Main Files)
+  * **Beautiful Cities of Morrowind - BCOM Core** (Main Files)
 
 * On MO2 installation, check the following options in the installer:
   * **Installation Options**
-    * OpenME or MGEXE -> **MGEXE** (or OpenMW on OpenMW)
+    * OpenME or MGEXE -> **MGEXE** (or OpenMW)
     * Default Bcom -> **Default BCOM**
     * Waterfront Options -> **Simple Cluttering** (*personal preference*)
     * Haalu Council Hall Plaza -> **Izy Style** (*personal preference*)
@@ -80,8 +80,6 @@ This needs to be installed before BCOM
 
 * Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
   * [x] `abotGondoliersRV.esp`
-  * [x] `abotGondoliersRVWP.esp`
-  * [x] `abotGondoliersWP.esp`
 
 ⭐📃 [**Silt Striders**](https://www.nexusmods.com/morrowind/mods/42267) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
  I wanted to travel Morrowind on top of a real Silt Strider so strongly, and after years waiting for some similar mod to be completed, I decided to try myself.
@@ -266,7 +264,7 @@ Replaces the water in the Palace of Vivec's canals using the animation method an
 [**Prerelease Prisonmoon**](https://www.nexusmods.com/morrowind/mods/49627)\
  Adds some more clutter to the ministry of truth inspired by early screenshots and concept art.
 
-<details>	<summary>Alternatives</summary>
+<details> <summary>Alternatives</summary>
 
 * [Baar Dau](https://www.nexusmods.com/morrowind/mods/49456)
 * [Meteorite Ministry](https://www.nexusmods.com/morrowind/mods/45506)
@@ -398,7 +396,7 @@ Near Sadrith Mora is a series of ancient pillars, rumoured to be a long abandone
   Overhaul of the corprusarium, making it the creepy place it was meant to be.
 
 * On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
+  * None
 
 [**RR Mod Series - Melchiors Mudcrab Merchant**](https://www.nexusmods.com/morrowind/mods/42685)\
 This mod is a model and texture replacer for the Mudcrab Merchant, making him stand out against the other mudcrabs in a classy way.
@@ -432,7 +430,7 @@ Adds firefly-like insects called glowbugs across the Bitter Coast region which c
   * [x] 01 Glowbugs BC
   * [x] 02 Glowbugs AI
 
-<details>	<summary>Alternatives</summary>
+<details> <summary>Alternatives</summary>
 
 ⭐ [**Fireflies**](https://www.nexusmods.com/morrowind/mods/51443) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
 Adds fireflies around the Bitter Coast and the Ascadian Isles
@@ -498,7 +496,7 @@ A distraught nephew, a missing uncle, a manor slowly sinking into the swamps of 
 [**Bitter Coast Scum Replacer**](https://www.nexusmods.com/morrowind/mods/48291)\
 Replaces swamp scum using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture. Two versions are included, with a standalone edit of Lougians meshes that allow activation through the mesh.
 
-<details>	<summary>Alternatives</summary>
+<details> <summary>Alternatives</summary>
 
 [**Static Scum Pond Remover**](https://www.nexusmods.com/morrowind/mods/50140)\
 This mod of mine removes the default non animated scum texture covering many ponds on the Bitter Coast and beyond.
@@ -541,6 +539,7 @@ Overhauls Dwemer ruins so that they are more memorable, more fun to explore, and
   * **BDI - Nchuleft** (Main files)
   * **Better Dwemer Interiors Master** (Main files)
   * **BDI master update** (Update files)
+  * **nchuleft interim hotfix** (Update files)
 
 [**Fixed Falensarano**](https://www.nexusmods.com/morrowind/mods/48683)\
 This is a small edit to the mod Falensarano - The ruined stronghold where landscape edits have been removed for compatibility.
@@ -638,7 +637,10 @@ A West Gash tree replacer for players who desire a look closer to the vanilla ga
     * [x] Ashfall trees patch
 
 [**URH - Ald Velothi**](https://www.nexusmods.com/morrowind/mods/51590) by [mwgek](https://www.nexusmods.com/morrowind/users/4462276)\
-An overhaul of the Ald Velothi outpost to give it a unique look. 
+An overhaul of the Ald Velothi outpost to give it a unique look.
+
+* On MO2 installation, check the following options in the installer:
+  * [x] I use both Path for Purists and Animated Morrowind - Merged.
 
 [**The Island - Aln'Baldrahn**](https://www.nexusmods.com/morrowind/mods/43187) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  This mod adds a beautiful new island to the West Gash Region near Khuul. I actually made this mod as my interior/exterior showcase for the Tamriel Rebuilt project but I spent so much time on it and I liked it so much that I thought I would release it here for others to enjoy.
@@ -654,6 +656,12 @@ This mod add two charming windmill immediately northwest of Caldera. You simply 
 
 [**Andasreth Stronghold - dungeon and exterior overhaul**](https://www.nexusmods.com/morrowind/mods/46604)\
  Rebuilds Andasreth stronghold and its exterior area.
+
+[**Balmora Gravemarket**](https://www.nexusmods.com/morrowind/mods/51696)
+ The disused catacombs under Balmora make a fine spot for a flea market. Food, drink, jewellery, home goods, tailoring, all available and guaranteed watched over by the sacred dead.
+
+* Files to install:
+  * **BalmoraGravemarketBCOM** (Main files)
 
 ## Solstheim
 
@@ -843,6 +851,7 @@ On MO2 installation, it does not matter if you install too many mods, we will go
     * [x] Concept Art Plantations
     * [x] Arvesa - An Armigers Tale
     * [x] Mandas Manor
+    * [x] Siege at Firemoth
   * OAAB Foyada Mamaea Overhaul -> **OAAB Foyada Mamaea Overhaul**
   * Animated Morrowind -> **Animated Morrowind**
   * Rise of House Telvanni -> **RoHT 2.0**
@@ -851,7 +860,7 @@ On MO2 installation, it does not matter if you install too many mods, we will go
   * Abots Boats for Tomb of the Snow Prince -> **Boats for TOTSP - TR Version**
   * [x] Abot's Gondoliers -> yes
   * Abots Silt Striders -> **Abots Silt Striders for Tamriel Rebuilt**
-  * TR_Travels -> **TR_Travels**
+  * TR_Travels -> **TR_Travels (Mainland and Preview)**
   * Yet Another Guard Diversity -> **Regular**
   * More Patches
     * [x] Skyrim Home of The Nords
@@ -882,6 +891,7 @@ On MO2 installation, it does not matter if you install too many mods, we will go
     * [x] 📃 Ashfall interop
     * [x] OAAB Pomegranates
     * [x] Tel Aruhn Chronicles quest and Yansirramus Overhaul addon
+    * [x] Foreign Quarter Market Square
 
 📃 [**Various compatibility patches for HOTV Tomb of the Snow prince Solstheim Overhaul**](https://www.nexusmods.com/morrowind/mods/48422)\
  Various patches, including the White Wolf of Lokken, Wanderes of Solstheim, Children of Morrowind, Thirsk Expanded more....an ongoing project

@@ -259,8 +259,7 @@ Adds wooden shutters to Nord windows (like those in the vanilla game), which ope
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
-  * [x] 03 Vanilla style sunrays\
-    Adds interior sunrays. Windows use the original vanilla stones.
+  * [x] 03 Vanilla style sunrays
 
 📃 [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)\
 Toggle lights on and off. Town lights turn off during the day. Lights are no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.
@@ -282,19 +281,6 @@ Forwards Patch for Purists fixes to the plugin.
 
 ⭐ [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281)\
 Replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws, matching the Bear and Snow Bear helmets.
-
-[**Alex's Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187)\
-Gives all cuirasses female variants that fits the hips and waist more and makes armors less bulky.
-
-[**Alex's Better Fitted Female Armors ESP Replacer**](https://github.com/Sigourn/nerevarrising/blob/master/mods/Alex's%20Better%20Fitted%20Female%20Armors%20\(PfP%20Edit\).7z)\
-Forwards Patch for Purists fixes to the plugin, and removes edits to cuirasses that already had a female variant.
-
-{% hint style="info" %}
-[**External Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/Alex's%20Better%20Fitted%20Female%20Armors%20\(PfP%20Edit\).7z) to the download.
-{% endhint %}
-
-[**Properly Fitted Female Pants**](https://www.nexusmods.com/morrowind/mods/49673)\
-Adds female variants to all the pants in vanilla Morrowind by recombining the assets from the vanilla game.
 
 [**LeFemm Redacted**](https://www.nexusmods.com/morrowind/mods/50361)\
 Adds several changes to the Tribunal cuirass replacers to make them more consistent with their male counterparts.
@@ -411,8 +397,11 @@ Replaces the standard wooden chests in Nordic Tombs with a unique model, because
 * On MO2 installation, check the following options in the installer:
   * [x] Patch for Purists Plugin
 
-[**Qwerty's Various Graphics - Bridgeropes**](https://www.nexusmods.com/morrowind/mods/46026?)\
+[**Qwerty's Various Graphics - Bridgeropes**](https://www.nexusmods.com/morrowind/mods/46026)\
 Retexture of bridgeropes.
 
 * On MO2 installation, check the following options in the installer:
   * [x] 01 Dark
+
+[**Better Telvanni Crystal**](https://www.nexusmods.com/morrowind/mods/50818)\
+This is a replacer for crystals you can find in Telvanni buildings and some caves.
