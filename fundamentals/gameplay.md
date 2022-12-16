@@ -30,7 +30,7 @@ This mod attempts to preserve vanilla leveling mechanics while eliminating the n
 MCM: DISABLE Retroactive Health Calculation
 {% endhint %}
 
-<details>	<summary>Alternatives</summary>
+<details> <summary>Alternatives</summary>
 
 [**L.A.M.P. ---- Leftover Attribute Modifiers Persist**](https://www.nexusmods.com/morrowind/mods/51310)\
  Saves any unused skill ups for the next time you level up. No ESP needed.

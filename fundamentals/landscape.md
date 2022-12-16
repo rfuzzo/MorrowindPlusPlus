@@ -88,7 +88,7 @@ This needs to be installed before BCOM
   * [x] `ab01NPCLCVSchedulesFix.esp`
   * [x] `abotSiltStriders.esp`
 
-⭐ [Better Dunmer Strongholds](https://www.nexusmods.com/morrowind/mods/49692) by [Dallara1000](https://www.nexusmods.com/morrowind/users/3346952)\
+⭐ [**Better Dunmer Strongholds**](https://www.nexusmods.com/morrowind/mods/49692) by [Dallara1000](https://www.nexusmods.com/morrowind/users/3346952)\
 This little replacement make the old dunmer's strongholds less empty and a little bit more dangerous
 
 * On MO2 installation, check the following options in the installer:
@@ -103,6 +103,9 @@ This little replacement make the old dunmer's strongholds less empty and a littl
   * [x] `Dunmer Stronghold - Hlormaren V1.0.esp`
   * [x] `Dunmer Stronghold - Kogorhun V1.0.esp`
   * [x] `Dunmer Stronghold - Marandus V1.0.esp`
+
+⭐ [**Shipyards of Vvardenfell (Sadrith Mora - Seyda Neen - Gnaar Mok)**](https://www.nexusmods.com/morrowind/mods/51928)\
+ Morrowind is full of ships, boats and skiffs but who built them and where? Our mod seeks to answer these questions once and for all by adding shipyards to towns by the sea. The mod adds shipyards to Sadrith Mora, Seyda Neen and Gnaar Mok with four engaging quests in total.
 
 ## Environment
 
@@ -307,6 +310,28 @@ Community expansion to Glass Domes of Vivec - visual fixes, new region mechanics
 [**Severa Magia DB Fix**](https://www.nexusmods.com/morrowind/mods/45647) by [Corsair83](https://www.nexusmods.com/morrowind/users/23131859)\
 Updates Severa Magia's hideout to look and feel more like a DB sanctuary.
 
+[**Foreign Quarter Market Square**](https://www.nexusmods.com/morrowind/mods/51700)\
+ Overhauls the pit area in the Lower Waistworks of the Foreign Quarter in Vivec to a cozy flea market with custom, OAAB and vanilla assets.
+
+[**Suran Silt Skiff**](https://www.nexusmods.com/morrowind/mods/51697)\
+ Each month on the 17th a skiff will appear in Suran. Onboard is a friendly ashlander looking to sell her wares.
+
+[**Vivec Lighthouse**](https://www.nexusmods.com/morrowind/mods/52019)\
+ A Velothi lighthouse has been added to the peninsula south of Ebonheart. Now the ships can safely navigate to the docks at the city of Vivec.
+
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Core
+  * [x] 01 Patch - Logs on Fire
+
+[**Hla Odai**](https://www.nexusmods.com/morrowind/mods/51942)\
+ Adds a cozy new Hlaalu dock town at the mouth of the Odai River, as well as a few quests within the town. West of Seyda Neen, south of Balmora. Also marbles!
+
+* On MO2 installation, check the following options in the installer:
+  * [x] Data Files
+
+⭐ [**OAAB - Hawia Egg Mine**](https://www.nexusmods.com/morrowind/mods/51846)\
+ A remake of Hawia egg mine using OAAB assets.
+
 ## Ashlands
 
 ⭐ [**OAAB - The Ashen Divide**](https://www.nexusmods.com/morrowind/mods/49047)\
@@ -368,6 +393,10 @@ Makes the Erabenimsun camp stand out from the rest of the ashlands with some uni
 [**Kogoruhn Expanded**](https://www.nexusmods.com/morrowind/mods/46098)\
 An expansion mod for Kogoruhn, the capital of House Dagoth.
 
+{% hint style="info" %}
+The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](/fundamentals/shaders.md#shader-setup) section.
+{% endhint %}
+
 ## Azura's Coast
 
 ⭐ [**OAAB Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
@@ -419,6 +448,12 @@ This little mod tweaks the Forge of Hilbongard slightly to make it a little more
 
 [**Telvanni Council House Lounge Room**](https://www.nexusmods.com/morrowind/mods/49285) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
 Adds a new room in the Telvanni Council House where the player, and the other npcs, can relax, sleep and eat.
+
+[**OAAB Market**](https://www.nexusmods.com/morrowind/mods/51687)\
+Adds a new room in the Telvanni Council House where the player, and the other npcs, can relax, sleep and eat.
+
+[**Smuggler's Market**](https://www.nexusmods.com/morrowind/mods/51698)\
+ Pirates upon the shore of Azura's Coast, along with a market, tavern, and small cavern. Includes one short quest.
 
 ## Bitter Coast
 
@@ -493,10 +528,13 @@ A distraught nephew, a missing uncle, a manor slowly sinking into the swamps of 
 [**Shal Overgrown**](https://www.nexusmods.com/morrowind/mods/47219) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
  Travel to Shal and discover its secrets: the once small cave is now overgrown and even reaches into the nearby Daedric ruin Ashurnibibi.
 
-[**Bitter Coast Scum Replacer**](https://www.nexusmods.com/morrowind/mods/48291)\
-Replaces swamp scum using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture. Two versions are included, with a standalone edit of Lougians meshes that allow activation through the mesh.
+[**Perfect Scum**](https://www.nexusmods.com/morrowind/mods/51355)\
+ Changes the location of the scum models to better match the water level. Makes all swamps perfect. OpenMW and MGE XE compatible.
 
 <details> <summary>Alternatives</summary>
+
+[**Bitter Coast Scum Replacer**](https://www.nexusmods.com/morrowind/mods/48291)\
+Replaces swamp scum using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture. Two versions are included, with a standalone edit of Lougians meshes that allow activation through the mesh.
 
 [**Static Scum Pond Remover**](https://www.nexusmods.com/morrowind/mods/50140)\
 This mod of mine removes the default non animated scum texture covering many ponds on the Bitter Coast and beyond.
@@ -547,6 +585,9 @@ There were also dirty edits that have been removed and some small tweaks here an
 
 * Files to install:
   * **Fixed Falensarano** (Main files)
+
+[**Thickle-Lo Grove**](https://www.nexusmods.com/morrowind/mods/51689)\
+ Discover a little secret of the Ashlander traders, who live near Iveri Llothri, the unlucky witch... This mod adds an interesting place to visit in the Grazelands, to the east of Zainab camp and to the south of Vos. Made for the Summer Modjam 2022.
 
 ## Molag Amur
 
@@ -662,6 +703,9 @@ This mod add two charming windmill immediately northwest of Caldera. You simply 
 
 * Files to install:
   * **BalmoraGravemarketBCOM** (Main files)
+
+[**URH - Khuul**](https://www.nexusmods.com/morrowind/mods/51761)\
+ Overhauls Thongar's Tradehouse in Khuul to be more unique.
 
 ## Solstheim
 
@@ -815,6 +859,30 @@ This mod adds a quest to a new and dangerous tomb which brings the player to une
 
 * After installation, in MO2, go to **Filetree**:
 * `Far From Home v1.4.ESP` -> right click: **Hide**.
+
+⭐ [**Investigations at Tel Eurus**](https://www.nexusmods.com/morrowind/mods/51940)\
+ Investigate a series of attacks on Tel Eurus, follow the clues to uncover the mastermind behind it. Level 10 or higher recommended.
+
+* On MO2 installation, check the following options in the installer:
+  * [x] Data Files
+  * [ ] ✨ Extras for OpenMW only (OpenMW)
+
+⭐ [**Secrets of the Crystal City**](https://www.nexusmods.com/morrowind/mods/51932)\
+ The lost "Crystal City" of Massama has been discovered by a desperate group of escaped slaves. Through a series of quests, players will learn some of the secrets behind The Curse of Massama while trying to keep the separate factions from killing each other over the raw glass they've mined.
+
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Core
+  * [x] 01 HD Textures
+
+⭐ [**Memento Mori**](https://www.nexusmods.com/morrowind/mods/51940)\
+ Discover the Great Ossuaries of Ayem, Seht, and Vehk on the slopes of Red Mountain and their associated catacombs deep beneath the volcano.
+
+* On MO2 installation, check the following options in the installer:
+  * [x] 01 Main Files (Required)
+  * [x] 02 BCOM Patch (Optional)
+
+⭐ [**Horror at Helvil Mine**](https://www.nexusmods.com/morrowind/mods/51941)\
+ Ask around about Latest Rumors in Maar Gan to find tell of a mine in peril. Bring forth its demise, or save it from financial ruin! Ever wanted to own a mine? Ever wanted to be friends with a kwama? This is the mod for you.
 
 ## Patches
 

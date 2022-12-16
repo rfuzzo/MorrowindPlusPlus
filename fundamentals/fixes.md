@@ -188,6 +188,12 @@ Allows travel to Mournhold before the Dark Brotherhood attacks begin.
 [**Lord's Mail and Morningstars**](https://www.nexusmods.com/morrowind/mods/49878)\
 Fixes two inconsistencies in the game: one concerning the enchantment of Lord's Mail and another concerning the lack of morningstars in the game.
 
+[**Coins renamed**](https://www.nexusmods.com/morrowind/mods/48464)\
+ Renames gold to Septims, and dwemer coins to dwemer dumacs
+
+* Files to install:
+  * **Coins renamed** (Main files)
+
 ## Mesh fixes
 
 ⭐ [**Fix Those Bastard Rope Fences**](https://www.nexusmods.com/morrowind/mods/45741) by [Petetehgoat](https://www.nexusmods.com/morrowind/users/25319994)\

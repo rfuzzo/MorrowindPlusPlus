@@ -103,3 +103,7 @@ A Dwemer music expansion of original tracks by be created for the Morrowind MUSE
 
 * Files to install:
   * **MUSE Expansion - Dwemer (Vanilla - Tribunal)** (Main files)
+
+📃 [**MUSE Music Expansion - Daedric**](https://www.nexusmods.com/morrowind/mods/51993)\
+Sharp synths, distorted guitars, phasing drum loops...
+A Daedric themed music expansion of original tracks by be created for the Morrowind MUSE mod. Featuring 5 new exploration tracks and 4 new combat tracks.

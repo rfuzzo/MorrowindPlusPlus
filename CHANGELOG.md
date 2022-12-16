@@ -1,10 +1,43 @@
 # Changelog
 
-## December 15th 2022
+## December 16th 2022
 
 Additions
 
+- Gonzo's Splash Screens
+- Logs on Fire
 - Better Telvanni Crystal
+- Concept Art Dunmer Helmets
+- (AshFall) Axe Additions
+- MUSE Music Expansion - Daedric
+- Coins renamed
+- Shipyards of Vvardenfell
+- Foreign Quarter Market Square
+- Suran Silt Skiff
+- Vivec Lighthouse
+- Hla Odai
+- OAAB - Hawia Egg Mine
+- OAAB Market
+- Smuggler's Market
+- Perfect Scum
+- Thickle-Lo Grove
+- URH - Khuul
+- Investigations at Tel Eurus
+- Secrets of the Crystal City
+- Memento Mori
+- Horror at Helvil Mine
+
+- The Pearl Divers
+- Tirram Terala's Treasure Trove of Trinkets
+- QMS-The Repulsive Paramour
+- QMS-Fallacy of Justice
+- Rescue Mission
+- Where Merchants Flea
+- Sa'Virr the traveling bladesmith
+- Dras the Dunmer Legionnaire
+- Leap of Faith
+- Yul Marshee and the Visage of Mzund
+- Arvesa - An Armigers Tale
 
 Removals
 

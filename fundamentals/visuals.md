@@ -148,6 +148,9 @@ MWSE-Lua 3D clouds and mist.
 ⭐📃 [**Fallen Ash**](https://www.nexusmods.com/morrowind/mods/48711) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
  Dynamically adds ash decals to people, places, things, and probably concepts during ash storms.
 
+⭐ [**Logs on Fire**](https://www.nexusmods.com/morrowind/mods/51752)\
+ Changes the non-combustible vanilla logs to combustible ones. The new meshes are using a glowmap and some UV animation to give the illusion to be actually on fire.
+
 [**Crystal Soul Gems**](https://www.nexusmods.com/morrowind/mods/48300)\
  Adds transparency, glowing effect and reflection to soul gems.
 

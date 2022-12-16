@@ -211,3 +211,9 @@ An ebony shortsword is hidden somewhere in the western half of Vvardenfell. Will
 
 [**Boots of Blazing Speed**](https://www.nexusmods.com/morrowind/mods/49428)\
 A fiery alternative to the Boots of Blinding Speed. They can be found in the locked and trapped bedroom on bottom floor of the Balmora Fighter's Guild.
+
+[**Concept Art Dunmer Helmets**](https://www.nexusmods.com/morrowind/mods/52043)\
+ Adds several new Dunmer Helmets into the game based on designs by michael kirkbride
+
+[**(AshFall) Axe Additions**](https://www.nexusmods.com/morrowind/mods/51716)\
+ Adds 4 one-handed axes to the game (to use as woodcutting axe for the mod AshFall).

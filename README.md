@@ -30,13 +30,13 @@ No major combat or gameplay overhauls have been installed, and the vanilla level
 
 ## References
 
-* [Sigourn's MorrowindSharp/NerevarRising modlist](https://github.com/Sigourn/nerevarrising/blob/master/main.md)
-* [An alternative to Morrowind Rebirth - A modlist by RandomPal](https://www.nexusmods.com/morrowind/mods/48812)
-* [Catalogue of Alice Roleplaying Mods for Morrowind](https://alicemorrowindmods.wordpress.com/2021/06/03/catalogue-of-alice-roleplaying-mods-for-morrowind/)
-* [Morrowind Themed Mod Lists - 2019 Edition](https://github.com/Lucevar/mw-immersion-mods)
-* [A Morrowind Mod List by Necrolesian](https://github.com/Necrolesian/morrowind-mod-list)
-* [Pharis' Mod list](https://github.com/PharisMods/pharis-mod-list)
-* [Danae's immersion mods](https://danaeplays.thenet.sk/modlist-little-things-that-go-a-long-way-immersive-mods/)
+* [**Sigourn's MorrowindSharp/NerevarRising modlist**](https://github.com/Sigourn/nerevarrising/blob/master/main.md)
+* [**An alternative to Morrowind Rebirth - A modlist by RandomPal**](https://www.nexusmods.com/morrowind/mods/48812)
+* [**Catalogue of Alice Roleplaying Mods for Morrowind**](https://alicemorrowindmods.wordpress.com/2021/06/03/catalogue-of-alice-roleplaying-mods-for-morrowind/)
+* [**Morrowind Themed Mod Lists - 2019 Edition**](https://github.com/Lucevar/mw-immersion-mods)
+* [**A Morrowind Mod List by Necrolesian**](https://github.com/Necrolesian/morrowind-mod-list)
+* [**Pharis' Mod list**](https://github.com/PharisMods/pharis-mod-list)
+* [**Danae's immersion mods**](https://danaeplays.thenet.sk/modlist-little-things-that-go-a-long-way-immersive-mods/)
 
 ## Setup
 
@@ -110,68 +110,42 @@ This is the mod list proper - install the mods in order as they appear here. MO2
 
 For help with this mod list and many many bug fixes:
 
-* [C19i/SilentJacket](https://www.nexusmods.com/morrowind/users/7006096)
+* [**C19i/SilentJacket**](https://www.nexusmods.com/morrowind/users/7006096)
 * Dennai
-* [Dragon32](https://www.nexusmods.com/morrowind/users/2553)
+* [**Dragon32**](https://www.nexusmods.com/morrowind/users/2553)
 * fray
-* [Pharis](https://github.com/PharisMods/pharis-mod-list)
-* [PoodleSandwich2](https://www.nexusmods.com/morrowind/users/45710542)
-* [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)
+* [**Pharis**](https://github.com/PharisMods/pharis-mod-list)
+* [**PoodleSandwich2**](https://www.nexusmods.com/morrowind/users/45710542)
+* [**RandomPal**](https://www.nexusmods.com/morrowind/users/59284071)* [**
 * Richie Marcus
-* [Sigourn/Lucas9](https://www.nexusmods.com/morrowind/users/14600469)
-* [zertyuiop](https://github.com/rfuzzo/MorrowindPlusPlus/issues/2)
+* [**Sigourn/Lucas9**](https://www.nexusmods.com/morrowind/users/14600469)
+* [**zertyuiop**](https://github.com/rfuzzo/MorrowindPlusPlus/issues/2)
 
 ## TODO (additions)
 
-### High Priority additions
+* [**Danaes DRIP Depot**](https://www.nexusmods.com/morrowind/mods/51645)
 
-* [Gonzo's Splash Screens](https://www.nexusmods.com/morrowind/mods/51667)
-* [Foreign Quarter Market Square](https://www.nexusmods.com/morrowind/mods/51700)
-* [Thickle-Lo Grove](https://www.nexusmods.com/morrowind/mods/51689)
-* [OAAB Market](https://www.nexusmods.com/morrowind/mods/51687)
-* [Tea Merchants - an addon for Ashfall](https://www.nexusmods.com/morrowind/mods/51656)
-* [Danaes DRIP Depot](https://www.nexusmods.com/morrowind/mods/51645)
-* [Give a Gift](https://www.nexusmods.com/morrowind/mods/46661)
-* [Misc Mates](https://www.nexusmods.com/morrowind/mods/48122)
+* [**Morrowind Animated Hammocks (MAH)**](https://www.nexusmods.com/morrowind/mods/49767) (too minor?)
+* [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782) (weird changes?)
+* [**Smart Heads**](https://www.nexusmods.com/morrowind/mods/50098) (not sure)
+* [**Kogoruhn Ruins**](https://www.nexusmods.com/morrowind/mods/44034)
+* [**Daedric Ruins (Half-Revamped)**](https://www.nexusmods.com/morrowind/mods/51674)
+* [**Imperial Altar in Vivec**](https://www.nexusmods.com/morrowind/mods/50273) (too minor?)
+* [**Sacred Necromancer Armor**](https://www.nexusmods.com/morrowind/mods/51651)
+* [**SM Morag Tong Armor**](https://www.nexusmods.com/morrowind/mods/50953)
 
-### Medium Priority additions
-
-* [Morrowind Animated Hammocks (MAH)](https://www.nexusmods.com/morrowind/mods/49767) (too minor?)
-* [Balanced Passive Races and Birthsigns](https://www.nexusmods.com/morrowind/mods/47782) (weird changes?)
-* [Smart Heads](https://www.nexusmods.com/morrowind/mods/50098) (not sure)
-* [Kogoruhn Ruins](https://www.nexusmods.com/morrowind/mods/44034)
-* [Daedric Ruins (Half-Revamped)](https://www.nexusmods.com/morrowind/mods/51674)
-* [Imperial Altar in Vivec](https://www.nexusmods.com/morrowind/mods/50273) (too minor?)
-
-* [Sacred Necromancer Armor](https://www.nexusmods.com/morrowind/mods/51651)
-* [SM Morag Tong Armor](https://www.nexusmods.com/morrowind/mods/50953)
-
-* [The Pearl Divers](https://www.nexusmods.com/morrowind/mods/51703)
-* [Tirram Terala's Treasure Trove of Trinkets](https://www.nexusmods.com/morrowind/mods/51699)
-* [Leap of Faith](https://www.nexusmods.com/morrowind/mods/51702)
-* [Smuggler's Market](https://www.nexusmods.com/morrowind/mods/51698)
-* [Suran Silt Skiff](https://www.nexusmods.com/morrowind/mods/51697)
-* [QMS-The Repulsive Paramour](https://www.nexusmods.com/morrowind/mods/51694)
-* [Rescue Mission](https://www.nexusmods.com/morrowind/mods/51693)
-* [Where Merchants Flea](https://www.nexusmods.com/morrowind/mods/51691)
-* [Sa'Virr the traveling bladesmith](https://www.nexusmods.com/morrowind/mods/51684)
-* [Dras the Dunmer Legionnaire](https://www.nexusmods.com/morrowind/mods/51446)
-
-* [OAAB Winged Twilight](https://www.nexusmods.com/morrowind/mods/51643)
-* [Arvesa - An Armigers Tale](https://www.nexusmods.com/morrowind/mods/50306)
-
-### Low Priority additions
-
-* [Markets and Caravans](https://www.nexusmods.com/morrowind/mods/51704)
-* [Westly's Faces Refurbished](https://www.nexusmods.com/morrowind/mods/51214)
-* [More Progressive Vos](https://www.nexusmods.com/morrowind/mods/51701)
-* [Windows Glow Expansion](https://www.nexusmods.com/morrowind/mods/42271)
+* [**OAAB Winged Twilight**](https://www.nexusmods.com/morrowind/mods/51643)
+* [**Tea Merchants - an addon for Ashfall**](https://www.nexusmods.com/morrowind/mods/51656)
+* [**Markets and Caravans**](https://www.nexusmods.com/morrowind/mods/51704)
+* [**Westly's Faces Refurbished**](https://www.nexusmods.com/morrowind/mods/51214)
+* [**More Progressive Vos**](https://www.nexusmods.com/morrowind/mods/51701)
+* [**Windows Glow Expansion**](https://www.nexusmods.com/morrowind/mods/42271)
 * Caius Gives You a Cover Story (too minor)
 * Buoyant Lord Vivec (comments mention he has no head tracking anymore?)
 * Telvanni Staff for the Telvanni Staff (too minor?)
 * Shrine of Boethiah Expansion (?)
 * Vanity (vanity)
-* [**Broadsheets and Notice Boards Redone**](https://www.nexusmods.com/morrowind/mods/50999) (has some edits to caves?)
+* [****Broadsheets and Notice Boards Redone****](https://www.nexusmods.com/morrowind/mods/50999) (has some edits to caves?)
 
 ## TODO (removals)
 

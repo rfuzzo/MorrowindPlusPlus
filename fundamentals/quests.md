@@ -348,5 +348,43 @@ Adds the legendary Wabbajack artifact!
 [**Sixth House Informant - The Monastery of Ishdad Ab**](https://www.nexusmods.com/morrowind/mods/51602)\
 This mod adds a new quest featuring a medium sized sixth house base.
 
-[**Ashlanders Herd**]<https://www.nexusmods.com/morrowind/mods/48720>)\
+[**Ashlanders Herd**](https://www.nexusmods.com/morrowind/mods/48720)\
  Ashlanders Herd provides a solution to a dialogue inconsistency and spices up Ashlander camps by adding domesticated Guar and Shalk painted with tribal identifiers.
+
+[**The Pearl Divers**](https://www.nexusmods.com/morrowind/mods/51703)\
+
+ Made for Summer Modjam 2022! Meet One-Eye and Beela Fire-Beard, two Argonian pearl divers with a mysterious connection.
+
+[**Tirram Terala's Treasure Trove of Trinkets**](https://www.nexusmods.com/morrowind/mods/51699)\
+ Visit Khuul to find the new market of Tirram Terala, an eccentric peddler with wares to sell and stories to tell. Browse his selection of exotic goods from all over Tamriel and beyond. He might even have a few heirlooms he picked up during his adventuring days.
+
+[**QMS-The Repulsive Paramour**](https://www.nexusmods.com/morrowind/mods/51694)\
+ Embark on a misadventure to find the perfect wife for a very (un)pleasant farmboy. Second entry in the QMS Series.
+
+[**QMS-Fallacy of Justice**](https://www.nexusmods.com/morrowind/mods/49894)\
+ Assist a Redoran exile in his quest for revenge. First entry in the QMS series.
+
+[**Rescue Mission**](https://www.nexusmods.com/morrowind/mods/51693)\
+ Go on a quest to find a mage's missing daughter.
+
+[**Where Merchants Flea**](https://www.nexusmods.com/morrowind/mods/51691)\
+ An orc you might recognize in Suran has had a stroke of bad luck. Bula gra-Muk purchased a pillow from some traveling khajiit. But the pillow came with more than just a fancy cover and she is looking more tired than usual...
+
+[**Sa'Virr the traveling bladesmith**](https://www.nexusmods.com/morrowind/mods/51684)\
+ Sa'Virr, the greatest bladesmith Nirn ever knew. You can find him at the Strider Port in Khuul.
+
+[**Dras the Dunmer Legionnaire**](https://www.nexusmods.com/morrowind/mods/51446)\
+ Meet with Tendndras Lonvyn of the Imperial Legion in Balmora and earn his trust... or enmity.
+
+[**Leap of Faith**](https://www.nexusmods.com/morrowind/mods/51702)\
+ A new merchant has come to Gnisis, selling potions of jump to would-be fast travelers. A pilgrim has gone missing. Are these two things as unrelated as they might seem? A small quest mod, suitable for low level characters.
+
+[**Yul Marshee and the Visage of Mzund**](https://www.nexusmods.com/morrowind/mods/51936)\
+ Embark on a set of unique adventures by helping out Yul Marshee complete her collection of lost treasures and assist her in building a bizarre Dwemer contraption.
+
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Core
+  * [x] 01 HD Textures
+
+[**Arvesa - An Armigers Tale**](https://www.nexusmods.com/morrowind/mods/50306)\
+ An extensive companion and quest mod that hooks onto Morrowinds Main Quest and offers a serious perspective to the world presented. Team up with a complex character with her own faults, hopes, and dreams. Discover another side to the Sixth House and its seedy connections. Make choices and roleplay who you want to be.
