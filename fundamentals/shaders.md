@@ -126,6 +126,21 @@ A compilation of a handful of community-made shaders.
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
 
+⭐✨ [**Zesterer's OpenMW Shaders**](https://github.com/zesterer/openmw-shaders/tree/openmw-0.48)\
+ Photorealistic shaders for Morrowind
+
+{% hint style="info" %}
+Per-pixel lighting enabled
+Light clamping disabled
+{% endhint %}
+
+⭐✨ [**Zesterer's Volumetric Cloud & Mist Mod for OpenMW**](https://github.com/zesterer/openmw-volumetric-clouds)\
+ A volumetric clouds mod for OpenMW
+
+{% hint style="info" %}
+Enable post-processing shaders in your settings.cfg.
+{% endhint %}
+
 ## Shader setup
 
 * Run MGE XE in Mod Organizer 2.

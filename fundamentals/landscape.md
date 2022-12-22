@@ -795,7 +795,7 @@ Adds some unique, Telvanni style light sources to various Telvanni settlements
 This mod requires the **Beta/actor collision box fix** feature to be enabled in the Morrowind Code Patch.
 {% endhint %}
 
-[**Water Life**](https://www.nexusmods.com/morrowind/mods/42417) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
+✨ [**Water Life**](https://www.nexusmods.com/morrowind/mods/42417) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
 This plugin mainly adds to Morrowind (most) peaceful aquatic creatures.
 
 [**Far From Home**](https://www.nexusmods.com/morrowind/mods/46860)\
