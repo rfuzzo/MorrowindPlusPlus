@@ -152,7 +152,6 @@ This is a compilation of mods that does a couple of things:
   * **OAAB Leveled Creatures**
   * 📃 **OAAB Drip**
 
-// TODO REQUIREMENTS
 ⭐ [**OAAB_Data and Community Equipment Integration**](https://www.nexusmods.com/morrowind/mods/50307)\
  Ongoing project dedicated to integrating into the game a variety of community-made weapons, armor, and clothing.
 
@@ -163,12 +162,15 @@ This is a compilation of mods that does a couple of things:
 
 * On MO2 installation, check the following options in the installer:
   * Core
-    * OAAB Weapons -> **Yes**
-    * Oriental Ebony Weapons -> **Yes**
-    * Rebalances - OAAB Weapons -> **Yes** (personal preference)
-    * Rebalances - Oriental Ebony Weapons -> **Yes** (personal preference)
+    * [x] OAAB Weapons
+    * [x] Oriental Ebony Weapons
+    * Rebalances - OAAB Weapons -> [x] (personal preference)
+    * Rebalances - Oriental Ebony Weapons -> [x]  (personal preference)
   * Patches
-    * Everything
+    * [x] Tooltips Complete
+    * [x] Yet Another Guard Diversity
+    * [x] Complete Duke's Guard Silver
+    * [x] Area Effect Arrows
 
 ⭐ [**Uncharted Artifacts**](https://www.nexusmods.com/morrowind/mods/49281)\
  All shipwrecks carry a hidden map revealing the location of a unique, non-quest related artifact. Let the treasure hunting begin!
@@ -192,3 +194,6 @@ Adds 4 one-handed axes to the game (to use as woodcutting axe for the mod AshFal
 
 [**SM Morag Tong Armor**](https://www.nexusmods.com/morrowind/mods/50953)
 A mod that adds a full set of Morag Tong Guild armor to the game. Based on Michael Kirkbride concept-art.
+
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
+  * [x] `sm_mt_armor_eng.esp`

@@ -58,7 +58,6 @@ On MO2 installation, it does not matter if you install too many mods, we will go
   * Select all that apply
     * [x] Velothi Wall Art
     * [x] Velothi Wall Art Re-Addon
-    * [x] Area of effect Arrows
 
   * Select all that apply
     * [x] The Publicans

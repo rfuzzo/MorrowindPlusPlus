@@ -80,12 +80,15 @@ Fixes many issues present in Bethesda's original Official Plugins.
 
 * On MO2 installation, check the following options:
   * **Merged or Individual** -> UMOPP Individual
-  * **Individual Plugins** ->
-    * [x] Bitter Coast Sounds
-    * [x] Entertainers
-    * [x] LeFemm Armor
+  * **Individual Plugins** -> **All**
   * **Install Better Armor Compatibility** -> No
-  
+
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
+  * [x] `adamantiumarmor.esp`
+  * [x] `EBQ_Artifact.esp`
+  * [x] `master_index.esp`
+  * [x] `Siege at Firemoth.esp`
+
 ⭐ [**Bethesda Official Plugins Naturalized**](https://www.nexusmods.com/morrowind/mods/51107) by [PikachunoTM](https://www.nexusmods.com/morrowind/users/16269634)\
  Implementation of Bethesda's Official Plugins with some slightly improved implementation. Uses UMOPP as a base.
 
@@ -96,7 +99,7 @@ Fixes many issues present in Bethesda's original Official Plugins.
     * [x] Helm of Tohan
     * [x] Master Index
     * [x] Siege at Firemoth
-  * **High res textures** -> No
+  * **High res textures** -> Yes
 
 [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364) by [PikachunoTM](https://www.nexusmods.com/morrowind/users/16269634)\
 The Warp Script for the Propylon Indices will now prompt you before teleporting.

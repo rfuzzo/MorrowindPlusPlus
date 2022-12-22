@@ -1,5 +1,12 @@
 # Changelog
 
+## December 22nd 2022
+
+Removals
+
+- URH - Khuul (merged in BCOM)
+- URH - Ald Velothi (merged in BCOM)
+
 ## December 16th 2022
 
 Additions
@@ -22,13 +29,12 @@ Additions
 - Smuggler's Market
 - Perfect Scum
 - Thickle-Lo Grove
-- URH - Khuul
 - Investigations at Tel Eurus
 - Secrets of the Crystal City
 - Memento Mori
 - Horror at Helvil Mine
 - SM Morag Tong Armor
-
+- URH - Khuul
 - The Pearl Divers
 - Tirram Terala's Treasure Trove of Trinkets
 - QMS-The Repulsive Paramour

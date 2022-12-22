@@ -106,6 +106,7 @@ This mod overhauls the Fighters Guild questline by improving the background and 
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Merged
+  * [x] 01 Patch for Bal Molagmer Add-on and Thieves Guild Overhaul
   * [x] 02 Patch for Balmora Guilds Expanded
   * [x] 03 Patch for Caeris' Camonna Tong
 
@@ -136,6 +137,15 @@ This mod is a complete overhaul of the Imperial Legion faction. New quests, item
 
 ⭐ [**Morag Tong Polished**](https://www.nexusmods.com/morrowind/mods/47041)\
 The Morag Tong Guild is the most poorly written faction in Morrowind. This mod fixes that by giving the guild a much needed touch up.
+
+[**Morag Tong Polished Compatibility Patch**](https://www.nexusmods.com/morrowind/mods/48955)\
+This patch fixes conflicts between Morag Tong Polished and other mods:
+
+* Files to download:
+  * **Morag Tong Polished Compatibility Patch**
+
+* On MO2 installation, check the following options in the installer:
+  * [x] 01 TR_Factions
 
 ## Misc
 
