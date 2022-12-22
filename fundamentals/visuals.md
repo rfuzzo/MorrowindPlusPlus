@@ -144,17 +144,18 @@ This mod uses a previously unused keg droplet texture from the game files to add
   * [x] 00 Core
   * [x] 📃 01 MWSE Version OR ✨01 Non-MWSE Version
 
-[**Shield Spells Reforged pt.1. (2022 upg)**](https://www.nexusmods.com/morrowind/mods/50073)\
+[**Spells Reforged - Elemental Shields**](https://www.nexusmods.com/morrowind/mods/50073)\
 Visual overhaul of Elemental Shield spells, with additional on-hit effects.
 
 * Files to install:
+  * **Spells Reforged - Elemental Shields**
   * ✨ **Temporary fix for OpenMW 0.47 use**
 
-[**Spells Reforged - purple Shield**](https://www.nexusmods.com/morrowind/mods/50905) by [Kurpulio](https://www.nexusmods.com/morrowind/users/83970208)\
+[**Spells Reforged - Shield**](https://www.nexusmods.com/morrowind/mods/50905) by [Kurpulio](https://www.nexusmods.com/morrowind/users/83970208)\
  Replaces Shield spell visual effect.
 
 * Files to install:
-  * ✨ **Shield spell - openMW**
+  * **Shield spell - vanilla MW** OR ✨ **Shield spell - openMW**
 
 [**Luminous VFX Atronachs**](https://www.nexusmods.com/morrowind/mods/48291) by [Anumaril21](https://www.nexusmods.com/morrowind/users/60236996)\
 Takes the Atronach models from Rotat's Creature VFX Restoration and adds to them the glow maps from Peterbitt's Luminous Atronachs, thus rendering the mods compatible. Neither mods are required for use.

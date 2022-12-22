@@ -173,16 +173,6 @@ This mod adds several new options and tweaks for the "A Friend in Deed" quest in
 
 ## Add-ons
 
-⭐📃 [**BDC-Seyda Neen**](https://www.nexusmods.com/morrowind/mods/51133) by [Enclavekiller1](https://www.nexusmods.com/morrowind/users/20927579)\
-Better Dialogue-Choices is a quest overhaul project focused on implementing rpg elements in dialogue while extending quests by giving the player multiple ways to complete them. This mod overhauls all Seyda Neen side quests.
-
-* Files to install:
-  * **BDC-Seyda Neen** (Main Files)
-  * **BDC-SN Hotfix 3** (Update files)
-  * **BDC-SN and Census and Excise Faction Compatibility** (Optional files)
-  * **BDC-SN and LDM-Choices and Consequences Compatibility** (Optional files)
-  * **BDC-SN and Samarys Ancestral Tomb Expanded Compatibility** (Optional files)
-
 ⭐ [**Census and Excise Office Faction**](https://www.nexusmods.com/morrowind/mods/46798) by [AliceL93](https://www.nexusmods.com/morrowind/users/4709296)\
  This mod gives you the opportunity to join the Census and Excise Office and do quests for them.
 
