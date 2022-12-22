@@ -128,26 +128,6 @@ Replaces the "plastic wrap" effect around in-game magic items (those equipped by
 ⭐ [**Subtle Smoke**](https://www.nexusmods.com/morrowind/mods/47341)\
 Makes it so many smoke effects are much more laid back and easier on the eyes.
 
-⭐📃 [**Chameleon**](https://www.nexusmods.com/morrowind/mods/47996)\
-The weird transparency of models (clothes, hair) with alpha channels issue fixed: Your character is not transparent at all.
-
-⭐📃 [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912)\
-Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
-
-⭐ [**True Lights and Darkness - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47133)\
-Modified version of True Lights and Darkness that reverts some of TLAD's more radical color changes, removes the flicker effect from most lights, plus a few other changes.
-
-* On MO2 installation, check the following options in the installer:
-  * [ ] 00 Full Mod
-  * [ ] 01 Modular Plugins
-  * [x] 02 MWSE TLAD Lights
-
-⭐📃 [**Vapourmist**](https://www.nexusmods.com/morrowind/mods/50517)\
-MWSE-Lua 3D clouds and mist.
-
-⭐📃 [**Fallen Ash**](https://www.nexusmods.com/morrowind/mods/48711) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
- Dynamically adds ash decals to people, places, things, and probably concepts during ash storms.
-
 ⭐ [**Logs on Fire**](https://www.nexusmods.com/morrowind/mods/51752)\
  Changes the non-combustible vanilla logs to combustible ones. The new meshes are using a glowmap and some UV animation to give the illusion to be actually on fire.
 
@@ -162,61 +142,19 @@ This mod uses a previously unused keg droplet texture from the game files to add
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
-  * [x] 01 MWSE Version
-
-📃 [**MWSE Blood Diversity**](https://www.nexusmods.com/morrowind/mods/47913?)\
-Povides high resolution new blood types for the creatures of Morrowind, Tribunal, Bloodmoon, the Official Plugins, and a variety of mods based on real-world and lore considerations.
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 04 Qwertyquit's Textures
-* After installation, use the **INI Editor** under **Tools** to replace the \[Blood] section of your Morrowind.ini with the following:
-
-```txt
-[Blood]
-Model 0=BloodSplat.nif
-Model 1=BloodSplat2.nif
-Model 2=BloodSplat3.nif
-
-Texture 0=Anu\Blood\Tx_Blood.dds
-Texture 1=Anu\Blood\Tx_Blood_Dust.dds
-Texture 2=Anu\Blood\Tx_Blood_Sparks.dds
-Texture 3=Anu\Blood\Tx_Blood_Ichor.dds
-Texture 4=Anu\Blood\Tx_Blood_Ecto.dds
-Texture 5=Anu\Blood\Tx_Blood_Blue.dds
-Texture 6=Anu\Blood\Tx_Blood_Insect.dds
-Texture 7=Anu\Blood\Tx_Blood_Energy.dds
-
-Texture Name 0=Red Blood
-Texture Name 1=Dust
-Texture Name 2=Metal Sparks
-Texture Name 3=Ichor
-Texture Name 4=Ectoplasm
-Texture Name 5=Blue Blood
-Texture Name 6=Orange Blood
-Texture Name 7=Energy
-```
-
-<details>   <summary>Original ini values</summary>
-```txt
-[Blood]
-Model 0=BloodSplat.nif
-Model 1=BloodSplat2.nif
-Model 2=BloodSplat3.nif
-Texture 0=Tx_Blood.tga
-Texture 1=Tx_Blood_White.tga
-Texture 2=Tx_Blood_Gold.tga
-Texture Name 0=Default (Red)
-Texture Name 1=Skeleton (White)
-Texture Name 2=Metal Sparks (Gold)
-```
-</details>
+  * [x] 📃 01 MWSE Version OR ✨01 Non-MWSE Version
 
 [**Shield Spells Reforged pt.1. (2022 upg)**](https://www.nexusmods.com/morrowind/mods/50073)\
 Visual overhaul of Elemental Shield spells, with additional on-hit effects.
 
+* Files to install:
+  * ✨ **Temporary fix for OpenMW 0.47 use**
+
 [**Spells Reforged - purple Shield**](https://www.nexusmods.com/morrowind/mods/50905) by [Kurpulio](https://www.nexusmods.com/morrowind/users/83970208)\
  Replaces Shield spell visual effect.
+
+* Files to install:
+  * ✨ **Shield spell - openMW**
 
 [**Luminous VFX Atronachs**](https://www.nexusmods.com/morrowind/mods/48291) by [Anumaril21](https://www.nexusmods.com/morrowind/users/60236996)\
 Takes the Atronach models from Rotat's Creature VFX Restoration and adds to them the glow maps from Peterbitt's Luminous Atronachs, thus rendering the mods compatible. Neither mods are required for use.
@@ -224,22 +162,7 @@ Takes the Atronach models from Rotat's Creature VFX Restoration and adds to them
 * Files to install:
   * **Luminous VFX Atronachs**
 
-📜 [**Enlightened Flames**](https://www.nexusmods.com/morrowind/mods/48816) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
-Replaces the game's particle-based candle flames with new, higher quality and better performance billboard-based ones.
-
 ## Weather
-
-⭐📃 [**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636)\
-Weather overhaul with randomised cloud textures, more dynamic weathers, weather changes in interiors, seasonal weather chances, daytime hours changing with latitude and season, varied rain/snow density, dynamic cloud speeds, and more.
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 01 Clouds textures
-  * [x] 02 Weather Adjuster config - modern MGE XE
-  * [x] 03 Weather particles replacer
-
-⭐📃 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)\
-Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
 
 [**Dying Worlds - Moons Retexture**](https://www.nexusmods.com/morrowind/mods/43023)\
 Makes Masser and Secunda dying planets, where there is no more place for life. Also adds drying oceans to both moons and some greenery to Secunda. Inspired by 36 Lessons of Vivec and stories about imperial сonquest of moons.
@@ -263,12 +186,6 @@ Adds wooden shutters to Nord windows (like those in the vanilla game), which ope
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 03 Vanilla style sunrays
-
-📃 [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)\
-Toggle lights on and off. Town lights turn off during the day. Lights are no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.
-
-📃 [**Transporter Lights - MWSE**](https://www.nexusmods.com/morrowind/mods/48050)\
-Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
 
 ## Equipment
 
@@ -320,20 +237,14 @@ This mod replaces all of the Dunmer lanterns (including the paper lanterns and s
 ⭐ [**OAAB Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236)\
 If you visit a dwemer ruin during a thunderstorm, you'll be greeted by blinding flashes as lightning strikes the steamstack lightning rods from the vanilla game.
 
-* 📃 On MO2 installation, check the following options in the installer:
-  * [x] 00 MWSE
+* On MO2 installation, check the following options in the installer:
+  * [x] 📃 00 MWSE or ✨ 00 OpenMW
 
 ⭐ [**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237/)\
 Many of the dwemer ruins use unfitting cobblestone textures in their exteriors. This mod replaces the cobblestone textures outside of all Vvardenfell-based dwemer ruins with a new texture. In addition to the texture swap, it also uses a "road edge" mesh which helps blend this new pavement into the ruins and the surrounding landscape.
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
-
-⭐📃 [**OAAB Scroll Qualities**](https://www.nexusmods.com/morrowind/mods/49045?)\
-Uses the new scroll models in OAAB\_Data to automatically replace the models and icons of the enchanted scrolls in the game based on their value.
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Icons
 
 ⭐ [**Velothi Wall Art**](https://www.nexusmods.com/morrowind/mods/46454)\
 Adds dunmer concept art around vvardenfell on the velothi buildings and temples in various locations as can be seen in some of bethesda's own concept art for Morrowind. Mostly in vivec city plaza's but also in a few obscure places as well.
@@ -385,14 +296,6 @@ Model replacer for book and scroll models.
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
-
-📃 [**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680)\
-Lets you open or close any book or scroll in the game.
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 01 Closed Book Icons
-  * [x] 03 Melchior's Magnificent Manuscripts
 
 [**Nordic Chest Replacer**](https://www.nexusmods.com/morrowind/mods/45383/)\
 Replaces the standard wooden chests in Nordic Tombs with a unique model, because the original looked horribly out of place.

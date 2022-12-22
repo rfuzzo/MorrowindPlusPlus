@@ -34,7 +34,7 @@ This needs to be installed before BCOM
 
 * On MO2 installation, check the following options in the installer:
   * **Installation Options**
-    * OpenME or MGEXE -> **MGEXE** (or OpenMW)
+    * OpenME or MGEXE -> **MGEXE** (or ✨ OpenMW)
     * Default Bcom -> **Default BCOM**
     * Waterfront Options -> **Simple Cluttering** (*personal preference*)
     * Haalu Council Hall Plaza -> **Izy Style** (*personal preference*)
@@ -67,27 +67,6 @@ This needs to be installed before BCOM
 
   * **Balmora Waterworks Options** -> none
 
-⭐📃 [**Boats**](https://www.nexusmods.com/morrowind/mods/42270) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
- You can travel by boat, ship and river strider in real time, and dismount anywhere in between trip starting and ending points
-
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
-  * [x] `_abotBoatsWP.esp`
-  * [x] `_abotRiverStridersWP.esp`
-  * [x] `abotBoats.esp`
-
-⭐📃 [**Gondoliers**](https://www.nexusmods.com/morrowind/mods/43291) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
- real time travel Vivec gondoliers
-
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
-  * [x] `abotGondoliersRV.esp`
-
-⭐📃 [**Silt Striders**](https://www.nexusmods.com/morrowind/mods/42267) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
- I wanted to travel Morrowind on top of a real Silt Strider so strongly, and after years waiting for some similar mod to be completed, I decided to try myself.
-
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
-  * [x] `ab01NPCLCVSchedulesFix.esp`
-  * [x] `abotSiltStriders.esp`
-
 ⭐ [**Better Dunmer Strongholds**](https://www.nexusmods.com/morrowind/mods/49692) by [Dallara1000](https://www.nexusmods.com/morrowind/users/3346952)\
 This little replacement make the old dunmer's strongholds less empty and a little bit more dangerous
 
@@ -108,9 +87,6 @@ This little replacement make the old dunmer's strongholds less empty and a littl
  Morrowind is full of ships, boats and skiffs but who built them and where? Our mod seeks to answer these questions once and for all by adding shipyards to towns by the sea. The mod adds shipyards to Sadrith Mora, Seyda Neen and Gnaar Mok with four engaging quests in total.
 
 ## Environment
-
-⭐📃 [**Adjustable Landscape Texture Scale**](https://www.nexusmods.com/morrowind/mods/49689) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
- This mod allows you to manually increase the scale of the landscape texture to make it look more detailed without the need for hi-res replacers.
 
 ⭐ [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
@@ -148,27 +124,6 @@ Adds a visual effect to all vanilla flies sound emitters.
   * Replacers -> none
   * Do you use Ashfall -> yes
   * Patches -> [x] OAAB Data
-
-⭐📃 [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
-Adds floating dust to areas where dead are entombed similar to what is seen in Skyrim barrows.
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 01 Default Dust
-
-⭐📃 [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973)  
-Adds a heat haze shader. Subtle, gets faster and stronger when near lava pools.
-
-{% hint style="info" %}
-The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](/fundamentals/shaders.md#shader-setup) section.
-{% endhint %}
-
-⭐📃 [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
-Adds recurring earthquakes to certain volcanically active regions of Vvardenfell. You'll hear the sounds of moving earth and breaking rocks, your screen will start to tremble with increasing intensity, and, if inside an interior, dust and particles will shake loose and fall from the walls and ceiling.
-
-{% hint style="info" %}
-The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](/fundamentals/shaders.md#shader-setup) section.
-{% endhint %}
 
 ⭐ [**OAAB - Tombs and Towers**](https://www.nexusmods.com/morrowind/mods/49131)\
  A remake of tombs and velothi towers.
@@ -288,7 +243,7 @@ Community expansion to Glass Domes of Vivec - visual fixes, new region mechanics
   * [X] 00 Core Visual Assets
   * [X] 01 Glow in the Dahrk Patch - flickering
   * [X] 01 Optional Green Glow for GitD Patch - flickering
-  * [X] 02 New Weather Mechanics (requires MWSE)
+  * [X] 📃 02 New Weather Mechanics (requires MWSE)
   * [X] 07 Optional Thinner Interior Texture
 
 [**Guar Stables of Vivec**](https://www.nexusmods.com/morrowind/mods/50118) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
@@ -298,9 +253,6 @@ Community expansion to Glass Domes of Vivec - visual fixes, new region mechanics
   * [x] 00 Core
   * [x] 01 Guar Stables
 
-📃 [**Ebonheart Underworks**](https://www.nexusmods.com/morrowind/mods/47272)\
- Ebonheart now has its own sewage system. With filth, rats, people and quests.
-
 [**Big Imperial Halls**](https://www.nexusmods.com/morrowind/mods/47533)\
  2 small mods using new interior tiles for the In_ImpBig set making larger open areas possible.
 
@@ -309,6 +261,9 @@ Community expansion to Glass Domes of Vivec - visual fixes, new region mechanics
 
 [**Severa Magia DB Fix**](https://www.nexusmods.com/morrowind/mods/45647) by [Corsair83](https://www.nexusmods.com/morrowind/users/23131859)\
 Updates Severa Magia's hideout to look and feel more like a DB sanctuary.
+
+[**Ebonheart Underworks**](https://www.nexusmods.com/morrowind/mods/47272)\
+ Ebonheart now has its own sewage system. With filth, rats, people and quests.
 
 [**Foreign Quarter Market Square**](https://www.nexusmods.com/morrowind/mods/51700)\
  Overhauls the pit area in the Lower Waistworks of the Foreign Quarter in Vivec to a cozy flea market with custom, OAAB and vanilla assets.
@@ -390,13 +345,6 @@ Makes the Erabenimsun camp stand out from the rest of the ashlands with some uni
 * Files to install:
   * **Finding The Erabenimsun for BCOM** (Optional Files)
 
-[**Kogoruhn Expanded**](https://www.nexusmods.com/morrowind/mods/46098)\
-An expansion mod for Kogoruhn, the capital of House Dagoth.
-
-{% hint style="info" %}
-The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](/fundamentals/shaders.md#shader-setup) section.
-{% endhint %}
-
 ## Azura's Coast
 
 ⭐ [**OAAB Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
@@ -457,7 +405,7 @@ Adds a new room in the Telvanni Council House where the player, and the other np
 
 ## Bitter Coast
 
-⭐📃 [**Glowbugs**](https://www.nexusmods.com/morrowind/mods/50538) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
+⭐ [**Glowbugs**](https://www.nexusmods.com/morrowind/mods/50538) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 Adds firefly-like insects called glowbugs across the Bitter Coast region which come out on calm nights. They can be caught by the agile adventurer and their thorax makes a quality component in potions of Light.
 
 * On MO2 installation, check the following options in the installer:
@@ -555,7 +503,7 @@ A pluginless replacer for the Grazelands trees inspired by the umbrella thorn ac
 
 * On MO2 installation, check the following options in the installer:
   * Select Add-ons
-    * [x] 📜 Ashfall
+    * [x] 📃 Ashfall
     * [x] OAAB_Data
 
 [**RR Mod Series - Telvanni Lighthouse Tel Vos**](https://www.nexusmods.com/morrowind/mods/42744)\
@@ -663,6 +611,9 @@ To the west and slightly north of Dagon Fel, you'll find a small cottage along t
 
 ⭐ [**Of Eggs and Dwarves - Gnisis Eggmine and Bethamez Overhaul**](https://www.nexusmods.com/morrowind/mods/51171) by [seelof](https://www.nexusmods.com/morrowind/users/4139826)\
 This mod rebuilds and expands the Gnisis Eggmine complex from scratch, which includes the Eggmine, the Lower Eggmine, the Underground Stream, and Bethamez. It also adds a quest, which asks the player to investigate the origins of the tremors that have been plaguing the eggmine ever since the Dwemer ruin was uncovered. Features actual earth quakes!
+
+* Files to install:
+  * 📃 **Of Eggs and Dwarves_MWSE** OR ✨ **Of Eggs and Dwarves_OpenMW**
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
@@ -778,13 +729,6 @@ Allows installation of the Skyrim-like Trees option without having to install th
 
 ## Misc
 
-📃 [**More believable bandit camps - an addon for Ashfall**](https://www.nexusmods.com/morrowind/mods/50066)\
- Adds appropriate clutter to the various bandit camps.
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 01 TOTSP Addon
-
 [**Well Diversified STOTSP**](https://www.nexusmods.com/morrowind/mods/50725)\
 Adds Imperial and Solstheim variants for the well mesh, blending in better with their surrounding architecture.
 
@@ -883,117 +827,3 @@ This mod adds a quest to a new and dangerous tomb which brings the player to une
 
 ⭐ [**Horror at Helvil Mine**](https://www.nexusmods.com/morrowind/mods/51941)\
  Ask around about Latest Rumors in Maar Gan to find tell of a mine in peril. Bring forth its demise, or save it from financial ruin! Ever wanted to own a mine? Ever wanted to be friends with a kwama? This is the mod for you.
-
-## Patches
-
-⭐ [**Even Seedier Eight Plates - Morag Tong Polished Patch**](https://www.nexusmods.com/morrowind/mods/49236)\
- VIsual overhaul of the Eight Plates tavern in Balmora, combined with an expansion of the NPC and dialogue overhaul from Von Djangos' The Seedy Plates
-
-* Files to install:
-  * **ESEP - Morag Tong Polished Patch**
-
-{% hint style="warning" %}
-You need to rename the .esp file in this mod! In MO2, double click the mod and go to the Filetree tab. Right click an rename the esp to `Morag Tong Polished.esp`
-{% endhint %}
-
-![Screenshot](../pictures/ESEP_rename.jpg)
-
-{% hint style="info" %}
-Even Seedier Eight Plates is merged into BCOM - no need to install the main file
-{% endhint %}
-
-⭐ [**Beautiful Cities of Morrowind - Patches**](https://www.nexusmods.com/morrowind/mods/49231)\
-Patches for various mods
-
-* Files to install:
-  * **Beautiful Cities of Morrowind - Patches**
-
-{% hint style="info" %}
-On MO2 installation, it does not matter if you install too many mods, we will go over the individual ESPs later again:
-{% endhint %}
-
-* On MO2 installation, check the following options in the installer:
-  * Patches
-    * [x] Patch for Purists
-    * [x] Scrolls of the nine barriers
-    * [x] Concept Art Plantations
-    * [x] Arvesa - An Armigers Tale
-    * [x] Mandas Manor
-    * [x] Siege at Firemoth
-  * OAAB Foyada Mamaea Overhaul -> **OAAB Foyada Mamaea Overhaul**
-  * Animated Morrowind -> **Animated Morrowind**
-  * Rise of House Telvanni -> **RoHT 2.0**
-
-  * Abots Boats -> **Abots Boats TR Version**
-  * Abots Boats for Tomb of the Snow Prince -> **Boats for TOTSP - TR Version**
-  * [x] Abot's Gondoliers -> yes
-  * Abots Silt Striders -> **Abots Silt Striders for Tamriel Rebuilt**
-  * TR_Travels -> **TR_Travels (Mainland and Preview)**
-  * Yet Another Guard Diversity -> **Regular**
-  * More Patches
-    * [x] Skyrim Home of The Nords
-    * [x] Province Cyrodiil
-    * [x] Ebonheart Underworks
-
-  * Select all that apply
-    * [x] Morrowind Anticheese
-    * [x] Bounty Hunter Assignments
-    * [x] Realistic Repair Addon
-  * Mines and Caverns -> **Mines and Caverns**
-
-  * Select all that apply
-    * [x] Velothi Wall Art
-    * [x] Velothi Wall Art Re-Addon
-    * [x] Area of effect Arrows
-
-  * Select all that apply
-    * [x] The Publicans
-    * [x] Glass Domes
-    * [x] Store Entrance Chimes
-    * [x] Far From Home
-
-  * Select all that apply
-    * [x] 📃 The Sanguine Rose
-    * [x] Main Quest Overhaul
-    * [x] Mamaea Awakened
-    * [x] 📃 Ashfall interop
-    * [x] OAAB Pomegranates
-    * [x] Tel Aruhn Chronicles quest and Yansirramus Overhaul addon
-    * [x] Foreign Quarter Market Square
-
-📃 [**Various compatibility patches for HOTV Tomb of the Snow prince Solstheim Overhaul**](https://www.nexusmods.com/morrowind/mods/48422)\
- Various patches, including the White Wolf of Lokken, Wanderes of Solstheim, Children of Morrowind, Thirsk Expanded more....an ongoing project
-
-* Files to install:
-  * **The Moldy Horker - TOTSP Solstheim - Animated Morrowind**
-  * **Various Patches for Tomb of the Snow prince - All in One**
-
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
-  * [x] `BT_Whitewolf_2_0_TOTSP.esm`
-  * [x] `Grandfather Frost - TOTSP.ESP`
-  * [x] `Thirsk Expanded for TOTSP.ESP`
-  * [x] `Tomb of snow prince_MW_Chilren_Patch.ESP`
-
-{% hint style="warning" %}
-After installation
-
-* Run Wrye Mash (**mash64**) in Mod Organizer 2.
-* In the **Mods** tab, select `BM_S_Inn - (Vanilla Inns - Animated Morrowind).ESP`
-* Right click -> **Repair Refs**
-
-{% hint style="endhint" %}
-
-⭐ [**Ashlander Traders - Remastered - BCOM and Wares**](https://www.nexusmods.com/morrowind/mods/48009)
-Brother Juniper's excellent Ashlander Traders mod, edited for compatibility and extra dialogue. Adds Ashlander Traders who will sometimes appear in Balmora, Ald-ruhn, or Suran.
-
-* Files to install:
-  * **Ashlander Traders Remastered - BCOM and Wares**
-
-⭐ [**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232)\
-Compatibility patches for canton mods.
-
-* On MO2 installation, check the following options in the installer:
-  * [X] 00 Glass Domes of Vivec
-  * [ ] 01 No-Frills Closed Molag Mar
-  * [ ] 01 No-Frills Open Arena
-  * [x] 02 Solstheim Tomb of the Snow Prince

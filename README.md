@@ -94,6 +94,10 @@ This is the mod list proper - install the mods in order as they appear here. MO2
 [landscape.md](fundamentals/landscape.md)
 {% endcontent-ref %}
 
+{% content-ref url="fundamentals/mwse.md" %}
+[mwse.md](fundamentals/mwse.md)
+{% endcontent-ref %}
+
 {% content-ref url="fundamentals/shaders.md" %}
 [shaders.md](fundamentals/shaders.md)
 {% endcontent-ref %}
@@ -123,7 +127,7 @@ For help with this mod list and many many bug fixes:
 
 ## TODO (additions)
 
-* [**Danaes DRIP Depot**](https://www.nexusmods.com/morrowind/mods/51645)
+*
 
 * [**Morrowind Animated Hammocks (MAH)**](https://www.nexusmods.com/morrowind/mods/49767) (too minor?)
 * [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782) (weird changes?)
@@ -132,7 +136,7 @@ For help with this mod list and many many bug fixes:
 * [**Daedric Ruins (Half-Revamped)**](https://www.nexusmods.com/morrowind/mods/51674)
 * [**Imperial Altar in Vivec**](https://www.nexusmods.com/morrowind/mods/50273) (too minor?)
 * [**Sacred Necromancer Armor**](https://www.nexusmods.com/morrowind/mods/51651)
-* [**SM Morag Tong Armor**](https://www.nexusmods.com/morrowind/mods/50953)
+*
 
 * [**OAAB Winged Twilight**](https://www.nexusmods.com/morrowind/mods/51643)
 * [**Tea Merchants - an addon for Ashfall**](https://www.nexusmods.com/morrowind/mods/51656)

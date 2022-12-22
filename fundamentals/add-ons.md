@@ -1,8 +1,5 @@
 # Add-ons
 
-⭐📃 [**Disturbing Dreams**](https://www.nexusmods.com/morrowind/mods/51285) by [VitruvianGuar](https://www.nexusmods.com/morrowind/users/34081875)\
-MWSE lua mod changing the mechanics of Sixth House attacking the player during the sleep.
-
 ## Creatures
 
 ⭐ [**Repopulated Morrowind**](https://www.nexusmods.com/morrowind/mods/51174)\
@@ -18,9 +15,6 @@ Adds named NPCs to all cities using leveled lists with items from OAAB, TR_Data,
   * [x] Redoran War Armor and Sathil Mercenary Equipment
   * AM Sounds -> **Silent Sounds**
 
-⭐📃 [**The Guar Whisperer**](https://www.nexusmods.com/morrowind/mods/48247) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
- Allows your to tame and breed guars, and keep them as companions. Intelligent command menu gives unprecedented control over your guar. Attack enemies, fetch items, harvest plants etc. Build trust over time by keeping them happy and healthy to unlock more commands. Fight and play games to level up your guar.
-
 ⭐ [**Wares Ultimate**](https://www.nexusmods.com/morrowind/mods/52013) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
 Modular versions of WARES for Vvardenfell, Tamriel Rebuilt, Skyrim Home of the Nords, and Province Cyrodiil including items, traders, npcs, Hold it and containers.
 
@@ -33,7 +27,7 @@ Modular versions of WARES for Vvardenfell, Tamriel Rebuilt, Skyrim Home of the N
     * [x] 02 Vvardenfell addons
     * [x] 03 TR addons (TR_Mainland.esm)
     * [x] 04 SHOTN addons (Sky_Main.esm)
-    * [x] 05 PC addons (Cyrodiil_Main.esm)
+    * [x] 05 PC addons (Cyr_Main.esm)
 
 ⭐ [**Friends and Foes**](https://www.nexusmods.com/morrowind/mods/49251) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
  Adds friendly and less friendly npcs to the game.
@@ -95,12 +89,6 @@ Newly murdered characters are now drawn to the tombs of their ancestors. You wil
 This mod requires the **Mod Specific/First person swim animations** feature to be enabled in the Morrowind Code Patch.
 {% endhint %}
 
-[**Atronach Expansion**](https://www.nexusmods.com/morrowind/mods/22189) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
-This mod takes several community resources as well as my own work and adds seven new types of monsters as summonable creatures: Bone Golem, Flesh Atronach, Iron Golem, Swamp Myconid, Telvanni Myconid, Ash Golem, Crystal Golem
-
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
-  * [x] `Atronach Expansion_summonsOnly.ESP`
-
 [**Atronach Rebalance**](https://www.nexusmods.com/morrowind/mods/51309)\
 This mod makes all atronachs the same power. As the player levels up, these Daedra will also gain strength every 5 levels up to 30 level. They can cast spells every 30 seconds, and their damage depends on the attack animation.
 
@@ -117,9 +105,6 @@ In collaboration with OAAB Leveled Creatures, this mod will add female dwarven s
   * [x] 01 Dwemer Spectres
 
 ## Items
-
-⭐📃 [**DRIP - Dynamic Randomised Item Properties**](https://www.nexusmods.com/morrowind/mods/51242) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
-Drip adds Diablo 2 style loot to Morrowind. Unique weapons, armor, clothing and accesories are dynamically generated, with over a hundred unique modifiers and more than a million possible combinations. Chance to apply modifiers configurable MCM.
 
 ⭐ [**Taddeus' Foods of Tamriel**](https://www.nexusmods.com/morrowind/mods/49388) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
 This mod adds Ashfall compatible Foods from all over Tamriel as well as a few shops and Food Outposts.
@@ -150,12 +135,6 @@ This is a compilation of mods that does a couple of things:
     * [x] Arvesa
     * [x] Redoran War
 
-⭐📃 [**Unidentified Items**](https://www.nexusmods.com/morrowind/mods/48964)\
-Adds unidentified rings, amulets, belts, robes, pants and shirts to the game, as well as an Identify Service from Enchanters.
-200+ trait, some 30 undesirable ones.
-Thousands of possible items with one or two traits
-Players skilled in Mysticism and Enchant can learn to Identify
-
 ⭐ [**Indexes of Morrowind**](https://www.nexusmods.com/morrowind/mods/47501)\
  This mod provides useful in-game indexes of tracking down various items and locations. They come as either books or flyers and can be found in various places.
 
@@ -171,7 +150,7 @@ Players skilled in Mysticism and Enchant can learn to Identify
   * **OAAB Golden Reeds**
   * **OAAB Leveled Lists**
   * **OAAB Leveled Creatures**
-  * **OAAB Drip**
+  * 📃 **OAAB Drip**
 
 // TODO REQUIREMENTS
 ⭐ [**OAAB_Data and Community Equipment Integration**](https://www.nexusmods.com/morrowind/mods/50307)\
@@ -194,13 +173,6 @@ Players skilled in Mysticism and Enchant can learn to Identify
 ⭐ [**Uncharted Artifacts**](https://www.nexusmods.com/morrowind/mods/49281)\
  All shipwrecks carry a hidden map revealing the location of a unique, non-quest related artifact. Let the treasure hunting begin!
 
-[**Scrolls of The Nine Barriers**](https://www.nexusmods.com/morrowind/mods/45831)\
-This mod adds the missing 7th and 8th barrier scrolls, adds a quest to find the (now rare) 9th barrier scroll, adds new lore surrounding The Nine Barriers, and much more!
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 01 MWSE Flavor Text
-
 [**Ebony Shortsword Challenge**](https://www.nexusmods.com/morrowind/mods/50358)\
 An ebony shortsword is hidden somewhere in the western half of Vvardenfell. Will you be able to find it?
 
@@ -216,4 +188,7 @@ A fiery alternative to the Boots of Blinding Speed. They can be found in the loc
  Adds several new Dunmer Helmets into the game based on designs by michael kirkbride
 
 [**(AshFall) Axe Additions**](https://www.nexusmods.com/morrowind/mods/51716)\
- Adds 4 one-handed axes to the game (to use as woodcutting axe for the mod AshFall).
+Adds 4 one-handed axes to the game (to use as woodcutting axe for the mod AshFall).
+
+[**SM Morag Tong Armor**](https://www.nexusmods.com/morrowind/mods/50953)
+A mod that adds a full set of Morag Tong Guild armor to the game. Based on Michael Kirkbride concept-art.

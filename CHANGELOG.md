@@ -6,6 +6,7 @@ Additions
 
 - Gonzo's Splash Screens
 - Logs on Fire
+- Danaes DRIP Depot
 - Better Telvanni Crystal
 - Concept Art Dunmer Helmets
 - (AshFall) Axe Additions
@@ -26,6 +27,7 @@ Additions
 - Secrets of the Crystal City
 - Memento Mori
 - Horror at Helvil Mine
+- SM Morag Tong Armor
 
 - The Pearl Divers
 - Tirram Terala's Treasure Trove of Trinkets
@@ -38,6 +40,7 @@ Additions
 - Leap of Faith
 - Yul Marshee and the Visage of Mzund
 - Arvesa - An Armigers Tale
+- Magicka Regeneration Suite
 
 Removals
 

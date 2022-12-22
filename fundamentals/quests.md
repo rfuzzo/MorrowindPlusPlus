@@ -113,7 +113,7 @@ This mod overhauls the Fighters Guild questline by improving the background and 
 Many Mages Guild members will now wear the new robes and the player can acquire the robes through quests and purchase.
 
 * On MO2 installation, check the following options in the installer:
-  * How do you play the game -> **📜 MGE XE** (or OpenMW)
+  * How do you play the game -> **📃 MGE XE** (or ✨ OpenMW)
   * [x] Vanilla style robe enchantments
 
 * Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
@@ -163,7 +163,7 @@ This mod adds several new options and tweaks for the "A Friend in Deed" quest in
 
 ## Add-ons
 
-⭐ [**BDC-Seyda Neen**](https://www.nexusmods.com/morrowind/mods/51133) by [Enclavekiller1](https://www.nexusmods.com/morrowind/users/20927579)\
+⭐📃 [**BDC-Seyda Neen**](https://www.nexusmods.com/morrowind/mods/51133) by [Enclavekiller1](https://www.nexusmods.com/morrowind/users/20927579)\
 Better Dialogue-Choices is a quest overhaul project focused on implementing rpg elements in dialogue while extending quests by giving the player multiple ways to complete them. This mod overhauls all Seyda Neen side quests.
 
 * Files to install:
@@ -197,19 +197,6 @@ A merchant has set up shop outside of Vivec. Talk with him, and after some time 
 
 [**Hostages**](https://www.nexusmods.com/morrowind/mods/47916)\
 Adds hostages to random dungeons of Vvardenfell and the opportunity for you to free them.
-
-📃 [**The Sanguine Rose**](https://www.nexusmods.com/morrowind/mods/46214)\
-The Sanguine Rose adds a fully featured Daedric Quest for Sanguine, the prince of hedonistic revelry, debauchery, and passionate indulgences of darker natures. An Ordinator has been sniffing out Sanguine's shrine and he wants you to take care of the nosy do-gooder in an unconventional way.
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 02 MWSE ME Patch
-
-📃 [**The Demon of Knowledge**](https://www.nexusmods.com/morrowind/mods/46126)\
-A mysterious book has fallen into your possession… How did it get there? Who does it belong to? Follow the clues, as you find yourself taken away by a detailed, multilayered story steeped in TES Lore.
-
-📃 [**Ministry of Clarity**](https://www.nexusmods.com/morrowind/mods/46093)\
-A sprawling questline full of action and intrigue with a fully radiant quest system, new loot and more!
 
 [**Hircine's Quest**](https://www.nexusmods.com/morrowind/mods/47651)\
 Participate in the challenge of Hircine and hunt down his three aspects.
@@ -253,9 +240,6 @@ A mod that allows you to join the Dark Brotherhood on Vvardenfell, in a semi lor
 
 [**What is something that can be perceived**](https://www.nexusmods.com/morrowind/mods/47598)\
 Adds Dark Brotherhood armor to the members of the faction in Vvardenfell.
-
-📃 [**Pimp My Shrine - The Daedric Legend of Vernaccus**](https://www.nexusmods.com/morrowind/mods/49173)\
-A lore-friendly quest mod based on an in-game book brought to life, with dungeons, mind-bending puzzles, quests, Daedra, and the power to summon items from oblivion.
 
 [**Failed Incarnates Pilgrimage**](https://www.nexusmods.com/morrowind/mods/48717)\
  Once you are a Clanfriend, speak to a Wise Woman to stat the pilgrimage.
@@ -307,9 +291,6 @@ Join a fully playable guild and gain ranks to the top. Included are several dung
 [**Frozen in Time**](https://www.nexusmods.com/morrowind/mods/50077)
 This quest will bring you back in time, to solve a mystery untouched for hundreds of years.
 
-📜 [**Galerion's Tools**](https://www.nexusmods.com/morrowind/mods/47901)\
-Visit an old but familiar face to embark on a quest to discover an ancient enchanting tool, created by Galerion the Mystic, and unlock an entirely new enchanting mechanic.
-
 [**God of Worms**](https://www.nexusmods.com/morrowind/mods/48028)\
 Introduces five new quests to investigate the Order of the Black Worm's presence in Vvardenfell.
 
@@ -338,9 +319,6 @@ Recover a stolen arcane tome from a renegade wizard and his magically animated p
 
 [**Sorcerer of Alteration**](https://www.nexusmods.com/morrowind/mods/51224)
 Journey through this quest mod to improve your alteration magic.
-
-📜 [**The Wabbajack**](https://www.nexusmods.com/morrowind/mods/44653)
-Adds the legendary Wabbajack artifact!
 
 [**Hunting Big Tooth (A Quest for Magical Starter Weapons)**](https://www.nexusmods.com/morrowind/mods/51457)
  In this Mod you meet a Dunmer near Balmora who sends you on a Hunt for Big Tooth. Your reward is a magical starter Weapon of your choice.
@@ -375,6 +353,10 @@ This mod adds a new quest featuring a medium sized sixth house base.
 
 [**Dras the Dunmer Legionnaire**](https://www.nexusmods.com/morrowind/mods/51446)\
  Meet with Tendndras Lonvyn of the Imperial Legion in Balmora and earn his trust... or enmity.
+
+* Files to install:
+  * **Dras** (Main files)
+  * **Hotfix** (Update files)
 
 [**Leap of Faith**](https://www.nexusmods.com/morrowind/mods/51702)\
  A new merchant has come to Gnisis, selling potions of jump to would-be fast travelers. A pilgrim has gone missing. Are these two things as unrelated as they might seem? A small quest mod, suitable for low level characters.

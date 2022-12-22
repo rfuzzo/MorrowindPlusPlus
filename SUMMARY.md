@@ -18,7 +18,8 @@
 * [Audio](fundamentals/audio.md)
 * [Visuals](fundamentals/visuals.md)
 * [Landscape](fundamentals/landscape.md)
-* [Shaders](fundamentals/shaders.md)
+* [MWSE](fundamentals/mwse.md)
+* [Shaders and Patches](fundamentals/shaders.md)
 
 ## Finish
 
