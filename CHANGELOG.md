@@ -1,5 +1,11 @@
 # Changelog
 
+## December 30th 2022
+
+Removals
+
+- Complete Armor Joints (too minor)
+
 ## December 22nd 2022
 
 Removals

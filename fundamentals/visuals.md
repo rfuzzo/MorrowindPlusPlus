@@ -190,16 +190,6 @@ Adds wooden shutters to Nord windows (like those in the vanilla game), which ope
 
 ## Equipment
 
-⭐ [**Complete Armor Joints**](http://mw.modhistory.com/download-4-12572)\
-Adds the unused forearm joint to the Orcish Pauldrons, Dwemer Pauldrons, and the three types of Bonemold Pauldrons, and modifies the Dwemer, Daedric, Chitin and Netch greaves and pauldron to prevent them showing clothing underneath.
-
-⭐ [**Complete Armor Joints ESP Replacer**](https://github.com/Sigourn/nerevarrising/blob/master/mods/Complete%20Armor%20Joints%20\(PfP%20Edit\).7z)\
-Forwards Patch for Purists fixes to the plugin.
-
-{% hint style="info" %}
-[**External Link**](https://github.com/Sigourn/nerevarrising/raw/master/mods/Complete%20Armor%20Joints%20\(PfP%20Edit\).7z) to the download.
-{% endhint %}
-
 ⭐ [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281)\
 Replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws, matching the Bear and Snow Bear helmets.
 
