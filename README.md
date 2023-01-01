@@ -1,5 +1,10 @@
 # Home
 
+{% hint style="warning" %}
+This mod list is currently under heavy development as I am adding a compatibility section with OpenMorrowind and update the list as a whole. 
+It is not considered stable and you need to exercise your own judgement please. 
+{% endhint %}
+
 Morrowind++ is a supposed to be a lore-friendly and vanilla-style immersive modlist based arround [Sigourn's MorrowindSharp/NerevarRising modlist](https://github.com/Sigourn/nerevarrising/blob/master/main.md) and [RandomPal's "An alternative to Morrowind Rebirth" modlist](https://www.nexusmods.com/morrowind/mods/48812).
 
 This mod list does not need to be followed 100% and relies to some degree of common sense, I do however try to provide for a full and compatible installation guide that can be closely followed.
