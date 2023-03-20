@@ -4,7 +4,7 @@
 Adds groundcover to almost all regions.
 
 * On MO2 installation, check the following options in the installer:
-  * [x] 00 Core MGE XE
+  * [x] 00 Core MGE XE or ✨00 Core OpenMW
   * [x] 01b Thicker Grass MGE XE
   * [x] 03 TR Plugins
 
@@ -16,7 +16,7 @@ After installation, disable all of the mod's plugins in your load order. ⚠️ 
 {% hint style="endhint" %}
 
 {% hint style="warning" %}
-Distant Land generation is required to make this mod work as intended. Instructions will be given in the **Re-running Distant Land** section.
+Distant Land generation is required to make this mod work as intended on the original engine. Instructions will be given in the **Re-running Distant Land** section.
 {% endhint %}
 
 ⭐ [**BCOM Rocky West Gash**](https://www.nexusmods.com/morrowind/mods/50565) by [alexpublius](https://www.nexusmods.com/morrowind/users/49943436)\
@@ -34,11 +34,12 @@ This needs to be installed before BCOM
 
 * On MO2 installation, check the following options in the installer:
   * **Installation Options**
-    * OpenME or MGEXE -> **MGEXE** (or ✨ OpenMW)
+    * OpenME or MGEXE -> **MGEXE** (or ✨OpenMW)
     * Default Bcom -> **Default BCOM**
     * Waterfront Options -> **Simple Cluttering** (*personal preference*)
     * Haalu Council Hall Plaza -> **Izy Style** (*personal preference*)
-    * [ ] Vanilla Style Ghost Fence -> no (*personal preference*)
+    * [ ] Concept Art Ghostfence Pillars -> no (*personal preference*)
+    * [ ] Concept Art Ghostfence Planets -> no (*personal preference*)
     * Suran Options (*personal preference*)
       * [x] Suran Dock Expansion
       * [x] White Suran
@@ -46,13 +47,16 @@ This needs to be installed before BCOM
     * Stav's MGO -> **No**
     * [ ] Vicec Open Arena -> no (*personal preference*)
     * [x] Vicec clutter addons -> Planters (*personal preference*)
+    * [x] Vicec clutter addons -> Street vendors (*personal preference*)
+    * [ ] Vicec clutter addons -> Round planters (*personal preference*)
     * [x] Vicec clutter addons -> Temple Fountains (*personal preference*)
     * [x] Expanded Sadrith Mora Dock -> yes (*personal preference*)
     * Glow in the Dahrk -> **Yes + Atlas**
     * [x] Project Atlas -> **yes**
-    * [ ] HD Textures -> No (*personal preference*)
+    * [x] HD Textures -> ✨Yes for OpenMW (*personal preference*)
     * Balmora Bridges with bigger arch -> **No** (*personal preference*)
     * [ ] RR Statues Patch -> **No**
+    * [ ] Azura Statue -> **No**
   
   * **Grass Patches**
     * Remiros Groundcover
@@ -195,13 +199,6 @@ Replaces all of the trees in the Ascadian Isles region.
 * Files to install:
   * **Remiros' Ascadian Isles Trees - Vanilla**
 
-[**Less empty cantons of Vivec**](https://www.nexusmods.com/morrowind/mods/51592) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
-Lightweight clutter mod that uses planters to fill some empty spaces in Vivec
-
-* On MO2 installation, check the following options in the installer:
-  * Arena Canton -> **Planters**
-  * BCOM version -> **Yes**
-
 [**Concept Art Palace (Vivec City)**](https://www.nexusmods.com/morrowind/mods/48136)\
  The Concept Art Palace mod (C.A.P.) is my attempt to bring the Vivec palace closer the original Kirkbride's concept art.
 
@@ -221,14 +218,6 @@ Replaces the water in the Palace of Vivec's canals using the animation method an
 
 [**Prerelease Prisonmoon**](https://www.nexusmods.com/morrowind/mods/49627)\
  Adds some more clutter to the ministry of truth inspired by early screenshots and concept art.
-
-<details> <summary>Alternatives</summary>
-
-* [Baar Dau](https://www.nexusmods.com/morrowind/mods/49456)
-* [Meteorite Ministry](https://www.nexusmods.com/morrowind/mods/45506)
-* [Baar Dau - Ministry of Truth](https://www.nexusmods.com/morrowind/mods/50877)
-
-</details>
 
 [**ReadMe - Library of Vivec Overhaul**](https://www.nexusmods.com/morrowind/mods/49916)\
 This mod redesigns the Library of Vivec from scratch to make it look and feel like a true library, with many books added from Tamriel_Data and OAAB_Data for you to read. There are also new NPCs for you to interact with, and two new quests that set you on the hunt for a unique book the resource for which was provided by RubberMan.
@@ -313,7 +302,7 @@ To align with what the in-game dialogue suggests, the entrance to the Cavern of 
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
-  * [x] 03- Ashfall add-on
+  * [x] 📃 03- Ashfall add-on
 
 [**Salt Gems of Bensamsi**](https://www.nexusmods.com/morrowind/mods/45126) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  His methods are atypical, but an Argonian in the Sixth House base of Bensamsi has discovered a way to create soul gems from ash salts. Talk to Heem-La in the Ald-ruhn Guild of Mages about research opportunities if you would like to learn more.
@@ -344,6 +333,12 @@ Makes the Erabenimsun camp stand out from the rest of the ashlands with some uni
 
 * Files to install:
   * **Finding The Erabenimsun for BCOM** (Optional Files)
+
+[**Akulakhan's best chamber**](https://www.nexusmods.com/morrowind/mods/49644)\
+A fully animated overhaul of Akulakhan's chamber.
+
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 - Core files
 
 ## Azura's Coast
 
@@ -559,6 +554,9 @@ The once generic stronghold of Marandus has now been given a facelift to truly s
 
 ⭐ [**Nordic Dagon Fel**](https://www.nexusmods.com/morrowind/mods/49603) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
  Subtle changes to make the nordic village of Dagon Fel...nordic
+
+* On MO2 installation, check the following options in the installer:
+  * [x] More Nordic Dagon Fel
 
 ⭐ [**The Grove of Ben'Abi**](https://www.nexusmods.com/morrowind/mods/46137) by [Remiros(Flash3113)](https://www.nexusmods.com/morrowind/users/899234)\
 Small expansion to the mushroom grove near Dagon Fel.
@@ -809,7 +807,7 @@ This mod adds a quest to a new and dangerous tomb which brings the player to une
 
 * On MO2 installation, check the following options in the installer:
   * [x] Data Files
-  * [ ] ✨ Extras for OpenMW only (OpenMW)
+  * [x] ✨ Extras for OpenMW only (OpenMW)
 
 ⭐ [**Secrets of the Crystal City**](https://www.nexusmods.com/morrowind/mods/51932)\
  The lost "Crystal City" of Massama has been discovered by a desperate group of escaped slaves. Through a series of quests, players will learn some of the secrets behind The Curse of Massama while trying to keep the separate factions from killing each other over the raw glass they've mined.
@@ -824,6 +822,7 @@ This mod adds a quest to a new and dangerous tomb which brings the player to une
 * On MO2 installation, check the following options in the installer:
   * [x] 01 Main Files (Required)
   * [x] 02 BCOM Patch (Optional)
+  * [x] ✨ 03 OpenMW Patch
 
 ⭐ [**Horror at Helvil Mine**](https://www.nexusmods.com/morrowind/mods/51941)\
  Ask around about Latest Rumors in Maar Gan to find tell of a mine in peril. Bring forth its demise, or save it from financial ruin! Ever wanted to own a mine? Ever wanted to be friends with a kwama? This is the mod for you.

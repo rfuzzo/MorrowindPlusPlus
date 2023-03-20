@@ -32,18 +32,13 @@ On MO2 installation, it does not matter if you install too many mods, we will go
   * Patches
     * [x] Patch for Purists
     * [x] Concept Art Plantations
-    * [x] Arvesa - An Armigers Tale
     * [x] Mandas Manor
     * [x] Siege at Firemoth
   * OAAB Foyada Mamaea Overhaul -> **OAAB Foyada Mamaea Overhaul**
   * Animated Morrowind -> **Animated Morrowind**
   * Rise of House Telvanni -> **RoHT 2.0**
 
-  * Abots Boats -> **Abots Boats**
-  * Abots Boats for Tomb of the Snow Prince -> **Boats for TOTSP**
-  * [x] Abot's Gondoliers -> yes
-  * Abots Silt Striders -> **Abots Silt Striders**
-  * TR_Travels -> **TR_Travels**
+  * Tamriel Rebuilt Patch -> **Yes**
   * Yet Another Guard Diversity -> **Regular**
   * More Patches
     * [x] Province Cyrodiil
@@ -52,6 +47,7 @@ On MO2 installation, it does not matter if you install too many mods, we will go
   * Select all that apply
     * [x] Morrowind Anticheese
     * [x] Bounty Hunter Assignments
+    * [x] Ashlander Traders Remastered
     * [x] Realistic Repair Addon
   * Mines and Caverns -> **Mines and Caverns**
 
@@ -62,6 +58,7 @@ On MO2 installation, it does not matter if you install too many mods, we will go
   * Select all that apply
     * [x] The Publicans
     * [x] Glass Domes
+    * [x] Glass Domes - Molag mar
     * [x] Store Entrance Chimes
     * [x] Far From Home
 
@@ -73,6 +70,7 @@ On MO2 installation, it does not matter if you install too many mods, we will go
     * [x] OAAB Pomegranates
     * [x] Tel Aruhn Chronicles quest and Yansirramus Overhaul addon
     * [x] Foreign Quarter Market Square
+    * [x] Imperial Legion Expansion
 
 [**Various compatibility patches for HOTV Tomb of the Snow prince Solstheim Overhaul**](https://www.nexusmods.com/morrowind/mods/48422)\
  Various patches, including the White Wolf of Lokken, Wanderes of Solstheim, Children of Morrowind, Thirsk Expanded more....an ongoing project

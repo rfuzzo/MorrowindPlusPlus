@@ -1,5 +1,19 @@
 # Changelog
 
+## March 20th 2023
+
+Removals
+
+- Boats (too choppy)
+- Gondoliers (too choppy)
+- Silt Striders (too choppy)
+- Spells Reforged (outdated)
+
+Additions
+
+- Glass Helm additions
+- Akulakhan's best chamber
+
 ## December 30th 2022
 
 Removals

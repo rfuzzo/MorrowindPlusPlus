@@ -284,12 +284,8 @@ Going into a battle without proper armor will cause bleeding.
 
 ## Magic
 
-⭐📃 [**Putting Power In Willpower (Necro Edit)**](https://github.com/Sigourn/nerevarrising/blob/master/mods/Putting%20Power%20in%20Willpower%20(Necro%20Edit).7z) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
+⭐📃 [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description.
-
-{% hint style="info" %}
-[**Link**](https://www.nexusmods.com/morrowind/mods/45742) to original mod by **R-Zero**. The featured version includes fixes by **Necrolesian**.
-{% endhint %}
 
 ⭐📃 [**magickaMastery MWSE**](https://github.com/rfuzzo/MorrowindPlusPlus/blob/main/assets/magickaMastery.zip) by [Greatness7](https://www.nexusmods.com/morrowind/users/64030) and [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
 MWSE port of [Magicka Mastery](https://www.nexusmods.com/morrowind/mods/45058)
@@ -505,7 +501,6 @@ Customizable sound overhaul which adds ambient sounds, interior weather, extende
 
 * Files to install:
   * **AURA** (Main files)
-  * **AURA 5.2.2 Patch** (Main files)
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
@@ -567,6 +562,7 @@ Weather overhaul with randomised cloud textures, more dynamic weathers, weather 
   * [x] 01 Clouds textures
   * [x] 02 Weather Adjuster config - modern MGE XE
   * [x] 03 Weather particles replacer
+  * [x] 04 Sky shader replacer
 
 ⭐📃 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)\
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
@@ -606,27 +602,6 @@ Lets you open or close any book or scroll in the game.
   * [x] 03 Melchior's Magnificent Manuscripts
 
 ## Landscape
-
-⭐📃 [**Boats**](https://www.nexusmods.com/morrowind/mods/42270) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
- You can travel by boat, ship and river strider in real time, and dismount anywhere in between trip starting and ending points
-
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
-  * [x] `_abotBoatsWP.esp`
-  * [x] `_abotRiverStridersWP.esp`
-  * [x] `abotBoats.esp`
-
-⭐📃 [**Gondoliers**](https://www.nexusmods.com/morrowind/mods/43291) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
- real time travel Vivec gondoliers
-
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
-  * [x] `abotGondoliersRV.esp`
-
-⭐📃 [**Silt Striders**](https://www.nexusmods.com/morrowind/mods/42267) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
- I wanted to travel Morrowind on top of a real Silt Strider so strongly, and after years waiting for some similar mod to be completed, I decided to try myself.
-
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
-  * [x] `ab01NPCLCVSchedulesFix.esp`
-  * [x] `abotSiltStriders.esp`
 
 ⭐📃 [**Adjustable Landscape Texture Scale**](https://www.nexusmods.com/morrowind/mods/49689) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  This mod allows you to manually increase the scale of the landscape texture to make it look more detailed without the need for hi-res replacers.

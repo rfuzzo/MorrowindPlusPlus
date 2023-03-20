@@ -6,14 +6,12 @@ Pure texture replacer mods are generally compatible with everything and can be a
 
 ## Texture packs
 
-### Intelligent Textures
-
 ⭐ [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469)\
 Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
 
 * Files to install:
   * **Intelligent Textures** (Main files)
-  * **Intelligent Textures Hotfix** (Optional files)
+
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Atlas Textures
@@ -23,29 +21,6 @@ Compatibility patch for Morrowind Enhanced Textures.
 
 * Files to install:
   * **Textures - Intelligent Textures** (Main files)
-
-### Alternative: Morrowind Enhanced Textures
-
-{% hint style="info" %}
-These two big texture packs can be freely swapped mid-game. You can also install both if you want and let one override the other (MET has 209 textures that IT does not cover, and IT has 7 that MET does not)
-{% endhint %}
-
-<details>   <summary>Alternatives</summary>
-
-[**Morrowind Enhanced Textures**](https://www.nexusmods.com/morrowind/mods/46221)\
-Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. Also includes reworked meshes from **Facelift**.
-
-* Files to install:
-  * **Morrowind Enhanced Textures 5.2** (Main files)
-  * **Patch from 5.1 to 5.2** (Update files)
-
-[**Project Atlas - MET**](https://www.nexusmods.com/morrowind/mods/45399?)\
-Compatibility patch for Morrowind Enhanced Textures.
-
-* Files to install:
-  * **Textures - MET** (Main files)
-
-</details>
 
 ## NPCs
 
@@ -92,7 +67,7 @@ Addresses numerous mesh and textures issues with the vanilla head, leading to mu
 An in-depth yet completely vanilla friendly touch up of every head and almost every hair in the game.
 
 * After installation, in MO2, go to **Filetree**:
-* `(optional) Redguard Female Teeth Texture Fix.mohidden` -> right click: **Hide**.
+* `(optional) Redguard Female Teeth Texture Fix` -> right click: **Hide**.
 
 [Divine Dagoths](https://www.nexusmods.com/morrowind/mods/45536)\
 Pluginless replacer for Dagoth Ur and his brothers, with tweaked body proportions and shadow meshes, new HD particles, and corpse models.
@@ -143,19 +118,6 @@ This mod uses a previously unused keg droplet texture from the game files to add
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 📃 01 MWSE Version OR ✨01 Non-MWSE Version
-
-[**Spells Reforged - Elemental Shields**](https://www.nexusmods.com/morrowind/mods/50073)\
-Visual overhaul of Elemental Shield spells, with additional on-hit effects.
-
-* Files to install:
-  * **Spells Reforged - Elemental Shields**
-  * ✨ **Temporary fix for OpenMW 0.47 use**
-
-[**Spells Reforged - Shield**](https://www.nexusmods.com/morrowind/mods/50905) by [Kurpulio](https://www.nexusmods.com/morrowind/users/83970208)\
- Replaces Shield spell visual effect.
-
-* Files to install:
-  * **Shield spell - vanilla MW** OR ✨ **Shield spell - openMW**
 
 [**Luminous VFX Atronachs**](https://www.nexusmods.com/morrowind/mods/48291) by [Anumaril21](https://www.nexusmods.com/morrowind/users/60236996)\
 Takes the Atronach models from Rotat's Creature VFX Restoration and adds to them the glow maps from Peterbitt's Luminous Atronachs, thus rendering the mods compatible. Neither mods are required for use.

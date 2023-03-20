@@ -1,8 +1,8 @@
 # Home
 
 {% hint style="warning" %}
-This mod list is currently under heavy development as I am adding a compatibility section with OpenMorrowind and update the list as a whole. 
-It is not considered stable and you need to exercise your own judgement please. 
+This mod list is currently under heavy development as I am adding a compatibility section with OpenMorrowind and update the list as a whole.
+It is not considered stable and you need to exercise your own judgement please.
 {% endhint %}
 
 Morrowind++ is a supposed to be a lore-friendly and vanilla-style immersive modlist based arround [Sigourn's MorrowindSharp/NerevarRising modlist](https://github.com/Sigourn/nerevarrising/blob/master/main.md) and [RandomPal's "An alternative to Morrowind Rebirth" modlist](https://www.nexusmods.com/morrowind/mods/48812).
@@ -131,7 +131,7 @@ For help with this mod list and many many bug fixes:
 
 ## TODO (additions)
 
-*
+* [**Indoril Ronin**](https://www.nexusmods.com/morrowind/mods/50689)
 
 * [**Morrowind Animated Hammocks (MAH)**](https://www.nexusmods.com/morrowind/mods/49767) (too minor?)
 * [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782) (weird changes?)
@@ -143,7 +143,6 @@ For help with this mod list and many many bug fixes:
 *
 
 * [**OAAB Winged Twilight**](https://www.nexusmods.com/morrowind/mods/51643)
-* [**Tea Merchants - an addon for Ashfall**](https://www.nexusmods.com/morrowind/mods/51656)
 * [**Markets and Caravans**](https://www.nexusmods.com/morrowind/mods/51704)
 * [**Westly's Faces Refurbished**](https://www.nexusmods.com/morrowind/mods/51214)
 * [**More Progressive Vos**](https://www.nexusmods.com/morrowind/mods/51701)

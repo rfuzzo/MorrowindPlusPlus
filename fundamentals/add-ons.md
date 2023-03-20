@@ -9,11 +9,14 @@ Adds named NPCs to all cities using leveled lists with items from OAAB, TR_Data,
   * BCOM -> **Yes**
   * Bloodmoon options -> **TOTSP**
   * [x] Tamriel Rebuilt
+  * [x] Glass Helm Additions
   * [x] Mage Robes
   * [x] Morag Tong Polished
   * [x] Weapons Expansion Project
   * [x] Redoran War Armor and Sathil Mercenary Equipment
-  * AM Sounds -> **Silent Sounds**
+  * [x] Concept Art Dunmer Helmets
+  * [x] Vanilla Friendly Wearables Expansion
+  * Sound Options -> **Muted**
 
 ⭐ [**Wares Ultimate**](https://www.nexusmods.com/morrowind/mods/52013) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
 Modular versions of WARES for Vvardenfell, Tamriel Rebuilt, Skyrim Home of the Nords, and Province Cyrodiil including items, traders, npcs, Hold it and containers.
@@ -23,11 +26,15 @@ Modular versions of WARES for Vvardenfell, Tamriel Rebuilt, Skyrim Home of the N
 
   * On MO2 installation, check the following options in the installer:
     * [x] 00 Core (must have)
-    * [x] 01 TD lists (Tamriel_Data.esm)
-    * [x] 02 Vvardenfell addons
-    * [x] 03 TR addons (TR_Mainland.esm)
-    * [x] 04 SHOTN addons (Sky_Main.esm)
+    * [ ] 01 Hold it lists (needs wares_npcs)
+    * [x] 02 TD lists (Tamriel_Data.esm)
+    * [x] 03 OAAB lists
+    * [x] 04 Vvardenfell addons
     * [x] 05 PC addons (Cyr_Main.esm)
+    * [x] 06 TR addons (TR_Mainland.esm)
+    * [x] 07 SHOTN addons (Sky_Main.esm)
+    * [ ] 08 MOAR items in shops addons
+    * [ ] 09 NOD Patch
 
 ⭐ [**Friends and Foes**](https://www.nexusmods.com/morrowind/mods/49251) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
  Adds friendly and less friendly npcs to the game.
@@ -197,3 +204,6 @@ A mod that adds a full set of Morag Tong Guild armor to the game. Based on Micha
 
 * Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
   * [x] `sm_mt_armor_eng.esp`
+
+[**Glass Helm Additions**](https://www.nexusmods.com/morrowind/mods/42207)\
+ Resource of 6 full glass helms.
