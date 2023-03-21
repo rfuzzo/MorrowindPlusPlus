@@ -125,6 +125,9 @@ Takes the Atronach models from Rotat's Creature VFX Restoration and adds to them
 * Files to install:
   * **Luminous VFX Atronachs**
 
+[**Smoking Yurts**](https://www.nexusmods.com/morrowind/mods/52281)\
+ Adds smoke to yurts with lit fireplaces
+
 ## Weather
 
 [**Dying Worlds - Moons Retexture**](https://www.nexusmods.com/morrowind/mods/43023)\

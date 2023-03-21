@@ -14,6 +14,12 @@ Adds over 200 new voice entries for NPCs, mostly using edited original voice fil
 ⭐ [**Voice Overhaul**](https://www.nexusmods.com/morrowind/mods/51215) by [PhoenixRime](https://www.nexusmods.com/morrowind/users/2250219)\
 All dialogues with voice phrases in the game have been re-sorted. Restored many unused lines, increased the variety of audible phrases. Many bugs fixed.
 
+⭐ [**Audiobooks of Morrowind**](https://www.nexusmods.com/morrowind/mods/52458)\
+ Turn the books in Morrowind into listenable audiobooks!
+
+⭐ [**Quest Voice Greetings**](https://www.nexusmods.com/morrowind/mods/52273)\
+ ElevenAI generated voices for quest-giving NPCs in Morrowind. Currently adds over 800 original lines of voiced dialogue using the original actors voices. Works with openmw!
+
 ## SFX
 
 ⭐ [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068)\

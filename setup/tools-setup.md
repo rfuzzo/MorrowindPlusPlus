@@ -85,13 +85,16 @@ Exlusion rules:
 ```txt
 [FileFilters]
 ; Tamriel_Data.esm = false
-VFWE_merged_objects_fix.ESP = false
 BCOM_pathgrid_reset.ESP = false
+BCOM_Izi_Hlaalu_plaza.ESP = false
+The_magic_rock_of_Maar_Gan.ESP = false
 BCOM_Suran Expansion.ESP = false
 BCOM_White_Suran.ESP = false
-BCOM_Izi_Hlaalu_plaza.ESP = false
 Interior exterior flag reset.ESP = false
-The_magic_rock_of_Maar_Gan.esp = false
+BCOM_OpenMW_plazas.ESP = false
+F&F_no_city_exterior.ESP = false
+F&F_No_Sitters.ESP = false
+VFWE_merged_objects_fix.ESP = false
 ```
 
 ### MGE XE

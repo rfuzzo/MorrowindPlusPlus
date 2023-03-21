@@ -450,6 +450,9 @@ Tired of not being able to sell your diamonds to Nalcarya because of that stupid
 📃 [**Ethereal Ghosts**](https://www.nexusmods.com/morrowind/mods/50757)\
 MWSE-lua mod that allows ghost and other incorporeal creatures to pass through closed doors
 
+📃 [**Pet the Damn Scrib**](https://www.nexusmods.com/morrowind/mods/52116)\
+ Activate a scrib to pet it. It'll do a little butt thump.
+
 ## Quests
 
 📃 [**The Sanguine Rose**](https://www.nexusmods.com/morrowind/mods/46214)\

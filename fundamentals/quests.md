@@ -366,7 +366,31 @@ This mod adds a new quest featuring a medium sized sixth house base.
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
-  * [x] 01 HD Textures
+  * [x] ✨ 01 HD Textures
 
-[**Arvesa - An Armigers Tale**](https://www.nexusmods.com/morrowind/mods/50306)\
- An extensive companion and quest mod that hooks onto Morrowinds Main Quest and offers a serious perspective to the world presented. Team up with a complex character with her own faults, hopes, and dreams. Discover another side to the Sixth House and its seedy connections. Make choices and roleplay who you want to be.
+[**Dawnbreaker - The Lady of Light**](https://www.nexusmods.com/morrowind/mods/52162)\
+ This mod adds in Dawnbreaker as well as a full quest with a unique and lore friendly story, new npcs, and a shrine to Meridia.
+
+[**Goldbrand Reforged - The Quest for Eltonbrand**](https://www.nexusmods.com/morrowind/mods/52277)\
+Brave the dangers of Vvardenfell in this lore-friendly quest mod to reforge Goldbrand into the mysterious Eltonbrand. Speak to Sirilonwe in the Vivec Mages Guild while carrying Goldbrand to begin the quest. Part of the 2023 Winter Modjam.
+
+[**The Hand**](https://www.nexusmods.com/morrowind/mods/52302)\
+ A short quest involving a strange gauntlet. Ask about rumors in Vivec to start.
+
+[**Troubled Waters**](https://www.nexusmods.com/morrowind/mods/52298)\
+ Dive for secrets and uncover the mysteries of the Cliffracer's Roost in this short adventure.
+
+[**The Search for the White Wave**](https://www.nexusmods.com/morrowind/mods/52301)\
+ A scientific expedition headed into the Sea of Ghosts has failed to report on their progress. An investigator from the Imperial Navy has been dispatched to locate the White Wave and is looking for a hand. Join his crew to unravel what happened to the White Wave in the frozen northern waters...
+
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Core
+  * [x] 📃 02 MWSE Tooltips Complete
+  * [x] ✨ 03 HD Textures
+
+[**Prince of Fate**](https://www.nexusmods.com/morrowind/mods/52294)\
+ Seek out an old hermit and explore the sunken shrine of Hermaeus Mora, deep within the Sea of Ghosts
+
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Core
+  * [x] ✨ 01 HD Textures

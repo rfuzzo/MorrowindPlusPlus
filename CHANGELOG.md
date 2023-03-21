@@ -4,15 +4,33 @@
 
 Removals
 
+- Arvesa - An Armigers Tale (removed from nexus)
 - Boats (too choppy)
 - Gondoliers (too choppy)
 - Silt Striders (too choppy)
 - Spells Reforged (outdated)
+- Water Life
 
 Additions
 
 - Glass Helm additions
 - Akulakhan's best chamber
+- Smoking Yurts
+- Dawnbreaker - The Lady of Light
+- Goldbrand Reforged - The Quest for Eltonbrand
+- The Hand
+- Troubled Waters
+- The Search for the White Wave
+- Prince of Fate
+- Pet the Damn Scrib
+- Ruined Molag Mar
+- Dagon Fel Lighthouse
+- OAAB Vertical Shipwreck
+- Fort Ghostmoth
+- Tamriel Rebuilt - Hall of Justice Overhaul
+- Ald Gash - a Redoran Lighthouse
+- Audiobooks of Morrowind
+- Quest Voice Greetings
 
 ## December 30th 2022
 

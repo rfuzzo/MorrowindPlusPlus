@@ -139,7 +139,6 @@ This is a compilation of mods that does a couple of things:
     * [x] Morag Tong Polished Patch
     * [x] Cephalopod Armor - OAAB Patch
     * [x] Cepalopod Armor - TR patch
-    * [x] Arvesa
     * [x] Redoran War
 
 ⭐ [**Indexes of Morrowind**](https://www.nexusmods.com/morrowind/mods/47501)\

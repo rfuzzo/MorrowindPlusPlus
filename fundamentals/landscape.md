@@ -550,6 +550,14 @@ The once generic stronghold of Marandus has now been given a facelift to truly s
  [**Ashunartes Overhaul**](https://www.nexusmods.com/morrowind/mods/50049)\
  This mod overhauls the shrine of Ashunartes, adding more to explore.
 
+ [**Ruined Molag Mar**](https://www.nexusmods.com/morrowind/mods/52473)\
+ Overhaul of Molag Mar
+
+* On MO2 installation, check the following options in the installer:
+  * [x] Broken Dome
+  * [x] Glow in the Dahrk Patch
+  * [x] BCOM patch
+
 ## Sheogorad
 
 ⭐ [**Nordic Dagon Fel**](https://www.nexusmods.com/morrowind/mods/49603) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
@@ -588,6 +596,20 @@ To the west and slightly north of Dagon Fel, you'll find a small cottage along t
 
 [**Spines of Madness**](https://www.nexusmods.com/morrowind/mods/50947) by [malbogatra](https://www.nexusmods.com/morrowind/users/3785301)\
  A new look for Sheogorad - a gloomy, deserted and abandoned region on the edge of the inhabited world.
+
+[**Dagon Fel Lighthouse**](https://www.nexusmods.com/morrowind/mods/52291)\
+ A lighthouse has been added to the North-West of Dagon Fel. Meet Vigunn, the Nord lighthousekeeper.
+
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Core
+  * [x] 01 Nordic Interior Detailing
+  * [x] 03 Patch - Spines of Madness
+
+[**OAAB Vertical Shipwreck**](https://www.nexusmods.com/morrowind/mods/52268)\
+ West of Ald Redaynia and north of the Derelict Shipwreck is a small stony crag lies a shipwreck and the scattered remains of those misfortunate enough to have found themselves washed up on its bleak shore. There is a reason this rock is forsaken. Go forth with caution.
+
+[**Fort Ghostmoth**](https://www.nexusmods.com/morrowind/mods/52300)\
+ An unusual Imperial fort to the farthest north of Sheogorad.
 
 ## West Gash
 
@@ -764,6 +786,9 @@ Adds some unique, Telvanni style light sources to various Telvanni settlements
   * [x] 00 Core
   * [x] 01 BCoM Version
 
+[**Tamriel Rebuilt - Hall of Justice Overhaul**](https://www.nexusmods.com/morrowind/mods/52224)\
+ Overhaul the Hall of Justice in Old Ebonheart
+
 ## Add-ons
 
  [**OAAB - Tel Raloran**](https://www.nexusmods.com/morrowind/mods/46841) by [Corsair83](https://www.nexusmods.com/morrowind/users/23131859)\
@@ -792,9 +817,6 @@ Adds some unique, Telvanni style light sources to various Telvanni settlements
 {% hint style="warning" %}
 This mod requires the **Beta/actor collision box fix** feature to be enabled in the Morrowind Code Patch.
 {% endhint %}
-
-✨ [**Water Life**](https://www.nexusmods.com/morrowind/mods/42417) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
-This plugin mainly adds to Morrowind (most) peaceful aquatic creatures.
 
 [**Far From Home**](https://www.nexusmods.com/morrowind/mods/46860)\
 This mod adds a quest to a new and dangerous tomb which brings the player to unexpected places and the player has a chance to acquire a curious new home.
@@ -826,3 +848,6 @@ This mod adds a quest to a new and dangerous tomb which brings the player to une
 
 ⭐ [**Horror at Helvil Mine**](https://www.nexusmods.com/morrowind/mods/51941)\
  Ask around about Latest Rumors in Maar Gan to find tell of a mine in peril. Bring forth its demise, or save it from financial ruin! Ever wanted to own a mine? Ever wanted to be friends with a kwama? This is the mod for you.
+
+[**Ald Gash - a Redoran Lighthouse**](https://www.nexusmods.com/morrowind/mods/52292)\
+ This mod adds a Redoran lighthouse to the north-eastern coast of Vvardenfell.

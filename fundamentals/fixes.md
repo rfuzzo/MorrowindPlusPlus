@@ -167,12 +167,9 @@ Greatly improves performance and fixes some mesh errors.
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
-  * [x] 02 Weapon Sheathing Patch\
-    Compatibility patch for Weapon Sheathing. Makes weapon sheaths show the fixed MOP weapon meshes instead of the vanilla ones.
-  * [x] 03 Chuzei Fix\
-    Fixes neck problems with the Native Chuzei Bonemold Helm.
-  * [x] 04 Better Vanilla Textures\
-    Includes several vanilla textures with fixed alphas and several other changes made specifically for MOP. Also fixes a lot of broken textures and makes textures that were supposed to be seamless actually seamless.
+  * [x] 02 Weapon Sheathing Patch
+  * [x] 03 Chuzei Fix
+  * [x] 04 Better Vanilla Textures
   * [x] 05 Graphic Herbalism Patch (install separately)
 
 {% hint style="info" %}

@@ -102,6 +102,10 @@ This is the mod list proper - install the mods in order as they appear here. MO2
 [mwse.md](fundamentals/mwse.md)
 {% endcontent-ref %}
 
+{% content-ref url="fundamentals/openmw.md" %}
+[openmw.md](fundamentals/openmw.md)
+{% endcontent-ref %}
+
 {% content-ref url="fundamentals/shaders.md" %}
 [shaders.md](fundamentals/shaders.md)
 {% endcontent-ref %}
@@ -124,8 +128,7 @@ For help with this mod list and many many bug fixes:
 * fray
 * [**Pharis**](https://github.com/PharisMods/pharis-mod-list)
 * [**PoodleSandwich2**](https://www.nexusmods.com/morrowind/users/45710542)
-* [**RandomPal**](https://www.nexusmods.com/morrowind/users/59284071)* [**
-* Richie Marcus
+* [**RandomPal**](https://www.nexusmods.com/morrowind/users/59284071)
 * [**Sigourn/Lucas9**](https://www.nexusmods.com/morrowind/users/14600469)
 * [**zertyuiop**](https://github.com/rfuzzo/MorrowindPlusPlus/issues/2)
 
@@ -140,7 +143,6 @@ For help with this mod list and many many bug fixes:
 * [**Daedric Ruins (Half-Revamped)**](https://www.nexusmods.com/morrowind/mods/51674)
 * [**Imperial Altar in Vivec**](https://www.nexusmods.com/morrowind/mods/50273) (too minor?)
 * [**Sacred Necromancer Armor**](https://www.nexusmods.com/morrowind/mods/51651)
-*
 
 * [**OAAB Winged Twilight**](https://www.nexusmods.com/morrowind/mods/51643)
 * [**Markets and Caravans**](https://www.nexusmods.com/morrowind/mods/51704)

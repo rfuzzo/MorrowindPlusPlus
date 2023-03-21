@@ -33,7 +33,6 @@ On MO2 installation, it does not matter if you install too many mods, we will go
     * [x] Patch for Purists
     * [x] Concept Art Plantations
     * [x] Mandas Manor
-    * [x] Siege at Firemoth
   * OAAB Foyada Mamaea Overhaul -> **OAAB Foyada Mamaea Overhaul**
   * Animated Morrowind -> **Animated Morrowind**
   * Rise of House Telvanni -> **RoHT 2.0**
