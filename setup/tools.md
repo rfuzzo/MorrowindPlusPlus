@@ -1,8 +1,18 @@
 # Tools
 
+{% hint style="warning" %}
+If you're running OpenMW, you can skip all sections labelled with 📃
+{% endhint %}
+
 {% hint style="info" %}
 **BASED ON:** Sigourn @ [https://github.com/Sigourn/nerevarrising/blob/master/setup.md](https://github.com/Sigourn/nerevarrising/blob/master/setup.md)
 {% endhint %}
+
+## ⭐✨ [**ModOrganizer-to-OpenMW**](https://www.nexusmods.com/morrowind/mods/45642)
+
+A Mod Organizer plugin to export your VFS, plugin selection and load order to OpenMW
+
+* Put OpenMWExport.py and (optionally) openmw.ico in your Mod Organizer plugins directory.
 
 ## ⭐ [**Mlox**](https://github.com/rfuzzo/mlox/releases/latest)
 

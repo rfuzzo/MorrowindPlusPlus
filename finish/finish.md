@@ -1,10 +1,17 @@
 # Finishing
 
-## Memory Management
+{% hint style="info" %}
+If you're running OpenMW, you can skip all sections labelled with 📃
+{% endhint %}
+
+If you just installed this modlist or ar updating it you need to always run the following steps in this order:
+
+## 📃 Memory Management
 
 The game still struggles with the 32bit memory limit the program has. There are a couple of things you can do to aleviate the issue. And make sure you have the mod **Memory Monitor installed**, it will display when the game is about to crash.
 
 ### Ini Tweaks
+
 There are some ini tweaks you can do to help with memory:
 
 * Click the **Tools** button, and click **INI Editor**. **morrowind.ini** will now open.
@@ -23,10 +30,9 @@ DontThreadLoad=0
 * Close overlays or programs like RivaTuner Statistics Server before starting Morrowind if you have memory proplems while in game
 
 {% hint style="info" %}
-If you just installed this modlist or ar updating it you need to always run the following steps in this order:
 {% endhint %}
 
-## 01 Updates
+## 📃 01 Updates
 
 * Run **MWSE-Update** from your game folder.
 
@@ -97,7 +103,7 @@ If reair all fails, you need to repair two esps:
 
 {% hint style="endhint" %}
 
-## 07 MGXE
+## 📃 07 MGXE
 
 {% hint style="info" %}
 Recreate Distant Land
@@ -112,9 +118,10 @@ Recreate Distant Land
 
 ## 08 Run the game
 
+* ✨If you're on OpenMW, export your mods with Menu > Tools > Tool Plugins > `Export to OpenMW`
 * Run the game through MO2
 
-### Mod Config Menu
+### 📃 Mod Config Menu
 
 In the **Mod Config Menu**, I recommend these options:
 

@@ -47,7 +47,7 @@ On MO2 installation, it does not matter if you install too many mods, we will go
     * [x] Morrowind Anticheese
     * [x] Bounty Hunter Assignments
     * [x] Ashlander Traders Remastered
-    * [x] Realistic Repair Addon
+    * [x] 📃 Realistic Repair Addon
   * Mines and Caverns -> **Mines and Caverns**
 
   * Select all that apply

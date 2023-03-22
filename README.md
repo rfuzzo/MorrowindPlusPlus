@@ -7,11 +7,17 @@ It is not considered stable and you need to exercise your own judgement please.
 
 Morrowind++ is a supposed to be a lore-friendly and vanilla-style immersive modlist based arround [Sigourn's MorrowindSharp/NerevarRising modlist](https://github.com/Sigourn/nerevarrising/blob/master/main.md) and [RandomPal's "An alternative to Morrowind Rebirth" modlist](https://www.nexusmods.com/morrowind/mods/48812).
 
-This mod list does not need to be followed 100% and relies to some degree of common sense, I do however try to provide for a full and compatible installation guide that can be closely followed.
+This mod list does not need to be followed 100% and relies to some degree of common sense.
 
 This mod relies on [MLOX](setup/tools.md#⭐-mlox-ruleshttpsgithubcommloxmloxreleasestagv10) to sort your plugins.
 
 Feel free to remove or add additional mods to your liking. I wrote a small guide on how to update your mod load order and plugins [at the end of this guide here](finish/finish.md).
+
+{% hint style="info" %}
+The main list is supposed to be compatible with OpenMW and the original engine (+MWSE). The section [mwse](./fundamentals/mwse.md) contains MWSE mods for the original engine, the section [openmw](./fundamentals/openmw.md) contains mods for OpenMW.
+
+In the guide, I use 📃 to indicate a mod is only compatible with the original engine, and ✨ to indicate a mod is only compatible with OpenMW.
+{% endhint %}
 
 {% hint style="info" %}
 You can run through this mod list by navigating from top to bottom in the left-hand sidebar, starting with [Setup](./setup/setup.md) until [Finish](./finish/finish.md).
@@ -29,7 +35,7 @@ and content and gameplay:
 
 * ⭐ [**Alice's quest mods**](https://www.nexusmods.com/morrowind/users/4709296)
 * ⭐ [**Danae's excellent add-ons**](https://www.nexusmods.com/morrowind/users/1233897)
-* ⭐ [**Ashfall - A Camping Survival and Needs Mod**](https://www.nexusmods.com/morrowind/mods/49057)
+* ⭐ 📃 [**Ashfall - A Camping Survival and Needs Mod**](https://www.nexusmods.com/morrowind/mods/49057)
 
 No major combat or gameplay overhauls have been installed, and the vanilla leveling system is only fixed by the excellent [**Improved Vanilla Leveling**](https://www.nexusmods.com/morrowind/mods/48065) mod - leaving those fabulous Morrowind level-up screens intact!
 
@@ -112,10 +118,6 @@ This is the mod list proper - install the mods in order as they appear here. MO2
 
 {% content-ref url="finish/finish.md" %}
 [finish.md](finish/finish.md)
-{% endcontent-ref %}
-
-{% content-ref url="finish/finish.md" %}
-[in_game_config.md](finish/in_game_config.md)
 {% endcontent-ref %}
 
 ## Credits

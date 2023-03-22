@@ -1,5 +1,9 @@
 # Setup
 
+{% hint style="warning" %}
+If you're running OpenMW, you can skip all sections labelled with 📃
+{% endhint %}
+
 ## Requirements
 
 * An english copy of the game.
@@ -44,7 +48,7 @@ Your Data Files folder should now look like this.
 
 ![Screenshot](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/pictures/Data_Files.png)
 
-## ⭐ DXVK **[*Original Engine Only*]**
+## ⭐📃 DXVK **[*Original Engine Only*]**
 
 A Vulkan-based translation layer for Direct3D 9/10/11. Gives you more FPS. Yes. Use either:
 
@@ -58,21 +62,21 @@ Install instructions:
 * Open the x32 folder
 * Put the d3d9.dll in that folder into your Morrowind directory
 
-## ⭐ [**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510) **[*Original Engine Only*]**
+## ⭐📃 [**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510) **[*Original Engine Only*]**
 
 Directly patches bugs in the Morrowind program (Morrowind.exe), which cannot otherwise be fixed by editing scripts or data files. It is a must-have utility for anyone who plays Morrowind, and should be the first utility you ever install.
 
 * Manually download **Morrowind Code Patch** (Main files).
 * Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**).
 
-## ⭐ [**MCP Skunk Works**](https://www.nexusmods.com/morrowind/mods/26348)
+## ⭐📃 [**MCP Skunk Works**](https://www.nexusmods.com/morrowind/mods/26348)
 
 Repository for the Beta update for the Morrowind Code Patch. Despite being a beta, the patch is perfectly stable and no crashes have been reported from my end or other users of the guide.
 
 * Manually download **MCP beta** (Update files).
 * Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted.
 
-## ⭐ [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?)
+## ⭐📃 [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?)
 
 The Morrowind Graphics Extender XE allows Morrowind to render distant views, scenery shadows, high quality shaders and other features. MGE XE supports and includes the latest **MWSE 2.1 beta**, so that the newest Lua-based mods work straight away.
 
@@ -105,4 +109,10 @@ This file contemplates the following landscape-altering scenarios:
 
 {% hint style="info" %}
 The **Readme** elaborates on how to use these overrides, so you should definitely give it a read.
+{% endhint %}
+
+## ✨ OpenMW Installation
+
+{% hint style="warning" %}
+TODO
 {% endhint %}

@@ -1,5 +1,9 @@
 # Setup Tools
 
+{% hint style="warning" %}
+If you're running OpenMW, you can skip all sections labelled with 📃
+{% endhint %}
+
 This section contains tweaks to the morrowind ini and how to set up the modding tools properly in MO2.
 
 ## Adjusting Morrowind.ini
@@ -27,7 +31,7 @@ Max Snowflakes=1500
 
 * Click **Save** and close the window.
 
-## Morrowind Code Patch setup
+## 📃 Morrowind Code Patch setup
 
 * Execute **Morrowind Code Patch.exe**, found in your **Root** folder.
 * The **Morrowind Code Patch** will prompt you to install your patches of choice.
@@ -97,13 +101,13 @@ F&F_No_Sitters.ESP = false
 VFWE_merged_objects_fix.ESP = false
 ```
 
-### MGE XE
+### 📃 MGE XE
 
 * Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/nerevarrising/master/MO2/MO_Add_File.png) button and select _Add from file..._.
 * Navigate to your Morrowind **Root** folder (`C:\Games\Morrowind`) and double click `MGEXEgui.exe`.
 * Click **Apply**.
 
-## Configuring MGE XE in Mod Organizer 2
+## 📃 Configuring MGE XE in Mod Organizer 2
 
 * In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **MGE XE**.
 * Click **Run** to run the executable.
