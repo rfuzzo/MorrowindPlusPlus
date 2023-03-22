@@ -1,5 +1,12 @@
 # Changelog
 
+## March 22nd 2023
+
+Additions
+
+- Riharradroon - Hidden Path to Kogoruhn
+- Kogoruhn Revisited and Demanufactured
+
 ## March 20th 2023
 
 Removals

@@ -340,6 +340,12 @@ A fully animated overhaul of Akulakhan's chamber.
 * On MO2 installation, check the following options in the installer:
   * [x] 00 - Core files
 
+[**Riharradroon - Hidden Path to Kogoruhn**](https://www.nexusmods.com/morrowind/mods/47357)\
+ Adds a tunnel to the world which provides an alternate route into the depths of the Dunmer stronghold known as Kogoruhn.
+
+[**Kogoruhn Revisited and Demanufactured**](https://www.nexusmods.com/morrowind/mods/51615)\
+ While wandering through the desolated landscapes of northern ashlands, Nerevarine comes across the old capital city of Chimer tribe - once known as Kogoruhn. This ancient place, half burried beneath the ash and sulfur is now home of horror which never sleeps... The Sixth House. Discover this terryfying place hidden under the shadow of Red Mountain.
+
 ## Azura's Coast
 
 ⭐ [**OAAB Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\

@@ -160,6 +160,8 @@ For help with this mod list and many many bug fixes:
 
 ## TODO (removals)
 
+* TR Music (meh)
+
 * Midnight oil (FPS)
 * MWSE fire damage (or tweak it)
 * MWSE Blood Diversity (weird)

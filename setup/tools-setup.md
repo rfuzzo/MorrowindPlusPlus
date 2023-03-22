@@ -88,7 +88,6 @@ Exlusion rules:
 
 ```txt
 [FileFilters]
-; Tamriel_Data.esm = false
 BCOM_pathgrid_reset.ESP = false
 BCOM_Izi_Hlaalu_plaza.ESP = false
 The_magic_rock_of_Maar_Gan.ESP = false
