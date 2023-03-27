@@ -149,20 +149,32 @@ For help with this mod list and many many bug fixes:
 * Zebabi Expanded
 * Bthuand Expanded
 * Andrethi Tomb Overhaul
-* The Wizard's Affair
+* Vennin's Addamasartus Overhaul https://www.nexusmods.com/morrowind/mods/52420
+* Vennin's Abernanit Overhaul https://www.nexusmods.com/morrowind/mods/52457
 
-* Radiant Quests of Morrowind
+* Continue Bal Molagmer After Thieves Guild Questline
+* Bal Molagmer Add-on
+* Your Own Ashlander Tribe
 
 * Temple Markers
+* [**Morrowind Animated Hammocks (MAH)**](https://www.nexusmods.com/morrowind/mods/49767)
 
 * [**Indoril Ronin**](https://www.nexusmods.com/morrowind/mods/50689)
+* Moonlight https://www.nexusmods.com/morrowind/mods/52456 (looks cool)
+* Reincarnate https://www.nexusmods.com/morrowind/mods/52397
+* Radiant Quests of Morrowind
 
-* [**Morrowind Animated Hammocks (MAH)**](https://www.nexusmods.com/morrowind/mods/49767) (too minor?)
+* NPC Schedule
+* NPC Schedule Plus https://www.nexusmods.com/morrowind/mods/52495
+
+
+
+
 * [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782) (weird changes?)
 * [**Smart Heads**](https://www.nexusmods.com/morrowind/mods/50098) (not sure)
 * [**Kogoruhn Ruins**](https://www.nexusmods.com/morrowind/mods/44034)
 * [**Daedric Ruins (Half-Revamped)**](https://www.nexusmods.com/morrowind/mods/51674)
-* [**Imperial Altar in Vivec**](https://www.nexusmods.com/morrowind/mods/50273) (too minor?)
+
 * [**Sacred Necromancer Armor**](https://www.nexusmods.com/morrowind/mods/51651)
 
 * [**OAAB Winged Twilight**](https://www.nexusmods.com/morrowind/mods/51643)
@@ -172,10 +184,13 @@ For help with this mod list and many many bug fixes:
 * [**Windows Glow Expansion**](https://www.nexusmods.com/morrowind/mods/42271)
 * Caius Gives You a Cover Story (too minor)
 * Buoyant Lord Vivec (comments mention he has no head tracking anymore?)
-* Telvanni Staff for the Telvanni Staff (too minor?)
+
 * Shrine of Boethiah Expansion (?)
-* Vanity (vanity)
-* [****Broadsheets and Notice Boards Redone****](https://www.nexusmods.com/morrowind/mods/50999) (has some edits to caves?)
+
+
+
+* Telvanni Staff for the Telvanni Staff (too minor?)
+* [**Imperial Altar in Vivec**](https://www.nexusmods.com/morrowind/mods/50273) (too minor?)
 
 ## TODO (removals)
 
@@ -187,7 +202,6 @@ For help with this mod list and many many bug fixes:
 * Imperial Steel Cuirass Tweaks (too minor)
 * LeFemm Redacted (too minor)
 * Magic Icons (not vanilla enough)
-* Loading Doors Lock Tune (needed?)
 
 ## Changelog
 
