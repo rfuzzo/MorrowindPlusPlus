@@ -13,8 +13,8 @@ Adds named NPCs to all cities using leveled lists with items from OAAB, TR_Data,
   * [x] Mage Robes
   * [x] Morag Tong Polished
   * [x] Weapons Expansion Project
-  * [x] Redoran War Armor and Sathil Mercenary Equipment
-  * [x] Concept Art Dunmer Helmets
+  * [ ] Redoran War Armor and Sathil Mercenary Equipment
+  * [ ] Concept Art Dunmer Helmets
   * [x] Vanilla Friendly Wearables Expansion
   * Sound Options -> **Muted**
 

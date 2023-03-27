@@ -136,6 +136,12 @@ For help with this mod list and many many bug fixes:
 
 ## TODO (additions)
 
+* The Wizard's Affair
+
+* Radiant Quests of Morrowind
+
+* Temple Markers
+
 * [**Indoril Ronin**](https://www.nexusmods.com/morrowind/mods/50689)
 
 * [**Morrowind Animated Hammocks (MAH)**](https://www.nexusmods.com/morrowind/mods/49767) (too minor?)

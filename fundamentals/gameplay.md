@@ -14,6 +14,9 @@ Changes weather chances, including an increasing chance of blight throughout Vva
   * 📃 **Creeping Blight - MWSE Version** (Main files)  OR
   * ✨ **Creeping Blight - Plugin Version** (Main files)  OR
 
+✨ [**Better Blight**](https://www.nexusmods.com/morrowind/mods/48395)\
+Changes the effects of Blight Diseases to make them more interesting and unique, rather than just more potent versions of the common diseases.
+
 ⭐ [**Running Fatigue Overhaul**](https://github.com/rfuzzo/MorrowindPlusPlus/blob/main/assets/RunningFatigue_Overhaul_Beta.7z) by Pherim\
 Running and Swimming uses much less Fatigue, but Fatigue regenerates slower
 

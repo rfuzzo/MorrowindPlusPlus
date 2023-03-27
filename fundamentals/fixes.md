@@ -88,6 +88,7 @@ Fixes many issues present in Bethesda's original Official Plugins.
   * [x] `EBQ_Artifact.esp`
   * [x] `master_index.esp`
   * [x] `Siege at Firemoth.esp`
+  * [x] `AreaEffectArrows.esp`
 
 ⭐ [**Bethesda Official Plugins Naturalized**](https://www.nexusmods.com/morrowind/mods/51107) by [PikachunoTM](https://www.nexusmods.com/morrowind/users/16269634)\
  Implementation of Bethesda's Official Plugins with some slightly improved implementation. Uses UMOPP as a base.

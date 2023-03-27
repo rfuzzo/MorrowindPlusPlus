@@ -353,7 +353,7 @@ A fully animated overhaul of Akulakhan's chamber.
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
-  * [x] 01 Female Guards
+  * [ ] 01 Female Guards
 
 [**Holamayan Island**](https://www.nexusmods.com/morrowind/mods/50996)\
  A simple mod that adds a few details to the monastery island.
@@ -480,15 +480,9 @@ A distraught nephew, a missing uncle, a manor slowly sinking into the swamps of 
 [**Perfect Scum**](https://www.nexusmods.com/morrowind/mods/51355)\
  Changes the location of the scum models to better match the water level. Makes all swamps perfect. OpenMW and MGE XE compatible.
 
-<details> <summary>Alternatives</summary>
-
-[**Bitter Coast Scum Replacer**](https://www.nexusmods.com/morrowind/mods/48291)\
-Replaces swamp scum using the animation method and edited textures of Tamriel Rebuilt's water statics and Pherim's Vanilla-Friendly Scum Texture. Two versions are included, with a standalone edit of Lougians meshes that allow activation through the mesh.
-
-[**Static Scum Pond Remover**](https://www.nexusmods.com/morrowind/mods/50140)\
-This mod of mine removes the default non animated scum texture covering many ponds on the Bitter Coast and beyond.
-
-</details>
+{% hint style="info" %}
+The author of Perfect Scum recommends to put height waves to 0 when generating Distant Land.
+{% endhint %}
 
 ## Grazelands
 
@@ -563,6 +557,18 @@ The once generic stronghold of Marandus has now been given a facelift to truly s
   * [x] Broken Dome
   * [x] Glow in the Dahrk Patch
   * [x] BCOM patch
+
+{% hint style="info" %}
+We need to fix the Beautiful Cities of Morrowind mod to make it compatible:
+
+* In MO2, right click on "Beautiful Cities of Morrowind" mod "Open in Explorer"
+* Copy-Paste `Beautiful Cities of Morrowind.esp` to the Morrowind "Data Files" folder
+* Copy-Paste `BCOM_pathgrid_reset.ESP` to the Morrowind "Data Files" folder
+* In MO2, right click on "Ruined Molag Mar" mod "Open in Explorer"
+* Copy-Paste `Ruined Molag Mar - [Patch] BCOM.bat` to the Morrowind "Data Files" folder
+* Double click to run the .bat file
+
+{% endhint %}
 
 ## Sheogorad
 
@@ -722,20 +728,6 @@ After installation, disable `VSW-Rem-Anthology Solstheim.esp` in your load order
 Distant Land generation is required to make this mod work as intended. Instructions will be given in the **Re-running Distant Land** section.
 {% endhint %}
 
-⭐ [**Solstheim - Tomb of the Snow Prince ESM Replacer**](https://github.com/rfuzzo/MorrowindPlusPlus/blob/main/assets/Solstheim%20-%20Tomb%20of%20the%20Snow%20Prince%202.2.2%20ESM%20Replacer.7z)  
-Clean replacer for the main ESM file.
-
-{% hint style="info" %}
-[**External Link**](https://github.com/rfuzzo/MorrowindPlusPlus/raw/main/assets/Solstheim%20-%20Tomb%20of%20the%20Snow%20Prince%202.2.2%20ESM%20Replacer.7z) to the download.
-{% endhint %}
-
-⭐ [**Solstheim Graphical Replacer - Skyrim-like Trees Textures**](https://github.com/rfuzzo/MorrowindPlusPlus/blob/main/assets/Solstheim%20Graphical%20Replacer%20-%20Skyrim-like%20Trees%20Textures.7z)  
-Allows installation of the Skyrim-like Trees option without having to install the core mesh and texture replacer.
-
-{% hint style="info" %}
-[**External Link**](https://github.com/rfuzzo/MorrowindPlusPlus/raw/main/assets/Solstheim%20Graphical%20Replacer%20-%20Skyrim-like%20Trees%20Textures.7z) to the download.
-{% endhint %}
-
 ⭐ [**Interiors of Solstheim**](https://www.nexusmods.com/morrowind/mods/44451)\
  Enhances the interiors of the Skaal village and Thirsk by adding some miscellaneous objects.
 
@@ -754,13 +746,6 @@ Allows installation of the Skyrim-like Trees option without having to install th
  This mod redecorates Dark Brotherhoods lair in Old Mournhold
 
 ## Misc
-
-[**Well Diversified STOTSP**](https://www.nexusmods.com/morrowind/mods/50725)\
-Adds Imperial and Solstheim variants for the well mesh, blending in better with their surrounding architecture.
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 01 Option 2 STOTSP
 
 [**OAAB Pomegranates**](https://www.nexusmods.com/morrowind/mods/50726) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  Inspired by their mention of growing in the badlands of Morrowind in Sermon 12, a regional variety of pomegranates can now be found growing atop Mount Assarnibibi.
@@ -823,6 +808,12 @@ Adds some unique, Telvanni style light sources to various Telvanni settlements
 {% hint style="warning" %}
 This mod requires the **Beta/actor collision box fix** feature to be enabled in the Morrowind Code Patch.
 {% endhint %}
+
+[**Water Life**](https://www.nexusmods.com/morrowind/mods/42417) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
+This plugin mainly adds to Morrowind (most) peaceful aquatic creatures.
+
+[**Hidden Sea Loot**](https://www.nexusmods.com/morrowind/mods/52296)\
+Adds over 500 hidden containers for you to find in the sea for every region around the island of Vvardenfell. Each contains random items that change for EVERY playthrough. Randomization is weighted for balanced distribution.
 
 [**Far From Home**](https://www.nexusmods.com/morrowind/mods/46860)\
 This mod adds a quest to a new and dangerous tomb which brings the player to unexpected places and the player has a chance to acquire a curious new home.

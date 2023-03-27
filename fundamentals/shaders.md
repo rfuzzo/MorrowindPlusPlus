@@ -2,31 +2,11 @@
 
 ## Patches
 
-⭐ [**Even Seedier Eight Plates - Morag Tong Polished Patch**](https://www.nexusmods.com/morrowind/mods/49236)\
- VIsual overhaul of the Eight Plates tavern in Balmora, combined with an expansion of the NPC and dialogue overhaul from Von Djangos' The Seedy Plates
-
-* Files to install:
-  * **ESEP - Morag Tong Polished Patch**
-
-{% hint style="warning" %}
-You need to rename the .esp file in this mod! In MO2, double click the mod and go to the Filetree tab. Right click an rename the esp to `Morag Tong Polished.esp`
-{% endhint %}
-
-![Screenshot](../pictures/ESEP_rename.jpg)
-
-{% hint style="info" %}
-Even Seedier Eight Plates is merged into BCOM - no need to install the main file
-{% endhint %}
-
 ⭐ [**Beautiful Cities of Morrowind - Patches**](https://www.nexusmods.com/morrowind/mods/49231)\
 Patches for various mods
 
 * Files to install:
   * **Beautiful Cities of Morrowind - Patches**
-
-{% hint style="info" %}
-On MO2 installation, it does not matter if you install too many mods, we will go over the individual ESPs later again:
-{% endhint %}
 
 * On MO2 installation, check the following options in the installer:
   * Patches
@@ -44,7 +24,6 @@ On MO2 installation, it does not matter if you install too many mods, we will go
     * [x] Ebonheart Underworks
 
   * Select all that apply
-    * [x] Morrowind Anticheese
     * [x] Bounty Hunter Assignments
     * [x] Ashlander Traders Remastered
     * [x] 📃 Realistic Repair Addon
@@ -92,6 +71,22 @@ After installation
 * Right click -> **Repair Refs**
 
 {% hint style="endhint" %}
+
+⭐ [**Even Seedier Eight Plates - Morag Tong Polished Patch**](https://www.nexusmods.com/morrowind/mods/49236)\
+ VIsual overhaul of the Eight Plates tavern in Balmora, combined with an expansion of the NPC and dialogue overhaul from Von Djangos' The Seedy Plates
+
+* Files to install:
+  * **OpenMW Anim Patch**
+
+{% hint style="warning" %}
+You need to rename the .esp file in this mod! In MO2, double click the mod and go to the Filetree tab. Right click an rename the esp to `Morag Tong Polished.esp`
+{% endhint %}
+
+⭐ [**Morag Tong Polished - BCoM Patch**](https://www.nexusmods.com/morrowind/mods/51194)\
+One of the NPCs added by "MTP" ends up being suspended in the empty void if you use it alongside with the "Beautiful Cities of Morrowind". This patch returns him to the intended position. Also works fine with a replacer plugin provided by "Vanilla friendly wearables expansion".
+
+* Files to install:
+  * **Morag Tong Polished - BCoM Patch**
 
 ⭐ [**Ashlander Traders - Remastered - BCOM and Wares**](https://www.nexusmods.com/morrowind/mods/48009)
 Brother Juniper's excellent Ashlander Traders mod, edited for compatibility and extra dialogue. Adds Ashlander Traders who will sometimes appear in Balmora, Ald-ruhn, or Suran.

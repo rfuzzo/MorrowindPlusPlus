@@ -1,5 +1,17 @@
 # Changelog
 
+## March 27nd 2023
+
+Additions
+
+- Better Blight (openmw only)
+- OpenMW Anim Patch
+- Morag Tong Polished - BCoM Patch
+
+Removals
+
+- Even Seedier Eight Plates - Morag Tong Polished Patch (replaced with Morag Tong Polished - BCoM Patch)
+
 ## March 22nd 2023
 
 Additions
@@ -16,7 +28,6 @@ Removals
 - Gondoliers (too choppy)
 - Silt Striders (too choppy)
 - Spells Reforged (outdated)
-- Water Life
 
 Additions
 
