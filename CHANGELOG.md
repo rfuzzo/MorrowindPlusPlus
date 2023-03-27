@@ -11,6 +11,7 @@ Additions
 Removals
 
 - Even Seedier Eight Plates - Morag Tong Polished Patch (replaced with Morag Tong Polished - BCoM Patch)
+- Jsp Mines and Caverns compatible with The Ashen Divide (redundant)
 
 ## March 22nd 2023
 

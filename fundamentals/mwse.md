@@ -636,3 +636,7 @@ An expansion mod for Kogoruhn, the capital of House Dagoth.
 {% hint style="info" %}
 The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](/fundamentals/shaders.md#shader-setup) section.
 {% endhint %}
+
+{% hint style="info" %}
+Do not use both this mod and "Kogoruhn Revisited and Demanufactured", choose one of them.
+{% endhint %}

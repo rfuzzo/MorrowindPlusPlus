@@ -136,6 +136,19 @@ For help with this mod list and many many bug fixes:
 
 ## TODO (additions)
 
+* Mines and Caverns conflict with Gray North. You need to edit out Assamanu from M&C.
+* Also Better Caves and Caverns conflicts with M&C in Addamasartus. You either need to edit that cave from M&C or only use the enemies and boss esp from Better Caves.
+
+* Assarnud and Mat Overhaul  <https://www.nexusmods.com/morrowind/mods/51080>
+* Ranyabi Egg Mine
+* Haishibi Mine
+* Nchardumz Overhaul
+* Aleft Overhaul
+* Galom Daeus Overhaul
+* Druscashti Overhaul
+* Zebabi Expanded
+* Bthuand Expanded
+* Andrethi Tomb Overhaul
 * The Wizard's Affair
 
 * Radiant Quests of Morrowind
