@@ -109,6 +109,7 @@ This mod overhauls the Fighters Guild questline by improving the background and 
   * [x] 01 Patch for Bal Molagmer Add-on and Thieves Guild Overhaul
   * [x] 02 Patch for Balmora Guilds Expanded
   * [x] 03 Patch for Caeris' Camonna Tong
+  * [x] 09 Patch for Quest Voice Greetings
 
 [**Mage Robes**](https://www.nexusmods.com/morrowind/mods/45739)\
 Many Mages Guild members will now wear the new robes and the player can acquire the robes through quests and purchase.
@@ -373,6 +374,9 @@ This mod adds a new quest featuring a medium sized sixth house base.
 
 [**Goldbrand Reforged - The Quest for Eltonbrand**](https://www.nexusmods.com/morrowind/mods/52277)\
 Brave the dangers of Vvardenfell in this lore-friendly quest mod to reforge Goldbrand into the mysterious Eltonbrand. Speak to Sirilonwe in the Vivec Mages Guild while carrying Goldbrand to begin the quest. Part of the 2023 Winter Modjam.
+
+[*** Your Own Ashlander Tribe**](https://www.nexusmods.com/morrowind/mods/51256)\
+ Become the Ashkhan of your own Ashlander tribe and do quests for its members.
 
 [**The Hand**](https://www.nexusmods.com/morrowind/mods/52302)\
  A short quest involving a strange gauntlet. Ask about rumors in Vivec to start.

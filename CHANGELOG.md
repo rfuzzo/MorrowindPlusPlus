@@ -4,6 +4,30 @@
 
 Additions
 
+- Solthas Sixth House Amulet
+- Sei's Dynamic Wildlife
+- Keelhouse
+- Balmora Lighthouse
+- Phi's Carefree Leveling (openmw only)
+- Solthas Blight Weather Pack (openmw only)
+- Solthas Combat Pack (OpenMW Lua) (openmw only)
+- Quick Spell Casting (openmw only)
+- ASH Travel Tent (openmw only)
+- Yurt Crafting (openmw only)
+- Ashlander Crafting (openmw only)
+- Water and Thirst (openmw only)
+- Cooking and Eating (openmw only)
+- Fish With Fishing Poles (openmw only)
+- Pursuit (OpenMW) (openmw only)
+- ZEF Focus Magicka (openmw only)
+- Of Dungeons and Abodes - TeleportAmulet - Fix (openmw only)
+- Library of Vivec Overhaul - Full - OpenMW Patch (openmw only)
+- Cooking and Eating - Publicans Expansion (openmw only)
+
+## March 27nd 2023
+
+Additions
+
 - Better Blight (openmw only)
 - OpenMW Anim Patch
 - Morag Tong Polished - BCoM Patch

@@ -24,15 +24,6 @@ Running and Swimming uses much less Fatigue, but Fatigue regenerates slower
 [**External Link**](https://github.com/rfuzzo/MorrowindPlusPlus/raw/main/assets/RunningFatigue_Overhaul_Beta.7z) to the download.
 {% endhint %}
 
-<details>   <summary>Alternatives</summary>
-
-[**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029) by [Remiros(Flash3113)](https://www.nexusmods.com/morrowind/users/899234)\
-Rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural.
-
-* After installation, hide the mod's **MWSE** folder. This disables the sprinting feature.
-
-</details>
-
 ⭐ [**Chargen Revamped**](https://www.nexusmods.com/morrowind/mods/44615)\
 Customize/randomize your starting attributes, skills, spells, items, companion, faction, and location on Vvardenfell, Solstheim, Mainland Morrowind (TR), Skyrim (SHOTN), or Cyrodiil (PC).
 
@@ -56,3 +47,6 @@ Tweaks bows so that they line up better with the sheathing animation.
 
 [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)\
 Adds sheaths to weapons not covered by Weapon Sheathing.
+
+✨ [**Sei's Dynamic Wildlife**](https://www.nexusmods.com/morrowind/mods/52135)\
+ With Sei's Dynamic Wildlife, you will never run out of animals to hunt or practice your skills on. This mod dynamically spawns animals around you as you traverse the wilderness and despawns them as you move further away, so as to not clutter the landscape, ensuring a fresh experience every time you revisit an area.

@@ -842,3 +842,9 @@ This mod adds a quest to a new and dangerous tomb which brings the player to une
 
 [**Ald Gash - a Redoran Lighthouse**](https://www.nexusmods.com/morrowind/mods/52292)\
  This mod adds a Redoran lighthouse to the north-eastern coast of Vvardenfell.
+
+[**Keelhouse**](https://www.nexusmods.com/morrowind/mods/49952)\
+ Adds a player house with a simple quest and backstory.
+
+[**Balmora Lighthouse**](https://www.nexusmods.com/morrowind/mods/43103)\
+ This mod adds a free player house of your very own in Balmora. Compatible with Beautiful Cities of Morrowind and Morrowind Rebirth.

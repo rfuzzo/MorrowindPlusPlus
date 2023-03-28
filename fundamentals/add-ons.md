@@ -206,3 +206,6 @@ A mod that adds a full set of Morag Tong Guild armor to the game. Based on Micha
 
 [**Glass Helm Additions**](https://www.nexusmods.com/morrowind/mods/42207)\
  Resource of 6 full glass helms.
+
+✨ [**Solthas Sixth House Amulet**](https://www.nexusmods.com/morrowind/mods/52401)\
+ Gives sixth house amulets a useful, tempting, and dangerous enchantment, more akin to the effects of Corprus Disease itself.

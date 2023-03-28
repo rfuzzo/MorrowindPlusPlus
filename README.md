@@ -139,64 +139,49 @@ For help with this mod list and many many bug fixes:
 * Mines and Caverns conflict with Gray North. You need to edit out Assamanu from M&C.
 * Also Better Caves and Caverns conflicts with M&C in Addamasartus. You either need to edit that cave from M&C or only use the enemies and boss esp from Better Caves.
 
-* Assarnud and Mat Overhaul  <https://www.nexusmods.com/morrowind/mods/51080>
-* Ranyabi Egg Mine
-* Haishibi Mine
-* Nchardumz Overhaul
-* Aleft Overhaul
-* Galom Daeus Overhaul
-* Druscashti Overhaul
-* Zebabi Expanded
-* Bthuand Expanded
-* Andrethi Tomb Overhaul
-* Vennin's Addamasartus Overhaul https://www.nexusmods.com/morrowind/mods/52420
-* Vennin's Abernanit Overhaul https://www.nexusmods.com/morrowind/mods/52457
-
-* Continue Bal Molagmer After Thieves Guild Questline
-* Bal Molagmer Add-on
-* Your Own Ashlander Tribe
-
-* Temple Markers
+* [**Assarnud and Mat Overhaul**](https://www.nexusmods.com/morrowind/mods/51080)
+* [**Ranyabi Egg Mine**](https://www.nexusmods.com/morrowind/mods/49854)
+* [**Haishibi Mine**](https://www.nexusmods.com/morrowind/mods/49579)
+* [**Nchardumz Overhaul**](https://www.nexusmods.com/morrowind/mods/48530)
+* [**Aleft Overhaul**](https://www.nexusmods.com/morrowind/mods/48260)
+* [**Galom Daeus Overhaul**](https://www.nexusmods.com/morrowind/mods/48054)
+* [**Druscashti Overhaul**](https://www.nexusmods.com/morrowind/mods/47900)
+* [**Zebabi Expanded**](https://www.nexusmods.com/morrowind/mods/46276)
+* [**Bthuand Expanded**](https://www.nexusmods.com/morrowind/mods/46055)
+* [**Andrethi Tomb Overhaul**](https://www.nexusmods.com/morrowind/mods/46217)
+* [**Moonlight**](https://www.nexusmods.com/morrowind/mods/52456)
+* [**Reincarnate**](https://www.nexusmods.com/morrowind/mods/52397)
+* [**Temple Markers**](https://www.nexusmods.com/morrowind/mods/52415)
 * [**Morrowind Animated Hammocks (MAH)**](https://www.nexusmods.com/morrowind/mods/49767)
+* [**Bensamsi Expanded**](https://www.nexusmods.com/morrowind/mods/46956)
+* [**Mzahnch Overhaul**](https://www.nexusmods.com/morrowind/mods/49601)   (unfinished?)
 
-* [**Indoril Ronin**](https://www.nexusmods.com/morrowind/mods/50689)
-* Moonlight https://www.nexusmods.com/morrowind/mods/52456 (looks cool)
-* Reincarnate https://www.nexusmods.com/morrowind/mods/52397
+* Vennin's Addamasartus Overhaul <https://www.nexusmods.com/morrowind/mods/52420>   (incompatible)
+* Vennin's Abernanit Overhaul <https://www.nexusmods.com/morrowind/mods/52457>      (incompatible)
+
 * Radiant Quests of Morrowind
-
 * NPC Schedule
-* NPC Schedule Plus https://www.nexusmods.com/morrowind/mods/52495
+* NPC Schedule Plus <https://www.nexusmods.com/morrowind/mods/52495>
 
-
-
-
-* [**Balanced Passive Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/47782) (weird changes?)
-* [**Smart Heads**](https://www.nexusmods.com/morrowind/mods/50098) (not sure)
-* [**Kogoruhn Ruins**](https://www.nexusmods.com/morrowind/mods/44034)
-* [**Daedric Ruins (Half-Revamped)**](https://www.nexusmods.com/morrowind/mods/51674)
-
-* [**Sacred Necromancer Armor**](https://www.nexusmods.com/morrowind/mods/51651)
+## TODO (maybe)
 
 * [**OAAB Winged Twilight**](https://www.nexusmods.com/morrowind/mods/51643)
 * [**Markets and Caravans**](https://www.nexusmods.com/morrowind/mods/51704)
 * [**Westly's Faces Refurbished**](https://www.nexusmods.com/morrowind/mods/51214)
-* [**More Progressive Vos**](https://www.nexusmods.com/morrowind/mods/51701)
+* [**More Progressive Vos**](https://www.nexusmods.com/morrowind/mods/51701)        (incompatible?)
 * [**Windows Glow Expansion**](https://www.nexusmods.com/morrowind/mods/42271)
 * Caius Gives You a Cover Story (too minor)
-* Buoyant Lord Vivec (comments mention he has no head tracking anymore?)
-
 * Shrine of Boethiah Expansion (?)
-
-
-
+* [**Indoril Ronin**](https://www.nexusmods.com/morrowind/mods/50689)
 * Telvanni Staff for the Telvanni Staff (too minor?)
 * [**Imperial Altar in Vivec**](https://www.nexusmods.com/morrowind/mods/50273) (too minor?)
+* [**Daedric Ruins (Half-Revamped)**](https://www.nexusmods.com/morrowind/mods/51674)
+
+* [**Sacred Necromancer Armor**](https://www.nexusmods.com/morrowind/mods/51651)
 
 ## TODO (removals)
 
 * TR Music (meh)
-
-* Midnight oil (FPS)
 * MWSE fire damage (or tweak it)
 * MWSE Blood Diversity (weird)
 * Imperial Steel Cuirass Tweaks (too minor)
