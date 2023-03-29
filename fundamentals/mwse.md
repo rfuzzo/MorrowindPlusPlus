@@ -68,7 +68,7 @@ Adds several toggleable quality of life improvements to the Main Menu, including
   * **Tooltips Complete** (Main files)
   * **Tamrielic Lore Exclusions** (Optional files)
 
-⭐📃 [**MWSE Compare Tooltips**](https://www.nexusmods.com/morrowind/mods/51087) by [rfuzzo](https://www.nexusmods.com/morrowind/users/16300749)\
+📃 [**MWSE Compare Tooltips**](https://www.nexusmods.com/morrowind/mods/51087) by [rfuzzo](https://www.nexusmods.com/morrowind/users/16300749)\
  This mod adds compare tooltips for looked-at or equipped items against the equipped item of the same category. The mod has multiple MCM options to configure the comparison style.
 
 ⭐📃 [**Travel Tooltips**](https://www.nexusmods.com/morrowind/mods/48306) by [tewlwolow](https://www.nexusmods.com/morrowind/users/1152341)\
@@ -136,41 +136,23 @@ Adds several new options for the journal and quest pages.
 
 * After installation, hide the mod's **Textures** folder.
 
-⭐ [**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954)\
+📃 [**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954)\
 Renames keys so they'll have a consistent naming scheme.
 
 * Files to install:
   * **Consistent Keys - MWSE Version** (Main files)
 
-⭐📃 [**Propylon Index Renamer**](https://www.nexusmods.com/morrowind/mods/49941)\
+📃 [**Propylon Index Renamer**](https://www.nexusmods.com/morrowind/mods/49941)\
 Renames propylon indexes so they'll group together in the inventory.
 
-⭐ [**Soulgem Renamer**](https://www.nexusmods.com/morrowind/mods/49861)\
+📃[**Soulgem Renamer**](https://www.nexusmods.com/morrowind/mods/49861)\
 Renames soulgems so they'll group together in the inventory.
 
-[**No Thank You**](https://www.nexusmods.com/morrowind/mods/49681)\
+📃[**No Thank You**](https://www.nexusmods.com/morrowind/mods/49681)\
 Adds a cancel button to Temple shrines and Imperial Cult altars.
 
 📃 [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851)\
 Keep track of what books you have read by showing a **(Read)** indicator next to their names. You can also see a list of previously read books in the mod's Mod Config menu.
-
-📃 [**Map and Compass**](https://www.nexusmods.com/morrowind/mods/48455)\
-This mod allows you to replace the magical vanilla map with a selection of more mundane maps, and the minimap with a compass.
-
-{% hint style="info" %}
-
-* Enter the **Mod config** menu in-game.
-* Select **Map and Compass** from the mod list to the left.
-* Click the **mapsWagner** tab.
-* Under the **vvardenfellMapWagner** header, click the **Select** button to make it your currently selected map.
-* Exit the menu.
-{% endhint %}
-
-📃 [**Map Replacements for Maps and Compass Wagner Style - Brujoloco Edition**](https://www.nexusmods.com/morrowind/mods/48460)  
-Replaces the maps from **Map and Compass** to give them a more immersive look.
-
-* On MO2 installation, check the following options in the installer:
-  * [X] 00 Yellowed Maps
 
 ## Hotkeys
 
@@ -195,9 +177,6 @@ Adds a hotkey for summons, followers and companions to attack the selected targe
 📃 [**Better Buoyancy**](https://www.nexusmods.com/morrowind/mods/48929)\
 Add hotkeys for swimming and levitating. Use the jump key to float upwards, and the sneak key to sink downwards.
 
-📃 [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625)\
-Adds a hotkey for picking up books.
-
 ## Character
 
 ⭐📃 [**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915)\
@@ -213,13 +192,6 @@ This mod attempts to preserve vanilla leveling mechanics while eliminating the n
 MCM: DISABLE Retroactive Health Calculation
 {% endhint %}
 
-<details> <summary>Alternatives</summary>
-
-[**L.A.M.P. ---- Leftover Attribute Modifiers Persist**](https://www.nexusmods.com/morrowind/mods/51310)\
- Saves any unused skill ups for the next time you level up. No ESP needed.
-
-</details>
-
 ⭐📃 [**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133)\
 A state-based health mod implemented in MWSE. Health is now calculated based on current endurance, strength and level.
 
@@ -232,6 +204,9 @@ Ahead of the classes makes many vanilla and TR classes playable and adds many ne
 
 📃 [**Class Starting Spells**](https://www.nexusmods.com/morrowind/mods/49010)\
 MWSE lua mod, which changes the distribution of starting spells and gives its own list of them for every class, depending on the its central theme. Requires Magicka Expanded.
+
+📃 [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283)\
+ Adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes. Compatible with Chargen Revamped - Expanded Lands (CREL). Uses MWSE/Lua.
 
 📃 [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872)\
 Endurance determines how long you can hold your breath under water.
@@ -362,6 +337,9 @@ A crafting framework for Morrowind, allowing other mods to register recipes, cra
 
 ⭐📃 [**Ashfall - A Camping Survival and Needs Mod**](https://www.nexusmods.com/morrowind/mods/49057) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
 A survival mod with hunger, thirst, tiredness, cooking, camping and temperature mechanics, as well as incredible new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack. Additionally implements the possibility of contracting blight diseases while out in a blight storm. A detailed guide for the mod [**can be found here**](https://github.com/jhaakma/ashfall/wiki).
+
+📃 [**Ashfall Add-on - Tanning Racks**](https://www.nexusmods.com/morrowind/mods/52485)\
+ Adds tanning racks from Ashfall around Morrowind.
 
 📃 [**More believable bandit camps - an addon for Ashfall**](https://www.nexusmods.com/morrowind/mods/50066)\
  Adds appropriate clutter to the various bandit camps.
@@ -573,10 +551,10 @@ Regional weather colours, skies and lighting. Visual weather editor and region-b
 ⭐📃 [**Chameleon**](https://www.nexusmods.com/morrowind/mods/47996)\
 The weird transparency of models (clothes, hair) with alpha channels issue fixed: Your character is not transparent at all.
 
-⭐📃 [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912)\
+📃 [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912)\
 Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
 
-⭐📃 [**True Lights and Darkness - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47133)\
+📃 [**True Lights and Darkness - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47133)\
 Modified version of True Lights and Darkness that reverts some of TLAD's more radical color changes, removes the flicker effect from most lights, plus a few other changes.
 
 * On MO2 installation, check the following options in the installer:
@@ -605,6 +583,9 @@ Lets you open or close any book or scroll in the game.
   * [x] 03 Melchior's Magnificent Manuscripts
 
 ## Landscape
+
+⭐📃 [**MWSE Dynamic Object Replacer**](https://www.nexusmods.com/morrowind/mods/52105)\
+ Framework for loading config files to dynamically replace objects at runtime. No lua knowledge required!
 
 ⭐📃 [**Adjustable Landscape Texture Scale**](https://www.nexusmods.com/morrowind/mods/49689) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  This mod allows you to manually increase the scale of the landscape texture to make it look more detailed without the need for hi-res replacers.

@@ -14,7 +14,7 @@ Patches for various mods
     * [x] Concept Art Plantations
     * [x] Mandas Manor
   * OAAB Foyada Mamaea Overhaul -> **OAAB Foyada Mamaea Overhaul**
-  * Animated Morrowind -> **Animated Morrowind**
+  * Animated Morrowind -> **Animated Morrowind** or ✨**Animated Morrowind for OpenMW**
   * Rise of House Telvanni -> **RoHT 2.0**
 
   * Tamriel Rebuilt Patch -> **Yes**

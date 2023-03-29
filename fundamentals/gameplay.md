@@ -48,5 +48,5 @@ Tweaks bows so that they line up better with the sheathing animation.
 [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)\
 Adds sheaths to weapons not covered by Weapon Sheathing.
 
-✨ [**Sei's Dynamic Wildlife**](https://www.nexusmods.com/morrowind/mods/52135)\
+[**Sei's Dynamic Wildlife**](https://www.nexusmods.com/morrowind/mods/52135)\
  With Sei's Dynamic Wildlife, you will never run out of animals to hunt or practice your skills on. This mod dynamically spawns animals around you as you traverse the wilderness and despawns them as you move further away, so as to not clutter the landscape, ensuring a fresh experience every time you revisit an area.

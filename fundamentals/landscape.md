@@ -5,7 +5,7 @@ Adds groundcover to almost all regions.
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core MGE XE or ✨00 Core OpenMW
-  * [x] 01b Thicker Grass MGE XE
+  * [x] 01b Thicker Grass MGE XE or ✨01b Thicker Grass OpenMW
   * [x] 03 TR Plugins
 
 * Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
