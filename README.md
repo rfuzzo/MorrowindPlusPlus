@@ -149,8 +149,6 @@ For help with this mod list and many many bug fixes:
 * [**Zebabi Expanded**](https://www.nexusmods.com/morrowind/mods/46276)
 * [**Bthuand Expanded**](https://www.nexusmods.com/morrowind/mods/46055)
 * [**Andrethi Tomb Overhaul**](https://www.nexusmods.com/morrowind/mods/46217)
-* [**Moonlight**](https://www.nexusmods.com/morrowind/mods/52456)
-* [**Reincarnate**](https://www.nexusmods.com/morrowind/mods/52397)
 * [**Temple Markers**](https://www.nexusmods.com/morrowind/mods/52415)
 * [**Morrowind Animated Hammocks (MAH)**](https://www.nexusmods.com/morrowind/mods/49767)
 * [**Bensamsi Expanded**](https://www.nexusmods.com/morrowind/mods/46956)
