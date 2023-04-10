@@ -44,9 +44,6 @@ This mod fixes several engine bugs related to GMSTs used when raising skills via
 📃 [**Thrown Projectiles Revamped**](https://www.nexusmods.com/morrowind/mods/49609) by [Ryuzaki1](https://www.nexusmods.com/morrowind/users/3890785)\
 Corrects thrown projectiles inflicting twice their listed damage, by halving their damage output.
 
-⭐📃 [**Graphic Herbalism Lighting**](https://www.nexusmods.com/morrowind/mods/47864) by [GrunTella](https://www.nexusmods.com/morrowind/users/2356095)\
-Makes picking a glowing plant also remove the glow-light.
-
 ## UI
 
 ⭐📃 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)\

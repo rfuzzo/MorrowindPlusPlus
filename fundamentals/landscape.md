@@ -408,13 +408,6 @@ Adds firefly-like insects called glowbugs across the Bitter Coast region which c
   * [x] 01 Glowbugs BC
   * [x] 02 Glowbugs AI
 
-<details> <summary>Alternatives</summary>
-
-⭐ [**Fireflies**](https://www.nexusmods.com/morrowind/mods/51443) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
-Adds fireflies around the Bitter Coast and the Ascadian Isles
-
-</details>
-
 ⭐ [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout region which appears during the night and certain weather conditions. It will burn off in the morning sun.
 
@@ -775,6 +768,28 @@ Adds some unique, Telvanni style light sources to various Telvanni settlements
  Overhaul the Hall of Justice in Old Ebonheart
 
 ## Add-ons
+
+⭐📃 [**Boats**](https://www.nexusmods.com/morrowind/mods/42270) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
+ You can travel by boat, ship and river strider in real time, and dismount anywhere in between trip starting and ending points
+
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
+  * [x] `_abotBoatsWP.esp`
+  * [x] `_abotRiverStridersWP.esp`
+  * [x] `abotBoatsTR2101.esp`
+  * [x] `abotRiverStridersTR2101.esp`
+
+⭐📃 [**Gondoliers**](https://www.nexusmods.com/morrowind/mods/43291) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
+ real time travel Vivec gondoliers
+
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
+  * [x] `abotGondoliersRV.esp`
+
+⭐📃 [**Silt Striders**](https://www.nexusmods.com/morrowind/mods/42267) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
+ I wanted to travel Morrowind on top of a real Silt Strider so strongly, and after years waiting for some similar mod to be completed, I decided to try myself.
+
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
+  * [x] `ab01NPCLCVSchedulesFix.esp`
+  * [x] `abotSiltStridersTR2101.esp`
 
  [**OAAB - Tel Raloran**](https://www.nexusmods.com/morrowind/mods/46841) by [Corsair83](https://www.nexusmods.com/morrowind/users/23131859)\
  A Telvanni mushroom house with MWSE functions.

@@ -1,5 +1,17 @@
 # Changelog
 
+## April 10th 2023
+
+Additions
+
+- Boats (good for immersion even if you don't ride them)
+- Gondoliers (good for immersion even if you don't ride them)
+- Silt Striders (good for immersion even if you don't ride them)
+
+Removals
+
+- Graphic Herbalism Lighting (buggy apparently)
+
 ## March 27nd 2023
 
 Additions
