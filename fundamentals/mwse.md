@@ -501,32 +501,6 @@ Soul gems in the world, in the player's inventory, and that the player interacts
 Note that users often forget about installing this mod, leading to questions on why they hear creature sounds from time to time when none are found nearby.
 {% endhint %}
 
-📃 [**MUSE 2 - Morrowind Music System Extended**](https://www.nexusmods.com/morrowind/mods/46200)\
-Extended and flexible music system for Morrowind, allows you to easily customize your music as well as make new music mods.
-
-📃 [**MUSE 2.0.2 Necro Sig Edit**](https://github.com/rfuzzo/MorrowindPlusPlus/blob/main/assets/MUSE%202.0.2%20Necro-Sig%20Edit.7z)\
-Fixes a number of bugs with the original mod, and optimizes it by removing air/underwater specific music. Additionally restores the vanilla music for the introductory scene at the Imperial Prison Ship. Mod by **Necrolesian** and **Sigourn**.
-
-{% hint style="info" %}
-[**External Link**](https://github.com/rfuzzo/MorrowindPlusPlus/raw/main/assets/MUSE%202.0.2%20Necro-Sig%20Edit.7z) to the download.
-{% endhint %}
-
-📃 [**MUSE Music Expansion - Sixth House**](https://www.nexusmods.com/morrowind/mods/51082)\
-A 6th House music expansion of original tracks for the Morrowind MUSE mod, created using modern production techniques. Featuring 5 new exploration tracks, 4 new combat tracks, and 1 boss fight track.
-
-📃 [**MUSE Music Expansion - Ashlander**](https://www.nexusmods.com/morrowind/mods/51255)\
-An Ashlander music expansion of original tracks by be created for the Morrowind MUSE mod. Featuring 4 new exploration tracks, 3 new combat tracks, and a special location track that plays in the Cavern of the Incarnate.
-
-📃 [**MUSE Music Expansion - Dwemer**](https://www.nexusmods.com/morrowind/mods/51169)\
-A Dwemer music expansion of original tracks by be created for the Morrowind MUSE mod. Featuring 5 new exploration tracks and 4 new combat tracks.
-
-* Files to install:
-  * **MUSE Expansion - Dwemer (Vanilla - Tribunal)** (Main files)
-
-📃 [**MUSE Music Expansion - Daedric**](https://www.nexusmods.com/morrowind/mods/51993)\
-Sharp synths, distorted guitars, phasing drum loops...
-A Daedric themed music expansion of original tracks by be created for the Morrowind MUSE mod. Featuring 5 new exploration tracks and 4 new combat tracks.
-
 ## Visuals
 
 📃 [**Enlightened Flames**](https://www.nexusmods.com/morrowind/mods/48816) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
@@ -551,14 +525,6 @@ The weird transparency of models (clothes, hair) with alpha channels issue fixed
 📃 [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912)\
 Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
 
-📃 [**True Lights and Darkness - Necro Edit**](https://www.nexusmods.com/morrowind/mods/47133)\
-Modified version of True Lights and Darkness that reverts some of TLAD's more radical color changes, removes the flicker effect from most lights, plus a few other changes.
-
-* On MO2 installation, check the following options in the installer:
-  * [ ] 00 Full Mod
-  * [ ] 01 Modular Plugins
-  * [x] 02 MWSE TLAD Lights
-
 ⭐📃 [**Vapourmist**](https://www.nexusmods.com/morrowind/mods/50517)\
 MWSE-Lua 3D clouds and mist.
 
@@ -570,14 +536,6 @@ Toggle lights on and off. Town lights turn off during the day. Lights are no lon
 
 📃 [**Transporter Lights - MWSE**](https://www.nexusmods.com/morrowind/mods/48050)\
 Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
-
-📃 [**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680)\
-Lets you open or close any book or scroll in the game.
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 01 Closed Book Icons
-  * [x] 03 Melchior's Magnificent Manuscripts
 
 ## Landscape
 

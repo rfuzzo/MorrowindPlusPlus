@@ -46,10 +46,13 @@ This needs to be installed before BCOM
     * [ ] Taller Lighthouse -> no (*personal preference*)
     * Stav's MGO -> **No**
     * [ ] Vicec Open Arena -> no (*personal preference*)
-    * [x] Vicec clutter addons -> Planters (*personal preference*)
-    * [x] Vicec clutter addons -> Street vendors (*personal preference*)
-    * [ ] Vicec clutter addons -> Round planters (*personal preference*)
-    * [x] Vicec clutter addons -> Temple Fountains (*personal preference*)
+    * Vivec Customization
+      * [x] Planters -> **yes** (*personal preference*)
+      * [x] Arena - Street vendors -> **yes** (*personal preference*)
+      * [ ] Arena - Bustling -> **no** (*personal preference*)
+      * [x] Arena - Planters -> **yes** (*personal preference*)
+      * [ ] Round planters -> **no** (*personal preference*)
+      * [x] Temple Fountains -> **yes** (*personal preference*)
     * [x] Expanded Sadrith Mora Dock -> yes (*personal preference*)
     * Glow in the Dahrk -> **Yes + Atlas**
     * [x] Project Atlas -> **yes**
@@ -158,6 +161,13 @@ The original mod has a lot of great ideas but was never finished or fixed. Other
 
 ⭐ [**Mines and Caverns**](https://www.nexusmods.com/morrowind/mods/44893)\
 This mod improves several vanilla dungeons aesthetically and/or expands them.
+
+{% hint style="warning" %}
+After installation
+
+* Run `tes3cmd delete --backup-dir tes3cmdbck --hide-backups --interior --id "Assumanu" "Clean_Mines & Caverns.ESP"`
+
+{% hint style="endhint" %}
 
 ⭐ [**Better Caves and Caverns**](https://www.nexusmods.com/morrowind/mods/51218)\
 Alteration to some of the Vanilla Caves and Caverns with a visual overhaul, as well as improved enemies and Bosses, all while maintaining maximum compatibility.
@@ -269,6 +279,9 @@ Updates Severa Magia's hideout to look and feel more like a DB sanctuary.
 
 ⭐ [**OAAB - Hawia Egg Mine**](https://www.nexusmods.com/morrowind/mods/51846)\
  A remake of Hawia egg mine using OAAB assets.
+
+⭐ [**Ascadian Isles - Hlaalu Bridges**](https://www.nexusmods.com/morrowind/mods/52571)\
+Replaces bridges on major Ascadian Isles' roads.
 
 ## Ashlands
 
@@ -564,6 +577,7 @@ We need to fix the Beautiful Cities of Morrowind mod to make it compatible:
 
 * On MO2 installation, check the following options in the installer:
   * [x] More Nordic Dagon Fel
+  * [x] Nine Holes Patch (BCOM)
 
 ⭐ [**The Grove of Ben'Abi**](https://www.nexusmods.com/morrowind/mods/46137) by [Remiros(Flash3113)](https://www.nexusmods.com/morrowind/users/899234)\
 Small expansion to the mushroom grove near Dagon Fel.
@@ -734,6 +748,12 @@ Distant Land generation is required to make this mod work as intended. Instructi
 
 ## Misc
 
+* [**Vennin's Sinsibadon Overhaul**](https://www.nexusmods.com/morrowind/mods/52630)\
+An overhaul of the cavern Sinsibadon using OAAB assets.
+
+* [**Vennin's Pulk Overhaul**](https://www.nexusmods.com/morrowind/mods/52616)\
+An overhaul of the cavern Pulk.
+
 [**OAAB Pomegranates**](https://www.nexusmods.com/morrowind/mods/50726) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  Inspired by their mention of growing in the badlands of Morrowind in Sermon 12, a regional variety of pomegranates can now be found growing atop Mount Assarnibibi.
 
@@ -782,6 +802,8 @@ Adds some unique, Telvanni style light sources to various Telvanni settlements
  real time travel Vivec gondoliers
 
 * Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
+  * [x] `abotGondoliersRVWP.esp`
+  * [x] `abotGondoliersWP.esp`
   * [x] `abotGondoliersRV.esp`
 
 ⭐📃 [**Silt Striders**](https://www.nexusmods.com/morrowind/mods/42267) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\

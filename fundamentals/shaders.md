@@ -17,6 +17,9 @@ Patches for various mods
   * Animated Morrowind -> **Animated Morrowind** or ✨**Animated Morrowind for OpenMW**
   * Rise of House Telvanni -> **RoHT 2.0**
 
+  * [x] Abot Boats
+  * [x] Abots Gondoliers
+  * [x] Abots Silt Striders
   * Tamriel Rebuilt Patch -> **Yes**
   * Yet Another Guard Diversity -> **Regular**
   * More Patches
@@ -27,7 +30,7 @@ Patches for various mods
     * [x] Bounty Hunter Assignments
     * [x] Ashlander Traders Remastered
     * [x] 📃 Realistic Repair Addon
-  * Mines and Caverns -> **Mines and Caverns**
+  * Mines and Caverns -> **Mines and Caverns** (this is outdated)
 
   * Select all that apply
     * [x] Velothi Wall Art

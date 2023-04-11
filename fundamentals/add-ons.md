@@ -1,5 +1,24 @@
 # Add-ons
 
+[**Thirteen Telvanni - a Dunmeri Card Game**](https://www.nexusmods.com/morrowind/mods/52081)\
+ Adds a 2-to-4-player, fully playable card game to the world, with betting, available at several taverns and other gathering places. Uses the Telvanni suit and Morag Tong card from Tamriel_Data's Dunmer card set.
+
+* Files to install:
+  * **Thirteen Telvanni - Modular**
+
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 (BCOM All Merged) Core
+
+[**Nine-holes**](https://www.nexusmods.com/morrowind/mods/52093)\
+ Adds playable Nine-holes boards to Vvardenfell, with an AI to challenge you and the option to bet gold.
+
+* Files to install:
+  * **Nine-holes - Modular**
+  * **Nine-holes - Tamriel Rebuilt Addon**
+
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 (BCOM All Merged) Core
+
 ## Creatures
 
 ⭐ [**Repopulated Morrowind**](https://www.nexusmods.com/morrowind/mods/51174)\
@@ -125,11 +144,7 @@ It also adds ovens that can be used to bake bread and pies. More baking recipes 
 The project is designed to add all the missing original weapons in the game, at the moment all weapons have been added from daggers to long spears, there are also crossbows and bows, they will also be added over time
 
 ⭐ [**Vanilla Friendly Wearables Expansion**](https://www.nexusmods.com/morrowind/mods/48683) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
-This is a compilation of mods that does a couple of things:
-
-* Adds new armours and weapons
-* Gives items/weapons/armours with a unique ID, a unique model
-* Expands on the ideas of Properly Clothed NPCs, by covering many more NPCs (Properly Clothed NPCs is already merged here).
+This is a compilation of mods that does a couple of things: Adds new armours and weapons, Gives items/weapons/armours with a unique ID, a unique model, Expands on the ideas of Properly Clothed NPCs, by covering many more NPCs (Properly Clothed NPCs is already merged here).
 
 * Files to install:
   * **Vanilla friendly weareables expansion**

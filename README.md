@@ -136,10 +136,18 @@ For help with this mod list and many many bug fixes:
 
 ## TODO (additions)
 
-* Mines and Caverns conflict with Gray North. You need to edit out Assamanu from M&C.
-* Also Better Caves and Caverns conflicts with M&C in Addamasartus. You either need to edit that cave from M&C or only use the enemies and boss esp from Better Caves.
+* [**Morag Tong Secret Identity**](https://www.nexusmods.com/morrowind/mods/51128)\
+MWSE-lua mod that adds new mechanics related to Morag Tong, solving some inconsistencies between gameplay, dialogues and lore, and making being part of the religious cult of assassins a more unique experience, exploring its twin nature of secrecy and legality.
 
-* [**Assarnud and Mat Overhaul**](https://www.nexusmods.com/morrowind/mods/51080)
+* [**Magicka of the Third Era - MWSE-lua Magic Overhaul**](https://www.nexusmods.com/morrowind/mods/51636)\
+MWSE-lua magic overhaul. Features reworked spell chances, reworked spell costs, Illusion effects overhaul, unique effect formulas, advanced multi-effect spell formula, effect synergies, spell rebalance, unique spells, reworked experience gain, Magicka Expanded integration. Many features are customizable.
+
+* [**ReAnimations - first-person**](https://www.nexusmods.com/morrowind/mods/52596)\
+A mix of new, altered vanilla, and adjusted MCAR animations.
+
+* [**Footprints**](https://www.nexusmods.com/morrowind/mods/52284)\
+ Actors Footprints
+
 * [**Ranyabi Egg Mine**](https://www.nexusmods.com/morrowind/mods/49854)
 * [**Haishibi Mine**](https://www.nexusmods.com/morrowind/mods/49579)
 * [**Nchardumz Overhaul**](https://www.nexusmods.com/morrowind/mods/48530)
@@ -153,9 +161,6 @@ For help with this mod list and many many bug fixes:
 * [**Morrowind Animated Hammocks (MAH)**](https://www.nexusmods.com/morrowind/mods/49767)
 * [**Bensamsi Expanded**](https://www.nexusmods.com/morrowind/mods/46956)
 * [**Mzahnch Overhaul**](https://www.nexusmods.com/morrowind/mods/49601)   (unfinished?)
-
-* Vennin's Addamasartus Overhaul <https://www.nexusmods.com/morrowind/mods/52420>   (incompatible)
-* Vennin's Abernanit Overhaul <https://www.nexusmods.com/morrowind/mods/52457>      (incompatible)
 
 * Radiant Quests of Morrowind
 * NPC Schedule

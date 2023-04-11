@@ -4,13 +4,19 @@
 
 Additions
 
+- Ascadian Isles - Hlaalu Bridges
+- Thirteen Telvanni - a Dunmeri Card Game
+- Nine-holes
 - Boats (good for immersion even if you don't ride them)
 - Gondoliers (good for immersion even if you don't ride them)
 - Silt Striders (good for immersion even if you don't ride them)
 
 Removals
 
-- Graphic Herbalism Lighting (buggy apparently)
+- Graphic Herbalism Lighting (not worth it)
+- True Light and Darkness (not worth it)
+- Switchable Scriptures (too minor)
+- MUSE (people can decide for themeselves)
 
 ## March 27nd 2023
 
