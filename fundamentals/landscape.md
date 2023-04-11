@@ -166,6 +166,7 @@ This mod improves several vanilla dungeons aesthetically and/or expands them.
 After installation
 
 * Run `tes3cmd delete --backup-dir tes3cmdbck --hide-backups --interior --id "Assumanu" "Clean_Mines & Caverns.ESP"`
+* Run `tes3cmd delete --backup-dir tes3cmdbck --hide-backups --type pgrd --id "Assumanu" "Clean_Mines & Caverns.ESP"`
 
 {% hint style="endhint" %}
 
