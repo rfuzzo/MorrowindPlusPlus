@@ -31,13 +31,6 @@ Replaces a handful of sound files to stop female Nords from bursting your ear dr
 [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588)\
 Reduces the frequency of idle Cliff Racer screeches.
 
-[**Quieter Doors and Spells**](https://github.com/rfuzzo/MorrowindPlusPlus/blob/main/assets/Quieter%20Doors%20and%20Spells.7z)\
-Reduces the volume of doors and spells. Mod by **Sigourn**.
-
-{% hint style="info" %}
-[**External Link**](https://github.com/rfuzzo/MorrowindPlusPlus/raw/main/assets/Quieter%20Doors%20and%20Spells.7z) to the download.
-{% endhint %}
-
 [**Spell Sounds Enhanced**](https://www.nexusmods.com/morrowind/mods/46338)\
 Vanilla-friendly replacer of each vanilla spell sound.
 

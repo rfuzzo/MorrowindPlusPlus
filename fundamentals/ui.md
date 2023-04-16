@@ -17,13 +17,6 @@ A modern HD replacer for the Azura Cutscene that plays in the Cavern of the Inca
 * Type in "Video" to create the Video folder
 * Move `mw_cavern.bik` into it
 
-<details>   <summary>Screenshot</summary>
-
-![Screenshot](../pictures/mo2_datafiles.png)
-![Screenshot](../pictures/coti_01.png.png)
-
-</details>
-
 {% hint style="warning" %}
 This mod requires the **Mod Specific/Hi-def cutscene support** feature to be enabled in the Morrowind Code Patch.
 {% endhint %}

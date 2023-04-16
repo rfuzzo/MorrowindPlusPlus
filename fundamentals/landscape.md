@@ -116,13 +116,13 @@ Compatibility Patch for "I Lava Good Mesh Replacer" by Melchior Dahrk with "Inte
 Adds a visual effect to all vanilla flies sound emitters.
 
 ⭐ [**Nocturnal Moths**](https://www.nexusmods.com/morrowind/mods/44148) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
- Adds moths flying around some of the lanterns at night.
+Adds moths flying around some of the lanterns at night.
 
 * Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
   * [x] `Nocturnal Moths - Vanilla.ESP`
 
 ⭐ [**Cave Drips**](https://www.nexusmods.com/morrowind/mods/43488) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
- Adds a visual effect to all vanilla cave drip sound emitters.
+Adds a visual effect to all vanilla cave drip sound emitters.
 
 ⭐ [**Parasol Particles**](https://www.nexusmods.com/morrowind/mods/47755?tab=description) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  Adds falling spores particle effects to the iconic emperor parasol mushrooms.
@@ -204,6 +204,15 @@ Replaces all of the trees in the Ascadian Isles region.
 * Files to install:
   * **Remiros' Ascadian Isles Trees - Vanilla**
 
+⭐ [**OAAB - Hawia Egg Mine**](https://www.nexusmods.com/morrowind/mods/51846)\
+ A remake of Hawia egg mine using OAAB assets.
+
+⭐ [**Ascadian Isles - Hlaalu Bridges**](https://www.nexusmods.com/morrowind/mods/52571)\
+Replaces bridges on major Ascadian Isles' roads.
+
+⭐ [**ReadMe - Library of Vivec Overhaul**](https://www.nexusmods.com/morrowind/mods/49916)\
+This mod redesigns the Library of Vivec from scratch to make it look and feel like a true library, with many books added from Tamriel_Data and OAAB_Data for you to read. There are also new NPCs for you to interact with, and two new quests that set you on the hunt for a unique book the resource for which was provided by RubberMan.
+
 [**Concept Art Palace (Vivec City)**](https://www.nexusmods.com/morrowind/mods/48136)\
  The Concept Art Palace mod (C.A.P.) is my attempt to bring the Vivec palace closer the original Kirkbride's concept art.
 
@@ -223,9 +232,6 @@ Replaces the water in the Palace of Vivec's canals using the animation method an
 
 [**Prerelease Prisonmoon**](https://www.nexusmods.com/morrowind/mods/49627)\
  Adds some more clutter to the ministry of truth inspired by early screenshots and concept art.
-
-[**ReadMe - Library of Vivec Overhaul**](https://www.nexusmods.com/morrowind/mods/49916)\
-This mod redesigns the Library of Vivec from scratch to make it look and feel like a true library, with many books added from Tamriel_Data and OAAB_Data for you to read. There are also new NPCs for you to interact with, and two new quests that set you on the hunt for a unique book the resource for which was provided by RubberMan.
 
 [**Glass Domes of Vivec - Performance-friendly Open-ish Cantons**](https://www.nexusmods.com/morrowind/mods/48935)\
 Replaces the tops of Vivec's cantons with "glass" domes, so that the plaza interiors are gloriously lit by daylight and aren't as miserable. They will react to weather and night time, ALSO.
@@ -277,12 +283,6 @@ Updates Severa Magia's hideout to look and feel more like a DB sanctuary.
 
 * On MO2 installation, check the following options in the installer:
   * [x] Data Files
-
-⭐ [**OAAB - Hawia Egg Mine**](https://www.nexusmods.com/morrowind/mods/51846)\
- A remake of Hawia egg mine using OAAB assets.
-
-⭐ [**Ascadian Isles - Hlaalu Bridges**](https://www.nexusmods.com/morrowind/mods/52571)\
-Replaces bridges on major Ascadian Isles' roads.
 
 ## Ashlands
 
@@ -429,7 +429,7 @@ Enhances the ambiance of the Bitter Coast by adding a new mist effect throughout
   * [x] 00 Core
   * [x] 01 Vanilla Mist Replacer
 
-[**Cawumaloe Manor**](https://mw.modhistory.com/download-44-12735) by *Blue Eagle*\
+⭐ [**Cawumaloe Manor**](https://mw.modhistory.com/download-44-12735) by *Blue Eagle*\
 Adds an airborne mudball house southeast of Gnaar Mok.
 
 * After installation, in MO2, go to **Filetree**:
@@ -535,23 +535,7 @@ There were also dirty edits that have been removed and some small tweaks here an
 
 ## Molag Amur
 
-⭐ [**Sloadic Transports**](https://www.nexusmods.com/morrowind/mods/50546) by [RealAshstaar](https://www.nexusmods.com/morrowind/users/48605)\
- Sloadic Cargo Transports have arrived at Molag Mar. One is docked at the strider port and one will fly a route north of Molag Mar. There is a standard version and a necro version. Use only one .esp file.
-A very good place to view the flying airship is from the northeast corner of the Molag Mar canton.
-
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
-  * [x] `Sloadic Transport Necro.ESP`
-
-[**Maren's Misfit Mabrigash**](https://www.nexusmods.com/morrowind/mods/48709)\
- Explore a revamped Maren Ancestral Tomb in search of a mysterious Ashlander outcast. Part of the Summer Modjam 2020.
-
- [**Marandus Rebuilt**](https://www.nexusmods.com/morrowind/mods/49522) by [EndoranWest](https://www.nexusmods.com/morrowind/users/44230747)\
-The once generic stronghold of Marandus has now been given a facelift to truly show that it's now a Redoran conquest.
-
- [**Ashunartes Overhaul**](https://www.nexusmods.com/morrowind/mods/50049)\
- This mod overhauls the shrine of Ashunartes, adding more to explore.
-
- [**Ruined Molag Mar**](https://www.nexusmods.com/morrowind/mods/52473)\
+⭐ [**Ruined Molag Mar**](https://www.nexusmods.com/morrowind/mods/52473)\
  Overhaul of Molag Mar
 
 * On MO2 installation, check the following options in the installer:
@@ -570,6 +554,22 @@ We need to fix the Beautiful Cities of Morrowind mod to make it compatible:
 * Double click to run the .bat file
 
 {% endhint %}
+
+⭐ [**Sloadic Transports**](https://www.nexusmods.com/morrowind/mods/50546) by [RealAshstaar](https://www.nexusmods.com/morrowind/users/48605)\
+Sloadic Cargo Transports have arrived at Molag Mar. One is docked at the strider port and one will fly a route north of Molag Mar. There is a standard version and a necro version. Use only one .esp file.
+A very good place to view the flying airship is from the northeast corner of the Molag Mar canton.
+
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
+  * [x] `Sloadic Transport Necro.ESP`
+
+[**Maren's Misfit Mabrigash**](https://www.nexusmods.com/morrowind/mods/48709)\
+Explore a revamped Maren Ancestral Tomb in search of a mysterious Ashlander outcast. Part of the Summer Modjam 2020.
+
+[**Marandus Rebuilt**](https://www.nexusmods.com/morrowind/mods/49522) by [EndoranWest](https://www.nexusmods.com/morrowind/users/44230747)\
+The once generic stronghold of Marandus has now been given a facelift to truly show that it's now a Redoran conquest.
+
+[**Ashunartes Overhaul**](https://www.nexusmods.com/morrowind/mods/50049)\
+This mod overhauls the shrine of Ashunartes, adding more to explore.
 
 ## Sheogorad
 
@@ -661,6 +661,9 @@ A West Gash tree replacer for players who desire a look closer to the vanilla ga
     * [x] Pine (Default)
     * [x] OAAB Saplings
     * [x] Ashfall trees patch
+
+⭐ [**Balmora Lighthouse**](https://www.nexusmods.com/morrowind/mods/43103)\
+This mod adds a free player house of your very own in Balmora. Compatible with Beautiful Cities of Morrowind and Morrowind Rebirth.
 
 [**URH - Ald Velothi**](https://www.nexusmods.com/morrowind/mods/51590) by [mwgek](https://www.nexusmods.com/morrowind/users/4462276)\
 An overhaul of the Ald Velothi outpost to give it a unique look.
@@ -790,7 +793,7 @@ Adds some unique, Telvanni style light sources to various Telvanni settlements
 
 ## Add-ons
 
-⭐📃 [**Boats**](https://www.nexusmods.com/morrowind/mods/42270) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
+⭐ [**Boats**](https://www.nexusmods.com/morrowind/mods/42270) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
  You can travel by boat, ship and river strider in real time, and dismount anywhere in between trip starting and ending points
 
 * Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
@@ -799,7 +802,7 @@ Adds some unique, Telvanni style light sources to various Telvanni settlements
   * [x] `abotBoatsTR2101.esp`
   * [x] `abotRiverStridersTR2101.esp`
 
-⭐📃 [**Gondoliers**](https://www.nexusmods.com/morrowind/mods/43291) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
+⭐ [**Gondoliers**](https://www.nexusmods.com/morrowind/mods/43291) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
  real time travel Vivec gondoliers
 
 * Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
@@ -807,51 +810,12 @@ Adds some unique, Telvanni style light sources to various Telvanni settlements
   * [x] `abotGondoliersWP.esp`
   * [x] `abotGondoliersRV.esp`
 
-⭐📃 [**Silt Striders**](https://www.nexusmods.com/morrowind/mods/42267) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
+⭐ [**Silt Striders**](https://www.nexusmods.com/morrowind/mods/42267) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
  I wanted to travel Morrowind on top of a real Silt Strider so strongly, and after years waiting for some similar mod to be completed, I decided to try myself.
 
 * Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
   * [x] `ab01NPCLCVSchedulesFix.esp`
   * [x] `abotSiltStridersTR2101.esp`
-
- [**OAAB - Tel Raloran**](https://www.nexusmods.com/morrowind/mods/46841) by [Corsair83](https://www.nexusmods.com/morrowind/users/23131859)\
- A Telvanni mushroom house with MWSE functions.
-
-* On MO2 installation, check the following options in the installer:
-  * [X] 00 Core
-  * [X] 01 Vanilla
-
-[**The Vestige of Bethaleft**](https://www.nexusmods.com/morrowind/mods/50663)\
- Discover the remnants of a failed Telvanni expedition and explore the depths of Bethaleft, a Dwemer citadel that served as a testing ground for the Tools of Kagrenac.
-
- [**The Manifold Spires**](https://www.nexusmods.com/morrowind/mods/46128) by [PhDinSorcery](https://www.nexusmods.com/morrowind/users/8404526)\
- A mod that adds the Manifold Spires, a new landmass, and an associated quest.
-
- [**Lyithdonea**](https://www.nexusmods.com/morrowind/mods/43749) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
- Lyithdonea: The Azurian Isles is a landmass mod for Morrowind featuring a tropical paradise between Tamriel and Akavir. The mod has a strong influence from the Daedric Lord Azura with dusk and dawn themes and Azura being the focus of religion in the region. Explore a detailed new landmass, discover strange creatures, battle pirates, immerse in the
-
-{% hint style="info" %}
-[**Development Version can be found on github**](https://github.com/MelchiorDahrk/Lyithdonea) Download the files, zip them and install with MO2 to get a installer.
-{% endhint %}
-
-[**Anna-Sera**](https://www.nexusmods.com/morrowind/mods/51343)\
- Anna-Sera is a ship located in the Sheogorad region. On board you will meet Sugar-Scales and his partner in crime, Zan'si.
-
-{% hint style="warning" %}
-This mod requires the **Beta/actor collision box fix** feature to be enabled in the Morrowind Code Patch.
-{% endhint %}
-
-[**Water Life**](https://www.nexusmods.com/morrowind/mods/42417) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
-This plugin mainly adds to Morrowind (most) peaceful aquatic creatures.
-
-[**Hidden Sea Loot**](https://www.nexusmods.com/morrowind/mods/52296)\
-Adds over 500 hidden containers for you to find in the sea for every region around the island of Vvardenfell. Each contains random items that change for EVERY playthrough. Randomization is weighted for balanced distribution.
-
-[**Far From Home**](https://www.nexusmods.com/morrowind/mods/46860)\
-This mod adds a quest to a new and dangerous tomb which brings the player to unexpected places and the player has a chance to acquire a curious new home.
-
-* After installation, in MO2, go to **Filetree**:
-* `Far From Home v1.4.ESP` -> right click: **Hide**.
 
 ⭐ [**Investigations at Tel Eurus**](https://www.nexusmods.com/morrowind/mods/51940)\
  Investigate a series of attacks on Tel Eurus, follow the clues to uncover the mastermind behind it. Level 10 or higher recommended.
@@ -875,14 +839,50 @@ This mod adds a quest to a new and dangerous tomb which brings the player to une
   * [x] 02 BCOM Patch (Optional)
   * [x] ✨ 03 OpenMW Patch
 
-⭐ [**Horror at Helvil Mine**](https://www.nexusmods.com/morrowind/mods/51941)\
- Ask around about Latest Rumors in Maar Gan to find tell of a mine in peril. Bring forth its demise, or save it from financial ruin! Ever wanted to own a mine? Ever wanted to be friends with a kwama? This is the mod for you.
+[**OAAB - Tel Raloran**](https://www.nexusmods.com/morrowind/mods/46841) by [Corsair83](https://www.nexusmods.com/morrowind/users/23131859)\
+ A Telvanni mushroom house with MWSE functions.
+
+* On MO2 installation, check the following options in the installer:
+  * [X] 00 Core
+  * [X] 01 Vanilla
+
+[**The Vestige of Bethaleft**](https://www.nexusmods.com/morrowind/mods/50663)\
+Discover the remnants of a failed Telvanni expedition and explore the depths of Bethaleft, a Dwemer citadel that served as a testing ground for the Tools of Kagrenac.
+
+[**The Manifold Spires**](https://www.nexusmods.com/morrowind/mods/46128) by [PhDinSorcery](https://www.nexusmods.com/morrowind/users/8404526)\
+ A mod that adds the Manifold Spires, a new landmass, and an associated quest.
+
+[**Lyithdonea**](https://www.nexusmods.com/morrowind/mods/43749) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
+Lyithdonea: The Azurian Isles is a landmass mod for Morrowind featuring a tropical paradise between Tamriel and Akavir. The mod has a strong influence from the Daedric Lord Azura with dusk and dawn themes and Azura being the focus of religion in the region. Explore a detailed new landmass, discover strange creatures, battle pirates, immerse in the
+
+{% hint style="info" %}
+[**Development Version can be found on github**](https://github.com/MelchiorDahrk/Lyithdonea) Download the files, zip them and install with MO2 to get a installer.
+{% endhint %}
+
+[**Anna-Sera**](https://www.nexusmods.com/morrowind/mods/51343)\
+Anna-Sera is a ship located in the Sheogorad region. On board you will meet Sugar-Scales and his partner in crime, Zan'si.
+
+{% hint style="warning" %}
+This mod requires the **Beta/actor collision box fix** feature to be enabled in the Morrowind Code Patch.
+{% endhint %}
+
+[**Water Life**](https://www.nexusmods.com/morrowind/mods/42417) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
+This plugin mainly adds to Morrowind (most) peaceful aquatic creatures.
+
+[**Hidden Sea Loot**](https://www.nexusmods.com/morrowind/mods/52296)\
+Adds over 500 hidden containers for you to find in the sea for every region around the island of Vvardenfell. Each contains random items that change for EVERY playthrough. Randomization is weighted for balanced distribution.
+
+[**Far From Home**](https://www.nexusmods.com/morrowind/mods/46860)\
+This mod adds a quest to a new and dangerous tomb which brings the player to unexpected places and the player has a chance to acquire a curious new home.
+
+* After installation, in MO2, go to **Filetree**:
+* `Far From Home v1.4.ESP` -> right click: **Hide**.
+
+[**Horror at Helvil Mine**](https://www.nexusmods.com/morrowind/mods/51941)\
+Ask around about Latest Rumors in Maar Gan to find tell of a mine in peril. Bring forth its demise, or save it from financial ruin! Ever wanted to own a mine? Ever wanted to be friends with a kwama? This is the mod for you.
 
 [**Ald Gash - a Redoran Lighthouse**](https://www.nexusmods.com/morrowind/mods/52292)\
- This mod adds a Redoran lighthouse to the north-eastern coast of Vvardenfell.
+This mod adds a Redoran lighthouse to the north-eastern coast of Vvardenfell.
 
 [**Keelhouse**](https://www.nexusmods.com/morrowind/mods/49952)\
- Adds a player house with a simple quest and backstory.
-
-[**Balmora Lighthouse**](https://www.nexusmods.com/morrowind/mods/43103)\
- This mod adds a free player house of your very own in Balmora. Compatible with Beautiful Cities of Morrowind and Morrowind Rebirth.
+Adds a player house with a simple quest and backstory.

@@ -139,14 +139,10 @@ For help with this mod list and many many bug fixes:
 * [**Morag Tong Secret Identity**](https://www.nexusmods.com/morrowind/mods/51128)\
 MWSE-lua mod that adds new mechanics related to Morag Tong, solving some inconsistencies between gameplay, dialogues and lore, and making being part of the religious cult of assassins a more unique experience, exploring its twin nature of secrecy and legality.
 
-* [**Magicka of the Third Era - MWSE-lua Magic Overhaul**](https://www.nexusmods.com/morrowind/mods/51636)\
-MWSE-lua magic overhaul. Features reworked spell chances, reworked spell costs, Illusion effects overhaul, unique effect formulas, advanced multi-effect spell formula, effect synergies, spell rebalance, unique spells, reworked experience gain, Magicka Expanded integration. Many features are customizable.
+* [**A Lover's Quarrel**](https://www.nexusmods.com/morrowind/mods/52679)
 
 * [**ReAnimations - first-person**](https://www.nexusmods.com/morrowind/mods/52596)\
 A mix of new, altered vanilla, and adjusted MCAR animations.
-
-* [**Footprints**](https://www.nexusmods.com/morrowind/mods/52284)\
- Actors Footprints
 
 * [**Ranyabi Egg Mine**](https://www.nexusmods.com/morrowind/mods/49854)
 * [**Haishibi Mine**](https://www.nexusmods.com/morrowind/mods/49579)
@@ -168,7 +164,6 @@ A mix of new, altered vanilla, and adjusted MCAR animations.
 
 ## TODO (maybe)
 
-* [**OAAB Winged Twilight**](https://www.nexusmods.com/morrowind/mods/51643)
 * [**Markets and Caravans**](https://www.nexusmods.com/morrowind/mods/51704)
 * [**Westly's Faces Refurbished**](https://www.nexusmods.com/morrowind/mods/51214)
 * [**More Progressive Vos**](https://www.nexusmods.com/morrowind/mods/51701)        (incompatible?)
@@ -181,15 +176,6 @@ A mix of new, altered vanilla, and adjusted MCAR animations.
 * [**Daedric Ruins (Half-Revamped)**](https://www.nexusmods.com/morrowind/mods/51674)
 
 * [**Sacred Necromancer Armor**](https://www.nexusmods.com/morrowind/mods/51651)
-
-## TODO (removals)
-
-* TR Music (meh)
-* MWSE fire damage (or tweak it)
-* MWSE Blood Diversity (weird)
-* Imperial Steel Cuirass Tweaks (too minor)
-* LeFemm Redacted (too minor)
-* Magic Icons (not vanilla enough)
 
 ## Changelog
 

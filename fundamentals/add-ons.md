@@ -1,6 +1,6 @@
 # Add-ons
 
-[**Thirteen Telvanni - a Dunmeri Card Game**](https://www.nexusmods.com/morrowind/mods/52081)\
+⭐ [**Thirteen Telvanni - a Dunmeri Card Game**](https://www.nexusmods.com/morrowind/mods/52081)\
  Adds a 2-to-4-player, fully playable card game to the world, with betting, available at several taverns and other gathering places. Uses the Telvanni suit and Morag Tong card from Tamriel_Data's Dunmer card set.
 
 * Files to install:
@@ -9,7 +9,7 @@
 * On MO2 installation, check the following options in the installer:
   * [x] 00 (BCOM All Merged) Core
 
-[**Nine-holes**](https://www.nexusmods.com/morrowind/mods/52093)\
+⭐ [**Nine-holes**](https://www.nexusmods.com/morrowind/mods/52093)\
  Adds playable Nine-holes boards to Vvardenfell, with an AI to challenge you and the option to bet gold.
 
 * Files to install:
@@ -55,6 +55,12 @@ Modular versions of WARES for Vvardenfell, Tamriel Rebuilt, Skyrim Home of the N
     * [ ] 08 MOAR items in shops addons
     * [ ] 09 NOD Patch
 
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
+  * [x] `Wares_VV_npcs_purist.ESP`
+  * [x] `Wares_PC_npcs_purist.esp`
+  * [x] `Wares_TR_npcs_purist.esp`
+  * [x] `Wares_SHOTN_npcs_purist.esp`
+
 ⭐ [**Friends and Foes**](https://www.nexusmods.com/morrowind/mods/49251) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
  Adds friendly and less friendly npcs to the game.
 
@@ -83,7 +89,7 @@ This mod doesn't contain the esp file, it will be installed later together with 
 {% endhint %}
 
 [**Walkers of Morrowind**](https://www.nexusmods.com/morrowind/mods/49889) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
- Allows npcs in the wilderness who were given an AIWander package to actually wander within their cell.
+Allows npcs in the wilderness who were given an AIWander package to actually wander within their cell.
 
 [**Corprus Natives**](https://www.nexusmods.com/morrowind/mods/45674) by [rotat](https://www.nexusmods.com/morrowind/users/40752190)\
 Replaces the Corprus Stalker with a Dunmer version. For those who dislike that it's a human zombie with ears tacked on, despite its excellent animations. Lame Corprus also edited for consistency.
@@ -156,12 +162,6 @@ This is a compilation of mods that does a couple of things: Adds new armours and
     * [x] Cepalopod Armor - TR patch
     * [x] Redoran War
 
-⭐ [**Indexes of Morrowind**](https://www.nexusmods.com/morrowind/mods/47501)\
- This mod provides useful in-game indexes of tracking down various items and locations. They come as either books or flyers and can be found in various places.
-
-* On MO2 installation, an installer window will pop up asking you to set a Data Files Directory.
-* Right click on `Indexes of MW > Data Files` and select "Set as < data files > directory".
-
 ⭐ [**OAAB Integrations**](https://www.nexusmods.com/morrowind/mods/49045)\
  This page will be used to upload minor mods which integrate content from OAAB_Data into the game by the OAAB team.
 
@@ -190,12 +190,18 @@ This is a compilation of mods that does a couple of things: Adds new armours and
     * Rebalances - Oriental Ebony Weapons -> [x]  (personal preference)
   * Patches
     * [x] Tooltips Complete
-    * [x] Yet Another Guard Diversity
+    * [ ] Yet Another Guard Diversity
     * [ ] Complete Duke's Guard Silver
     * [ ] Area Effect Arrows
 
 ⭐ [**Uncharted Artifacts**](https://www.nexusmods.com/morrowind/mods/49281)\
  All shipwrecks carry a hidden map revealing the location of a unique, non-quest related artifact. Let the treasure hunting begin!
+
+[**Indexes of Morrowind**](https://www.nexusmods.com/morrowind/mods/47501)\
+ This mod provides useful in-game indexes of tracking down various items and locations. They come as either books or flyers and can be found in various places.
+
+* On MO2 installation, an installer window will pop up asking you to set a Data Files Directory.
+* Right click on `Indexes of MW > Data Files` and select "Set as < data files > directory".
 
 [**Ebony Shortsword Challenge**](https://www.nexusmods.com/morrowind/mods/50358)\
 An ebony shortsword is hidden somewhere in the western half of Vvardenfell. Will you be able to find it?
@@ -210,9 +216,6 @@ A fiery alternative to the Boots of Blinding Speed. They can be found in the loc
 
 [**Concept Art Dunmer Helmets**](https://www.nexusmods.com/morrowind/mods/52043)\
  Adds several new Dunmer Helmets into the game based on designs by michael kirkbride
-
-[**(AshFall) Axe Additions**](https://www.nexusmods.com/morrowind/mods/51716)\
-Adds 4 one-handed axes to the game (to use as woodcutting axe for the mod AshFall).
 
 [**SM Morag Tong Armor**](https://www.nexusmods.com/morrowind/mods/50953)
 A mod that adds a full set of Morag Tong Guild armor to the game. Based on Michael Kirkbride concept-art.

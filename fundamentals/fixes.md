@@ -102,20 +102,20 @@ Fixes many issues present in Bethesda's original Official Plugins.
     * [x] Siege at Firemoth
   * **High res textures** -> Yes
 
+⭐ [**Creature VFX restoration**](https://www.nexusmods.com/morrowind/mods/46194)\
+Restores visual effects on creatures.
+
+⭐ [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
+Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
+
+⭐ [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
+Construction materials and scaffolding are now visible at the Great House strongholds during construction of the later stages.
+
 [**Better Propylon Teleport Script**](https://www.nexusmods.com/morrowind/mods/46364) by [PikachunoTM](https://www.nexusmods.com/morrowind/users/16269634)\
 The Warp Script for the Propylon Indices will now prompt you before teleporting.
 
 * Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
   * [x] `Better Propylon Teleport Warp.esp`
-
-[**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
-Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
-
-[**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
-Construction materials and scaffolding are now visible at the Great House strongholds during construction of the later stages.
-
-⭐ [**Creature VFX restoration**](https://www.nexusmods.com/morrowind/mods/46194)\
- Restores visual effects on creatures.
 
 ## Lore Fixes
 

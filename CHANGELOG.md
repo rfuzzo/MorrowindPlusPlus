@@ -1,5 +1,22 @@
 # Changelog
 
+## April 16th 2023
+
+Additions
+
+- Interesting Outfits - Kinsmer
+
+Removals
+
+- Yet Another Guard Diversity (replaced with IO)
+- Quieter Doors and Spells (too minor and not on nexus)
+- No Disease Labels (not needed)
+- MWSE Loading Splash Screens
+- MWSE Compare tooltips
+- Consistent Keys (not needed with UI expansion)
+- Soulgem Renamer (not needed with UI expansion)
+- MWSE Fire damage (buggy)
+
 ## April 10th 2023
 
 Additions
@@ -41,11 +58,6 @@ Additions
 - Of Dungeons and Abodes - TeleportAmulet - Fix (openmw only)
 - Library of Vivec Overhaul - Full - OpenMW Patch (openmw only)
 - Cooking and Eating - Publicans Expansion (openmw only)
-
-## March 27nd 2023
-
-Additions
-
 - Better Blight (openmw only)
 - OpenMW Anim Patch
 - Morag Tong Polished - BCoM Patch

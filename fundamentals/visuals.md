@@ -24,14 +24,12 @@ Compatibility patch for Morrowind Enhanced Textures.
 
 ## NPCs
 
-⭐ [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894)\
-Replaces generic copy-pasted guards with a variety of more unique-looking guards.
+⭐ [**Interesting Outfits - Kinsmer**](https://www.nexusmods.com/morrowind/mods/52167)\
+Adds weapons and armour from Tamriel_Data, OAAB_Data, Ivolga's Armored Robes and Danke's Armors to various friendly npcs to make them feel less generic.
 
-* Files to install:
-  * **Yet Another Guard Diversity - Regular** (Main files)
-
-⭐ [**Yet Another Guard Diversity - Uniform Ordinators**](https://www.nexusmods.com/morrowind/mods/49232)\
-Patches the Ordinator helmet and shield's leveled lists from Yet Another Guard Diversity to ensure they always spawn with them.
+* On MO2 installation, check the following options in the installer:
+  * [x] 1. Core
+  * [x] 4. IO - Kinsmer + YAGD BCOM Compatibility Version
 
 ⭐ [**Yet Another Guard Diversity Expanded Imperials**](https://www.nexusmods.com/morrowind/mods/47583) by [Citadel535](https://www.nexusmods.com/morrowind/users/23131859)\
 Expands the Yet Another Guard Diversity to cover Imperials in Tamriel Rebuilt.
@@ -69,7 +67,7 @@ An in-depth yet completely vanilla friendly touch up of every head and almost ev
 * After installation, in MO2, go to **Filetree**:
 * `(optional) Redguard Female Teeth Texture Fix` -> right click: **Hide**.
 
-[Divine Dagoths](https://www.nexusmods.com/morrowind/mods/45536)\
+[**Divine Dagoths**](https://www.nexusmods.com/morrowind/mods/45536)\
 Pluginless replacer for Dagoth Ur and his brothers, with tweaked body proportions and shadow meshes, new HD particles, and corpse models.
 
 * Files to install:
@@ -155,7 +153,7 @@ Adds wooden shutters to Nord windows (like those in the vanilla game), which ope
 
 ## Equipment
 
-⭐ [**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281)\
+[**Wolf Helmet Replacer**](https://www.nexusmods.com/morrowind/mods/29281)\
 Replaces the Wolf and Snow Wolf Helmets with a ferocious wolf head with gaping jaws, matching the Bear and Snow Bear helmets.
 
 [**LeFemm Redacted**](https://www.nexusmods.com/morrowind/mods/50361)\

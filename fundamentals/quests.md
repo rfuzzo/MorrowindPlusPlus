@@ -111,6 +111,24 @@ This mod overhauls the Fighters Guild questline by improving the background and 
   * [x] 03 Patch for Caeris' Camonna Tong
   * [x] 09 Patch for Quest Voice Greetings
 
+⭐ [**Thieves' Guild Overhaul**](https://www.nexusmods.com/morrowind/mods/49944)\
+A complete overhaul of the Thieves' Guild faction. New quests, tweaks for existing quests, items, and a lot more!
+
+⭐ [**Imperial Legion Expansion**](https://www.nexusmods.com/morrowind/mods/44469)\
+This mod is a complete overhaul of the Imperial Legion faction. New quests, items, NPCs and more.
+
+⭐ [**Morag Tong Polished**](https://www.nexusmods.com/morrowind/mods/47041)\
+The Morag Tong Guild is the most poorly written faction in Morrowind. This mod fixes that by giving the guild a much needed touch up.
+
+⭐ [**Morag Tong Polished Compatibility Patch**](https://www.nexusmods.com/morrowind/mods/48955)\
+This patch fixes conflicts between Morag Tong Polished and other mods:
+
+* Files to download:
+  * **Morag Tong Polished Compatibility Patch**
+
+* On MO2 installation, check the following options in the installer:
+  * [x] 01 TR_Factions
+
 [**Mage Robes**](https://www.nexusmods.com/morrowind/mods/45739)\
 Many Mages Guild members will now wear the new robes and the player can acquire the robes through quests and purchase.
 
@@ -127,26 +145,8 @@ Members of the Mages Guild can now deliver a coded message, solve a murder, inve
 [**Thieves Guild Stash**](https://www.lonebullet.com/mods/download-thieves-guild-stash-v10-elder-scrolls-iii-morrowind-mod-free-43942.htm)\
 This mod adds several "Thieves' Guild Stash" chests, similar to the Fighters' Guild Equipment Chests and Mages' Guild Supply Chests, next to some of the higher-ranking thieves.
 
-⭐ [**Thieves' Guild Overhaul**](https://www.nexusmods.com/morrowind/mods/49944)\
-A complete overhaul of the Thieves' Guild faction. New quests, tweaks for existing quests, items, and a lot more!
-
 [**Carelessly Crazy Caldera Community**](https://www.nexusmods.com/morrowind/mods/47275)\
 Adds a new shop, 2 new NPCs, 17 new quests to Caldera, and adds unique background, personality and dialogue to most of the NPCs of the town.
-
-⭐ [**Imperial Legion Expansion**](https://www.nexusmods.com/morrowind/mods/44469)\
-This mod is a complete overhaul of the Imperial Legion faction. New quests, items, NPCs and more.
-
-⭐ [**Morag Tong Polished**](https://www.nexusmods.com/morrowind/mods/47041)\
-The Morag Tong Guild is the most poorly written faction in Morrowind. This mod fixes that by giving the guild a much needed touch up.
-
-[**Morag Tong Polished Compatibility Patch**](https://www.nexusmods.com/morrowind/mods/48955)\
-This patch fixes conflicts between Morag Tong Polished and other mods:
-
-* Files to download:
-  * **Morag Tong Polished Compatibility Patch**
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 01 TR_Factions
 
 ## Misc
 
@@ -275,7 +275,7 @@ This mod may currently be incompatible with **Beautiful Cities of Morrowind**. B
 Begin a tale about the largest criminal organization in Morrowind, the Camonna Tong. Vye for power in all influences of society by working together with the likes of Orvas Dren, the Kingpin.
 
 [**Of Justice and Innocence**](https://www.nexusmods.com/morrowind/mods/34046)\
- In the small village of Dagon Fel there lives a woman by the name of Rinida Honwyer. She claims her poor, sweet innocent brother has been kidnapped by smugglers. This unfortunate outcome is a result of an unlikely series of events and her poor brother's own naivety. Now Rinida fears for her brothers life, sure that these smugglers mean nothing
+In the small village of Dagon Fel there lives a woman by the name of Rinida Honwyer. She claims her poor, sweet innocent brother has been kidnapped by smugglers. This unfortunate outcome is a result of an unlikely series of events and her poor brother's own naivety. Now Rinida fears for her brothers life, sure that these smugglers mean nothing
 
 * Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
   * [x] `Of Justice and Innocence.esp`
