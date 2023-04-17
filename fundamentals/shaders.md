@@ -18,9 +18,10 @@ Patches for various mods
   * Rise of House Telvanni -> **RoHT 2.0**
 
   * [x] Abot Boats
+  * [x] Abot Boats for Tomb of the Snow Prince
   * [x] Abots Gondoliers
   * [x] Abots Silt Striders
-  * Tamriel Rebuilt Patch -> **Yes**
+  * [x] Tamriel Rebuilt Patch
   * More Patches
     * [x] Province Cyrodiil
     * [x] Ebonheart Underworks
@@ -29,14 +30,12 @@ Patches for various mods
     * [x] Bounty Hunter Assignments
     * [x] Ashlander Traders Remastered
     * [x] 📃 Realistic Repair Addon
-  * Mines and Caverns -> **Mines and Caverns** (this is outdated)
 
   * Select all that apply
     * [x] Velothi Wall Art
     * [x] Velothi Wall Art Re-Addon
 
   * Select all that apply
-    * [x] The Publicans
     * [x] Glass Domes
     * [x] Glass Domes - Molag mar
     * [x] Store Entrance Chimes
@@ -51,6 +50,9 @@ Patches for various mods
     * [x] Tel Aruhn Chronicles quest and Yansirramus Overhaul addon
     * [x] Foreign Quarter Market Square
     * [x] Imperial Legion Expansion
+
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
+  * [x] `abotGondoliers_RVP.esp`
 
 [**Various compatibility patches for HOTV Tomb of the Snow prince Solstheim Overhaul**](https://www.nexusmods.com/morrowind/mods/48422)\
  Various patches, including the White Wolf of Lokken, Wanderes of Solstheim, Children of Morrowind, Thirsk Expanded more....an ongoing project
