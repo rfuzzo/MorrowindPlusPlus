@@ -120,6 +120,12 @@ This mod is a complete overhaul of the Imperial Legion faction. New quests, item
 ⭐ [**Morag Tong Polished**](https://www.nexusmods.com/morrowind/mods/47041)\
 The Morag Tong Guild is the most poorly written faction in Morrowind. This mod fixes that by giving the guild a much needed touch up.
 
+[**Morag Tong Secret Identity**](https://www.nexusmods.com/morrowind/mods/51128)\
+MWSE-lua mod that adds new mechanics related to Morag Tong, solving some inconsistencies between gameplay, dialogues and lore, and making being part of the religious cult of assassins a more unique experience, exploring its twin nature of secrecy and legality.
+
+[**Morag Tong Writs**](https://www.nexusmods.com/morrowind/mods/52759)\
+Overhaul of Morag Tong assassination quests, making them more interesting via non-linear gameplay, more challanges and opportunities and motivating the usage of relevant skills
+
 ⭐ [**Morag Tong Polished Compatibility Patch**](https://www.nexusmods.com/morrowind/mods/48955)\
 This patch fixes conflicts between Morag Tong Polished and other mods:
 
@@ -147,6 +153,9 @@ This mod adds several "Thieves' Guild Stash" chests, similar to the Fighters' Gu
 
 [**Carelessly Crazy Caldera Community**](https://www.nexusmods.com/morrowind/mods/47275)\
 Adds a new shop, 2 new NPCs, 17 new quests to Caldera, and adds unique background, personality and dialogue to most of the NPCs of the town.
+
+[**Different Types of Local Plants for Ajira's Reports**](https://www.nexusmods.com/morrowind/mods/51735)\
+Both the content and the location of Ajira's Reports change every time! No more gathering mushrooms and flowers beforehand!
 
 ## Misc
 
@@ -179,6 +188,9 @@ This mod adds several new options and tweaks for the "A Friend in Deed" quest in
 
 ⭐ [**Even More Mysterious Killings in Vivec**](https://www.nexusmods.com/morrowind/mods/49661)\
 The Mysterious Killings in Vivec quest now has a new reward and some more flavour for the murderer.
+
+⭐ [**Temple Master**](https://www.nexusmods.com/morrowind/mods/52749)\
+This mod lets the player take control of the Suran Temple once they advance enough in the Tribunal Temple faction. Through a series of quests (and with some choices to make along the way), you will get to improve the temple.
 
 [**OAAB Brother Junipers Twin Lamps**](https://www.nexusmods.com/morrowind/mods/51424)\
 Update of Brother Juniper's classic quest mod. Join the Twin Lamps and fight against slavery through ~20 new quests. Now with overhauled locations, bug fixes, and extra dialogue and quest choices.
@@ -398,3 +410,9 @@ Brave the dangers of Vvardenfell in this lore-friendly quest mod to reforge Gold
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] ✨ 01 HD Textures
+
+[**Actual Dwemer Puzzle Box**](https://www.nexusmods.com/morrowind/mods/52756)\
+Speak with scholars to learn hints on how to decipher the puzzle. Take it with you and play anywhere, Get out your quill and paper to solve this puzzle.
+
+[**A Lover's Quarrel**](https://www.nexusmods.com/morrowind/mods/52679)\
+ALMSIVI23. Explore the seedier side of how the Temple wields power. Hear the latest rumors from the residents of Necrom, who complain of a marital dispute that has disturbed the silence of the City Above.

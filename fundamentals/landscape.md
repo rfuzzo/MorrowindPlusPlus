@@ -95,6 +95,9 @@ This little replacement make the old dunmer's strongholds less empty and a littl
 
 ## Environment
 
+⭐ [**Mid Mushroom Overhaul**](https://www.nexusmods.com/morrowind/mods/52760)\
+Hand places OAAB's mid size parasol all across Vvardenfell.
+
 ⭐ [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 New effects and textures for the waterfalls. Includes LOD on the particle effects to improve performance.
 

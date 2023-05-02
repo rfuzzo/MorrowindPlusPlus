@@ -314,6 +314,9 @@ A survival mod with hunger, thirst, tiredness, cooking, camping and temperature 
 ⭐📃 [**Ashfall Add-on - Tanning Racks**](https://www.nexusmods.com/morrowind/mods/52485)\
  Adds tanning racks from Ashfall around Morrowind.
 
+📃 [**Tea Merchants - an addon for Ashfall**](https://www.nexusmods.com/morrowind/mods/51656)\
+Adds Tea Merchants to the game. Requires Ashfall.
+
 ⭐📃 [**More believable bandit camps - an addon for Ashfall**](https://www.nexusmods.com/morrowind/mods/50066)\
  Adds appropriate clutter to the various bandit camps.
 

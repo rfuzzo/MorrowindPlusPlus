@@ -141,30 +141,6 @@ For help with this mod list and many many bug fixes:
 
 ## TODO (additions)
 
-* [**Temple Master**](https://www.nexusmods.com/morrowind/mods/52749)\
-This mod lets the player take control of the Suran Temple once they advance enough in the Tribunal Temple faction. Through a series of quests (and with some choices to make along the way), you will get to improve the temple.
-
-* [**Mid Mushroom Overhaul**](https://www.nexusmods.com/morrowind/mods/52760)\
-Hand places OAAB's mid size parasol all across Vvardenfell.
-
-* [**Actual Dwemer Puzzle Box**](https://www.nexusmods.com/morrowind/mods/52756)\
-Speak with scholars to learn hints on how to decipher the puzzle. Take it with you and play anywhere, Get out your quill and paper to solve this puzzle.
-
-* [**Distraction**](https://www.nexusmods.com/morrowind/mods/49680)\
-Throwing weapons, arrows, and the Sound spell now distract NPCs and allow you to sneak past them
-
-* [**Morag Tong Secret Identity**](https://www.nexusmods.com/morrowind/mods/51128)\
-MWSE-lua mod that adds new mechanics related to Morag Tong, solving some inconsistencies between gameplay, dialogues and lore, and making being part of the religious cult of assassins a more unique experience, exploring its twin nature of secrecy and legality.
-
-* [**Morag Tong Writs**](https://www.nexusmods.com/morrowind/mods/52759)\
-Overhaul of Morag Tong assassination quests, making them more interesting via non-linear gameplay, more challanges and opportunities and motivating the usage of relevant skills
-
-* [**A Lover's Quarrel**](https://www.nexusmods.com/morrowind/mods/52679)\
-ALMSIVI23. Explore the seedier side of how the Temple wields power. Hear the latest rumors from the residents of Necrom, who complain of a marital dispute that has disturbed the silence of the City Above.
-
-* [**ReAnimations - first-person**](https://www.nexusmods.com/morrowind/mods/52596)\
-A mix of new, altered vanilla, and adjusted MCAR animations.
-
 * [**Ranyabi Egg Mine**](https://www.nexusmods.com/morrowind/mods/49854)
 * [**Haishibi Mine**](https://www.nexusmods.com/morrowind/mods/49579)
 * [**Nchardumz Overhaul**](https://www.nexusmods.com/morrowind/mods/48530)
@@ -176,14 +152,15 @@ A mix of new, altered vanilla, and adjusted MCAR animations.
 * [**Andrethi Tomb Overhaul**](https://www.nexusmods.com/morrowind/mods/46217)
 * [**Temple Markers**](https://www.nexusmods.com/morrowind/mods/52415)
 * [**Morrowind Animated Hammocks (MAH)**](https://www.nexusmods.com/morrowind/mods/49767)
+
+## TODO (maybe)
+
 * [**Bensamsi Expanded**](https://www.nexusmods.com/morrowind/mods/46956) (incompatible with DR_Data)
 * [**Mzahnch Overhaul**](https://www.nexusmods.com/morrowind/mods/49601)   (unfinished?)
 
 * Radiant Quests of Morrowind
 * NPC Schedule
 * NPC Schedule Plus <https://www.nexusmods.com/morrowind/mods/52495>
-
-## TODO (maybe)
 
 * [**Markets and Caravans**](https://www.nexusmods.com/morrowind/mods/51704)
 * [**Westly's Faces Refurbished**](https://www.nexusmods.com/morrowind/mods/51214)

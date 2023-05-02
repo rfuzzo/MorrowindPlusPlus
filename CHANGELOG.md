@@ -1,5 +1,25 @@
 # Changelog
 
+## May 2nd 2023
+
+Additions
+
+- Distraction
+- ReAnimations - first-person
+- Mid Mushroom Overhaul
+- Tea Merchants - an addon for Ashfall
+- Morag Tong Secret Identity
+- Morag Tong Writs
+- Different Types of Local Plants for Ajira's Reports
+- Temple Master
+- Actual Dwemer Puzzle Box
+- A Lover's Quarrel
+
+Removals
+
+- Graphic Herbalism Lighting (not worth it)
+- Pursuit (OpenMW)
+
 ## April 19th 2023
 
 Additions
