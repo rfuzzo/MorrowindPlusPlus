@@ -70,6 +70,13 @@ Set almost exactly between the great ports of Cyrodiil, Hammerfell, Valenwood an
 After installation, disable `Cyrodiil_Grass.ESP` in your load order. ⚠️ **Do not hide or delete them**, as they are necessary for the mod to work as intended when generating Distant Land.
 {% hint style="endhint" %}
 
+[**Dr_Data**](https://www.nexusmods.com/morrowind/mods/51776)\
+Resource Pack and Asset Library for LondonRooks assets.
+
+{% hint style="info" %}
+This is only needed as requirement for [**Kogoruhn - Extinct City of Ash and Sulfur**](https://www.nexusmods.com/morrowind/mods/51615). If you don't plan to install that mod, DR_Data is not needed.
+{% endhint %}
+
 ## Bug fixes
 
 ⭐ [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096) by [half11](https://www.nexusmods.com/morrowind/users/36879320)\

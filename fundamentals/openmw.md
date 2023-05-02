@@ -39,9 +39,6 @@ Get the esp replacer from here: <https://github.com/rfuzzo/tes3-mods/raw/main/_p
 ✨ [**Fish With Fishing Poles**](https://www.nexusmods.com/morrowind/mods/47230)\
  Turns every fishing pole into a usable fishing pole. Use bait to increase your chance to catch something.
 
-✨ [**Pursuit (OpenMW)**](https://www.nexusmods.com/morrowind/mods/50271)\
- Actors can travel through cells to pursue their target.
-
 ✨ [**ZEF Focus Magicka**](https://www.nexusmods.com/morrowind/mods/48431)\
  Add a custom spell named Focus that allow the player to recover it's magicka while standing still and meditating. Automatic learning depending on player Willpower. v1.2.1
 
@@ -56,3 +53,10 @@ In my OpenMW game 5 sitting NPCs in Library appear stuck at the floor. This patc
 
 ✨ [**Cooking and Eating - Publicans Expansion**](https://www.nexusmods.com/morrowind/mods/48955)\
 This patch makes 85 publicans from many mods sell cooked food from Cooking and Eating by Ian.
+
+✨ [**ZDG WIP's and Misc**](https://www.nexusmods.com/morrowind/mods/52626)\
+ Tweaks, patches, and random miscellaneous things compatible with OpenMW.
+
+* Files to install:
+  * **Hunger and Thirst**
+  * **Hunger and Thirst v1.4 Hotfix**

@@ -1,5 +1,14 @@
 # Changelog
 
+## April 19th 2023
+
+Additions
+
+- Dr_Data (requierd for Kogoruhn update)
+- Vennin's Ulummusa Overhaul
+- Talos Cult Conspiracy-Imperial Legion Expansion - Talos Amulet Patch
+- Publicans-BCOM patch
+
 ## April 16th 2023
 
 Additions

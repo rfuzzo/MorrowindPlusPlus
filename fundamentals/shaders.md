@@ -54,6 +54,12 @@ Patches for various mods
 * Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
   * [x] `abotGondoliers_RVP.esp`
 
+{% hint style="warning" %}
+
+* Do not use the Publicans patch, it is outdated
+* Do not use the Mines and Caverns patch, it is outdated
+{% hint style="endhint" %}
+
 [**Various compatibility patches for HOTV Tomb of the Snow prince Solstheim Overhaul**](https://www.nexusmods.com/morrowind/mods/48422)\
  Various patches, including the White Wolf of Lokken, Wanderes of Solstheim, Children of Morrowind, Thirsk Expanded more....an ongoing project
 
@@ -76,7 +82,7 @@ After installation
 
 {% hint style="endhint" %}
 
-⭐ [**Even Seedier Eight Plates - Morag Tong Polished Patch**](https://www.nexusmods.com/morrowind/mods/49236)\
+[**Even Seedier Eight Plates - Morag Tong Polished Patch**](https://www.nexusmods.com/morrowind/mods/49236)\
  VIsual overhaul of the Eight Plates tavern in Balmora, combined with an expansion of the NPC and dialogue overhaul from Von Djangos' The Seedy Plates
 
 * Files to install:
@@ -86,19 +92,20 @@ After installation
 You need to rename the .esp file in this mod! In MO2, double click the mod and go to the Filetree tab. Right click an rename the esp to `Morag Tong Polished.esp`
 {% endhint %}
 
-⭐ [**Morag Tong Polished - BCoM Patch**](https://www.nexusmods.com/morrowind/mods/51194)\
+[**Morag Tong Polished - BCoM Patch**](https://www.nexusmods.com/morrowind/mods/51194)\
 One of the NPCs added by "MTP" ends up being suspended in the empty void if you use it alongside with the "Beautiful Cities of Morrowind". This patch returns him to the intended position. Also works fine with a replacer plugin provided by "Vanilla friendly wearables expansion".
 
 * Files to install:
+  * **After the Blight (BCoM)**
   * **Morag Tong Polished - BCoM Patch**
 
-⭐ [**Ashlander Traders - Remastered - BCOM and Wares**](https://www.nexusmods.com/morrowind/mods/48009)
+[**Ashlander Traders - Remastered - BCOM and Wares**](https://www.nexusmods.com/morrowind/mods/48009)
 Brother Juniper's excellent Ashlander Traders mod, edited for compatibility and extra dialogue. Adds Ashlander Traders who will sometimes appear in Balmora, Ald-ruhn, or Suran.
 
 * Files to install:
   * **Ashlander Traders Remastered - BCOM and Wares**
 
-⭐ [**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232)\
+[**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232)\
 Compatibility patches for canton mods.
 
 * On MO2 installation, check the following options in the installer:
@@ -107,13 +114,19 @@ Compatibility patches for canton mods.
   * [ ] 01 No-Frills Open Arena
   * [x] 02 Solstheim Tomb of the Snow Prince
 
+[**Talos Cult Conspiracy-Imperial Legion Expansion - Talos Amulet Patch**](https://www.nexusmods.com/morrowind/mods/52697)\
+Add's an alternate way to get the Talos Amulet if using Alice's Imperial Legion Expansion and Talos Cult Conspiracy together and you take the Cult Route.
+
+[**The Publicans, BCOM Patch**](https://github.com/rfuzzo/tes3-mods/blob/main/_patches/The_Publicans_bcom_patch.esp)\
+My patch for Publicans-BCOM
+
 ## Shaders
 
 ⭐📃 [**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044)\
 A modernized version of the pixel shader water from vanilla Morrowind, which aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
 
 ⭐✨ [**Zesterer's OpenMW Shaders**](https://github.com/zesterer/openmw-shaders/tree/openmw-0.48)\
- Photorealistic shaders for Morrowind
+Photorealistic shaders for Morrowind
 
 {% hint style="info" %}
 Per-pixel lighting enabled

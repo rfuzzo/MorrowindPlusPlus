@@ -134,6 +134,11 @@ For help with this mod list and many many bug fixes:
 * [**Sigourn/Lucas9**](https://www.nexusmods.com/morrowind/users/14600469)
 * [**zertyuiop**](https://github.com/rfuzzo/MorrowindPlusPlus/issues/2)
 
+## TODO (fixes)
+
+* Better Caves and Caverns conflicts with M&C in Addamasartus. You either need to edit that cave from M&C or only use the enemies and boss esp from Better Caves.
+* M&C Patch in BCOM is outdated
+
 ## TODO (additions)
 
 * [**Temple Master**](https://www.nexusmods.com/morrowind/mods/52749)\
@@ -171,7 +176,7 @@ A mix of new, altered vanilla, and adjusted MCAR animations.
 * [**Andrethi Tomb Overhaul**](https://www.nexusmods.com/morrowind/mods/46217)
 * [**Temple Markers**](https://www.nexusmods.com/morrowind/mods/52415)
 * [**Morrowind Animated Hammocks (MAH)**](https://www.nexusmods.com/morrowind/mods/49767)
-* [**Bensamsi Expanded**](https://www.nexusmods.com/morrowind/mods/46956)
+* [**Bensamsi Expanded**](https://www.nexusmods.com/morrowind/mods/46956) (incompatible with DR_Data)
 * [**Mzahnch Overhaul**](https://www.nexusmods.com/morrowind/mods/49601)   (unfinished?)
 
 * Radiant Quests of Morrowind

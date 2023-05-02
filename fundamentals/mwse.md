@@ -541,5 +541,5 @@ The shader included in this mod needs to be registered in MGE XE to work as inte
 {% endhint %}
 
 {% hint style="info" %}
-Do not use both this mod and "Kogoruhn Revisited and Demanufactured", choose one of them.
+Do not use both this mod and "Kogoruhn - Extinct City of Ash and Sulfur", choose one of them.
 {% endhint %}

@@ -355,7 +355,7 @@ A fully animated overhaul of Akulakhan's chamber.
 [**Riharradroon - Hidden Path to Kogoruhn**](https://www.nexusmods.com/morrowind/mods/47357)\
  Adds a tunnel to the world which provides an alternate route into the depths of the Dunmer stronghold known as Kogoruhn.
 
-[**Kogoruhn Revisited and Demanufactured**](https://www.nexusmods.com/morrowind/mods/51615)\
+[**Kogoruhn - Extinct City of Ash and Sulfur**](https://www.nexusmods.com/morrowind/mods/51615)\
  While wandering through the desolated landscapes of northern ashlands, Nerevarine comes across the old capital city of Chimer tribe - once known as Kogoruhn. This ancient place, half burried beneath the ash and sulfur is now home of horror which never sleeps... The Sixth House. Discover this terryfying place hidden under the shadow of Red Mountain.
 
 ## Azura's Coast
@@ -761,6 +761,9 @@ An overhaul of the cavern Sinsibadon using OAAB assets.
 
 * [**Vennin's Pulk Overhaul**](https://www.nexusmods.com/morrowind/mods/52616)\
 An overhaul of the cavern Pulk.
+
+* [**Vennin's Ulummusa Overhaul**](https://www.nexusmods.com/morrowind/mods/52699)\
+ An overhaul of the cave Ulummusa using OAAB_Data assets.
 
 [**OAAB Pomegranates**](https://www.nexusmods.com/morrowind/mods/50726) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  Inspired by their mention of growing in the badlands of Morrowind in Sermon 12, a regional variety of pomegranates can now be found growing atop Mount Assarnibibi.

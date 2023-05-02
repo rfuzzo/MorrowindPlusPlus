@@ -75,7 +75,7 @@ Modular versions of WARES for Vvardenfell, Tamriel Rebuilt, Skyrim Home of the N
 
 * On MO2 installation, check the following options in the installer:
   * Glowing Netch -> **Yes**
-  * Daedric creatures use bound weapons -> **No** (personal preference)
+  * Daedric creatures give less loot -> **No** (personal preference)
   * Summons have 0 soul -> **No** (personal preference)
 
 ⭐ [**Animated Morrowind**](https://www.nexusmods.com/morrowind/mods/49231)\
