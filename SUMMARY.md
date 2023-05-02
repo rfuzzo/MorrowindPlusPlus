@@ -19,8 +19,9 @@
 * [Visuals](fundamentals/visuals.md)
 * [Landscape](fundamentals/landscape.md)
 * [MWSE](fundamentals/mwse.md)
-* [MWSE](fundamentals/openmw.md)
+* [OpenMW](fundamentals/openmw.md)
 * [Shaders and Patches](fundamentals/shaders.md)
+* [Other mods](fundamentals/mentions.md)
 
 ## Finish
 
