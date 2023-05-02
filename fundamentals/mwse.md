@@ -327,9 +327,6 @@ Adds 4 one-handed axes to the game (to use as woodcutting axe for the mod AshFal
 ⭐📃 [**The Blight**](https://www.nexusmods.com/morrowind/mods/49504) by [OperatorJack](https://www.nexusmods.com/morrowind/users/61791411)\
 Significantly expands on how blight diseases work, adding new mechanics, interactions, and visuals.
 
-⭐📃 [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581)\
-Rebuilds pickpocket mechanics from the ground up, and adds a custom real-time menu to pickpocketing.
-
 ⭐📃 [**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614)\
 Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
 

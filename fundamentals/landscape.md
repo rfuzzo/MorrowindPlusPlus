@@ -162,6 +162,10 @@ The original mod has a lot of great ideas but was never finished or fixed. Other
 ⭐ [**Mines and Caverns**](https://www.nexusmods.com/morrowind/mods/44893)\
 This mod improves several vanilla dungeons aesthetically and/or expands them.
 
+* Files to install:
+  * **Mines and Caverns**
+  * **Mines and Caverns-AD (Optional Files)**
+
 {% hint style="warning" %}
 After installation
 
