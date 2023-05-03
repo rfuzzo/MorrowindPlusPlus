@@ -52,7 +52,7 @@ Your Data Files folder should now look like this.
 
 A Vulkan-based translation layer for Direct3D 9/10/11. Gives you more FPS. Yes.
 
-* [dxvk]<https://github.com/doitsujin/dxvk/releases/tag/v2.0)>
+* [dxvk]<https://github.com/doitsujin/dxvk/releases/tag/v2.0>
 
 Install instructions:
 
