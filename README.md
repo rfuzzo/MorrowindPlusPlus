@@ -136,10 +136,13 @@ For help with this mod list and many many bug fixes:
 
 ## TODO (fixes)
 
-* Better Caves and Caverns conflicts with M&C in Addamasartus. You either need to edit that cave from M&C or only use the enemies and boss esp from Better Caves.
-* M&C Patch in BCOM is outdated
-
 ## TODO (additions)
+
+[**abotMoreTrapsMWSELua**](https://www.nexusmods.com/morrowind/mods/52783)\
+Dynamically/randomly locks/traps more (not yet interacted with) containers and doors
+
+[**Traveling Guar Riders**](https://www.nexusmods.com/morrowind/mods/52788)\
+Adds traveling guar riders to a few locations on Vvardenfell as well as the mainland.
 
 * [**Ranyabi Egg Mine**](https://www.nexusmods.com/morrowind/mods/49854)
 * [**Haishibi Mine**](https://www.nexusmods.com/morrowind/mods/49579)
