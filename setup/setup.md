@@ -83,7 +83,6 @@ The Morrowind Graphics Extender XE allows Morrowind to render distant views, sce
 * Extract the contents of the file and run the **MGE XE Installer.exe**.
 * When prompted to choose an install location, choose your **Root** folder (**C:\Games\Morrowind**).
 * When installation has finished, uncheck both options and click **Finish**.
-* Go to your **Morrowind\Data Files** folder and delete **XE Sky Variations.esp**.
 
 ## ✨ OpenMW Installation
 
