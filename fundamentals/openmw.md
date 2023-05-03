@@ -42,9 +42,6 @@ Get the esp replacer from here: <https://github.com/rfuzzo/tes3-mods/raw/main/_p
 ✨ [**ZEF Focus Magicka**](https://www.nexusmods.com/morrowind/mods/48431)\
  Add a custom spell named Focus that allow the player to recover it's magicka while standing still and meditating. Automatic learning depending on player Willpower. v1.2.1
 
-✨ [**Quick Spell Casting**](https://www.nexusmods.com/morrowind/mods/52130)\
- Cast spells with a single key press, similarly to how it works in Oblivion. Uses standard spell casting hotkey.
-
 ✨ [**Of Dungeons and Abodes - TeleportAmulet - Fix**](https://www.nexusmods.com/morrowind/mods/48955)\
 Tiny fix of location in script. According to SlothLikeSin and havXeus.
 
