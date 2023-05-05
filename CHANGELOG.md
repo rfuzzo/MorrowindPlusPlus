@@ -1,5 +1,23 @@
 # Changelog
 
+## May 5th 2023
+
+Additions
+
+- OAAB Shipwrecks
+- Lustrous Pearls
+- Traveling Guar Riders
+- Wonders of Water
+- Pickpocket Minigame
+- Simple Levelup Skills Persist
+- abotMoreTrapsMWSELua
+
+Removals
+
+- Get Wrecked (replaced by OAAB Shipwrecks)
+- Pickpocket (Pickpocket Minigame)
+- Improved Vanilla Leveling (Pickpocket Simple Levelup Skills Persist)
+
 ## May 2nd 2023
 
 Additions

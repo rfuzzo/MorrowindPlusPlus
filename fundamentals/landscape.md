@@ -45,6 +45,7 @@ This needs to be installed before BCOM
       * [x] White Suran
     * [ ] Taller Lighthouse -> no (*personal preference*)
     * Stav's MGO -> **No**
+    * [x] Ald'Ruhn Skar -> Bigger Entrance (*personal preference*)
     * [ ] Vicec Open Arena -> no (*personal preference*)
     * Vivec Customization
       * [x] Planters -> **yes** (*personal preference*)
@@ -781,12 +782,13 @@ An overhaul of the cavern Pulk.
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Merged
 
-[**Get Wrecked**](https://www.nexusmods.com/morrowind/mods/51237)\
-Overhauls all shipwreck interiors with additional detail and individuality.
+[**OAAB Shipwrecks**](https://www.nexusmods.com/morrowind/mods/51364)\
+A complete overhaul of every vanilla shipwreck.
 
-* Files to install:
-  * **Get Wrecked 1.1** (Main files)
-  * **Uncharted Artifacts Compatibility Patch** (Optional files)
+* On MO2 installation, check the following options in the installer:
+  * [X] 00 Core
+  * [X] 01 Patch - Uncharted Artifacts
+  * [X] 02 Patch - TR Patch
 
 [**Magical lights for Telvanni**](https://www.nexusmods.com/morrowind/mods/49453)\
 Adds some unique, Telvanni style light sources to various Telvanni settlements
@@ -896,3 +898,6 @@ This mod adds a Redoran lighthouse to the north-eastern coast of Vvardenfell.
 
 [**Keelhouse**](https://www.nexusmods.com/morrowind/mods/49952)\
 Adds a player house with a simple quest and backstory.
+
+[**Traveling Guar Riders**](https://www.nexusmods.com/morrowind/mods/52788)\
+Adds traveling guar riders to a few locations on Vvardenfell as well as the mainland.

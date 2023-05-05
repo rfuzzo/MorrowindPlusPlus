@@ -156,12 +156,8 @@ Adds buttons to randomise race, appearance, class, and birthsign during characte
 ⭐📃 [**MWSE Character Creation Name Generator**](https://www.nexusmods.com/morrowind/mods/46189)\
 UI overhaul allowing generate random name for you character upon character creation.
 
-⭐📃 [**Improved Vanilla Leveling**](https://www.nexusmods.com/morrowind/mods/48065)\
-This mod attempts to preserve vanilla leveling mechanics while eliminating the need to micromanage skill and attribute increases in order to achieve optimal character progression.
-
-{% hint style="info" %}
-MCM: DISABLE Retroactive Health Calculation
-{% endhint %}
+⭐📃 [**Simple Levelup Skills Persist**](https://www.nexusmods.com/morrowind/mods/52794)\
+On levelup, simply carry over unused attributes. If you pick an attribute when leveling up, all skill levelups for that attributes are lost.
 
 ⭐📃 [**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133)\
 A state-based health mod implemented in MWSE. Health is now calculated based on current endurance, strength and level.
@@ -367,6 +363,9 @@ This mod requires the **Game Mechanics/Hidden locks** and **Game Mechanics/Hidde
 📃 [**Visually Trapped Objects**](https://www.nexusmods.com/morrowind/mods/48936)\
 Applies the enchanted effect to any doors or containers with traps. Compatible and complemented by **Locks and Traps Detection**.
 
+📃 [**abotMoreTrapsMWSELua**](https://www.nexusmods.com/morrowind/mods/52783)\
+Dynamically/randomly locks/traps more (not yet interacted with) containers and doors
+
 📃 [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)\
 Makes it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Optionally makes NPCs' equipped gear damaged to <20% condition when they die.
 
@@ -400,6 +399,9 @@ Tired of not being able to sell your diamonds to Nalcarya because of that stupid
 
 📃 [**Ethereal Ghosts**](https://www.nexusmods.com/morrowind/mods/50757)\
 MWSE-lua mod that allows ghost and other incorporeal creatures to pass through closed doors
+
+📃 [**Pickpocket Minigame**](https://www.nexusmods.com/morrowind/mods/52793)\
+Replaces the vanilla pickpocket mechanic with a KCD-inspired minigame.
 
 ## Quests
 
@@ -472,6 +474,9 @@ Note that users often forget about installing this mod, leading to questions on 
 {% endhint %}
 
 ## Visuals
+
+⭐📃 [**Wonders of Water**](https://www.nexusmods.com/morrowind/mods/52815)\
+This mod attempts to make water react more to the world. When using MGE XE's water, different weathers will produce different wave heights. Water visibility also changes with depth, an effect that can be countered with Night Eye.
 
 ⭐📃 [**Enlightened Flames**](https://www.nexusmods.com/morrowind/mods/48816) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
 Replaces the game's particle-based candle flames with new, higher quality and better performance billboard-based ones.

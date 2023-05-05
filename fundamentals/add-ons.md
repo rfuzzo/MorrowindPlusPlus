@@ -227,4 +227,13 @@ A mod that adds a full set of Morag Tong Guild armor to the game. Based on Micha
  Resource of 6 full glass helms.
 
 [**Solthas Sixth House Amulet**](https://www.nexusmods.com/morrowind/mods/52401)\
- Gives sixth house amulets a useful, tempting, and dangerous enchantment, more akin to the effects of Corprus Disease itself.
+Gives sixth house amulets a useful, tempting, and dangerous enchantment, more akin to the effects of Corprus Disease itself.
+
+[**Lustrous Pearls**](https://www.nexusmods.com/morrowind/mods/52800)\
+Replaces pearls with HD models and textures. Includes OAAB_Data pearls and new pearl varieties. Optional add-on adds new pearl-themed items to the game.
+
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Core
+  * [x] 01 Pearl Trinkets
+  * [x] 02 Dynamic Object Replacer
+  * [x] 03 Tamriel_Data Pearl Replacer
