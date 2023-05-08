@@ -146,17 +146,11 @@ All options minus **Use Distant Land** and **Distant land generator wizard** are
 ![Screenshot](./../pictures/mge_dl_03.png)
 
 * In the **Statics** tab:
-  * Set **Minimum Static Size** to 100.
+  * Set **Minimum Static Size** to 50.
   * Check **Include reflective water in interiors**.
   * Check **Use lists of statics overriding parameters set above**.
-  * Click **Edit list**.
-    * Click **Add**.
-    * Navigate to your **Morrowind\mge3** folder, and double-click **00\_main.ovr**.
-    * Click **Save**.
   * Click **Create Statics**.
 * Once the statics have been created, click **Finish**.
-
-![Screenshot](./../pictures/mge_dl_04.png)
 
 {% hint style="info" %}
 A rule of thumb is to regenerate your distant land any time you install or uninstall mods. Most importantly, the process will be much easier as you only need to click on **Run above steps using saved / default settings** the next time you are on the **Distant Land Generation** window. On your first distant land generation, MGE XE defaults to **Distant Land configuration setup...**.
