@@ -673,12 +673,6 @@ A West Gash tree replacer for players who desire a look closer to the vanilla ga
 ⭐ [**Balmora Lighthouse**](https://www.nexusmods.com/morrowind/mods/43103)\
 This mod adds a free player house of your very own in Balmora. Compatible with Beautiful Cities of Morrowind and Morrowind Rebirth.
 
-[**URH - Ald Velothi**](https://www.nexusmods.com/morrowind/mods/51590) by [mwgek](https://www.nexusmods.com/morrowind/users/4462276)\
-An overhaul of the Ald Velothi outpost to give it a unique look.
-
-* On MO2 installation, check the following options in the installer:
-  * [x] I use both Path for Purists and Animated Morrowind - Merged.
-
 [**The Island - Aln'Baldrahn**](https://www.nexusmods.com/morrowind/mods/43187) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  This mod adds a beautiful new island to the West Gash Region near Khuul. I actually made this mod as my interior/exterior showcase for the Tamriel Rebuilt project but I spent so much time on it and I liked it so much that I thought I would release it here for others to enjoy.
 
@@ -699,9 +693,6 @@ This mod add two charming windmill immediately northwest of Caldera. You simply 
 
 * Files to install:
   * **BalmoraGravemarketBCOM** (Main files)
-
-[**URH - Khuul**](https://www.nexusmods.com/morrowind/mods/51761)\
- Overhauls Thongar's Tradehouse in Khuul to be more unique.
 
 ## Solstheim
 

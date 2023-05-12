@@ -138,11 +138,14 @@ For help with this mod list and many many bug fixes:
 
 ## TODO (additions)
 
-[**abotMoreTrapsMWSELua**](https://www.nexusmods.com/morrowind/mods/52783)\
-Dynamically/randomly locks/traps more (not yet interacted with) containers and doors
+[**Restful Reef Refuge**](https://www.nexusmods.com/morrowind/mods/52829)\
+A quaint underwater home with plenty of storage in the Sea of Ghosts.
 
-[**Traveling Guar Riders**](https://www.nexusmods.com/morrowind/mods/52788)\
-Adds traveling guar riders to a few locations on Vvardenfell as well as the mainland.
+[**A Cold Cell**](https://www.nexusmods.com/morrowind/mods/52832)\
+Travel to Khuul and investigate the rumors about a smuggling operation nearby. Or perhaps it's more than that?
+
+[**Arnchenzel - Dwemer Underwater House**](https://www.nexusmods.com/morrowind/mods/52838)\
+This mod adds a house to the southwest of Tel Branora. Maybe you'll even find a cool dwemer helmet too!
 
 * [**Ranyabi Egg Mine**](https://www.nexusmods.com/morrowind/mods/49854)
 * [**Haishibi Mine**](https://www.nexusmods.com/morrowind/mods/49579)
