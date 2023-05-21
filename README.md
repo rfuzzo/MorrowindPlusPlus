@@ -138,6 +138,17 @@ For help with this mod list and many many bug fixes:
 
 ## TODO (additions)
 
+* Swamp Stump Sanctuaries
+* Of Musk and Mer - A Sadrith Mora Tale
+* Grahtwood Roost
+* Caldera Priory and the Depths of Blood and Bone
+* Galen's Quest for Truth
+* Tel Mundnisses
+* A Grave Errand
+* Ashlander Silt Skiff
+* Ultimate Fishing
+* Moon Magic
+
 [**Restful Reef Refuge**](https://www.nexusmods.com/morrowind/mods/52829)\
 A quaint underwater home with plenty of storage in the Sea of Ghosts.
 

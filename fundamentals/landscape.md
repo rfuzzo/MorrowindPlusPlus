@@ -54,6 +54,7 @@ This needs to be installed before BCOM
       * [x] Arena - Planters -> **yes** (*personal preference*)
       * [ ] Round planters -> **no** (*personal preference*)
       * [x] Temple Fountains -> **yes** (*personal preference*)
+    * [x] More tribal Erabenimsun -> yes (*personal preference*)
     * [x] Expanded Sadrith Mora Dock -> yes (*personal preference*)
     * Glow in the Dahrk -> **Yes + Atlas**
     * [x] Project Atlas -> **yes**
@@ -469,6 +470,10 @@ Andrano Ancestral Tomb remastered + (the no more available sequel) Andrano retri
 
 [**Justice for Khartag (J.F.K.)**](https://www.nexusmods.com/morrowind/mods/49832) by [Vegetto88](https://www.nexusmods.com/morrowind/users/4655319)\
  Changes Khartag Point making it the high peak described in the in-game dialogues.
+
+* Files to install:
+  * **Justice for Khartag** (Main files)
+  * **OAAB - Shipwrecks patch** (Optional files)
 
 [**Of Dungeons and Abodes**](https://www.nexusmods.com/morrowind/mods/44253) by [darkelfguy](https://www.nexusmods.com/morrowind/users/19250)\
 A distraught nephew, a missing uncle, a manor slowly sinking into the swamps of the Bitter Coast, and numerous secrets and hidden dungeons lurking just beneath the surface. Do you have what it takes to tame Velodil Manor and claim it as your own? Of Dungeons and Abodes is a dungeon delving, quest story telling, house building mod.
