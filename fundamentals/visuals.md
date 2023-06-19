@@ -28,8 +28,8 @@ Compatibility patch for Morrowind Enhanced Textures.
 Adds weapons and armour from Tamriel_Data, OAAB_Data, Ivolga's Armored Robes and Danke's Armors to various friendly npcs to make them feel less generic.
 
 * On MO2 installation, check the following options in the installer:
-  * [x] 1. Core
-  * [x] 4. IO - Kinsmer + YAGD BCOM Compatibility Version
+  * [x] 1. Core (with revamped YAGD)
+  * [x] 2. BCOM Compatibility Version (YAGD)
 
 ⭐ [**Yet Another Guard Diversity Expanded Imperials**](https://www.nexusmods.com/morrowind/mods/47583) by [Citadel535](https://www.nexusmods.com/morrowind/users/23131859)\
 Expands the Yet Another Guard Diversity to cover Imperials in Tamriel Rebuilt.

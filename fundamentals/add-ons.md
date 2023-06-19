@@ -65,10 +65,10 @@ Modular versions of WARES for Vvardenfell, Tamriel Rebuilt, Skyrim Home of the N
  Adds friendly and less friendly npcs to the game.
 
 * On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
+  * [x] 00 Core (must have)
   * [x] 01 TR addon
-  * [x] 02 no city exterior
-  * [x] 04 no sitters
+  * [x] 02 Repopulated Morrowind Patch
+  * [x] 03 BCoM patch
 
 ⭐ [**Vanilla friendly creatures and undeads expansion**](https://www.nexusmods.com/morrowind/mods/48818) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
  Vanilla friendly creatures and undeads expansion mod based on some of the great old creatures mods, TR_data and OAAB_Data
@@ -202,14 +202,6 @@ This is a compilation of mods that does a couple of things: Adds new armours and
 
 * On MO2 installation, an installer window will pop up asking you to set a Data Files Directory.
 * Right click on `Indexes of MW > Data Files` and select "Set as < data files > directory".
-
-[**Ebony Shortsword Challenge**](https://www.nexusmods.com/morrowind/mods/50358)\
-An ebony shortsword is hidden somewhere in the western half of Vvardenfell. Will you be able to find it?
-
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
-  * [x] `Ebony Shortsword Challenge 2.ESP`
-  * [x] `Ebony Shortsword Challenge 3.ESP`
-  * [x] `Ebony Shortsword Challenge 4.ESP`
 
 [**Boots of Blazing Speed**](https://www.nexusmods.com/morrowind/mods/49428)\
 A fiery alternative to the Boots of Blinding Speed. They can be found in the locked and trapped bedroom on bottom floor of the Balmora Fighter's Guild.

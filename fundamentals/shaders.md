@@ -17,10 +17,6 @@ Patches for various mods
   * Animated Morrowind -> **Animated Morrowind** or ✨**Animated Morrowind for OpenMW**
   * Rise of House Telvanni -> **RoHT 2.0**
 
-  * [x] Abot Boats
-  * [x] Abot Boats for Tomb of the Snow Prince
-  * [x] Abots Gondoliers
-  * [x] Abots Silt Striders
   * [x] Tamriel Rebuilt Patch
   * More Patches
     * [x] Province Cyrodiil
@@ -37,7 +33,6 @@ Patches for various mods
 
   * Select all that apply
     * [x] Glass Domes
-    * [x] Glass Domes - Molag mar
     * [x] Store Entrance Chimes
     * [x] Far From Home
 
@@ -50,9 +45,6 @@ Patches for various mods
     * [x] Tel Aruhn Chronicles quest and Yansirramus Overhaul addon
     * [x] Foreign Quarter Market Square
     * [x] Imperial Legion Expansion
-
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
-  * [x] `abotGondoliers_RVP.esp`
 
 {% hint style="warning" %}
 

@@ -148,6 +148,16 @@ For help with this mod list and many many bug fixes:
 * Ashlander Silt Skiff
 * Ultimate Fishing
 * Moon Magic
+* Leech Effects
+* The Vanishing Ash-chirps
+* Happenstance Hodokinesis
+* Secret of Vilmuhn
+* Window to Aetherius
+* Transparent Glass Weapons
+* Respite in Hostile Waters
+* The Mysterious Affair of Sara Shenk
+* AFFresh
+* Pelagiad Minuet Cottage
 
 [**Restful Reef Refuge**](https://www.nexusmods.com/morrowind/mods/52829)\
 A quaint underwater home with plenty of storage in the Sea of Ghosts.

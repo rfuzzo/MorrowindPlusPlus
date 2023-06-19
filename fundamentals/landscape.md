@@ -54,7 +54,9 @@ This needs to be installed before BCOM
       * [x] Arena - Planters -> **yes** (*personal preference*)
       * [ ] Round planters -> **no** (*personal preference*)
       * [x] Temple Fountains -> **yes** (*personal preference*)
+    * Molag Mar Dome -> Broken Dome (*personal preference*)
     * [x] More tribal Erabenimsun -> yes (*personal preference*)
+    * [x] Ashlandish Maar Gan -> yes (*personal preference*)
     * [x] Expanded Sadrith Mora Dock -> yes (*personal preference*)
     * Glow in the Dahrk -> **Yes + Atlas**
     * [x] Project Atlas -> **yes**
@@ -73,6 +75,7 @@ This needs to be installed before BCOM
       * [ ] Grazelands - Trackless Grazelands
       * [x] West Gash
       * [ ] West Gash - Stonewood pass
+      * [ ] West Gash - Stonewood pass + Caldera Priory
 
   * **Balmora Waterworks Options** -> none
 

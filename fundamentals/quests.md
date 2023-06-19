@@ -105,11 +105,13 @@ An overhaul of the Mages Guild, Thieves Guild and Fighters Guild.
 This mod overhauls the Fighters Guild questline by improving the background and narrative side of most of its quests, as well as adding more variety and available choices to them.
 
 * On MO2 installation, check the following options in the installer:
-  * [x] 00 Merged
+  * [x] 00 Core
   * [x] 01 Patch for Bal Molagmer Add-on and Thieves Guild Overhaul
-  * [x] 02 Patch for Balmora Guilds Expanded
-  * [x] 03 Patch for Caeris' Camonna Tong
-  * [x] 09 Patch for Quest Voice Greetings
+  * [x] 02 Patch for Caeris' Camonna Tong
+  * [ ] 03 Patch for DD4n's Join the Camonna Tong
+  * [ ] 04 Patch for More Deadly Morrowind Denizens
+  * [x] 05 Patch for Quest Voice Greetings
+  * [ ] 06 Patch for Quest Tweaks and Alternatives
 
 ⭐ [**Thieves' Guild Overhaul**](https://www.nexusmods.com/morrowind/mods/49944)\
 A complete overhaul of the Thieves' Guild faction. New quests, tweaks for existing quests, items, and a lot more!

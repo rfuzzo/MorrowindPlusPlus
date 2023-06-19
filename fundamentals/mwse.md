@@ -2,37 +2,37 @@
 
 ## Fixes
 
-⭐📃 [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
+📃 [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
 Forces the game to instantly close on exit.
 
-⭐📃 [**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
+📃 [**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
 Provides an in-game HUD element which warns the player as the game approaches critical memory limits. At a critical threshold, it can prompt to save and quit.
 
-⭐📃 [**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
+📃 [**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
 Provides more types of autosaves, as well as a rotating list of quicksaves/autosaves so that the player always has a save to go back to.
 
-⭐📃 [**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971) by [VitruvianGuar](https://www.nexusmods.com/morrowind/users/34081875)\
+📃 [**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971) by [VitruvianGuar](https://www.nexusmods.com/morrowind/users/34081875)\
 Prevents Fortify Health and Drain Health effects from killing actors outright, leaving them at least one health point after they expire and are casted, respectively.
 
-⭐📃 [**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
+📃 [**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
 Carries over unique item information, such as condition and script data when enchanting items.
 
-⭐📃 [**Fortify MAX**](https://www.nexusmods.com/morrowind/mods/49825) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
+📃 [**Fortify MAX**](https://www.nexusmods.com/morrowind/mods/49825) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
 Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the current stat.
 
-⭐📃 [**Attribute Effect Tweaks**](https://www.nexusmods.com/morrowind/mods/51161) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
+📃 [**Attribute Effect Tweaks**](https://www.nexusmods.com/morrowind/mods/51161) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
 Tweaks how Restore/Damage Attribute works on the player. Required by certain mods. No meaningful gameplay effect on its own.
 
-⭐📃 [**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
+📃 [**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
 Dropped items and corpses are automatically positioned and oriented to align with the ground.
 
-⭐📃 [**Perfect Placement**](https://www.nexusmods.com/morrowind/mods/46562) by [Hrnchamd](https://www.nexusmods.com/morrowind/users/843673)\
+📃 [**Perfect Placement**](https://www.nexusmods.com/morrowind/mods/46562) by [Hrnchamd](https://www.nexusmods.com/morrowind/users/843673)\
 Adds interactive placement, rotation and wall mounting of items. Arrange gear, books and anything else you can pick up. Requires MWSE 2.1.
 
-⭐📃 [**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269) by [FMZ4](https://www.nexusmods.com/morrowind/users/87930688)\
+📃 [**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269) by [FMZ4](https://www.nexusmods.com/morrowind/users/87930688)\
 Makes the game treat skill increases from quests as if there were raised via normal means, solving numerous problems with how the game treats these skill increases.
 
-⭐📃 [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029) by [FMZ4](https://www.nexusmods.com/morrowind/users/87930688)\
+📃 [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029) by [FMZ4](https://www.nexusmods.com/morrowind/users/87930688)\
 This mod fixes several engine bugs related to GMSTs used when raising skills via NPC training and skill books.
 
 📃 [**Thrown Projectiles Revamped**](https://www.nexusmods.com/morrowind/mods/49609) by [Ryuzaki1](https://www.nexusmods.com/morrowind/users/3890785)\
@@ -46,48 +46,48 @@ Normalizes the player's movement speed, ensuring they run at a consistent speed 
 
 ## UI
 
-⭐📃 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)\
+📃 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)\
 Expands UI functionality with searching, filtering, and more visual feedback.
 
-⭐📃 [**UI Expansion Better Training Icons**](https://www.nexusmods.com/morrowind/mods/51190) by [tewlwolow](https://www.nexusmods.com/morrowind/users/1152341)\
+📃 [**UI Expansion Better Training Icons**](https://www.nexusmods.com/morrowind/mods/51190) by [tewlwolow](https://www.nexusmods.com/morrowind/users/1152341)\
 This mod replaces UI Expansion training menu icons with sharper, cleaner versions.
 
-⭐📃 [**Tamrielic Lore Tooltips**](https://www.nexusmods.com/morrowind/mods/45954) by [PhDinSorcery](https://www.nexusmods.com/morrowind/users/8404526)\
+📃 [**Tamrielic Lore Tooltips**](https://www.nexusmods.com/morrowind/mods/45954) by [PhDinSorcery](https://www.nexusmods.com/morrowind/users/8404526)\
  Yagrum Bagarn's book Tamrielic Lore gives brief descriptions of the story behind several artifacts, all of which appear in-game. This mod adds excerpts from the book to the tooltips of each respective artifact.
 
-⭐📃 [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842) by [Anumaril21](https://www.nexusmods.com/morrowind/users/60236996)\
+📃 [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842) by [Anumaril21](https://www.nexusmods.com/morrowind/users/60236996)\
  Tooltips Complete provides helpful and lore-friendly flavour texts for nearly every item in Morrowind, Tribunal, Bloodmoon, the Official Plugins, and an expanding collection of mods.
 
 * Files to install:
   * **Tooltips Complete** (Main files)
   * **Tamrielic Lore Exclusions** (Optional files)
 
-⭐📃 [**More Detailed Companion HealthBars MWSE Lua Script**](https://www.nexusmods.com/morrowind/mods/51389) by [Spammer21](https://www.nexusmods.com/morrowind/users/140139148)\
+📃 [**More Detailed Companion HealthBars MWSE Lua Script**](https://www.nexusmods.com/morrowind/mods/51389) by [Spammer21](https://www.nexusmods.com/morrowind/users/140139148)\
 Tweaked version of Mesafoo's Companion HealthBars, showing Magicka, Fatigue as well as currently selected weapon.
 
 * Files to install:
   * **Compact Version** (Main files)
 
-⭐📃 [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036)\
+📃 [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036)\
 Fixes gameplay and interface inconsistencies in the alchemy menu, provides it with a built-in effect filter and implements a Skyrim-like system for remembering ingredient effects.
 
 {% hint style="warning" %}
 This mod requires the **Game mechanics/Healty appetite** feature to be enabled in the Morrowind Code Patch.
 {% endhint %}
 
-⭐📃 [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272)\
+📃 [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272)\
 Allows highlighting and hiding quests in the Journal questlist.
 
-⭐📃 [**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527)\
+📃 [**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527)\
 Restores the class description tooltip to the class selection menu, making it easier to decide which class you want to go with.
 
-⭐📃 [**What Are My Attributes**](https://www.nexusmods.com/morrowind/mods/49912)\
+📃 [**What Are My Attributes**](https://www.nexusmods.com/morrowind/mods/49912)\
 Adds an Attribute and Description widget to the Race menu so you can better plan your character.
 
 ⭐📃 [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275)\
 Adds tooltips with the effect's name to shrines when hovering over the different options.
 
-⭐📃 [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492)\
+📃 [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492)\
 Adds several new options for the journal and quest pages.
 
 * After installation, hide the mod's **Textures** folder.
@@ -127,19 +127,19 @@ Keep track of what books you have read by showing a **(Read)** indicator next to
 
 ## Hotkeys
 
-⭐📃 [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341)\
+📃 [**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341)\
 Adds a hotkey for equipping a selected inventory item.
 
-⭐📃 [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055)\
+📃 [**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055)\
 Expands the amount of quick menu hotkeys available.
 
-⭐📃 [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458)\
+📃 [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458)\
 Adds a hotkey for exiting any menu.
 
-⭐📃 [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038)\
+📃 [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038)\
 Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
 
-⭐📃 [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747)\
+📃 [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747)\
 Adds a hotkey for equipping light sources, prioritizing already used lights.
 
 📃 [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723)\
@@ -150,30 +150,20 @@ Add hotkeys for swimming and levitating. Use the jump key to float upwards, and 
 
 ## Character
 
-⭐📃 [**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915)\
+📃 [**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915)\
 Adds buttons to randomise race, appearance, class, and birthsign during character generation.
 
-⭐📃 [**MWSE Character Creation Name Generator**](https://www.nexusmods.com/morrowind/mods/46189)\
+📃 [**MWSE Character Creation Name Generator**](https://www.nexusmods.com/morrowind/mods/46189)\
 UI overhaul allowing generate random name for you character upon character creation.
 
-⭐📃 [**Simple Levelup Skills Persist**](https://www.nexusmods.com/morrowind/mods/52794)\
+📃 [**Simple Levelup Skills Persist**](https://www.nexusmods.com/morrowind/mods/52794)\
 On levelup, simply carry over unused attributes. If you pick an attribute when leveling up, all skill levelups for that attributes are lost.
 
-⭐📃 [**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133)\
+📃 [**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133)\
 A state-based health mod implemented in MWSE. Health is now calculated based on current endurance, strength and level.
 
 📃 [**Ahead of the Classes**](https://www.nexusmods.com/morrowind/mods/50346)\
 Ahead of the classes makes many vanilla and TR classes playable and adds many new classes.
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 01 FF addon
-
-📃 [**Class Starting Spells**](https://www.nexusmods.com/morrowind/mods/49010)\
-MWSE lua mod, which changes the distribution of starting spells and gives its own list of them for every class, depending on the its central theme. Requires Magicka Expanded.
-
-📃 [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283)\
- Adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes. Compatible with Chargen Revamped - Expanded Lands (CREL). Uses MWSE/Lua.
 
 📃 [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872)\
 Endurance determines how long you can hold your breath under water.
@@ -183,25 +173,25 @@ Endurance determines how long you can hold your breath under water.
 
 ## Followers
 
-⭐📃 [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717)\
+📃 [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717)\
 When the player or the player's companions are attacked, any companions will launch into action in defense.
 
-⭐📃 [**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712)\
+📃 [**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712)\
 Ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.
 
-⭐📃 [**Smart Companions**](https://www.nexusmods.com/morrowind/mods/49848)\
+📃 [**Smart Companions**](https://www.nexusmods.com/morrowind/mods/49848)\
 Makes companions (the ones with the short companion local variable set to 1) able to interact with possible loot sources and doors you Alt+Activate,
 can fix/improve some companions/followers features, detect abot's modded Scenic Travelling and apply it to followers not already compatible with it...
 
 ## Combat
 
-⭐📃 [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383)\
+📃 [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383)\
 Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
 
-⭐📃 [**Realistic Archery**](https://www.nexusmods.com/morrowind/mods/51473) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
+📃 [**Realistic Archery**](https://www.nexusmods.com/morrowind/mods/51473) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
 Arrows and thrown weapons always do damage when they hit a target, but projectiles are less accurate at lower marksman levels, and damage is reduced at close range.
 
-⭐📃 [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)\
+📃 [**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317)\
 Modifies critical strike coefficient depending on the weapon you use.
 
 📃 [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862) by [Hrnchamd](https://www.nexusmods.com/morrowind/users/843673)\
@@ -310,9 +300,6 @@ A survival mod with hunger, thirst, tiredness, cooking, camping and temperature 
 ⭐📃 [**Ashfall Add-on - Tanning Racks**](https://www.nexusmods.com/morrowind/mods/52485)\
  Adds tanning racks from Ashfall around Morrowind.
 
-📃 [**Tea Merchants - an addon for Ashfall**](https://www.nexusmods.com/morrowind/mods/51656)\
-Adds Tea Merchants to the game. Requires Ashfall.
-
 ⭐📃 [**More believable bandit camps - an addon for Ashfall**](https://www.nexusmods.com/morrowind/mods/50066)\
  Adds appropriate clutter to the various bandit camps.
 
@@ -323,16 +310,16 @@ Adds Tea Merchants to the game. Requires Ashfall.
 ⭐📃 [**(AshFall) Axe Additions**](https://www.nexusmods.com/morrowind/mods/51716)\
 Adds 4 one-handed axes to the game (to use as woodcutting axe for the mod AshFall).
 
-⭐📃 [**The Blight**](https://www.nexusmods.com/morrowind/mods/49504) by [OperatorJack](https://www.nexusmods.com/morrowind/users/61791411)\
+📃 [**The Blight**](https://www.nexusmods.com/morrowind/mods/49504) by [OperatorJack](https://www.nexusmods.com/morrowind/users/61791411)\
 Significantly expands on how blight diseases work, adding new mechanics, interactions, and visuals.
 
-⭐📃 [**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614)\
+📃 [**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614)\
 Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle.
 
-⭐📃 [**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086)\
+📃 [**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086)\
 Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Disposition, Admiration, Intimidation, and Taunt will be locked behind skill gates.
 
-⭐📃 [**Buying Game**](https://www.nexusmods.com/morrowind/mods/50574)\
+📃 [**Buying Game**](https://www.nexusmods.com/morrowind/mods/50574)\
 Enhances Mercantile via new gameplay mechanics and UI elements. Includes new base pricing mechanic, regional pricing, value estimate, merchant specializations, forbidden goods, illicit trade, investing mechanics, and more.
 
 📃 [**Talking Matters (Speechcraft overhaul)**](https://www.nexusmods.com/morrowind/mods/49089)\
@@ -435,7 +422,7 @@ MWSE lua mod changing the mechanics of Sixth House attacking the player during t
 ⭐📃 [**The Guar Whisperer**](https://www.nexusmods.com/morrowind/mods/48247) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
  Allows your to tame and breed guars, and keep them as companions. Intelligent command menu gives unprecedented control over your guar. Attack enemies, fetch items, harvest plants etc. Build trust over time by keeping them happy and healthy to unlock more commands. Fight and play games to level up your guar.
 
- ⭐📃 [**DRIP - Dynamic Randomised Item Properties**](https://www.nexusmods.com/morrowind/mods/51242) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
+⭐📃 [**DRIP - Dynamic Randomised Item Properties**](https://www.nexusmods.com/morrowind/mods/51242) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
 Drip adds Diablo 2 style loot to Morrowind. Unique weapons, armor, clothing and accesories are dynamically generated, with over a hundred unique modifiers and more than a million possible combinations. Chance to apply modifiers configurable MCM.
 
 📃 [**Danaes DRIP Depot**](https://www.nexusmods.com/morrowind/mods/51645)
@@ -446,7 +433,7 @@ Adds unidentified rings, amulets, belts, robes, pants and shirts to the game, as
 
 ## Audio
 
-⭐📃 [**AURA**](https://www.nexusmods.com/morrowind/mods/48255)\
+📃 [**AURA**](https://www.nexusmods.com/morrowind/mods/48255)\
 Customizable sound overhaul which adds ambient sounds, interior weather, extended voices, and more.
 
 * Files to install:
@@ -481,26 +468,25 @@ This mod attempts to make water react more to the world. When using MGE XE's wat
 ⭐📃 [**Enlightened Flames**](https://www.nexusmods.com/morrowind/mods/48816) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
 Replaces the game's particle-based candle flames with new, higher quality and better performance billboard-based ones.
 
-⭐📃 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)\
+📃 [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816)\
 Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions.
 
-⭐📃 [**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636)\
+📃 [**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636)\
 Weather overhaul with randomised cloud textures, more dynamic weathers, weather changes in interiors, seasonal weather chances, daytime hours changing with latitude and season, varied rain/snow density, dynamic cloud speeds, and more.
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Clouds textures
-  * [ ] 02 Weather Adjuster config - modern MGE XE
+  * [ ] 02 Weather Adjuster preset
   * [x] 03 Weather particles replacer
-  * [x] 04 Sky shader replacer
 
 ⭐📃 [**Chameleon**](https://www.nexusmods.com/morrowind/mods/47996)\
 The weird transparency of models (clothes, hair) with alpha channels issue fixed: Your character is not transparent at all.
 
-⭐📃 [**Vapourmist**](https://www.nexusmods.com/morrowind/mods/50517)\
+📃 [**Vapourmist**](https://www.nexusmods.com/morrowind/mods/50517)\
 MWSE-Lua 3D clouds and mist.
 
-⭐📃 [**Fallen Ash**](https://www.nexusmods.com/morrowind/mods/48711) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
+📃 [**Fallen Ash**](https://www.nexusmods.com/morrowind/mods/48711) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
  Dynamically adds ash decals to people, places, things, and probably concepts during ash storms.
 
 📃 [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912)\
@@ -514,27 +500,27 @@ Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion
 
 ## Landscape
 
-⭐📃 [**MWSE Dynamic Object Replacer**](https://www.nexusmods.com/morrowind/mods/52105)\
+📃 [**MWSE Dynamic Object Replacer**](https://www.nexusmods.com/morrowind/mods/52105)\
  Framework for loading config files to dynamically replace objects at runtime. No lua knowledge required!
 
-⭐📃 [**Adjustable Landscape Texture Scale**](https://www.nexusmods.com/morrowind/mods/49689) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
+📃 [**Adjustable Landscape Texture Scale**](https://www.nexusmods.com/morrowind/mods/49689) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  This mod allows you to manually increase the scale of the landscape texture to make it look more detailed without the need for hi-res replacers.
 
-⭐📃 [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
+📃 [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 Adds floating dust to areas where dead are entombed similar to what is seen in Skyrim barrows.
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Default Dust
 
-⭐📃 [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973)  
+📃 [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973)  
 Adds a heat haze shader. Subtle, gets faster and stronger when near lava pools.
 
 {% hint style="info" %}
 The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](/fundamentals/shaders.md#shader-setup) section.
 {% endhint %}
 
-⭐📃 [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
+📃 [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
 Adds recurring earthquakes to certain volcanically active regions of Vvardenfell. You'll hear the sounds of moving earth and breaking rocks, your screen will start to tremble with increasing intensity, and, if inside an interior, dust and particles will shake loose and fall from the walls and ceiling.
 
 {% hint style="info" %}
