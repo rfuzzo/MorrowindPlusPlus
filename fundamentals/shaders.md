@@ -37,7 +37,6 @@ Patches for various mods
     * [x] Far From Home
 
   * Select all that apply
-    * [x] 📃 The Sanguine Rose
     * [x] Main Quest Overhaul
     * [x] Mamaea Awakened
     * [x] 📃 Ashfall interop
