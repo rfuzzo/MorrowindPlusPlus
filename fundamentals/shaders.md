@@ -16,6 +16,7 @@ Patches for various mods
   * OAAB Foyada Mamaea Overhaul -> **OAAB Foyada Mamaea Overhaul**
   * Animated Morrowind -> **Animated Morrowind** or ✨**Animated Morrowind for OpenMW**
   * Rise of House Telvanni -> **RoHT 2.0**
+  * Magical Missions -> **Yes**
 
   * [x] Tamriel Rebuilt Patch
   * More Patches

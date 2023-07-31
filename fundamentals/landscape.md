@@ -26,6 +26,10 @@ This is the maximum compatibility version of Rocky West Gash, especially for pla
 This needs to be installed before BCOM
 {% endhint %}
 
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Core
+  * [x] 01 Vanilla Friendly Rocks
+
 ⭐ [**Beautiful Cities of Morrowind**](https://www.nexusmods.com/morrowind/mods/49231) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
  Overhaul of almost every settlement of Morrowind, inspired by concept art and aimed at a vanilla+ feeling.
 
@@ -36,32 +40,33 @@ This needs to be installed before BCOM
   * **Installation Options**
     * OpenME or MGEXE -> **MGEXE** (or ✨OpenMW)
     * Default Bcom -> **Default BCOM**
-    * Waterfront Options -> **Simple Cluttering** (*personal preference*)
-    * Haalu Council Hall Plaza -> **Izy Style** (*personal preference*)
-    * [ ] Concept Art Ghostfence Pillars -> no (*personal preference*)
-    * [ ] Concept Art Ghostfence Planets -> no (*personal preference*)
-    * Suran Options (*personal preference*)
+    * Waterfront Options -> **Simple Cluttering**
+    * Haalu Council Hall Plaza -> **Izy Style**
+    * [ ] Concept Art Ghostfence Pillars -> no
+    * [ ] Concept Art Ghostfence Planets -> no
+    * Suran Options
       * [x] Suran Dock Expansion
       * [x] White Suran
-    * [ ] Taller Lighthouse -> no (*personal preference*)
+    * [ ] Taller Lighthouse -> no
     * Stav's MGO -> **No**
-    * [x] Ald'Ruhn Skar -> Bigger Entrance (*personal preference*)
-    * [ ] Vicec Open Arena -> no (*personal preference*)
+    * [x] Ald'Ruhn Skar -> Bigger Entrance
+    * [ ] Vicec Open Arena -> no
     * Vivec Customization
-      * [x] Planters -> **yes** (*personal preference*)
-      * [x] Arena - Street vendors -> **yes** (*personal preference*)
-      * [ ] Arena - Bustling -> **no** (*personal preference*)
-      * [x] Arena - Planters -> **yes** (*personal preference*)
-      * [ ] Round planters -> **no** (*personal preference*)
-      * [x] Temple Fountains -> **yes** (*personal preference*)
-    * Molag Mar Dome -> Broken Dome (*personal preference*)
-    * [x] More tribal Erabenimsun -> yes (*personal preference*)
-    * [x] Ashlandish Maar Gan -> yes (*personal preference*)
-    * [x] Expanded Sadrith Mora Dock -> yes (*personal preference*)
+      * [x] Planters -> **yes**
+      * [x] Arena - Street vendors -> **yes**
+      * [ ] Arena - Bustling -> **no**
+      * [x] Arena - Planters -> **yes**
+      * [ ] Round planters -> **no**
+      * [x] Temple Fountains -> **yes**
+    * Molag Mar Dome -> Broken Dome
+    * [x] Caldera Mages Guild basement -> yes
+    * [x] More tribal Erabenimsun -> yes
+    * [x] Ashlandish Maar Gan -> yes
+    * [x] Expanded Sadrith Mora Dock -> yes
     * Glow in the Dahrk -> **Yes + Atlas**
     * [x] Project Atlas -> **yes**
-    * [x] HD Textures -> ✨Yes for OpenMW (*personal preference*)
-    * Balmora Bridges with bigger arch -> **No** (*personal preference*)
+    * [x] HD Textures -> ✨Yes for OpenMW
+    * Balmora Bridges with bigger arch -> **No**
     * [ ] RR Statues Patch -> **No**
     * [ ] Azura Statue -> **No**
   
@@ -507,8 +512,8 @@ The author of Perfect Scum recommends to put height waves to 0 when generating D
  This mod is an overhaul of Vos and Tel Vos, the land surrounding them, the two nearby egg mines, covering a large portion of the northern Grazelands. Currently, the mod does not cover the entire Grazelands region, but additional work is planned in future updates. The mod includes 16+ new quests with approximately 18,000 words of dialogue.
 
 * On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 01 Remiros Groundcover GL Patch
+  * [x] 📃 Magicka Expanded
+  * [x] Remiros Groundcover
 
 ⭐ [**Melchior's Excellent Grazelands Acacia**](https://www.nexusmods.com/morrowind/mods/51058) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 A pluginless replacer for the Grazelands trees inspired by the umbrella thorn acacia species.

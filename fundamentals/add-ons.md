@@ -28,13 +28,14 @@ Adds named NPCs to all cities using leveled lists with items from OAAB, TR_Data,
   * BCOM -> **Yes**
   * Bloodmoon options -> **TOTSP**
   * [x] Tamriel Rebuilt
-  * [x] Glass Helm Additions
+  * [x] Province Cyrodil
+  * [x] Glass Helm Compilation
   * [x] Mage Robes
   * [x] Morag Tong Polished
   * [x] Weapons Expansion Project
-  * [ ] Redoran War Armor and Sathil Mercenary Equipment
-  * [ ] Concept Art Dunmer Helmets
   * [x] Vanilla Friendly Wearables Expansion
+  * [x] Immersive Mournhold
+  * [x] BCOM Animated Morrowind
   * Sound Options -> **Muted**
 
 ⭐ [**Wares Ultimate**](https://www.nexusmods.com/morrowind/mods/52013) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
@@ -157,6 +158,8 @@ This is a compilation of mods that does a couple of things: Adds new armours and
 
 * On MO2 installation, check the following options in the installer:
   * Optional Patches:
+    * [x] Bloodmoon NPCs
+    * [x] Daedric Shrines Overhauls
     * [x] Morag Tong Polished Patch
     * [x] Cephalopod Armor - OAAB Patch
     * [x] Cepalopod Armor - TR patch

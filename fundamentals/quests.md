@@ -194,6 +194,9 @@ The Mysterious Killings in Vivec quest now has a new reward and some more flavou
 ⭐ [**Temple Master**](https://www.nexusmods.com/morrowind/mods/52749)\
 This mod lets the player take control of the Suran Temple once they advance enough in the Tribunal Temple faction. Through a series of quests (and with some choices to make along the way), you will get to improve the temple.
 
+* On MO2 installation, check the following options in the installer:
+  * [x] **📃 MGE XE** (or ✨ OpenMW)
+
 [**OAAB Brother Junipers Twin Lamps**](https://www.nexusmods.com/morrowind/mods/51424)\
 Update of Brother Juniper's classic quest mod. Join the Twin Lamps and fight against slavery through ~20 new quests. Now with overhauled locations, bug fixes, and extra dialogue and quest choices.
 
