@@ -75,9 +75,6 @@ Fixes gameplay and interface inconsistencies in the alchemy menu, provides it wi
 This mod requires the **Game mechanics/Healty appetite** feature to be enabled in the Morrowind Code Patch.
 {% endhint %}
 
-📃 [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272)\
-Allows highlighting and hiding quests in the Journal questlist.
-
 📃 [**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527)\
 Restores the class description tooltip to the class selection menu, making it easier to decide which class you want to go with.
 
@@ -86,9 +83,6 @@ Adds an Attribute and Description widget to the Race menu so you can better plan
 
 ⭐📃 [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275)\
 Adds tooltips with the effect's name to shrines when hovering over the different options.
-
-📃 [**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492)\
-Adds several new options for the journal and quest pages.
 
 * After installation, hide the mod's **Textures** folder.
 
@@ -110,12 +104,6 @@ Uses MWSE Lua to add an Oblivion style ownership indicator, when you look at own
 * On MO2 installation, an installer window will pop up asking you to set a Data Files Directory.
 * Right click on `Data Files` and select "Set as < data files > directory".
 
-📃 [**HUD Weapon Charge**](https://www.nexusmods.com/morrowind/mods/47962)\
-Adds a bar to the UI that shows the currently equipped weapon's charge under the weapon condition bar.
-
-📃 [**Clocks**](https://www.nexusmods.com/morrowind/mods/50840)\
-Adds a clock to the UI that displays either game world time or real time.
-
 📃 [**Propylon Index Renamer**](https://www.nexusmods.com/morrowind/mods/49941)\
 Renames propylon indexes so they'll group together in the inventory.
 
@@ -135,12 +123,6 @@ Expands the amount of quick menu hotkeys available.
 
 📃 [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458)\
 Adds a hotkey for exiting any menu.
-
-📃 [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038)\
-Adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
-
-📃 [**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747)\
-Adds a hotkey for equipping light sources, prioritizing already used lights.
 
 📃 [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723)\
 Adds a hotkey for summons, followers and companions to attack the selected target.
@@ -184,9 +166,6 @@ Makes companions (the ones with the short companion local variable set to 1) abl
 can fix/improve some companions/followers features, detect abot's modded Scenic Travelling and apply it to followers not already compatible with it...
 
 ## Combat
-
-📃 [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383)\
-Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.
 
 📃 [**Realistic Archery**](https://www.nexusmods.com/morrowind/mods/51473) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
 Arrows and thrown weapons always do damage when they hit a target, but projectiles are less accurate at lower marksman levels, and damage is reduced at close range.
