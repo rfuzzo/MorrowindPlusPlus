@@ -2,6 +2,12 @@
 
 ## Voices
 
+⭐ [**Audiobooks of Morrowind**](https://www.nexusmods.com/morrowind/mods/52458)\
+ Turn the books in Morrowind into listenable audiobooks!
+
+⭐ [**Quest Voice Greetings**](https://www.nexusmods.com/morrowind/mods/52273)\
+ ElevenAI generated voices for quest-giving NPCs in Morrowind. Currently adds over 800 original lines of voiced dialogue using the original actors voices. Works with openmw!
+
 ⭐ [**FMBP - Michael Michael Michael**](https://www.nexusmods.com/morrowind/mods/48598) by [PoodleSandwich2](https://www.nexusmods.com/morrowind/users/45710542)\
 Fixes Michael Mack's misreadings of the word "Dunmer".
 
@@ -14,19 +20,13 @@ Adds over 200 new voice entries for NPCs, mostly using edited original voice fil
 ⭐ [**Voice Overhaul**](https://www.nexusmods.com/morrowind/mods/51215) by [PhoenixRime](https://www.nexusmods.com/morrowind/users/2250219)\
 All dialogues with voice phrases in the game have been re-sorted. Restored many unused lines, increased the variety of audible phrases. Many bugs fixed.
 
-⭐ [**Audiobooks of Morrowind**](https://www.nexusmods.com/morrowind/mods/52458)\
- Turn the books in Morrowind into listenable audiobooks!
-
-⭐ [**Quest Voice Greetings**](https://www.nexusmods.com/morrowind/mods/52273)\
- ElevenAI generated voices for quest-giving NPCs in Morrowind. Currently adds over 800 original lines of voiced dialogue using the original actors voices. Works with openmw!
+⭐ [**So. You're the Nerevarine**](https://www.nexusmods.com/morrowind/mods/46896)\
+Restores unused voice files for the Dunmer that I thought were wholesome.
 
 ## SFX
 
 ⭐ [**Outdoor Banners With Sound**](https://www.nexusmods.com/morrowind/mods/47068)\
 Outdoor banners now play sound alongside their animations. The sound will vary depending on the weather.
-
-[**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232)\
-Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
 
 [**Shut the Fuck up Cliff Racers**](https://www.nexusmods.com/morrowind/mods/46588)\
 Reduces the frequency of idle Cliff Racer screeches.

@@ -13,7 +13,6 @@ Asset repository required for Solstheim - Tomb of the Snow Prince and Nordic Dag
 
 * Files to install:
   * **Tamriel Data (HD)** (Main files)
-  * **Tamriel Data Hotfix (9)** (Main files)
 
 {% hint style="info" %}
 To register the mod's BSA file, launch **Wrye Mash** from Mod Organizer 2. In the Mods tab, click the BSA Archives tab to the right, and check the BSA you want to register.
@@ -49,7 +48,6 @@ Asset repository for **PikacunoTM**'s An Addendum to Tamrielic Lore mod project.
   * [x] `TR_Travels.ESP`
   * [x] `TR_Travels_Preview_and_Mainland.ESP`
   
-  * **Tamriel Rebuilt hotfix** (Main files)
   * **TRMusic** (Optional files)
 
 ⭐ [**Skyrim Home Of The Nords**](https://www.nexusmods.com/morrowind/mods/44921)\
@@ -69,13 +67,6 @@ Set almost exactly between the great ports of Cyrodiil, Hammerfell, Valenwood an
 {% hint style="warning" %}
 After installation, disable `Cyrodiil_Grass.ESP` in your load order. ⚠️ **Do not hide or delete them**, as they are necessary for the mod to work as intended when generating Distant Land.
 {% hint style="endhint" %}
-
-[**Dr_Data**](https://www.nexusmods.com/morrowind/mods/51776)\
-Resource Pack and Asset Library for LondonRooks assets.
-
-{% hint style="info" %}
-This is only needed as requirement for [**Kogoruhn - Extinct City of Ash and Sulfur**](https://www.nexusmods.com/morrowind/mods/51615). If you don't plan to install that mod, DR_Data is not needed.
-{% endhint %}
 
 ## Bug fixes
 
@@ -223,9 +214,6 @@ Files to install:
 Note that **Project Atlas** utilizes its own texture sets for its edited meshes, meaning any retexture designed with the vanilla meshes in mind will require a patch for it to work alongside this mod.
 {% endhint %}
 
-⭐ [**Graphic Herbalism- Ash Yam Collision Switch**](https://www.nexusmods.com/morrowind/mods/49154) by [NoUsernamesNotTaken](https://www.nexusmods.com/morrowind/users/50837536)\
-Fixes a collision bug with harvested Ash Yams.
-
 ⭐ [**Improved Lights for All Shaders**](https://www.nexusmods.com/morrowind/mods/51463) by [mwclevername](https://www.nexusmods.com/morrowind/users/102938538)\
 Adjusts every vanilla light mesh to enhance the effects of other shader and lighting mods. Compatible with MGE, OpenMW, ReShade, True Lights And Darkness, Enlightened Flames, and just about everything else.
 
@@ -248,12 +236,8 @@ Fixes the Scamp mesh, reducing distortion, seams, and other UV errors.
 This omits the Scamp's retexture, since we uses a vanilla-friendly high resolution texture pack.
 {% endhint %}
 
-[**Correct UV Mudcrabs**](https://www.nexusmods.com/morrowind/mods/42130) by [tronvillain](https://www.nexusmods.com/morrowind/users/597111)\
-Fixes the Mudcrab mesh, reducing distortion and other UV errors.
-
-* On MO2 installation, expand the **Correct Mudcrab** and **Regular** folders.
-* Right-click on **Data Files**.
-* Click **Set as data files directory** and click **OK**.
+[**Crabs Diversity**](https://www.nexusmods.com/morrowind/mods/49103)\
+Molecrab from TR, Mushroom Crab inspired by TESO, Correct UV Mudcrabs included.
 
 [**Nordic Mesh Improvements**](https://www.nexusmods.com/morrowind/mods/46792) by [Remiros](https://www.nexusmods.com/morrowind/users/899234)\
  Replaces the meshes for all nordic weapons.
@@ -275,3 +259,9 @@ Replaces a lot of meshes that haven't (properly) been covered by other mods yet.
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Iron Repair Prongs
+
+[**Morrowind Animated Hammocks (MAH)**](https://www.nexusmods.com/morrowind/mods/49767)\
+Animates the hammocks in boats, or/and caverns, and shacks and the pillows above it when necessary. Different versions for all your hammocks animation tastes
+
+[**ReAnimations - first-person**](https://www.nexusmods.com/morrowind/mods/52596)\
+A mix of new, altered vanilla, and adjusted MCAR animations.

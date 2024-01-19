@@ -29,6 +29,9 @@ This mod overhauls the Main Quest.
 ⭐ [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410)\
 Fixes several places in the vanilla game that are set up like inns, but in which Bethesda for some reason forgot to add the option to rent a room in.
 
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Core
+
 ⭐ [**Dual Faction Membership for NPCs**](https://www.nexusmods.com/morrowind/mods/49885)\
 NPCs that actually belong to two factions will reflect this in their dialogue.
 
@@ -116,8 +119,8 @@ This mod overhauls the Fighters Guild questline by improving the background and 
 ⭐ [**Thieves' Guild Overhaul**](https://www.nexusmods.com/morrowind/mods/49944)\
 A complete overhaul of the Thieves' Guild faction. New quests, tweaks for existing quests, items, and a lot more!
 
-⭐ [**Imperial Legion Expansion**](https://www.nexusmods.com/morrowind/mods/44469)\
-This mod is a complete overhaul of the Imperial Legion faction. New quests, items, NPCs and more.
+⭐ [**Imperial Legion Imperial Legion Redux**](https://www.nexusmods.com/morrowind/mods/53920)\
+A lore-friendly revisit of Morrowind's Imperial Legion questline, which aims to make it a more rewarding experience to play.
 
 ⭐ [**Morag Tong Polished**](https://www.nexusmods.com/morrowind/mods/47041)\
 The Morag Tong Guild is the most poorly written faction in Morrowind. This mod fixes that by giving the guild a much needed touch up.
@@ -127,15 +130,6 @@ MWSE-lua mod that adds new mechanics related to Morag Tong, solving some inconsi
 
 [**Morag Tong Writs**](https://www.nexusmods.com/morrowind/mods/52759)\
 Overhaul of Morag Tong assassination quests, making them more interesting via non-linear gameplay, more challanges and opportunities and motivating the usage of relevant skills
-
-⭐ [**Morag Tong Polished Compatibility Patch**](https://www.nexusmods.com/morrowind/mods/48955)\
-This patch fixes conflicts between Morag Tong Polished and other mods:
-
-* Files to download:
-  * **Morag Tong Polished Compatibility Patch**
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 01 TR_Factions
 
 [**Mage Robes**](https://www.nexusmods.com/morrowind/mods/45739)\
 Many Mages Guild members will now wear the new robes and the player can acquire the robes through quests and purchase.
@@ -153,26 +147,27 @@ Members of the Mages Guild can now deliver a coded message, solve a murder, inve
 [**Thieves Guild Stash**](https://www.lonebullet.com/mods/download-thieves-guild-stash-v10-elder-scrolls-iii-morrowind-mod-free-43942.htm)\
 This mod adds several "Thieves' Guild Stash" chests, similar to the Fighters' Guild Equipment Chests and Mages' Guild Supply Chests, next to some of the higher-ranking thieves.
 
+[**Thieves' Guild in Gnaar Mok**](https://www.nexusmods.com/morrowind/mods/46754)\
+This mod adds ten new Thieves' Guild quests to Gnaar Mok. Part of the May Modathon Month.
+
 [**Carelessly Crazy Caldera Community**](https://www.nexusmods.com/morrowind/mods/47275)\
 Adds a new shop, 2 new NPCs, 17 new quests to Caldera, and adds unique background, personality and dialogue to most of the NPCs of the town.
 
-[**Different Types of Local Plants for Ajira's Reports**](https://www.nexusmods.com/morrowind/mods/51735)\
-Both the content and the location of Ajira's Reports change every time! No more gathering mushrooms and flowers beforehand!
-
 ## Misc
 
-⭐ [**LDM - Racist Service Refusal**](https://www.nexusmods.com/morrowind/mods/50870)\
-Camonna Tong NPCs will now refuse to provide services to Argonians and Khajiit unless at a very high disposition.
-
-⭐ [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273)\
-Edits, re-filters, or adds on to vanilla dialogue to add more situational nuance.
-
-⭐ [**LDM - Choices and Consequences**](https://github.com/Lucevar/ldm) by [Lucevar](https://www.nexusmods.com/morrowind/users/3099525)\
+⭐ [**LDM**](https://github.com/Lucevar/ldm) by [Lucevar](https://www.nexusmods.com/morrowind/users/3099525)\
 Lucevar's Dialogue Mod for Morrowind
 
 * Files to download:
   * **01 Choices and Consequences** (Github)
 * Zip the files in the Folder  **01 Choices and Consequences** and install with MO2. (Ctrl+M)
+
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Context Matters
+  * [x] 01 Choices and Consequences
+  * [ ] 02 Optional Worldspace Edits
+  * [ ] 03 More Exclusive Factions
+  * [x] 04 Racist Service Refusal
 
 [**Choice and Consequence - Rogues of Pelagiad**](https://www.nexusmods.com/morrowind/mods/51182)\
 This mod adds several new options and tweaks for dealing with the two rogues at Pelagiad's Halfway Tavern.
@@ -182,6 +177,12 @@ This mod adds several new options and tweaks for dealing with Bugrol gro-Bagul a
 
 [**Choice and Consequence - Other Friend in Deed**](https://www.nexusmods.com/morrowind/mods/51541)\
 This mod adds several new options and tweaks for the "A Friend in Deed" quest in Vivec.
+
+[**Ashlanders Herd**](https://www.nexusmods.com/morrowind/mods/48720)\
+Ashlanders Herd provides a solution to a dialogue inconsistency and spices up Ashlander camps by adding domesticated Guar and Shalk painted with tribal identifiers.
+
+[**The Patchwork Airship - Fleshing out a vanilla quest**](https://www.nexusmods.com/morrowind/mods/53133)\
+Fleshes out the vanilla quest "The Patchwork Airship" by replacing the airship with a more fitting model, and giving it an interior you can explore.
 
 ## Add-ons
 
@@ -344,12 +345,8 @@ Journey through this quest mod to improve your alteration magic.
 [**Sixth House Informant - The Monastery of Ishdad Ab**](https://www.nexusmods.com/morrowind/mods/51602)\
 This mod adds a new quest featuring a medium sized sixth house base.
 
-[**Ashlanders Herd**](https://www.nexusmods.com/morrowind/mods/48720)\
- Ashlanders Herd provides a solution to a dialogue inconsistency and spices up Ashlander camps by adding domesticated Guar and Shalk painted with tribal identifiers.
-
 [**The Pearl Divers**](https://www.nexusmods.com/morrowind/mods/51703)\
-
- Made for Summer Modjam 2022! Meet One-Eye and Beela Fire-Beard, two Argonian pearl divers with a mysterious connection.
+Made for Summer Modjam 2022! Meet One-Eye and Beela Fire-Beard, two Argonian pearl divers with a mysterious connection.
 
 [**Tirram Terala's Treasure Trove of Trinkets**](https://www.nexusmods.com/morrowind/mods/51699)\
  Visit Khuul to find the new market of Tirram Terala, an eccentric peddler with wares to sell and stories to tell. Browse his selection of exotic goods from all over Tamriel and beyond. He might even have a few heirlooms he picked up during his adventuring days.
@@ -368,13 +365,6 @@ This mod adds a new quest featuring a medium sized sixth house base.
 
 [**Sa'Virr the traveling bladesmith**](https://www.nexusmods.com/morrowind/mods/51684)\
  Sa'Virr, the greatest bladesmith Nirn ever knew. You can find him at the Strider Port in Khuul.
-
-[**Dras the Dunmer Legionnaire**](https://www.nexusmods.com/morrowind/mods/51446)\
- Meet with Tendndras Lonvyn of the Imperial Legion in Balmora and earn his trust... or enmity.
-
-* Files to install:
-  * **Dras** (Main files)
-  * **Hotfix** (Update files)
 
 [**Leap of Faith**](https://www.nexusmods.com/morrowind/mods/51702)\
  A new merchant has come to Gnisis, selling potions of jump to would-be fast travelers. A pilgrim has gone missing. Are these two things as unrelated as they might seem? A small quest mod, suitable for low level characters.
@@ -419,5 +409,16 @@ Brave the dangers of Vvardenfell in this lore-friendly quest mod to reforge Gold
 [**Actual Dwemer Puzzle Box**](https://www.nexusmods.com/morrowind/mods/52756)\
 Speak with scholars to learn hints on how to decipher the puzzle. Take it with you and play anywhere, Get out your quill and paper to solve this puzzle.
 
-[**A Lover's Quarrel**](https://www.nexusmods.com/morrowind/mods/52679)\
-ALMSIVI23. Explore the seedier side of how the Temple wields power. Hear the latest rumors from the residents of Necrom, who complain of a marital dispute that has disturbed the silence of the City Above.
+[**Caldera Priory and the Depths of Blood and Bone**](https://www.nexusmods.com/morrowind/mods/52898)\
+Caldera Priory has been overrun by the Undead. Do you have the courage and the will to venture into the Depths of Blood and Bone and vanquish the ancient Evil that has taken hold of the lands above?
+
+* Galen's Quest for Truth
+* A Grave Errand
+* Happenstance Hodokinesis
+* Secret of Vilmuhn
+* The Mysterious Affair of Sara Shenk
+* AFFresh
+* Moon Magic
+* The Vanishing Ash-chirps
+* Respite in Hostile Waters
+* Something in the Water -- A Peryite Daedric Quest

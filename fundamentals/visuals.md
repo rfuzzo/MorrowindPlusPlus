@@ -28,15 +28,14 @@ Compatibility patch for Morrowind Enhanced Textures.
 Adds weapons and armour from Tamriel_Data, OAAB_Data, Ivolga's Armored Robes and Danke's Armors to various friendly npcs to make them feel less generic.
 
 * On MO2 installation, check the following options in the installer:
-  * [x] 1. Core (with revamped YAGD)
-  * [x] 2. BCOM Compatibility Version (YAGD)
+  * [x] 1. Core
+  * [x] 4. BCOM + Guard Diversity
 
 ⭐ [**Yet Another Guard Diversity Expanded Imperials**](https://www.nexusmods.com/morrowind/mods/47583) by [Citadel535](https://www.nexusmods.com/morrowind/users/23131859)\
 Expands the Yet Another Guard Diversity to cover Imperials in Tamriel Rebuilt.
 
 * Files to install:
-  * **Yet Another Guard Diversity Bloodmoon Imperials** (Main files)
-  * **Yet Another Guard Diversity Tamriel Rebuilt Imperials** (Main files)
+  * **Yet Another Guard Diversity Tamriel Rebuilt 23.10** (Main files)
 
 [**Incarnates Overhauled**](https://www.nexusmods.com/morrowind/mods/49232)\
 Makes the Failed Incarnates better reflect their backgrounds. The armor, clothes, faces and hairs on some of the ghosts has been changed, so that now an ashlander wears ashlander clothes, a warrior of the Temple wears Indoril armor, Erur-Dan wears his cuirass, Hort-Leed wears his robe, and so forth.
@@ -66,22 +65,6 @@ An in-depth yet completely vanilla friendly touch up of every head and almost ev
 
 * After installation, in MO2, go to **Filetree**:
 * `(optional) Redguard Female Teeth Texture Fix` -> right click: **Hide**.
-
-[**Divine Dagoths**](https://www.nexusmods.com/morrowind/mods/45536)\
-Pluginless replacer for Dagoth Ur and his brothers, with tweaked body proportions and shadow meshes, new HD particles, and corpse models.
-
-* Files to install:
-  * **Divine Dagoths**
-
-* On MO2 installation, check the following options in the installer:
-  * [x] Core Files
-  * [x] No Halo Glow
-  * [x] No Halo Sigils
-
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
-  * [x] `Bob's Diverse Dagoths - DNGDR.esp`
-  * [x] `Bob's Diverse Dagoths - DNGDR - Hostile Gilvoth.esp`
-  * [x] `Bob's Diverse Dagoths.esp`
 
 ## VFX
 

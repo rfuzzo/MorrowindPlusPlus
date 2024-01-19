@@ -48,11 +48,11 @@ Tweaks bows so that they line up better with the sheathing animation.
 [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616)\
 Adds sheaths to weapons not covered by Weapon Sheathing.
 
-[**Sei's Dynamic Wildlife**](https://www.nexusmods.com/morrowind/mods/52135)\
- With Sei's Dynamic Wildlife, you will never run out of animals to hunt or practice your skills on. This mod dynamically spawns animals around you as you traverse the wilderness and despawns them as you move further away, so as to not clutter the landscape, ensuring a fresh experience every time you revisit an area.
+[**Empowered Enchantments by Caleb**](https://www.nexusmods.com/morrowind/mods/53881)\
+Most enchantments have been revamped. Many cast on use enchantments are now constant effects, with more appropriate (but not fun sucking) balancing so they aren't TOO crazy. Many cast on use enchantments have also been buffed, to make it worth going through a bunch of menus and raising your hands and casting them.
 
-[**Distraction**](https://www.nexusmods.com/morrowind/mods/49680)\
-Throwing weapons, arrows, and the Sound spell now distract NPCs and allow you to sneak past them
+[**Empowered Potions by Caleb**](https://www.nexusmods.com/morrowind/mods/53879)\
+Most potions have been rebalanced to give you more noticeable effects. Plus, alcohol gets a new mechanic to control its consumption. My goal with this mod is to finally get someone to drink a swift swim potion.
 
-[**ReAnimations - first-person**](https://www.nexusmods.com/morrowind/mods/52596)\
-A mix of new, altered vanilla, and adjusted MCAR animations.
+[**East Vvardenfell Travel Service**](https://www.nexusmods.com/morrowind/mods/50126)\
+This mod adds 6 caravaner travel services to the eastside of Vvardenfell. Helping to fill out the vanilla services with land based travel in the Grazelands and Molag Amur. Simple, balanced, useful.

@@ -1,5 +1,109 @@
 # Changelog
 
+## Jan 2034
+
+Additions
+- So. You're the Nerevarine
+- Crabs Diversity
+- Morrowind Animated Hammocks (MAH)
+- East Vvardenfell Travel Service
+- Empowered Enchantments by Caleb
+- Empowered Potions by Caleb
+- Waterfalls Tweaks
+- DN-Lighted_Dwemer_Towers
+- The Great Seawall of Vivec
+- Ald'ruhn Architecture Variety
+- Maar Gan - Town of Pilgrimage
+- Sadrith Mora BCOM Plus Module
+- Tethered Tel Branora
+- Concept Art Molag Amur Region - The Great Scathes
+- Devilish Spines Of Madness
+- Devilish Rocky West Gash
+- Keelhouse - A quest and house mod for Tamriel Rebuilt
+- Restful Reef Refuge
+- A Cold Cell
+- Arnchenzel - Dwemer Underwater House
+- Terror of Tel Amur
+- Tel Mundnisses
+- Ashlander Silt Skiff
+- Halls Of Colossus
+- Indoril Mansion
+- Grahtwood Roost
+- Swamp Stump Sanctuaries
+- Draggle-Tail Shack
+- Pelagiad Minuet Cottage
+- Tamrielic Treasures - A Caldera shop with mannequins
+- Lord of Rebirth
+- Thurndal
+- Distant Horizon - A Chimeri-quey flotilla
+- Class Starting Spells
+- Leech Effects
+- Less Lame Leveled Spawns
+- Animation Blending
+- Clothing Requirements
+- Ultimate Fishing
+- Kezyma's Voices of Vvardenfell
+- Window to Aetherius
+- Imperial Legion Imperial Legion Redux
+- Thieves' Guild in Gnaar Mok
+- LDM
+- The Patchwork Airship - Fleshing out a vanilla quest
+- Caldera Priory and the Depths of Blood and Bone
+- Galen's Quest for Truth
+- A Grave Errand
+- Happenstance Hodokinesis
+- Secret of Vilmuhn
+- The Mysterious Affair of Sara Shenk
+- AFFresh
+- Moon Magic
+- The Vanishing Ash-chirps
+- Respite in Hostile Waters
+- Something in the Water -- A Peryite Daedric Quest
+- alvazir's various patches
+
+Replaced
+- Correct UV Mudcrabs
+- BCOM Rocky West Gash
+- Shipyards of Vvardenfell (Sadrith Mora - Seyda Neen - Gnaar Mok)
+- OAAB Market
+- Ruined Molag Mar
+- Spines of Madness
+- Boats
+- Gondoliers
+- Silt Striders
+- Keelhouse
+- Imperial Legion Expansion
+- LDM - Racist Service Refusal
+- LDM - Context Matters
+- LDM - Choices and Consequences
+
+Removals
+- No Female Nord Screeching
+- Dr_Data
+- Graphic Herbalism- Ash Yam Collision Switch
+- Sei's Dynamic Wildlife
+- Distraction
+- Eye of the Needle
+- Kogoruhn - Extinct City of Ash and Sulfur
+- Water Life
+- Loading Doors Lock Tune
+- Travel Tooltips
+- Merlord's Character Backgrounds
+- Smart Companions
+- Buying Game
+- Light Decay
+- Locks and Traps Detection
+- Visually Trapped Objects
+- Fence it - MWSE
+- Ethereal Ghosts
+- Unidentified Items
+- Sounds of Souls
+- Different Types of Local Plants for Ajira's Reports
+- Dras the Dunmer Legionnaire
+- Even Seedier Eight Plates - Morag Tong Polished Patc
+- Ownership Overhaul Patches
+- Divine Dagoths
+
 ## May 5th 2023
 
 Additions

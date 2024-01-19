@@ -38,29 +38,6 @@ Adds named NPCs to all cities using leveled lists with items from OAAB, TR_Data,
   * [x] BCOM Animated Morrowind
   * Sound Options -> **Muted**
 
-⭐ [**Wares Ultimate**](https://www.nexusmods.com/morrowind/mods/52013) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
-Modular versions of WARES for Vvardenfell, Tamriel Rebuilt, Skyrim Home of the Nords, and Province Cyrodiil including items, traders, npcs, Hold it and containers.
-
-* Files to install:
-  * **Wares Ultimate** (Main files)
-
-  * On MO2 installation, check the following options in the installer:
-    * [x] 00 Core (must have)
-    * [ ] 01 Hold it lists (needs wares_npcs)
-    * [x] 02 TD lists (Tamriel_Data.esm)
-    * [x] 03 OAAB lists
-    * [x] 04 Vvardenfell addons
-    * [x] 05 PC addons (Cyr_Main.esm)
-    * [x] 06 TR addons (TR_Mainland.esm)
-    * [x] 07 SHOTN addons (Sky_Main.esm)
-    * [ ] 08 MOAR items in shops addons
-    * [ ] 09 NOD Patch
-
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
-  * [x] `Wares_VV_npcs_purist.ESP`
-  * [x] `Wares_PC_npcs_purist.esp`
-  * [x] `Wares_TR_npcs_purist.esp`
-  * [x] `Wares_SHOTN_npcs_purist.esp`
 
 ⭐ [**Friends and Foes**](https://www.nexusmods.com/morrowind/mods/49251) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
  Adds friendly and less friendly npcs to the game.
@@ -107,21 +84,6 @@ Newly murdered characters are now drawn to the tombs of their ancestors. You wil
 * Files to install:
   * **Ghost Revenge**
 
-[**MCAR**](https://www.nexusmods.com/morrowind/mods/48628)\
- Replaces 1st person animations.
-
-* Files to install:
-  * **MCAR plus swim animation**
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 - MCAR
-  * [x] 01 - Magic casting
-  * [x] 02- Melee combat
-
-{% hint style="warning" %}
-This mod requires the **Mod Specific/First person swim animations** feature to be enabled in the Morrowind Code Patch.
-{% endhint %}
-
 [**Atronach Rebalance**](https://www.nexusmods.com/morrowind/mods/51309)\
 This mod makes all atronachs the same power. As the player levels up, these Daedra will also gain strength every 5 levels up to 30 level. They can cast spells every 30 seconds, and their damage depends on the attack animation.
 
@@ -137,7 +99,34 @@ In collaboration with OAAB Leveled Creatures, this mod will add female dwarven s
   * [x] 01 Dwarven Spectres
   * [x] 01 Dwemer Spectres
 
+[**Wild Silt Striders**](https://www.nexusmods.com/morrowind/mods/49103)\
+Creatures from TR added to the north and east coast of the Vvardenfell. There are few of them.
+
 ## Items
+
+⭐ [**Wares Ultimate**](https://www.nexusmods.com/morrowind/mods/52013) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
+Modular versions of WARES for Vvardenfell, Tamriel Rebuilt, Skyrim Home of the Nords, and Province Cyrodiil including items, traders, npcs, Hold it and containers.
+
+* Files to install:
+  * **Wares Ultimate** (Main files)
+
+  * On MO2 installation, check the following options in the installer:
+    * [x] 00 Core (must have)
+    * [ ] 01 Hold it lists (needs wares_npcs)
+    * [x] 02 TD lists (Tamriel_Data.esm)
+    * [x] 03 OAAB lists
+    * [x] 04 Vvardenfell addons
+    * [x] 05 PC addons (Cyr_Main.esm)
+    * [x] 06 TR addons (TR_Mainland.esm)
+    * [x] 07 SHOTN addons (Sky_Main.esm)
+    * [ ] 08 MOAR items in shops addons
+    * [ ] 09 NOD Patch
+
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
+  * [x] `Wares_VV_npcs_purist.ESP`
+  * [x] `Wares_PC_npcs_purist.esp`
+  * [x] `Wares_TR_npcs_purist.esp`
+  * [x] `Wares_SHOTN_npcs_purist.esp`
 
 ⭐ [**Taddeus' Foods of Tamriel**](https://www.nexusmods.com/morrowind/mods/49388) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
 This mod adds Ashfall compatible Foods from all over Tamriel as well as a few shops and Food Outposts.
@@ -170,32 +159,10 @@ This is a compilation of mods that does a couple of things: Adds new armours and
 
 * Files to install:
   * **OAAB Creature Loot**
-  * **OAAB Dark Temptations**
-  * **OAAB Golden Reeds**
   * **OAAB Leveled Lists**
   * **OAAB Leveled Creatures**
   * 📃 **OAAB Drip**
   * 📃 **OAAB Dynamic Object Replacer**
-
-⭐ [**OAAB_Data and Community Equipment Integration**](https://www.nexusmods.com/morrowind/mods/50307)\
- Ongoing project dedicated to integrating into the game a variety of community-made weapons, armor, and clothing.
-
-* Files to install:
-  * **Community Weapons Integrated**
-  * **Redoran War and Sathil Mercenary Armor Integrated**
-  * **RuffinVangarr Armors Integrated**
-
-* On MO2 installation, check the following options in the installer:
-  * Core
-    * [x] OAAB Weapons
-    * [x] Oriental Ebony Weapons
-    * Rebalances - OAAB Weapons -> [x] (personal preference)
-    * Rebalances - Oriental Ebony Weapons -> [x]  (personal preference)
-  * Patches
-    * [x] Tooltips Complete
-    * [ ] Yet Another Guard Diversity
-    * [ ] Complete Duke's Guard Silver
-    * [ ] Area Effect Arrows
 
 ⭐ [**Uncharted Artifacts**](https://www.nexusmods.com/morrowind/mods/49281)\
  All shipwrecks carry a hidden map revealing the location of a unique, non-quest related artifact. Let the treasure hunting begin!
@@ -205,18 +172,6 @@ This is a compilation of mods that does a couple of things: Adds new armours and
 
 * On MO2 installation, an installer window will pop up asking you to set a Data Files Directory.
 * Right click on `Indexes of MW > Data Files` and select "Set as < data files > directory".
-
-[**Boots of Blazing Speed**](https://www.nexusmods.com/morrowind/mods/49428)\
-A fiery alternative to the Boots of Blinding Speed. They can be found in the locked and trapped bedroom on bottom floor of the Balmora Fighter's Guild.
-
-[**Concept Art Dunmer Helmets**](https://www.nexusmods.com/morrowind/mods/52043)\
- Adds several new Dunmer Helmets into the game based on designs by michael kirkbride
-
-[**SM Morag Tong Armor**](https://www.nexusmods.com/morrowind/mods/50953)
-A mod that adds a full set of Morag Tong Guild armor to the game. Based on Michael Kirkbride concept-art.
-
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
-  * [x] `sm_mt_armor_eng.esp`
 
 [**Glass Helm Additions**](https://www.nexusmods.com/morrowind/mods/42207)\
  Resource of 6 full glass helms.

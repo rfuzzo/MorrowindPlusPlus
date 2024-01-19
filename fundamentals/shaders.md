@@ -14,7 +14,6 @@ Patches for various mods
     * [x] Concept Art Plantations
     * [x] Mandas Manor
   * OAAB Foyada Mamaea Overhaul -> **OAAB Foyada Mamaea Overhaul**
-  * Animated Morrowind -> **Animated Morrowind** or ✨**Animated Morrowind for OpenMW**
   * Rise of House Telvanni -> **RoHT 2.0**
   * Magical Missions -> **Yes**
 
@@ -44,19 +43,15 @@ Patches for various mods
     * [x] OAAB Pomegranates
     * [x] Tel Aruhn Chronicles quest and Yansirramus Overhaul addon
     * [x] Foreign Quarter Market Square
-    * [x] Imperial Legion Expansion
 
 {% hint style="warning" %}
-
 * Do not use the Publicans patch, it is outdated
-* Do not use the Mines and Caverns patch, it is outdated
 {% hint style="endhint" %}
 
 [**Various compatibility patches for HOTV Tomb of the Snow prince Solstheim Overhaul**](https://www.nexusmods.com/morrowind/mods/48422)\
  Various patches, including the White Wolf of Lokken, Wanderes of Solstheim, Children of Morrowind, Thirsk Expanded more....an ongoing project
 
 * Files to install:
-  * **The Moldy Horker - TOTSP Solstheim - Animated Morrowind**
   * **Various Patches for Tomb of the Snow prince - All in One**
 
 * Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
@@ -74,16 +69,6 @@ After installation
 
 {% hint style="endhint" %}
 
-[**Even Seedier Eight Plates - Morag Tong Polished Patch**](https://www.nexusmods.com/morrowind/mods/49236)\
- VIsual overhaul of the Eight Plates tavern in Balmora, combined with an expansion of the NPC and dialogue overhaul from Von Djangos' The Seedy Plates
-
-* Files to install:
-  * **OpenMW Anim Patch**
-
-{% hint style="warning" %}
-You need to rename the .esp file in this mod! In MO2, double click the mod and go to the Filetree tab. Right click an rename the esp to `Morag Tong Polished.esp`
-{% endhint %}
-
 [**Morag Tong Polished - BCoM Patch**](https://www.nexusmods.com/morrowind/mods/51194)\
 One of the NPCs added by "MTP" ends up being suspended in the empty void if you use it alongside with the "Beautiful Cities of Morrowind". This patch returns him to the intended position. Also works fine with a replacer plugin provided by "Vanilla friendly wearables expansion".
 
@@ -97,20 +82,62 @@ Brother Juniper's excellent Ashlander Traders mod, edited for compatibility and 
 * Files to install:
   * **Ashlander Traders Remastered - BCOM and Wares**
 
-[**Ownership Overhaul Patches**](https://www.nexusmods.com/morrowind/mods/49232)\
-Compatibility patches for canton mods.
+⭐ [**alvazir's various patches**](https://www.nexusmods.com/morrowind/mods/48955)\
+Collection of compatibility patches, fixes, mod expansions and tiny mods.
 
-* On MO2 installation, check the following options in the installer:
-  * [X] 00 Glass Domes of Vivec
-  * [ ] 01 No-Frills Closed Molag Mar
-  * [ ] 01 No-Frills Open Arena
-  * [x] 02 Solstheim Tomb of the Snow Prince
+* Files to download:
+  * **Morag Tong Polished Compatibility Patch**
 
-[**Talos Cult Conspiracy-Imperial Legion Expansion - Talos Amulet Patch**](https://www.nexusmods.com/morrowind/mods/52697)\
-Add's an alternate way to get the Talos Amulet if using Alice's Imperial Legion Expansion and Talos Cult Conspiracy together and you take the Cult Route.
+    * On MO2 installation, check the following options in the installer:
+      * [x] 01 TR_Factions
 
-[**The Publicans, BCOM Patch**](https://github.com/rfuzzo/tes3-mods/blob/main/_patches/The_Publicans_bcom_patch.esp)\
-My patch for Publicans-BCOM
+  * **Miscellaneous Patches**
+
+    * On MO2 installation, check the following options in the installer:
+      * [x] 01 Misc
+      * [x] 02 Script Fix
+      * [x] 03 Creature Leveled Lists
+
+    * Available esps:
+      * AliceL93 Vanilla Quest Tweaks - Script Fix.esp
+      * AliceL93 Vanilla Quest Tweaks - TR_Factions Compatibility Patch.esp
+      * Clean_Mines & Caverns - Script Fix.esp
+      * Ebonheart_Underworks - Disable Rebirth Question.esp
+      * Library of Vivec Overhaul - Full - Dialogue Fix.esp
+      * Morrowind - Tombs Leveled Lists Flag Fixed.esp
+      * OAAB Brother Junipers Twin Lamps - Camonna Tong Compatibility Patch.esp
+      * OAAB Brother Junipers Twin Lamps - Script Fix.esp
+      * Patch for Purists - Clean_Mines & Caverns - Mat.esp
+      * Siege at Firemoth Naturalized - Script Fix.esp
+      * Solstheim Tomb of The Snow Prince - Bloodmoon Rebalance.esp
+      * Tribunal - Rare Durzogs In Vvardenfell Caves.esp
+      * Wares-base - Adamantium Armor - Rare.esp
+
+  * **Wares-base - Expansion** (modular)
+
+    * On MO2 installation, check the following options in the installer:
+      * [x] 04 Modular
+
+    * Available esps:
+      * Wares-base - Expansion - Ashlander Traders Remastered.esp
+      * Wares-base - Expansion - BeaconOfstRilmsNoAnim.esp
+      * Wares-base - Expansion - Camonna Tong.esp
+      * Wares-base - Expansion - Cyr_Main.esp
+      * Wares-base - Expansion - Hlormaren Reclaimed.esp
+      * Wares-base - Expansion - Immersive Mournhold.esp
+      * Wares-base - Expansion - Morag Tong Polished.esp
+      * Wares-base - Expansion - OAAB_Tel Mora.esp
+      * Wares-base - Expansion - Sky_Main.esp
+      * Wares-base - Expansion - Tel_Aruhn_Chronicles.esp
+      * Wares-base - Expansion - The Rise of the Tribe Unmourned.esp
+      * Wares-base - Expansion - The_Vanilla_Quest_Tweaks_RP_Choices_Consequences_Super_Mega_Package_-_Ultimate_Edition.esp
+      * Wares-base - Expansion - TR_Mainland.esp
+      * Wares-base - Expansion - Your Own Ashlander Tribe.esp
+
+  * **Tamriel Data - Factions**
+
+    * On MO2 installation, check the following options in the installer:
+      * [x] 02 Modular
 
 ## Shaders
 

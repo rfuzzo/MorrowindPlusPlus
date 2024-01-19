@@ -134,39 +134,7 @@ For help with this mod list and many many bug fixes:
 * [**Sigourn/Lucas9**](https://www.nexusmods.com/morrowind/users/14600469)
 * [**zertyuiop**](https://github.com/rfuzzo/MorrowindPlusPlus/issues/2)
 
-## TODO (fixes)
-
 ## TODO (additions)
-
-* Swamp Stump Sanctuaries
-* Of Musk and Mer - A Sadrith Mora Tale
-* Grahtwood Roost
-* Caldera Priory and the Depths of Blood and Bone
-* Galen's Quest for Truth
-* Tel Mundnisses
-* A Grave Errand
-* Ashlander Silt Skiff
-* Ultimate Fishing
-* Moon Magic
-* Leech Effects
-* The Vanishing Ash-chirps
-* Happenstance Hodokinesis
-* Secret of Vilmuhn
-* Window to Aetherius
-* Transparent Glass Weapons
-* Respite in Hostile Waters
-* The Mysterious Affair of Sara Shenk
-* AFFresh
-* Pelagiad Minuet Cottage
-
-[**Restful Reef Refuge**](https://www.nexusmods.com/morrowind/mods/52829)\
-A quaint underwater home with plenty of storage in the Sea of Ghosts.
-
-[**A Cold Cell**](https://www.nexusmods.com/morrowind/mods/52832)\
-Travel to Khuul and investigate the rumors about a smuggling operation nearby. Or perhaps it's more than that?
-
-[**Arnchenzel - Dwemer Underwater House**](https://www.nexusmods.com/morrowind/mods/52838)\
-This mod adds a house to the southwest of Tel Branora. Maybe you'll even find a cool dwemer helmet too!
 
 * [**Ranyabi Egg Mine**](https://www.nexusmods.com/morrowind/mods/49854)
 * [**Haishibi Mine**](https://www.nexusmods.com/morrowind/mods/49579)
@@ -178,7 +146,6 @@ This mod adds a house to the southwest of Tel Branora. Maybe you'll even find a 
 * [**Bthuand Expanded**](https://www.nexusmods.com/morrowind/mods/46055)
 * [**Andrethi Tomb Overhaul**](https://www.nexusmods.com/morrowind/mods/46217)
 * [**Temple Markers**](https://www.nexusmods.com/morrowind/mods/52415)
-* [**Morrowind Animated Hammocks (MAH)**](https://www.nexusmods.com/morrowind/mods/49767)
 
 ## TODO (maybe)
 
@@ -190,7 +157,6 @@ This mod adds a house to the southwest of Tel Branora. Maybe you'll even find a 
 * NPC Schedule Plus <https://www.nexusmods.com/morrowind/mods/52495>
 
 * [**Markets and Caravans**](https://www.nexusmods.com/morrowind/mods/51704)
-* [**Westly's Faces Refurbished**](https://www.nexusmods.com/morrowind/mods/51214)
 * [**More Progressive Vos**](https://www.nexusmods.com/morrowind/mods/51701)        (incompatible?)
 * [**Windows Glow Expansion**](https://www.nexusmods.com/morrowind/mods/42271)
 * Caius Gives You a Cover Story (too minor)
@@ -199,8 +165,25 @@ This mod adds a house to the southwest of Tel Branora. Maybe you'll even find a 
 * Telvanni Staff for the Telvanni Staff (too minor?)
 * [**Imperial Altar in Vivec**](https://www.nexusmods.com/morrowind/mods/50273) (too minor?)
 * [**Daedric Ruins (Half-Revamped)**](https://www.nexusmods.com/morrowind/mods/51674)
-
 * [**Sacred Necromancer Armor**](https://www.nexusmods.com/morrowind/mods/51651)
+
+## Misc
+
+[**Of Melodies and Moonlight - A Sadrith Mora Artist**](https://www.nexusmods.com/morrowind/mods/53307)\
+Surrounded by rumors, a peculiar painter roams the night. Will you help him and become his apprentice? To start the quest, talk to Veradul Dervayn, the artist, who for some odd reason prefers to paint at night. BCOM compatible.
+
+[**Of Murk and Mussels - A Sadrith Mora Trader**](https://www.nexusmods.com/morrowind/mods/53238)\
+This mod adds an unique and detailed salvage shop to Sadrith Mora with a quest and lots of unique clothing and armor assets. BCOM compatible. Now you have at least three reasons to check this mod out!
+
+[**OAAB Market**](https://www.nexusmods.com/morrowind/mods/51687)\
+Adds a new room in the Telvanni Council House where the player, and the other npcs, can relax, sleep and eat.
+
+⭐ [**Shipyards of Vvardenfell (Sadrith Mora - Seyda Neen - Gnaar Mok)**](https://www.nexusmods.com/morrowind/mods/51928)\
+ Morrowind is full of ships, boats and skiffs but who built them and where? Our mod seeks to answer these questions once and for all by adding shipyards to towns by the sea. The mod adds shipyards to Sadrith Mora, Seyda Neen and Gnaar Mok with four engaging quests in total.
+
+[**Journey's End - Tamriel Rebuilt Edition**](https://www.nexusmods.com/morrowind/mods/51320)\
+The island is located far to the east of Vvaardenfell. Beyond the mainland, between Necrom and Port Telvannis.
+
 
 ## Changelog
 

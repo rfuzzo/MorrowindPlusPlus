@@ -38,9 +38,6 @@ This mod fixes several engine bugs related to GMSTs used when raising skills via
 📃 [**Thrown Projectiles Revamped**](https://www.nexusmods.com/morrowind/mods/49609) by [Ryuzaki1](https://www.nexusmods.com/morrowind/users/3890785)\
 Corrects thrown projectiles inflicting twice their listed damage, by halving their damage output.
 
-📃 [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by [Abot](https://www.nexusmods.com/morrowind/users/38047)\
-Automatically synchronizes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick, key. Makes loading doors play close sound a short time after opening.
-
 📃 [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947) by [Petetehgoat](https://www.nexusmods.com/morrowind/users/25319994)\
 Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
 
@@ -51,6 +48,9 @@ Expands UI functionality with searching, filtering, and more visual feedback.
 
 📃 [**UI Expansion Better Training Icons**](https://www.nexusmods.com/morrowind/mods/51190) by [tewlwolow](https://www.nexusmods.com/morrowind/users/1152341)\
 This mod replaces UI Expansion training menu icons with sharper, cleaner versions.
+
+📃 [**Improved Main Menu**](https://www.nexusmods.com/morrowind/mods/50856)\
+Adds several toggleable quality of life improvements to the Main Menu, including a Continue button and New Game confirmation prompts.
 
 📃 [**Tamrielic Lore Tooltips**](https://www.nexusmods.com/morrowind/mods/45954) by [PhDinSorcery](https://www.nexusmods.com/morrowind/users/8404526)\
  Yagrum Bagarn's book Tamrielic Lore gives brief descriptions of the story behind several artifacts, all of which appear in-game. This mod adds excerpts from the book to the tooltips of each respective artifact.
@@ -81,19 +81,10 @@ Restores the class description tooltip to the class selection menu, making it ea
 📃 [**What Are My Attributes**](https://www.nexusmods.com/morrowind/mods/49912)\
 Adds an Attribute and Description widget to the Race menu so you can better plan your character.
 
-⭐📃 [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275)\
+📃 [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275)\
 Adds tooltips with the effect's name to shrines when hovering over the different options.
 
 * After installation, hide the mod's **Textures** folder.
-
-📃 [**Improved Main Menu**](https://www.nexusmods.com/morrowind/mods/50856)\
-Adds several toggleable quality of life improvements to the Main Menu, including a Continue button and New Game confirmation prompts.
-
-📃 [**Travel Tooltips**](https://www.nexusmods.com/morrowind/mods/48306) by [tewlwolow](https://www.nexusmods.com/morrowind/users/1152341)\
- Adds tooltips with location descriptions and maps to travel menu.
-
-* On MO2 installation, right-click on **00 Core**.
-* Click **Set as data files directory** and click **OK**.
 
 📃 [**Accurate Tooltip Stats**](https://www.nexusmods.com/morrowind/mods/51354) by [Necrolesian](https://www.nexusmods.com/morrowind/users/70336838)\
  Implements more accurate, context-dependent tooltip displays for weapon damage and armor ratings, using MWSE-lua.
@@ -147,11 +138,8 @@ A state-based health mod implemented in MWSE. Health is now calculated based on 
 📃 [**Ahead of the Classes**](https://www.nexusmods.com/morrowind/mods/50346)\
 Ahead of the classes makes many vanilla and TR classes playable and adds many new classes.
 
-📃 [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872)\
-Endurance determines how long you can hold your breath under water.
-
-📃 [**Merlord's Character Backgrounds**](https://www.nexusmods.com/morrowind/mods/46795) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
- Select from 27 different backgrounds, each with their own unique effects.
+📃 [**Class Starting Spells**](https://www.nexusmods.com/morrowind/mods/49010)\
+MWSE lua mod, which changes the distribution of starting spells and gives its own list of them for every class, depending on the its central theme. Requires Magicka Expanded.
 
 ## Followers
 
@@ -160,10 +148,6 @@ When the player or the player's companions are attacked, any companions will lau
 
 📃 [**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712)\
 Ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.
-
-📃 [**Smart Companions**](https://www.nexusmods.com/morrowind/mods/49848)\
-Makes companions (the ones with the short companion local variable set to 1) able to interact with possible loot sources and doors you Alt+Activate,
-can fix/improve some companions/followers features, detect abot's modded Scenic Travelling and apply it to followers not already compatible with it...
 
 ## Combat
 
@@ -200,12 +184,6 @@ Going into a battle without proper armor will cause bleeding.
 ⭐📃 [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
 Rebalances the willpower-based spell resist mechanic, giving all in-game actors, Player, NPCs and Creatures an ability to shrug off spells through the sheer force of will, as it is implied by the attribute's description.
 
-⭐📃 [**magickaMastery MWSE**](https://github.com/rfuzzo/MorrowindPlusPlus/blob/main/assets/magickaMastery.zip) by [Greatness7](https://www.nexusmods.com/morrowind/users/64030) and [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
-MWSE port of [Magicka Mastery](https://www.nexusmods.com/morrowind/mods/45058)
-
-📃 [**Magicka Regeneration Suite**](https://www.nexusmods.com/morrowind/mods/49153)\
-Ultimate magicka regeneration mod for Morrowind!
-
 ⭐📃 [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111)\
 A lua-based framework for creating new, fully functional magic effects.
 
@@ -213,6 +191,12 @@ A lua-based framework for creating new, fully functional magic effects.
   * [x] 00 - Framework
   * [x] 01 - Resource Pack
   * [x] 02 - Lore Friendly Pack
+
+⭐📃 [**magickaMastery MWSE**](https://github.com/rfuzzo/MorrowindPlusPlus/blob/main/assets/magickaMastery.zip) by [Greatness7](https://www.nexusmods.com/morrowind/users/64030) and [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
+MWSE port of [Magicka Mastery](https://www.nexusmods.com/morrowind/mods/45058)
+
+📃 [**Magicka Regeneration Suite**](https://www.nexusmods.com/morrowind/mods/49153)\
+Ultimate magicka regeneration mod for Morrowind!
 
 ⭐📃 [**MM - Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480)\
 Adds new Oblivion-inspired visual effects and mechanics for the vanilla Detection magic effects, as well as adds 7 new magic effects. It integrates those effects into new spells and distributes them in-game to spell vendors.
@@ -256,7 +240,7 @@ Bound armor now uses the normal armor rating formula, taking light armor skill i
 📃 [**Seph's Library**](https://www.nexusmods.com/morrowind/mods/50708)by [Sephumbra](https://www.nexusmods.com/morrowind/users/3827919)\
 A MWSE lua library that may be required by other mods. It does nothing on its own.
 
-📃 [**Seph's NPC Soul Trapping**](https://www.nexusmods.com/morrowind/mods/50744)by [Sephumbra](https://www.nexusmods.com/morrowind/users/3827919)\
+📃 [**Seph's NPC Soul Trapping**](https://www.nexusmods.com/morrowind/mods/50744) by [Sephumbra](https://www.nexusmods.com/morrowind/users/3827919)\
 A MWSE mod that lets you soul trap NPCs.
 
 📃 [**Atronach Expansion**](https://www.nexusmods.com/morrowind/mods/22189) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
@@ -265,7 +249,13 @@ This mod takes several community resources as well as my own work and adds seven
 * Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
   * [x] `Atronach Expansion_summonsOnly.ESP`
 
+📃 [**Leech Effects**](https://www.nexusmods.com/morrowind/mods/52943)\
+An essential tool in any nightblade's arsenal, Leech Effects adds a set of buffs that allow you to recover health, magicka, or fatigue when landing physical attacks.
+
 ## Gameplay
+
+⭐📃 [**Less Lame Leveled Spawns**](https://www.nexusmods.com/morrowind/mods/51059)\
+This mod aims to fix some inconsistencies with how leveled creatures are spawned.
 
 ⭐📃 [**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034)\
 A lua-based framework that allows you to easily create new skills in Morrowind with just a few lines of code. This framework is a pre-requisite for **Ashfall**.
@@ -298,9 +288,6 @@ Rebuilds stealth mechanics from the ground up, and makes sneaking a viable plays
 📃 [**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086)\
 Enhances Speechcraft via new gameplay mechanics and UI elements. Now an NPC's Disposition, Admiration, Intimidation, and Taunt will be locked behind skill gates.
 
-📃 [**Buying Game**](https://www.nexusmods.com/morrowind/mods/50574)\
-Enhances Mercantile via new gameplay mechanics and UI elements. Includes new base pricing mechanic, regional pricing, value estimate, merchant specializations, forbidden goods, illicit trade, investing mechanics, and more.
-
 📃 [**Talking Matters (Speechcraft overhaul)**](https://www.nexusmods.com/morrowind/mods/49089)\
 This mod tries to make talking more inmersive by making it pass time, train speechcraft and generally giving NPCs a little more agency (being able to leave conversation if you talk too much or get offended if you fail to persuade them) on how the whole conversation business is handled.
 
@@ -313,24 +300,8 @@ Adds a feature-rich sprinting functionality to the game.
 📃 [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783)\
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
 
-📃 [**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671)\
-The radius of a handheld light will gradually diminish and eventually go out when the light extinguishes.
-
 📃 [**Lucky Loot**](https://www.nexusmods.com/morrowind/mods/49839)\
 Greater luck may grant you better loot
-
-📃 [**Locks and Traps Detection**](https://www.nexusmods.com/morrowind/mods/48528)\
-Allows you to have a chance to successfully detect traps and locks based on your security skill and relevant attributes, with a formula similar to the vanilla game.
-
-{% hint style="warning" %}
-This mod requires the **Game Mechanics/Hidden locks** and **Game Mechanics/Hidden traps** features to be enabled in the Morrowind Code Patch.
-{% endhint %}
-
-📃 [**Visually Trapped Objects**](https://www.nexusmods.com/morrowind/mods/48936)\
-Applies the enchanted effect to any doors or containers with traps. Compatible and complemented by **Locks and Traps Detection**.
-
-📃 [**abotMoreTrapsMWSELua**](https://www.nexusmods.com/morrowind/mods/52783)\
-Dynamically/randomly locks/traps more (not yet interacted with) containers and doors
 
 📃 [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)\
 Makes it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Optionally makes NPCs' equipped gear damaged to <20% condition when they die.
@@ -360,14 +331,17 @@ The shader included in this mod needs to be registered in MGE XE to work as inte
 📃 [**Necrocraft - A Comprehensive Necromancy Gameplay And Quests Mod**](https://www.nexusmods.com/morrowind/mods/51211) by [VitruvianGuar](https://www.nexusmods.com/morrowind/users/34081875)\
 Comprehensive modern day implementation of necromancy, using Skill Module, Magicka Expanded and Crafting Framework. Includes game mechanics overhaul, new quests and mysteries to solve, allowing to fully experience being the practicioner of a forbidden art of necromancy.
 
-📃 [**Fence it - MWSE**](https://www.nexusmods.com/morrowind/mods/51329) by [Spammer21](https://www.nexusmods.com/morrowind/users/140139148)\
-Tired of not being able to sell your diamonds to Nalcarya because of that stupid thieves guild quest? Give them to a pawnbroker and he will make them unrecognizable! For a price of course...
-
-📃 [**Ethereal Ghosts**](https://www.nexusmods.com/morrowind/mods/50757)\
-MWSE-lua mod that allows ghost and other incorporeal creatures to pass through closed doors
-
 📃 [**Pickpocket Minigame**](https://www.nexusmods.com/morrowind/mods/52793)\
 Replaces the vanilla pickpocket mechanic with a KCD-inspired minigame.
+
+📃 [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872)\
+Endurance determines how long you can hold your breath under water.
+
+📃 [**Animation Blending**](https://www.nexusmods.com/morrowind/mods/53779)\
+Adds animation blending to Morrowind, enabling smooth transitions between animations.
+
+📃 [**Clothing Requirements**](https://www.nexusmods.com/morrowind/mods/47813)\
+Implements level requirements to equip all of Morrowind's clothing items.
 
 ## Quests
 
@@ -407,8 +381,8 @@ Drip adds Diablo 2 style loot to Morrowind. Unique weapons, armor, clothing and 
 📃 [**Danaes DRIP Depot**](https://www.nexusmods.com/morrowind/mods/51645)
  Adds DRIP integration to 40+ mods
 
-📃 [**Unidentified Items**](https://www.nexusmods.com/morrowind/mods/48964)\
-Adds unidentified rings, amulets, belts, robes, pants and shirts to the game, as well as an Identify Service from Enchanters. 200+ trait, some 30 undesirable ones. Thousands of possible items with one or two traits. Players skilled in Mysticism and Enchant can learn to Identify.
+📃 [**Ultimate Fishing**](https://www.nexusmods.com/morrowind/mods/52872)
+Adds a fishing mechanic with over 25 species of fish and dynamic fishing animations.
 
 ## Audio
 
@@ -432,12 +406,8 @@ The author recommends you set the **Footsteps** volume to minimum in your in-gam
 ⭐📃 [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178)\
 The Heart of Lorkhan is still beating. You can hear it even on the surface - assuming you are brave (or foolish) enough to venture beyond the Ghostfence...
 
-📃 [**Sounds of Souls**](https://www.nexusmods.com/morrowind/mods/45657)\
-Soul gems in the world, in the player's inventory, and that the player interacts with will play sounds, corresponding to the creature trapped inside of it. This includes creatures added by mods.
-
-{% hint style="info" %}
-Note that users often forget about installing this mod, leading to questions on why they hear creature sounds from time to time when none are found nearby.
-{% endhint %}
+📃 [**Kezyma's Voices of Vvardenfell**](https://www.nexusmods.com/morrowind/mods/52279)\
+A project to fully voice Morrowind using ElevenAI and MWSE. Comes with an optional 'greetings-only' mode and is easily extensible to add compatibility with other mods with no knowledge of scripting or the CS and no additional esp.
 
 ## Visuals
 
@@ -458,6 +428,8 @@ Weather overhaul with randomised cloud textures, more dynamic weathers, weather 
   * [x] 01 Clouds textures
   * [ ] 02 Weather Adjuster preset
   * [x] 03 Weather particles replacer
+  * [x] 04 Clouds shader
+  * [x] 05 Sunshafts shader
 
 ⭐📃 [**Chameleon**](https://www.nexusmods.com/morrowind/mods/47996)\
 The weird transparency of models (clothes, hair) with alpha channels issue fixed: Your character is not transparent at all.
@@ -476,6 +448,9 @@ Toggle lights on and off. Town lights turn off during the day. Lights are no lon
 
 📃 [**Transporter Lights - MWSE**](https://www.nexusmods.com/morrowind/mods/48050)\
 Caravaners, Gondoliers, and Shipmasters equip lights at night for more immersion.
+
+📃 [**Window to Aetherius**](https://www.nexusmods.com/morrowind/mods/52941)\
+Replaces the night sky using MWSE with one that changes every month over the course of the game year.
 
 ## Landscape
 
@@ -511,8 +486,4 @@ An expansion mod for Kogoruhn, the capital of House Dagoth.
 
 {% hint style="info" %}
 The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](/fundamentals/shaders.md#shader-setup) section.
-{% endhint %}
-
-{% hint style="info" %}
-Do not use both this mod and "Kogoruhn - Extinct City of Ash and Sulfur", choose one of them.
 {% endhint %}
