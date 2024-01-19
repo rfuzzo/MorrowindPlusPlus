@@ -122,16 +122,13 @@ Collection of compatibility patches, fixes, mod expansions and tiny mods.
       * Wares-base - Expansion - Ashlander Traders Remastered.esp
       * Wares-base - Expansion - BeaconOfstRilmsNoAnim.esp
       * Wares-base - Expansion - Camonna Tong.esp
-      * Wares-base - Expansion - Cyr_Main.esp
       * Wares-base - Expansion - Hlormaren Reclaimed.esp
       * Wares-base - Expansion - Immersive Mournhold.esp
       * Wares-base - Expansion - Morag Tong Polished.esp
       * Wares-base - Expansion - OAAB_Tel Mora.esp
-      * Wares-base - Expansion - Sky_Main.esp
       * Wares-base - Expansion - Tel_Aruhn_Chronicles.esp
       * Wares-base - Expansion - The Rise of the Tribe Unmourned.esp
       * Wares-base - Expansion - The_Vanilla_Quest_Tweaks_RP_Choices_Consequences_Super_Mega_Package_-_Ultimate_Edition.esp
-      * Wares-base - Expansion - TR_Mainland.esp
       * Wares-base - Expansion - Your Own Ashlander Tribe.esp
 
   * **Tamriel Data - Factions**
