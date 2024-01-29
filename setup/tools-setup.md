@@ -45,9 +45,11 @@ Apply all patches **except** (optional, please read through the descriptions and
 
 * [ ] Beta/Doppler Audio Fix
 * [ ] Game Mechanics/Followers defend immediately
+* [ ] Game Mechanics/Slow Fall overhaul
+* [ ] Game Mechanics/Spellmaking matches editor
 * [ ] Visuals/Over-the-shoulder third person camera
 * [ ] Mod Specific/Weapon resistance change
-* [ ] Mode Specific/NPC AI casts zero cost powers
+* [ ] Mod Specific/NPC AI casts zero cost powers
 * [ ] Interface/Spell select by name
 * [ ] International -> select as you wish/need
 

@@ -29,46 +29,67 @@ Distant Land generation is required to make this mod work as intended on the ori
   * **Installation Options**
     * OpenME or MGEXE -> **MGEXE** (or ✨OpenMW)
     * Default Bcom -> **Default BCOM**
+
     * Waterfront Options -> **Simple Cluttering**
     * Haalu Council Hall Plaza -> **Izy Style**
-    * [ ] Concept Art Ghostfence Pillars -> no
-    * [ ] Concept Art Ghostfence Planets -> no
+    * Concept Art Ghostfence Pillars -> **no**
+    * Concept Art Ghostfence Planets -> **no**
+
     * Suran Options
       * [x] Suran Dock Expansion
       * [x] White Suran
-    * [ ] Taller Lighthouse -> no
+
+    * Taller Syeda Neen Lighthouse -> no
     * Stav's MGO -> **No**
 
-    * [x] Ald'Ruhn Skar -> Bigger Entrance
-    * [x] Ald'Ruhn Outdoor merchants -> yes
+    * Ald'Ruhn Skar -> **Bigger Entrance**
+    * Ald'Ruhn Outdoor merchants -> **yes**
 
-    * [ ] Vicec Open Arena -> no
+    * [ ] Vicec Open Arena -> **no**
     * Vivec Customization
-      * [x] Planters -> **yes**
-      * [x] Arena - Street vendors -> **yes**
-      * [ ] Arena - Bustling -> **no**
-      * [x] Arena - Planters -> **yes**
-      * [ ] Round planters -> **no**
-      * [x] Temple Fountains -> **yes**
+      * [x] Planters
+      * [x] Arena - Street vendors
+      * [ ] Arena - Bustling
+      * [x] Arena - Planters
+      * [ ] Round planters
+      * [x] Temple Fountains
+      * [x] Foreign Quarter Bridge
+      * [ ] Foreign Quarter Bridge - Open Arena
 
-    * Molag Mar Dome -> Broken Dome
-    * [x] Caldera Mages Guild basement -> yes
-    * [x] Balmora Marketplace -> Default v2
+    * Molag Mar Dome -> **Broken Dome**
 
-    * [x] More tribal Erabenimsun -> yes
-    * [x] Ashlandish Maar Gan -> yes
-    * [x] Expanded Sadrith Mora Dock -> yes
-    * [x] More sensible Census Office -> yes
+    * Caldera Mages Guild basement -> **yes**
+
+    * Balmora Marketplace
+      * [x] Default v2
+
+    * More tribal Erabenimsun -> **yes**
+
+    * Maar Gan
+      * [x] Ashlandish Maar Gan
+    
+    * Expanded Sadrith Mora Dock -> **yes**
+    * More logical Census Office -> **yes**
+
     * Glow in the Dahrk -> **Yes + Atlas**
-    * [x] Project Atlas -> **yes**
+
     * [x] Concept art husk -> **yes**
-    * [x] Imperial Gatehouses -> **yes**
-    * [x] Project Atlas -> **yes**
-    * [x] HD Textures -> ✨Yes for OpenMW
+    
+    * Imperial Gatehouses
+      * [x] Pelagiad
+      * [x] Moonmoth
+      * [x] Buckmoth
+
+    * Project Atlas -> **yes**
+
+    * HD Textures -> ✨Yes for OpenMW
+    
     * Balmora Bridges with bigger arch -> **No**
-    * [x] Eight plates -> **Yes**
-    * [ ] RR Statues Patch -> **No**
-    * [ ] Azura Statue -> **No**
+
+    * Eight plates -> **Yes**
+
+    * RR Statues Patch -> **No**
+    * Azura Statue -> **No**
   
   * **Grass Patches**
     * Remiros Groundcover
@@ -758,8 +779,9 @@ Distant Land generation is required to make this mod work as intended. Instructi
 ⭐ [**The Stone Halls of Solstheim - Reforged**](https://www.nexusmods.com/morrowind/mods/49841) by [Corsair83](https://www.nexusmods.com/morrowind/users/23131859)\
  A complete rebuilt of Bloodmoon barrows.
 
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
-  * [x] `Stone Halls of Solstheim.ESP`
+  * On MO2 installation, check the following options in the installer:
+    * [X] 00 Core
+    * [X] 01 TotSP Patch
 
 ## Mournhold
 

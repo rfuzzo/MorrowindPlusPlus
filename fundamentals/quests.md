@@ -119,7 +119,7 @@ This mod overhauls the Fighters Guild questline by improving the background and 
 ⭐ [**Thieves' Guild Overhaul**](https://www.nexusmods.com/morrowind/mods/49944)\
 A complete overhaul of the Thieves' Guild faction. New quests, tweaks for existing quests, items, and a lot more!
 
-⭐ [**Imperial Legion Imperial Legion Redux**](https://www.nexusmods.com/morrowind/mods/53920)\
+⭐ [**Imperial Legion Redux**](https://www.nexusmods.com/morrowind/mods/53920)\
 A lore-friendly revisit of Morrowind's Imperial Legion questline, which aims to make it a more rewarding experience to play.
 
 ⭐ [**Morag Tong Polished**](https://www.nexusmods.com/morrowind/mods/47041)\

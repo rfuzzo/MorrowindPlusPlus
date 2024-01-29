@@ -17,7 +17,6 @@ Patches for various mods
   * Rise of House Telvanni -> **RoHT 2.0**
   * Magical Missions -> **Yes**
 
-  * [x] Tamriel Rebuilt Patch
   * More Patches
     * [x] Province Cyrodiil
     * [x] Ebonheart Underworks
@@ -43,6 +42,7 @@ Patches for various mods
     * [x] OAAB Pomegranates
     * [x] Tel Aruhn Chronicles quest and Yansirramus Overhaul addon
     * [x] Foreign Quarter Market Square
+    * [x] Logs on Fire
 
 {% hint style="warning" %}
 * Do not use the Publicans patch, it is outdated
