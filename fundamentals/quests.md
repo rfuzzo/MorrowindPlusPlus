@@ -95,6 +95,9 @@ Now there is a proper structure to House Hlaalu, with actual governers for Suran
 
 ## Factions
 
+⭐ [**Morrowind Quests Redux**](https://www.nexusmods.com/morrowind/mods/54060)\
+A lightweight and vanilla-friendly revisit of many of Morrowind's questlines. This series aims to make them a more rewarding and enjoyable experience to play, whilst holding true to vanilla's vision.
+
 ⭐ [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843)\
 Fleshes out the Imperial Cult and the Tribunal Temple.
 
@@ -119,8 +122,11 @@ This mod overhauls the Fighters Guild questline by improving the background and 
 ⭐ [**Thieves' Guild Overhaul**](https://www.nexusmods.com/morrowind/mods/49944)\
 A complete overhaul of the Thieves' Guild faction. New quests, tweaks for existing quests, items, and a lot more!
 
-⭐ [**Imperial Legion Redux**](https://www.nexusmods.com/morrowind/mods/53920)\
-A lore-friendly revisit of Morrowind's Imperial Legion questline, which aims to make it a more rewarding experience to play.
+[**Thieves Guild Stash**](https://www.lonebullet.com/mods/download-thieves-guild-stash-v10-elder-scrolls-iii-morrowind-mod-free-43942.htm)\
+This mod adds several "Thieves' Guild Stash" chests, similar to the Fighters' Guild Equipment Chests and Mages' Guild Supply Chests, next to some of the higher-ranking thieves.
+
+[**Thieves' Guild in Gnaar Mok**](https://www.nexusmods.com/morrowind/mods/46754)\
+This mod adds ten new Thieves' Guild quests to Gnaar Mok. Part of the May Modathon Month.
 
 ⭐ [**Morag Tong Polished**](https://www.nexusmods.com/morrowind/mods/47041)\
 The Morag Tong Guild is the most poorly written faction in Morrowind. This mod fixes that by giving the guild a much needed touch up.
@@ -144,15 +150,6 @@ Many Mages Guild members will now wear the new robes and the player can acquire 
 [**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773)\
 Members of the Mages Guild can now deliver a coded message, solve a murder, investigate a heist, barter with the Telvanni and retrieve a tome of dark power for the Master Wizard of Caldera
 
-[**Thieves Guild Stash**](https://www.lonebullet.com/mods/download-thieves-guild-stash-v10-elder-scrolls-iii-morrowind-mod-free-43942.htm)\
-This mod adds several "Thieves' Guild Stash" chests, similar to the Fighters' Guild Equipment Chests and Mages' Guild Supply Chests, next to some of the higher-ranking thieves.
-
-[**Thieves' Guild in Gnaar Mok**](https://www.nexusmods.com/morrowind/mods/46754)\
-This mod adds ten new Thieves' Guild quests to Gnaar Mok. Part of the May Modathon Month.
-
-[**Carelessly Crazy Caldera Community**](https://www.nexusmods.com/morrowind/mods/47275)\
-Adds a new shop, 2 new NPCs, 17 new quests to Caldera, and adds unique background, personality and dialogue to most of the NPCs of the town.
-
 ## Misc
 
 ⭐ [**LDM**](https://github.com/Lucevar/ldm) by [Lucevar](https://www.nexusmods.com/morrowind/users/3099525)\
@@ -169,6 +166,9 @@ Lucevar's Dialogue Mod for Morrowind
   * [ ] 03 More Exclusive Factions
   * [x] 04 Racist Service Refusal
 
+[**Carelessly Crazy Caldera Community**](https://www.nexusmods.com/morrowind/mods/47275)\
+Adds a new shop, 2 new NPCs, 17 new quests to Caldera, and adds unique background, personality and dialogue to most of the NPCs of the town.
+
 [**Choice and Consequence - Rogues of Pelagiad**](https://www.nexusmods.com/morrowind/mods/51182)\
 This mod adds several new options and tweaks for dealing with the two rogues at Pelagiad's Halfway Tavern.
 
@@ -184,6 +184,21 @@ Ashlanders Herd provides a solution to a dialogue inconsistency and spices up As
 [**The Patchwork Airship - Fleshing out a vanilla quest**](https://www.nexusmods.com/morrowind/mods/53133)\
 Fleshes out the vanilla quest "The Patchwork Airship" by replacing the airship with a more fitting model, and giving it an interior you can explore.
 
+[**Therana vs Trerayna**](https://www.nexusmods.com/morrowind/mods/49332)\
+An alternative solution for the "A Bounty for Trerayna Dalen" quest: side with Trerayna instead of Therana.
+
+Hiring Guards for the Redoran Stronghold - Honorable Solution
+Harvest's End Festival
+Fort Moonmoth Fundraiser Dinner
+Immersive Neloth Reward
+The Frostmoth Smugglers - Properly Rewarded
+Champion of Clutter
+A Cure for Vampirism - Skink's Solution
+Morrowind - Immanuel Kant Edition
+Redoran Founder's Helm Add-on - Honor the Ancestors
+The Corpse and the Skooma Pipe Overhaul
+Ashlanders Herd
+
 ## Add-ons
 
 ⭐ [**Census and Excise Office Faction**](https://www.nexusmods.com/morrowind/mods/46798) by [AliceL93](https://www.nexusmods.com/morrowind/users/4709296)\
@@ -198,7 +213,10 @@ This mod lets the player take control of the Suran Temple once they advance enou
 * On MO2 installation, check the following options in the installer:
   * [x] **📃 MGE XE** (or ✨ OpenMW)
 
-[**OAAB Brother Junipers Twin Lamps**](https://www.nexusmods.com/morrowind/mods/51424)\
+⭐ [**AATL Official Mods**](https://www.nexusmods.com/morrowind/mods/54147)\
+Main page for AATL-Based Mods by the AATL Team.
+
+⭐ [**OAAB Brother Junipers Twin Lamps**](https://www.nexusmods.com/morrowind/mods/51424)\
 Update of Brother Juniper's classic quest mod. Join the Twin Lamps and fight against slavery through ~20 new quests. Now with overhauled locations, bug fixes, and extra dialogue and quest choices.
 
 [**A Conjurer's Calling**](https://www.nexusmods.com/morrowind/mods/51070)\
@@ -206,13 +224,6 @@ Follow a short questline to discover the nature of a recluse conjurer's mysterio
 
 [**A Hermits Request**](https://www.nexusmods.com/morrowind/mods/23714)\
 To the west of Seyda Neen, along the bitter coast, there lives a hermit by the name of Thexn Akaasul. It would seem that Thexn has a series of tasks for any adventurous soul willing to seek him out, though they deal mostly with the necessities of life rather than adventures of the grandiose sort.
-
-[**A Merchant's Whim**](https://www.nexusmods.com/morrowind/mods/51068)\
-A merchant has set up shop outside of Vivec. Talk with him, and after some time he will ask you for some help with a personal matter from his past.
-
-* On MO2 installation, check the following options:
-  * [x] Core Files
-  * **Alternate Location** -> No
 
 [**Hostages**](https://www.nexusmods.com/morrowind/mods/47916)\
 Adds hostages to random dungeons of Vvardenfell and the opportunity for you to free them.
@@ -223,27 +234,6 @@ Participate in the challenge of Hircine and hunt down his three aspects.
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 - Anthology
-
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
-  * [x] `HircineQuest.ESP`
-
-{% hint style="warning" %}
-
-* Run Wrye Mash (**mash64**) in Mod Organizer 2.
-* In the **Mods** tab, find `HircineQuest_VSW.ESP` and select it (It will have a red color).
-* On the right-hand side, you will see a list of "Masters", click into it and a popup will display (click OK).
-* Right click on `VSW_Tomb_of_the_Snow_Prince.esm` in the list of Masters > "Change To".
-* Select `Solstheim Tomb of The Snow Prince.esm` in your Morrowind Data Folder (the current window).
-* Click Save.
-
-{% endhint %}
-
-<details>   <summary>Screenshots</summary>
-
-![Screenshot](../pictures/hircine_01.png)
-![Screenshot](../pictures/hircine_02.png)
-
-</details>
 
 [**Join the Royal Guards**](https://www.nexusmods.com/morrowind/mods/50676)\
 Become a Royal Guard and do quests for them.
@@ -422,3 +412,7 @@ Caldera Priory has been overrun by the Undead. Do you have the courage and the w
 * The Vanishing Ash-chirps
 * Respite in Hostile Waters
 * Something in the Water -- A Peryite Daedric Quest
+* Sails and Sales
+* A Familiar Song
+* Forgotten Wastes
+* Radiant Quests of Morrowind

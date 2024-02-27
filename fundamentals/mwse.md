@@ -279,6 +279,9 @@ A survival mod with hunger, thirst, tiredness, cooking, camping and temperature 
 ⭐📃 [**(AshFall) Axe Additions**](https://www.nexusmods.com/morrowind/mods/51716)\
 Adds 4 one-handed axes to the game (to use as woodcutting axe for the mod AshFall).
 
+⭐📃 [**Immersive Travel - MWSE**](https://www.nexusmods.com/morrowind/mods/54063)\
+A mod that adds real-time travel with smooth movement on striders, boats, ships, gondolas and river striders (with TR). The mod also has many quality of life features.
+
 📃 [**The Blight**](https://www.nexusmods.com/morrowind/mods/49504) by [OperatorJack](https://www.nexusmods.com/morrowind/users/61791411)\
 Significantly expands on how blight diseases work, adding new mechanics, interactions, and visuals.
 

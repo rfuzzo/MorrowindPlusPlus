@@ -86,8 +86,5 @@ Makes the "Guide to..." scrolls more useful by scripting them to reveal the citi
   * **Useful Maps and Guides** (Main files)
   * **TR Addon** (Optional files)
 
-[**Magic Icons**](https://www.nexusmods.com/morrowind/mods/50223)\
-Replaces the effect seen on magic items in the inventory, allowing easier distinction between different magic items.
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Original Blue Color
+[**Classes Neural Kirkbridization**](https://www.nexusmods.com/morrowind/mods/52569)\
+This mod replaces the portraits of the different classes in the game with depictions that accurately represent the proud and powerful Dunmer race.

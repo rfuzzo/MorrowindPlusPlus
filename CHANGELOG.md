@@ -1,8 +1,30 @@
 # Changelog
 
-## Jan 2034
+## Feb 2024
 
 Additions
+
+- Morrowind Quests Redux
+- Immersive Travel - MWSE
+- Classes Neural Kirkbridization
+- Tamriel_Data Graveyard - Deprecations un-deprecated
+- Temple Markers
+- Expanded Birthsigns for Purists
+- Spells Reforged
+- Sei's Dynamic Wildlife
+- Bandits
+- Danae's Animated Morrowind
+- Ashlander Voices
+- Telvanni Bump Maps
+
+Removals
+
+- Magic Icons
+
+## Jan 2024
+
+Additions
+
 - So. You're the Nerevarine
 - Crabs Diversity
 - Morrowind Animated Hammocks (MAH)
@@ -62,6 +84,7 @@ Additions
 - alvazir's various patches
 
 Replaced
+
 - Correct UV Mudcrabs
 - BCOM Rocky West Gash
 - Shipyards of Vvardenfell (Sadrith Mora - Seyda Neen - Gnaar Mok)
@@ -78,6 +101,7 @@ Replaced
 - LDM - Choices and Consequences
 
 Removals
+
 - No Female Nord Screeching
 - Dr_Data
 - Graphic Herbalism- Ash Yam Collision Switch

@@ -145,7 +145,8 @@ For help with this mod list and many many bug fixes:
 * [**Zebabi Expanded**](https://www.nexusmods.com/morrowind/mods/46276)
 * [**Bthuand Expanded**](https://www.nexusmods.com/morrowind/mods/46055)
 * [**Andrethi Tomb Overhaul**](https://www.nexusmods.com/morrowind/mods/46217)
-* [**Temple Markers**](https://www.nexusmods.com/morrowind/mods/52415)
+
+* [**Ahrkthumz - Dwemer Puzzle Dungeon**](https://www.nexusmods.com/morrowind/mods/54187)
 
 ## TODO (maybe)
 
@@ -183,7 +184,6 @@ Adds a new room in the Telvanni Council House where the player, and the other np
 
 [**Journey's End - Tamriel Rebuilt Edition**](https://www.nexusmods.com/morrowind/mods/51320)\
 The island is located far to the east of Vvaardenfell. Beyond the mainland, between Necrom and Port Telvannis.
-
 
 ## Changelog
 

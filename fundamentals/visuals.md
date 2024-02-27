@@ -16,11 +16,14 @@ Replaces almost all textures in the vanilla game and its expansions with high re
   * [x] 00 Core
   * [x] 01 Atlas Textures
 
-⭐ [**Project Atlas - Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/45399?)\
+⭐ [**Project Atlas - Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/45399)\
 Compatibility patch for Morrowind Enhanced Textures.
 
 * Files to install:
   * **Textures - Intelligent Textures** (Main files)
+
+⭐ [**Telvanni Bump Maps**](https://www.nexusmods.com/morrowind/mods/42431)\
+This replaces the Telvanni architecture, roots and mushrooms with high-resolution meshes and textures with bump-mapping. Some textures also feature a subtle glow effect at night
 
 ## NPCs
 
@@ -30,6 +33,8 @@ Adds weapons and armour from Tamriel_Data, OAAB_Data, Ivolga's Armored Robes and
 * On MO2 installation, check the following options in the installer:
   * [x] 1. Core
   * [x] 4. BCOM + Guard Diversity
+
+TODO
 
 ⭐ [**Yet Another Guard Diversity Expanded Imperials**](https://www.nexusmods.com/morrowind/mods/47583) by [Citadel535](https://www.nexusmods.com/morrowind/users/23131859)\
 Expands the Yet Another Guard Diversity to cover Imperials in Tamriel Rebuilt.

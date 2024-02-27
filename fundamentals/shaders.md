@@ -9,43 +9,39 @@ Patches for various mods
   * **Beautiful Cities of Morrowind - Patches**
 
 * On MO2 installation, check the following options in the installer:
-  * Patches
-    * [x] Patch for Purists
-    * [x] Concept Art Plantations
-    * [x] Mandas Manor
-  * OAAB Foyada Mamaea Overhaul -> **OAAB Foyada Mamaea Overhaul**
-  * Rise of House Telvanni -> **RoHT 2.0**
-  * Magical Missions -> **Yes**
+  * [x] Arvesa
+  * [x] 📃 Ashfall interop
+  * [x] Ashlander Traders Remastered
+  * [x] Bounty Hunter Assignments
+  * [x] Concept Art Plantations
+  
+  * [x] Ebonheart Underworks
+  * [x] Far From Home
+  * [x] Foreign Quarter Market Square
+  * [x] Glass Domes
 
-  * More Patches
-    * [x] Province Cyrodiil
-    * [x] Ebonheart Underworks
+  * [x] Logs on Fire
+  * [x] Main Quest Overhaul
+  * [x] Mamaea Awakened
+  * [x] Mandas Manor
 
-  * Select all that apply
-    * [x] Bounty Hunter Assignments
-    * [x] Ashlander Traders Remastered
-    * [x] 📃 Realistic Repair Addon
+  * [x] OAAB Pomegranates
+  * [x] OAAB Foyada Mamaea Overhaul
+  * [x] Patch for Purists
+  * [x] Province Cyrodiil
+  * [x] 📃 Realistic Repair Addon
+  * [x] Rise of House Telvanni 2.0
 
-  * Select all that apply
-    * [x] Velothi Wall Art
-    * [x] Velothi Wall Art Re-Addon
+  * [x] Store Entrance Chimes
+  * [x] Strider Port Lights
+  * [x] Tel Aruhn Chronicles quest and Yansirramus Overhaul addon
+  * [x] Tamriel Rebuilt
 
-  * Select all that apply
-    * [x] Glass Domes
-    * [x] Store Entrance Chimes
-    * [x] Far From Home
-
-  * Select all that apply
-    * [x] Main Quest Overhaul
-    * [x] Mamaea Awakened
-    * [x] 📃 Ashfall interop
-    * [x] OAAB Pomegranates
-    * [x] Tel Aruhn Chronicles quest and Yansirramus Overhaul addon
-    * [x] Foreign Quarter Market Square
-    * [x] Logs on Fire
+  * [x] Velothi Wall Art
+  * [x] Velothi Wall Art Re-Addon
 
 {% hint style="warning" %}
-* Do not use the Publicans patch, it is outdated
+Do not use the Publicans patch, it is outdated
 {% hint style="endhint" %}
 
 [**Various compatibility patches for HOTV Tomb of the Snow prince Solstheim Overhaul**](https://www.nexusmods.com/morrowind/mods/48422)\

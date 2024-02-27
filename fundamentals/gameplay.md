@@ -56,3 +56,14 @@ Most potions have been rebalanced to give you more noticeable effects. Plus, alc
 
 [**East Vvardenfell Travel Service**](https://www.nexusmods.com/morrowind/mods/50126)\
 This mod adds 6 caravaner travel services to the eastside of Vvardenfell. Helping to fill out the vanilla services with land based travel in the Grazelands and Molag Amur. Simple, balanced, useful.
+
+[**Expanded Birthsigns for Purists**](https://www.nexusmods.com/morrowind/mods/18016)\
+This has been on PES for a year now, I figured it was about time to put it up on TES Nexus. Expanded Birthsigns for Purists rebalances and expands the original birthsigns while retaining lore-purity, based on the in-game text \'The Firmament\', and the birthsigns available in Oblivion, doubling the number of birthsigns from thirteen to twenty-six.
+
+[**Spells Reforged**](https://www.nexusmods.com/morrowind/mods/18016)\
+spell effect visual replacers
+
+* Files to install:
+  * 📃 **SR_0_Core** (Main files)  
+  * 📃 **SR_3_ElementalShields** (Main files)  
+  * 📃 **SR_4_Shield** (Main files)  

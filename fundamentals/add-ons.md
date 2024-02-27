@@ -19,15 +19,20 @@
 * On MO2 installation, check the following options in the installer:
   * [x] 00 (BCOM All Merged) Core
 
-## Creatures
+## Creatures and NPCs
 
 ⭐ [**Repopulated Morrowind**](https://www.nexusmods.com/morrowind/mods/51174)\
 Adds named NPCs to all cities using leveled lists with items from OAAB, TR_Data, and Morrowind/Bloodmoon/Tribunal.
+
+* Files to install:
+  * **Repopulated Morrowind**
+  * 📃 **2.6 MWSE Bugfix**
 
 * On MO2 installation, check the following options in the installer:
   * BCOM -> **Yes**
   * Bloodmoon options -> **TOTSP**
   * [x] Tamriel Rebuilt
+  * [x] Skyrim Home of the Nords
   * [x] Province Cyrodil
   * [x] Glass Helm Compilation
   * [x] Mage Robes
@@ -35,18 +40,23 @@ Adds named NPCs to all cities using leveled lists with items from OAAB, TR_Data,
   * [x] Weapons Expansion Project
   * [x] Vanilla Friendly Wearables Expansion
   * [x] Immersive Mournhold
-  * [x] BCOM Animated Morrowind
+  * [x] OAAB Data
+  * [x] RP Caldera Mine Expanded
+  * Redaynia -> **None**
   * Sound Options -> **Muted**
-
 
 ⭐ [**Friends and Foes**](https://www.nexusmods.com/morrowind/mods/49251) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
  Adds friendly and less friendly npcs to the game.
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core (must have)
-  * [x] 01 TR addon
-  * [x] 02 Repopulated Morrowind Patch
-  * [x] 03 BCoM patch
+  * [x] 01 VVardenfell addon
+  * [x] 02 Mainland addon
+  * [ ] 03 Prim and proper
+  * [x] 04 Ahead of the Classes addon
+  * [ ] 05 No Towns addon
+  * [ ] 06 No Hostiles addon
+  * [ ] 07 Face and name randomizer
 
 ⭐ [**Vanilla friendly creatures and undeads expansion**](https://www.nexusmods.com/morrowind/mods/48818) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
  Vanilla friendly creatures and undeads expansion mod based on some of the great old creatures mods, TR_data and OAAB_Data
@@ -56,15 +66,13 @@ Adds named NPCs to all cities using leveled lists with items from OAAB, TR_Data,
   * Daedric creatures give less loot -> **No** (personal preference)
   * Summons have 0 soul -> **No** (personal preference)
 
-⭐ [**Animated Morrowind**](https://www.nexusmods.com/morrowind/mods/49231)\
-This is Animated Morrowind - merged by Abot, made compatible with BCOM and with Lucevar's Even Seedies Eight Plates.
+⭐ [**Animated Morrowind - Danae's Edits**](https://www.nexusmods.com/morrowind/mods/53391)\
+Fixes and Tweaks as well as edits for compatibility for Animated Morrowind - Merged, which it replaces
 
-* Files to install:
-  * **Resources - Animated Morrowind**
-
-{% hint style="info" %}
-This mod doesn't contain the esp file, it will be installed later together with Beautiful Cities of Morrowind.
-{% endhint %}
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Core
+  * [x] 01 TR
+  * [x] 02 Vvardenfell
 
 [**Walkers of Morrowind**](https://www.nexusmods.com/morrowind/mods/49889) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
 Allows npcs in the wilderness who were given an AIWander package to actually wander within their cell.
@@ -102,6 +110,15 @@ In collaboration with OAAB Leveled Creatures, this mod will add female dwarven s
 [**Wild Silt Striders**](https://www.nexusmods.com/morrowind/mods/49103)\
 Creatures from TR added to the north and east coast of the Vvardenfell. There are few of them.
 
+[**Arvesa - An Armiger's Tale**](https://www.nexusmods.com/morrowind/mods/53400)\
+An extensive companion and quest mod that hooks onto Morrowinds Main Quest and offers a serious perspective to the world presented. Team up with a complex character with her own faults, hopes, and dreams.
+
+[**Bandits**](https://www.nexusmods.com/morrowind/mods/50084)\
+Lightweight mod that adds bandits in the wilderness
+
+[**Sei's Dynamic Wildlife**](https://www.nexusmods.com/morrowind/mods/52135)\
+With Sei's Dynamic Wildlife, you will never run out of animals to hunt or practice your skills on. This mod dynamically spawns animals around you as you traverse the wilderness, ensuring a fresh experience every time you revisit an area.
+
 ## Items
 
 ⭐ [**Wares Ultimate**](https://www.nexusmods.com/morrowind/mods/52013) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
@@ -111,22 +128,16 @@ Modular versions of WARES for Vvardenfell, Tamriel Rebuilt, Skyrim Home of the N
   * **Wares Ultimate** (Main files)
 
   * On MO2 installation, check the following options in the installer:
-    * [x] 00 Core (must have)
-    * [ ] 01 Hold it lists (needs wares_npcs)
-    * [x] 02 TD lists (Tamriel_Data.esm)
-    * [x] 03 OAAB lists
-    * [x] 04 Vvardenfell addons
-    * [x] 05 PC addons (Cyr_Main.esm)
-    * [x] 06 TR addons (TR_Mainland.esm)
-    * [x] 07 SHOTN addons (Sky_Main.esm)
-    * [ ] 08 MOAR items in shops addons
-    * [ ] 09 NOD Patch
-
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
-  * [x] `Wares_VV_npcs_purist.ESP`
-  * [x] `Wares_PC_npcs_purist.esp`
-  * [x] `Wares_TR_npcs_purist.esp`
-  * [x] `Wares_SHOTN_npcs_purist.esp`
+    * [x] 00 Core
+    * [x] 01 OAAB to Wares
+    * [x] 02 TD to Wares
+    * [ ] 03 Hold it to Wares
+    * [x] 04 Wares to Traders
+    * [ ] 05 Moar Wares to traders
+    * [x] 06 Wares to containers
+    * [x] 07 Wares to NPC - FULL
+    * [ ] 07 Wares to npc - PURIST
+    * [ ] 08 NOD Patch
 
 ⭐ [**Taddeus' Foods of Tamriel**](https://www.nexusmods.com/morrowind/mods/49388) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
 This mod adds Ashfall compatible Foods from all over Tamriel as well as a few shops and Food Outposts.
@@ -146,13 +157,12 @@ This is a compilation of mods that does a couple of things: Adds new armours and
   * **Vanilla friendly weareables expansion**
 
 * On MO2 installation, check the following options in the installer:
-  * Optional Patches:
-    * [x] Bloodmoon NPCs
-    * [x] Daedric Shrines Overhauls
-    * [x] Morag Tong Polished Patch
-    * [x] Cephalopod Armor - OAAB Patch
-    * [x] Cepalopod Armor - TR patch
-    * [x] Redoran War
+  * [x] Bloodmoon NPCs
+  * [x] Daedric Shrines Overhauls
+  * [x] Morag Tong Polished Patch
+  * [x] Cephalopod Armor - OAAB Patch
+  * [x] Cepalopod Armor - TR patch
+  * [x] Redoran War
 
 ⭐ [**OAAB Integrations**](https://www.nexusmods.com/morrowind/mods/49045)\
  This page will be used to upload minor mods which integrate content from OAAB_Data into the game by the OAAB team.

@@ -50,3 +50,6 @@ Makes Miner class NPCs cough.
 
 [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
 With this plugin the player can hear an actual noise when he's under the effects of the Sound magic. Its volume depends on the total magnitude of the effect.
+
+[**Ashlander Voices**](https://www.nexusmods.com/morrowind/mods/53863)\
+Adds 130 new voice greetings to the Ashlanders. The old 'Ashlander' voices beth used have been reassigned to the Telvanni, so it's sort of a Telvanni/Ashlander voice upgrade in one.
