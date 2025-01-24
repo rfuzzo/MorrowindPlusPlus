@@ -42,9 +42,6 @@ Expands the Yet Another Guard Diversity to cover Imperials in Tamriel Rebuilt.
 * Files to install:
   * **Yet Another Guard Diversity Tamriel Rebuilt 23.10** (Main files)
 
-[**Incarnates Overhauled**](https://www.nexusmods.com/morrowind/mods/49232)\
-Makes the Failed Incarnates better reflect their backgrounds. The armor, clothes, faces and hairs on some of the ghosts has been changed, so that now an ashlander wears ashlander clothes, a warrior of the Temple wears Indoril armor, Erur-Dan wears his cuirass, Hort-Leed wears his robe, and so forth.
-
 [**Silt Strider**](https://www.nexusmods.com/morrowind/mods/48664)\
 Replaces the Silt Strider according to many fan arts. Now the Silt Strider looks like an actual transport.
 
@@ -57,13 +54,6 @@ This mod adds a glowbug swarm around Spriggans to make them look more fae-like a
 * On MO2 installation, check the following options in the installer:
   * [x] Replacer -> MD Replacer
   * [x] Twiggans Option -> Twiggans, Twiggans Groot Extra
-
-[**Facelift**](https://www.nexusmods.com/morrowind/mods/47617)\
-Addresses numerous mesh and textures issues with the vanilla head, leading to much better looking faces overall.
-
-* Files to install:
-  * **kart_facelift_meshes** (Main files)
-  * **kart_fut_TR_PT** (Main files)
 
 [**Familiar Faces by Caleb**](https://www.nexusmods.com/morrowind/mods/50093)\
 An in-depth yet completely vanilla friendly touch up of every head and almost every hair in the game.
@@ -104,12 +94,6 @@ This mod uses a previously unused keg droplet texture from the game files to add
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 📃 01 MWSE Version OR ✨01 Non-MWSE Version
-
-[**Luminous VFX Atronachs**](https://www.nexusmods.com/morrowind/mods/48291) by [Anumaril21](https://www.nexusmods.com/morrowind/users/60236996)\
-Takes the Atronach models from Rotat's Creature VFX Restoration and adds to them the glow maps from Peterbitt's Luminous Atronachs, thus rendering the mods compatible. Neither mods are required for use.
-
-* Files to install:
-  * **Luminous VFX Atronachs**
 
 [**Smoking Yurts**](https://www.nexusmods.com/morrowind/mods/52281)\
  Adds smoke to yurts with lit fireplaces

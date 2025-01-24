@@ -2,13 +2,6 @@
 
 ## Rebalances
 
-⭐ [**Morrowind Anti-Cheese (Sig Edit)**](https://www.nexusmods.com/morrowind/mods/49232)\
-Fixes some of the biggest exploits and balance issues in the game.
-
-{% hint style="info" %}
-[**Link**](https://www.nexusmods.com/morrowind/mods/47305) to original mod by **Half11** and **Remiros**. The featured version includes fixes and tweaks by **Sigourn**.
-{% endhint %}
-
 ⭐ [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036)\
 Makes the Sixth House, properly, the most difficult content in the game.
 
@@ -57,22 +50,10 @@ Greetings regarding clothes are limited to clothiers, nobles and snooty High Elv
 ⭐ [**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232?)\
 Prevents the player from renting a bed if diseased, be it common, blight, or corprus disease.
 
-⭐ [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by [PoodleSandwich2](https://www.nexusmods.com/morrowind/users/45710542)\
-Restores and expands the implied mechanic of Hospitality Papers required to conduct trade in Sadrith Mora.
-
-⭐ [**FMI - NotAllDunmer**](https://www.nexusmods.com/morrowind/mods/47569) by [PoodleSandwich2](https://www.nexusmods.com/morrowind/users/45710542)\
-Improves idle dialogue filtering so that not all Dunmer refer to themselves as slavers, and not all Argonians refer to themselves as slaves.
-
-⭐ [**FMI - Caius Big Package**](https://www.nexusmods.com/morrowind/mods/47580) by [PoodleSandwich2](https://www.nexusmods.com/morrowind/users/45710542)\
-Give Caius Cosades a package worthy of the Grand Spymaster of Vvardenfell.
-
 ## Main Quest
 
 [**Blades Informant**](https://www.nexusmods.com/morrowind/mods/48084)\
 Allows you to continue working for the Blades after Caius' departure and deliver useful information to them that you may have picked up during your travels.
-
-[**EL1OT's New Supply Chests**](https://www.nexusmods.com/morrowind/mods/46253)\
-This mod adds a new supply chest to Caius Cosades' house for members of the Blades, and modifies the contents of the Fighters' and Mages' Guild Supply Chests.
 
 [**Rise of House Telvanni**](https://www.nexusmods.com/morrowind/mods/27545)\
 This mod adds quests for the Telvanni Archmagister, allowing him/her to gain more political power and strengthen House Telvanni.
@@ -131,6 +112,11 @@ This mod adds ten new Thieves' Guild quests to Gnaar Mok. Part of the May Modath
 ⭐ [**Morag Tong Polished**](https://www.nexusmods.com/morrowind/mods/47041)\
 The Morag Tong Guild is the most poorly written faction in Morrowind. This mod fixes that by giving the guild a much needed touch up.
 
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Core
+  * [x] 01 Vanilla
+  * [ ] 02 Web of Mephala
+
 [**Morag Tong Secret Identity**](https://www.nexusmods.com/morrowind/mods/51128)\
 MWSE-lua mod that adds new mechanics related to Morag Tong, solving some inconsistencies between gameplay, dialogues and lore, and making being part of the religious cult of assassins a more unique experience, exploring its twin nature of secrecy and legality.
 
@@ -150,6 +136,9 @@ Many Mages Guild members will now wear the new robes and the player can acquire 
 [**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773)\
 Members of the Mages Guild can now deliver a coded message, solve a murder, investigate a heist, barter with the Telvanni and retrieve a tome of dark power for the Master Wizard of Caldera
 
+[**Ethereal Magic**](https://www.nexusmods.com/morrowind/mods/55443)\
+Join the Mages’ Guild in Gnisis and help in their research concerning ethereal magic. Part of the Morrowind Modding Madness Competition.
+
 ## Misc
 
 ⭐ [**LDM**](https://github.com/Lucevar/ldm) by [Lucevar](https://www.nexusmods.com/morrowind/users/3099525)\
@@ -165,6 +154,8 @@ Lucevar's Dialogue Mod for Morrowind
   * [ ] 02 Optional Worldspace Edits
   * [ ] 03 More Exclusive Factions
   * [x] 04 Racist Service Refusal
+
+⭐ [**FFresh](https://www.nexusmods.com/morrowind/mods/53006)\
 
 [**Carelessly Crazy Caldera Community**](https://www.nexusmods.com/morrowind/mods/47275)\
 Adds a new shop, 2 new NPCs, 17 new quests to Caldera, and adds unique background, personality and dialogue to most of the NPCs of the town.
@@ -187,17 +178,29 @@ Fleshes out the vanilla quest "The Patchwork Airship" by replacing the airship w
 [**Therana vs Trerayna**](https://www.nexusmods.com/morrowind/mods/49332)\
 An alternative solution for the "A Bounty for Trerayna Dalen" quest: side with Trerayna instead of Therana.
 
-Hiring Guards for the Redoran Stronghold - Honorable Solution
-Harvest's End Festival
-Fort Moonmoth Fundraiser Dinner
-Immersive Neloth Reward
-The Frostmoth Smugglers - Properly Rewarded
-Champion of Clutter
-A Cure for Vampirism - Skink's Solution
-Morrowind - Immanuel Kant Edition
-Redoran Founder's Helm Add-on - Honor the Ancestors
-The Corpse and the Skooma Pipe Overhaul
-Ashlanders Herd
+[**Hiring Guards for the Redoran Stronghold - Honorable Solution**](https://www.nexusmods.com/morrowind/mods/48243)\
+
+[**Harvest's End Festival**](https://www.nexusmods.com/morrowind/mods/49834)\
+
+[**Fort Moonmoth Fundraiser Dinner**](https://www.nexusmods.com/morrowind/mods/49837)\
+
+[**Immersive Neloth Reward**](https://www.nexusmods.com/morrowind/mods/49836)\
+
+[**The Frostmoth Smugglers - Properly Rewarded**](https://www.nexusmods.com/morrowind/mods/47409)\
+
+[**Champion of Clutter**](https://www.nexusmods.com/morrowind/mods/47377)\
+
+[**A Cure for Vampirism - Skink's Solution**](https://www.nexusmods.com/morrowind/mods/47375)\
+
+[**Morrowind - Immanuel Kant Edition**](https://www.nexusmods.com/morrowind/mods/45995)\
+
+[**Redoran Founder's Helm Add-on - Honor the Ancestors**](https://www.nexusmods.com/morrowind/mods/47352)\
+
+[**The Corpse and the Skooma Pipe Overhaul**](https://www.nexusmods.com/morrowind/mods/46696)\
+With this mod, seven new choices are added to the quest, and seven different outcomes based on the player's choice. (Not including the two choices that are already present in the game.)
+
+[**Ashlanders Herd**](https://www.nexusmods.com/morrowind/mods/48720)\
+Ashlanders Herd provides a solution to a dialogue inconsistency and spices up Ashlander camps by adding domesticated Guar and Shalk painted with tribal identifiers to denote ownership.
 
 ## Add-ons
 
@@ -265,19 +268,11 @@ Dagoth Ur has been defeated, but the continued presence of the Sixth House still
 * Files to install:
   * **Crown Edition** (Main Files)
 
-{% hint style="warning" %}
-This mod may currently be incompatible with **Beautiful Cities of Morrowind**. But both are such cool mods :(
-{% endhint %}
-
 [**After the Blight**](https://www.nexusmods.com/morrowind/mods/46099) by [Caeris](https://www.nexusmods.com/morrowind/users/43442372)\
 The Sixth House have been defeated and Morrowind is saved. Yet, reports of a group of Ashlanders camped outside of Kogoruhn will lead the Nerevarine into a new story. Restore a fallen house, defeat a new enemy, and recover ancient artifacts.
 
 * Files to install:
   * **Crown Edition** (Main Files)
-
-{% hint style="warning" %}
-This mod may currently be incompatible with **Beautiful Cities of Morrowind**. But both are such cool mods :(
-{% endhint %}
 
 [**Camonna Tong**](https://www.nexusmods.com/morrowind/mods/50740) by [Caeris](https://www.nexusmods.com/morrowind/users/43442372)\
 Begin a tale about the largest criminal organization in Morrowind, the Camonna Tong. Vye for power in all influences of society by working together with the likes of Orvas Dren, the Kingpin.
@@ -310,12 +305,6 @@ An open ended quest mod about love, death, Daedra, vengeance, and whiney Bosmer 
   * [x] `NON1.LoveintheTimeofDaedra.v1.03.esp`
   * [x] `NON1.LoveintheTimeofDaedra.v1.03_Abot.esp`
 
-[**Love in time of the daedra - TR patch**](https://www.nexusmods.com/morrowind/mods/48683) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
-An open ended quest mod about love, death, Daedra, vengeance, and whiney Bosmer conmen.
-
-* Files to install:
-  * **Love in time of the daedra - TR version**
-
 [**Master of Puppets**](https://www.nexusmods.com/morrowind/mods/51393)\
 Recover a stolen arcane tome from a renegade wizard and his magically animated puppet servants.
 
@@ -326,9 +315,6 @@ Recover a stolen arcane tome from a renegade wizard and his magically animated p
 * Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
   * [x] `MasterofPuppets.ESP`
 
-[**Sorcerer of Alteration**](https://www.nexusmods.com/morrowind/mods/51224)
-Journey through this quest mod to improve your alteration magic.
-
 [**Hunting Big Tooth (A Quest for Magical Starter Weapons)**](https://www.nexusmods.com/morrowind/mods/51457)
  In this Mod you meet a Dunmer near Balmora who sends you on a Hunt for Big Tooth. Your reward is a magical starter Weapon of your choice.
 
@@ -337,15 +323,6 @@ This mod adds a new quest featuring a medium sized sixth house base.
 
 [**The Pearl Divers**](https://www.nexusmods.com/morrowind/mods/51703)\
 Made for Summer Modjam 2022! Meet One-Eye and Beela Fire-Beard, two Argonian pearl divers with a mysterious connection.
-
-[**Tirram Terala's Treasure Trove of Trinkets**](https://www.nexusmods.com/morrowind/mods/51699)\
- Visit Khuul to find the new market of Tirram Terala, an eccentric peddler with wares to sell and stories to tell. Browse his selection of exotic goods from all over Tamriel and beyond. He might even have a few heirlooms he picked up during his adventuring days.
-
-[**QMS-The Repulsive Paramour**](https://www.nexusmods.com/morrowind/mods/51694)\
- Embark on a misadventure to find the perfect wife for a very (un)pleasant farmboy. Second entry in the QMS Series.
-
-[**QMS-Fallacy of Justice**](https://www.nexusmods.com/morrowind/mods/49894)\
- Assist a Redoran exile in his quest for revenge. First entry in the QMS series.
 
 [**Rescue Mission**](https://www.nexusmods.com/morrowind/mods/51693)\
  Go on a quest to find a mage's missing daughter.
@@ -396,18 +373,13 @@ Brave the dangers of Vvardenfell in this lore-friendly quest mod to reforge Gold
   * [x] 00 Core
   * [x] ✨ 01 HD Textures
 
-[**Actual Dwemer Puzzle Box**](https://www.nexusmods.com/morrowind/mods/52756)\
-Speak with scholars to learn hints on how to decipher the puzzle. Take it with you and play anywhere, Get out your quill and paper to solve this puzzle.
-
 [**Caldera Priory and the Depths of Blood and Bone**](https://www.nexusmods.com/morrowind/mods/52898)\
 Caldera Priory has been overrun by the Undead. Do you have the courage and the will to venture into the Depths of Blood and Bone and vanquish the ancient Evil that has taken hold of the lands above?
 
 * Galen's Quest for Truth
-* A Grave Errand
 * Happenstance Hodokinesis
 * Secret of Vilmuhn
 * The Mysterious Affair of Sara Shenk
-* AFFresh
 * Moon Magic
 * The Vanishing Ash-chirps
 * Respite in Hostile Waters
@@ -416,3 +388,9 @@ Caldera Priory has been overrun by the Undead. Do you have the courage and the w
 * A Familiar Song
 * Forgotten Wastes
 * Radiant Quests of Morrowind
+* The Arcane Watch -- FULL
+Red Wisdom - An Ashlander Prophecy
+Dras the Dunmer Legionnaire
+Visions - A Mysticism quest mod
+The Popular Plague
+Vaermina's Quest - Dreams of the Escaped

@@ -189,8 +189,7 @@ A lua-based framework for creating new, fully functional magic effects.
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 - Framework
-  * [x] 01 - Resource Pack
-  * [x] 02 - Lore Friendly Pack
+  * [x] 01 - Lore Friendly Pack
 
 ⭐📃 [**magickaMastery MWSE**](https://github.com/rfuzzo/MorrowindPlusPlus/blob/main/assets/magickaMastery.zip) by [Greatness7](https://www.nexusmods.com/morrowind/users/64030) and [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
 MWSE port of [Magicka Mastery](https://www.nexusmods.com/morrowind/mods/45058)
@@ -253,6 +252,9 @@ This mod takes several community resources as well as my own work and adds seven
 An essential tool in any nightblade's arsenal, Leech Effects adds a set of buffs that allow you to recover health, magicka, or fatigue when landing physical attacks.
 
 ## Gameplay
+
+⭐ [**Chargen Scenarios**](https://github.com/jhaakma/chargenScenarios)\
+Download on GitHub
 
 ⭐📃 [**Less Lame Leveled Spawns**](https://www.nexusmods.com/morrowind/mods/51059)\
 This mod aims to fix some inconsistencies with how leveled creatures are spawned.

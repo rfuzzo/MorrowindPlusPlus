@@ -24,21 +24,6 @@ Running and Swimming uses much less Fatigue, but Fatigue regenerates slower
 [**External Link**](https://github.com/rfuzzo/MorrowindPlusPlus/raw/main/assets/RunningFatigue_Overhaul_Beta.7z) to the download.
 {% endhint %}
 
-⭐ [**Chargen Revamped**](https://www.nexusmods.com/morrowind/mods/44615)\
-Customize/randomize your starting attributes, skills, spells, items, companion, faction, and location on Vvardenfell, Solstheim, Mainland Morrowind (TR), Skyrim (SHOTN), or Cyrodiil (PC).
-
-* On MO2 installation, an installer window will pop up asking you to set a Data Files Directory.
-* Right click on `Data Files` and select "Set as < data files > directory".
-
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
-  * [x] `CREL_Complete_AnthSol_v3.1.esp`
-  * [x] `CREL_Complete_ATOTSP_v3.1.esp`
-  * [x] `CREL_Complete_v3.1.esp`
-  * [x] `CREL_TR_AnthSol_v3.1.esp`
-  * [x] `CREL_TR_ATOTSP_v3.1.esp`
-  * [x] `CREL_TR_v3.1.esp`
-  * [x] `CREL_Vanilla_STOTSP_v3.1.esp`
-
 [**Written in the Stars - a birthsign mod**](https://www.nexusmods.com/morrowind/mods/50378)\
 Each birthsign now has a few variants (including the original one) for a grand total of 40 new lore-friendly birthsigns.
 

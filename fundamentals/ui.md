@@ -51,6 +51,8 @@ This is a set of 14 splash screens showing off Tyddy's frescoes.
 ⭐ [**Gonzo's Splash Screens**](https://www.nexusmods.com/morrowind/mods/51667)\
  This pack contains 75 splash screens plus 2 alternate splash screens in a unified style. All images are 16:9. Includes Kirkbride concept art, Monopteryx's creature art, fan art by Mikhail Pabor, and high DPI Wagner map crops. Compatible with OpenMW and Morrowind.exe.
 
+[**Loading Screens Diversified**](https://www.nexusmods.com/morrowind/mods/55498)\
+
 ## Fonts and icons
 
 ⭐ [**Better Readable Beauty Font**](https://www.nexusmods.com/morrowind/mods/49201)\

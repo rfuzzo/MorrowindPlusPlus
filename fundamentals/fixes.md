@@ -8,9 +8,11 @@ Asset repository required for Solstheim - Tomb of the Snow Prince and Nordic Dag
 * Files to install:
   * **Tamriel Data (HD)** (Main files)
 
-{% hint style="info" %}
-To register the mod's BSA file, launch **Wrye Mash** from Mod Organizer 2. In the Mods tab, click the BSA Archives tab to the right, and check the BSA you want to register.
-{% endhint %}
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Data Files
+  * [ ] ✨ 01 Data Files - Normal Maps (for openmw)
+
+Disable the omwscripts when not using openmw.
 
 ⭐ [**OAAB Data**](https://www.nexusmods.com/morrowind/mods/49042)\
 Asset repository required for OAAB mods and Nordic Dagon Fel.
@@ -26,10 +28,10 @@ Asset repository for **PikacunoTM**'s An Addendum to Tamrielic Lore mod project.
 
 * On MO2 installation, check the following options:
   * [x] Core Files
-  * **Install Hi-Res Textures** -> Yes
+  * **Install HD Data** -> Yes
   * **Compatibility Options**
     * [x] 📃 Ashfall
-    * [x] Glass GLowset
+    * [x] 📃 Ashfall HD
   * **Install Modder's Resource** -> No
 
 ⭐ [**Tamriel Rebuilt**](https://www.nexusmods.com/morrowind/mods/42145)\
@@ -40,8 +42,9 @@ Asset repository for **PikacunoTM**'s An Addendum to Tamrielic Lore mod project.
     * On MO2 installation, check the following options in the installer:
       * [x] 00 Core
       * [x] 01 Faction Integration
-      * [x] 02 Siege at Firemoth Compatibility Patch
-  
+      * [x] 02 MWSE+MGE XE
+      * [ ] ✨ 03 Openmw
+
   * **TRMusic** (Optional files)
 
 ⭐ [**Skyrim Home Of The Nords**](https://www.nexusmods.com/morrowind/mods/44921)\
@@ -62,9 +65,6 @@ Set almost exactly between the great ports of Cyrodiil, Hammerfell, Valenwood an
 After installation, disable `Cyrodiil_Grass.ESP` in your load order. ⚠️ **Do not hide or delete them**, as they are necessary for the mod to work as intended when generating Distant Land.
 {% hint style="endhint" %}
 
-[**Tamriel_Data Graveyard - Deprecations un-deprecated**](https://www.nexusmods.com/morrowind/mods/52000)
-Reverts Tamriel Data deprecations to help maintain compatibility.
-
 ## Bug fixes
 
 ⭐ [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096) by [half11](https://www.nexusmods.com/morrowind/users/36879320)\
@@ -75,15 +75,21 @@ Fixes many issues present in Bethesda's original Official Plugins.
 
 * On MO2 installation, check the following options:
   * **Merged or Individual** -> UMOPP Individual
-  * **Individual Plugins** -> **All**
-  * **Install Better Armor Compatibility** -> No
+  * **Individual Plugins**
+    * [ ] Adamantium Armor
+    * [ ] Area Effect Arrows
+    * [x] Bitter Coast Sounds
+    * [x] Entertainers
+    * [ ] Helm of Tohan
+    * [x] Le Femm Armor
+    * [ ] Master Index
+    * [ ] Siege at Firemoth
+  * **Individual Plugins**
+    * [ ] Adamantium Armor
+    * [x] Le Femm Armor
+    * [ ] Siege at Firemoth
 
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
-  * [x] `adamantiumarmor.esp`
-  * [x] `EBQ_Artifact.esp`
-  * [x] `master_index.esp`
-  * [x] `Siege at Firemoth.esp`
-  * [x] `AreaEffectArrows.esp`
+  * **Install Better Armor Compatibility** -> No
 
 ⭐ [**Bethesda Official Plugins Naturalized**](https://www.nexusmods.com/morrowind/mods/51107) by [PikachunoTM](https://www.nexusmods.com/morrowind/users/16269634)\
  Implementation of Bethesda's Official Plugins with some slightly improved implementation. Uses UMOPP as a base.
@@ -94,11 +100,8 @@ Fixes many issues present in Bethesda's original Official Plugins.
     * [x] Area Effect Arrows
     * [x] Helm of Tohan
     * [x] Master Index
-    * [x] Siege at Firemoth
+    * [ ] Siege at Firemoth
   * **High res textures** -> Yes
-
-⭐ [**Creature VFX restoration**](https://www.nexusmods.com/morrowind/mods/46194)\
-Restores visual effects on creatures.
 
 ⭐ [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
 Restores previously unused Silt Strider animation - it was present in the model, but never played in the game itself because of the lack of the necessary script. It also comes with a previously unused sound.
@@ -220,21 +223,6 @@ Adjusts every vanilla light mesh to enhance the effects of other shader and ligh
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Smoke and Steam Emitters
-
-[**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
-Mesh replacer for thrown weapon projectiles that makes them fly pointy end forward and, in some cases, spin in the air.
-
-* On MO2 installation, right-click on **Data Files**.
-* Click **Set as data files directory** and click **OK**.
-
-[**Better Scamps**](https://www.nexusmods.com/morrowind/mods/48008) by [tronvillain](https://www.nexusmods.com/morrowind/users/597111)\
-Fixes the Scamp mesh, reducing distortion, seams, and other UV errors.
-
-* After installation, hide the mod's **Textures** folder.
-
-{% hint style="info" %}
-This omits the Scamp's retexture, since we uses a vanilla-friendly high resolution texture pack.
-{% endhint %}
 
 [**Crabs Diversity**](https://www.nexusmods.com/morrowind/mods/49103)\
 Molecrab from TR, Mushroom Crab inspired by TESO, Correct UV Mudcrabs included.

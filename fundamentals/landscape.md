@@ -45,16 +45,14 @@ Distant Land generation is required to make this mod work as intended on the ori
     * Ald'Ruhn Skar -> **Bigger Entrance**
     * Ald'Ruhn Outdoor merchants -> **yes**
 
-    * [ ] Vicec Open Arena -> **no**
+    * Arena -> **Atmospheric Arena**
     * Vivec Customization
-      * [x] Planters
-      * [x] Arena - Street vendors
-      * [ ] Arena - Bustling
-      * [x] Arena - Planters
-      * [ ] Round planters
-      * [x] Temple Fountains
+      * [x] Atmospheric
       * [x] Foreign Quarter Bridge
-      * [ ] Foreign Quarter Bridge - Open Arena
+      * [x] Arena - Street vendors
+      * [x] Arena - Planters
+      * [x] Planters
+      * [x] Temple Fountains
 
     * Molag Mar Dome -> **Broken Dome**
 
@@ -67,14 +65,16 @@ Distant Land generation is required to make this mod work as intended on the ori
 
     * Maar Gan
       * [x] Ashlandish Maar Gan
-    
+
+    * Khuul Lighthouse -> **yes**
     * Expanded Sadrith Mora Dock -> **yes**
+    * Sadrith Mora South Gates -> **no**
     * More logical Census Office -> **yes**
 
     * Glow in the Dahrk -> **Yes + Atlas**
 
     * [x] Concept art husk -> **yes**
-    
+
     * Imperial Gatehouses
       * [x] Pelagiad
       * [x] Moonmoth
@@ -83,8 +83,8 @@ Distant Land generation is required to make this mod work as intended on the ori
     * Project Atlas -> **yes**
 
     * HD Textures -> ✨Yes for OpenMW
-    
-    * Balmora Bridges with bigger arch -> **No**
+
+    * Balmora Bridges with bigger arch -> **Yes + Atlas**
 
     * Eight plates -> **Yes**
 
@@ -137,10 +137,6 @@ New effects and textures for the waterfalls. Includes LOD on the particle effect
 ⭐ [**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 Fixes flickering on lava. Reduces the occurrence of seams found in large lava pools. Adds performance friendly spark particle effects to lava pools.
 
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 02 Tamriel_Data Patch
-
 ⭐ [**I Lava Good Intelligent Textures Compatibility Patch - Fix**](https://www.nexusmods.com/morrowind/mods/51521)\
 Compatibility Patch for "I Lava Good Mesh Replacer" by Melchior Dahrk with "Intelligent Textures" by Remiros.
 
@@ -149,9 +145,6 @@ Adds a visual effect to all vanilla flies sound emitters.
 
 ⭐ [**Nocturnal Moths**](https://www.nexusmods.com/morrowind/mods/44148) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
 Adds moths flying around some of the lanterns at night.
-
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
-  * [x] `Nocturnal Moths - Vanilla.ESP`
 
 ⭐ [**Cave Drips**](https://www.nexusmods.com/morrowind/mods/43488) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
 Adds a visual effect to all vanilla cave drip sound emitters.
@@ -196,7 +189,6 @@ This mod improves several vanilla dungeons aesthetically and/or expands them.
 
 * Files to install:
   * **Mines and Caverns**
-  * **Mines and Caverns-AD (Optional Files)**
 
 {% hint style="warning" %}
 After installation
@@ -216,7 +208,6 @@ Ancestral Tomb Loot Enhancement Mod
 Hackle-lo leaves are described as "a tasty edible succulent leaf of the Grazelands..." And yet the leaves appear to be flat and not reminiscent of a succulent. This mod edits the plants and ingredients to be thicker. The ingredient is now a single leaf split in half to reveal the tasty flesh inside that locals like to chew after a long day's work.
 
 * Waterfalls Tweaks
-* DN-Lighted_Dwemer_Towers
 
 ## Ascadian Isles
 
@@ -224,10 +215,8 @@ Hackle-lo leaves are described as "a tasty edible succulent leaf of the Grazelan
  A concept arts-based overhaul of the Arvel and Dren plantations.
 
 * On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 02 - Remiros grass patch
-  * [x] 03 - BcoM Remiros grass patch
-  * [x] 05 - Ashfall Addon
+  * Vanilla+
+  * BCOM Remiros Grass Patch
 
 ⭐ [**Vibrant Ivy and trellis additions**](https://www.nexusmods.com/morrowind/mods/49863) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
  A solution to your ivy-related issues.
@@ -364,18 +353,15 @@ Introducing new redoran buildings in Ald'ruhn
 Overhaul of Maar Gan
 
 * On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 01 Ashlander Addon
-  * [x] 02 Magic Rock of Maar Gan
+  * Ashlander Addon
+  * Magic Rock of Maar Gan
 
 [**Salt Gems of Bensamsi**](https://www.nexusmods.com/morrowind/mods/45126) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  His methods are atypical, but an Argonian in the Sixth House base of Bensamsi has discovered a way to create soul gems from ash salts. Talk to Heem-La in the Ald-ruhn Guild of Mages about research opportunities if you would like to learn more.
 
-[**Cavern Of The Incarnate Overhaul**](https://www.nexusmods.com/morrowind/mods/42860)\
- Cavern of the Incarnate overhaul + optional pluginless replacer of the cavern and the statue meshes
-
-* Files to install:
-  * **Cavern of the Incarnate Overhaul** (Main Files)
+* On MO2 installation, check the following options in the installer:
+  * MWSE
+  * HD
 
 [**The Beacon of St Rilms**](https://www.nexusmods.com/morrowind/mods/49515)\
  Along the path between Ald-Ruhn and Ghostgate is a place of rest for those walking their pilgrimage, owned and operated by House Redoran as a gift to the people.
@@ -469,6 +455,9 @@ Pirates upon the shore of Azura's Coast, along with a market, tavern, and small 
 [**Tethered Tel Branora**](https://www.nexusmods.com/morrowind/mods/53314)\
 An exterior overhaul of Tel Branora and the surrounding island to be more thematic to Mistress Therana.
 
+Telvanni Council House Lounge Room
+Tel Branora Expansion
+
 ## Bitter Coast
 
 ⭐ [**Glowbugs**](https://www.nexusmods.com/morrowind/mods/50538) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
@@ -546,6 +535,11 @@ A distraught nephew, a missing uncle, a manor slowly sinking into the swamps of 
 The author of Perfect Scum recommends to put height waves to 0 when generating Distant Land.
 {% endhint %}
 
+Swamp Stump Sanctuaries
+More Alien Bitter Coast
+Bal Isra and Indarys Manor Overhaul
+A New Windmill for Pelagiad
+Arano Plantation Windmill
 
 ## Grazelands
 
@@ -746,24 +740,17 @@ Worldspace overhaul of Solstheim, improving the graphical fidelity, environmenta
   * **Solstheim Tomb of the Snow Prince** (Main files)
   
   * On MO2 installation, check the following options in the installer:
-    * [X] 000 Core
-    * [X] 010 Solstheim - Tomb of the Snow Prince
-    * [X] 011 TOTSP Patches
-    * [X] 013 Fierce Wolf Helms
-    * [X] 014 Hide-Like Animal Pelts
-  
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
-  * [x] `TOTSP TD Content Integration - Spiders.esp`
-  * [x] `TOTSP TD Content Integration.esp`
-  * [x] `TOTSP_Forceful_Travel_NPC_Override.ESP`
-  * [x] `TOTSP_TR_Preview.esp`
+    * GitD integration
+    * Patch for Purists
 
 * Files to install:
   * **Solstheim Graphical Replacer** (Main files)
   
   * On MO2 installation, check the following options in the installer:
+    * [X] 010 Solstheim - HD Worldspace Graphical Replacer
     * [X] 011 Skyrim-Like Trees
     * [X] 012 Remiros' Groundcover for TOTSP
+    * [X] 013 Grey Solstheim Rocks
 
 {% hint style="warning" %}
 After installation, disable `VSW-Rem-Anthology Solstheim.esp` in your load order. ⚠️ **Do not hide or delete them**, as they are necessary for the mod to work as intended when generating Distant Land.
@@ -779,9 +766,9 @@ Distant Land generation is required to make this mod work as intended. Instructi
 ⭐ [**The Stone Halls of Solstheim - Reforged**](https://www.nexusmods.com/morrowind/mods/49841) by [Corsair83](https://www.nexusmods.com/morrowind/users/23131859)\
  A complete rebuilt of Bloodmoon barrows.
 
-  * On MO2 installation, check the following options in the installer:
-    * [X] 00 Core
-    * [X] 01 TotSP Patch
+* On MO2 installation, check the following options in the installer:
+  * [X] 00 Core
+  * [X] 01 TotSP Patch
 
 ## Mournhold
 
@@ -792,15 +779,6 @@ Distant Land generation is required to make this mod work as intended. Instructi
  This mod redecorates Dark Brotherhoods lair in Old Mournhold
 
 ## Misc
-
-* [**Vennin's Sinsibadon Overhaul**](https://www.nexusmods.com/morrowind/mods/52630)\
-An overhaul of the cavern Sinsibadon using OAAB assets.
-
-* [**Vennin's Pulk Overhaul**](https://www.nexusmods.com/morrowind/mods/52616)\
-An overhaul of the cavern Pulk.
-
-* [**Vennin's Ulummusa Overhaul**](https://www.nexusmods.com/morrowind/mods/52699)\
- An overhaul of the cave Ulummusa using OAAB_Data assets.
 
 [**OAAB Pomegranates**](https://www.nexusmods.com/morrowind/mods/50726) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  Inspired by their mention of growing in the badlands of Morrowind in Sermon 12, a regional variety of pomegranates can now be found growing atop Mount Assarnibibi.
@@ -813,7 +791,8 @@ An overhaul of the cavern Pulk.
  This mod places saplings from OAAB_Data in most regions on Vvardenfell.
 
 * On MO2 installation, check the following options in the installer:
-  * [x] 00 Merged
+  * BCOM
+  * Concept art plantations
 
 [**OAAB Shipwrecks**](https://www.nexusmods.com/morrowind/mods/51364)\
 A complete overhaul of every vanilla shipwreck.
@@ -835,6 +814,32 @@ Adds some unique, Telvanni style light sources to various Telvanni settlements
 
 [**Tamriel Rebuilt - Hall of Justice Overhaul**](https://www.nexusmods.com/morrowind/mods/52224)\
  Overhaul the Hall of Justice in Old Ebonheart
+
+Bthuand Expanded
+Zebabi Expanded
+Bensamsi Expanded
+Galom Daeus Overhaul
+Aleft Overhaul
+Nchardumz Overhaul
+Haishibi Mine
+Ranyabi Egg Mine
+Mzahnch Overhaul
+Druscashti Overhaul
+Andrethi Tomb Overhaul
+Compatible Odai Boat Service
+Little Landscapes- Bitter Coast Waterway
+Little Landscapes- Path to Pelagiad
+Little Landscapes - Nix Hound Hunting Grounds
+Little Landscapes - Seyda Neen Swamp Pools
+Little Landscapes - Path to Vivec Lighthouse
+Little Landscape - Foyada of Sharp Teeth
+Little Landscape - Path to Balmora
+Superior Shulk Eggmine -OAAB
+Neselia Remade
+Another Markgran Forest
+Salothan Council
+What Kwamas Forage - An Eggmine Mod
+Vennin's Dungeons
 
 ## Add-ons
 
@@ -958,4 +963,3 @@ An ancient Velothi tower on the coast of the West Gash, for a tranquil and seclu
 
 [**Distant Horizon - A Chimeri-quey flotilla**](https://www.nexusmods.com/morrowind/mods/53152)\
 Visit the Chimeri-quey flotilla of Distant Horizon On A Foggy Morning, out on the Padomaic Ocean, and get to meet the locals.
-

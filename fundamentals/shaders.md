@@ -9,7 +9,6 @@ Patches for various mods
   * **Beautiful Cities of Morrowind - Patches**
 
 * On MO2 installation, check the following options in the installer:
-  * [x] Arvesa
   * [x] 📃 Ashfall interop
   * [x] Ashlander Traders Remastered
   * [x] Bounty Hunter Assignments
@@ -34,8 +33,8 @@ Patches for various mods
 
   * [x] Store Entrance Chimes
   * [x] Strider Port Lights
-  * [x] Tel Aruhn Chronicles quest and Yansirramus Overhaul addon
   * [x] Tamriel Rebuilt
+  * [x] Tel Aruhn Chronicles quest and Yansirramus Overhaul addon
 
   * [x] Velothi Wall Art
   * [x] Velothi Wall Art Re-Addon

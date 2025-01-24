@@ -9,16 +9,6 @@
 * On MO2 installation, check the following options in the installer:
   * [x] 00 (BCOM All Merged) Core
 
-⭐ [**Nine-holes**](https://www.nexusmods.com/morrowind/mods/52093)\
- Adds playable Nine-holes boards to Vvardenfell, with an AI to challenge you and the option to bet gold.
-
-* Files to install:
-  * **Nine-holes - Modular**
-  * **Nine-holes - Tamriel Rebuilt Addon**
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 (BCOM All Merged) Core
-
 ## Creatures and NPCs
 
 ⭐ [**Repopulated Morrowind**](https://www.nexusmods.com/morrowind/mods/51174)\
@@ -56,7 +46,6 @@ Adds named NPCs to all cities using leveled lists with items from OAAB, TR_Data,
   * [x] 04 Ahead of the Classes addon
   * [ ] 05 No Towns addon
   * [ ] 06 No Hostiles addon
-  * [ ] 07 Face and name randomizer
 
 ⭐ [**Vanilla friendly creatures and undeads expansion**](https://www.nexusmods.com/morrowind/mods/48818) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
  Vanilla friendly creatures and undeads expansion mod based on some of the great old creatures mods, TR_data and OAAB_Data
@@ -77,21 +66,6 @@ Fixes and Tweaks as well as edits for compatibility for Animated Morrowind - Mer
 [**Walkers of Morrowind**](https://www.nexusmods.com/morrowind/mods/49889) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
 Allows npcs in the wilderness who were given an AIWander package to actually wander within their cell.
 
-[**Corprus Natives**](https://www.nexusmods.com/morrowind/mods/45674) by [rotat](https://www.nexusmods.com/morrowind/users/40752190)\
-Replaces the Corprus Stalker with a Dunmer version. For those who dislike that it's a human zombie with ears tacked on, despite its excellent animations. Lame Corprus also edited for consistency.
-
-* Files to install:
-  * **Corprus Natives**
-
-* On MO2 installation, an installer window will pop up asking you to set a Data Files Directory.
-* Right click on `512px > Data Files` and select "Set as < data files > directory".
-
-[**Ghost Revenge**](https://www.nexusmods.com/morrowind/mods/45674) by [rotat](https://www.nexusmods.com/morrowind/users/40752190)\
-Newly murdered characters are now drawn to the tombs of their ancestors. You will meet your victims again.
-
-* Files to install:
-  * **Ghost Revenge**
-
 [**Atronach Rebalance**](https://www.nexusmods.com/morrowind/mods/51309)\
 This mod makes all atronachs the same power. As the player levels up, these Daedra will also gain strength every 5 levels up to 30 level. They can cast spells every 30 seconds, and their damage depends on the attack animation.
 
@@ -110,14 +84,13 @@ In collaboration with OAAB Leveled Creatures, this mod will add female dwarven s
 [**Wild Silt Striders**](https://www.nexusmods.com/morrowind/mods/49103)\
 Creatures from TR added to the north and east coast of the Vvardenfell. There are few of them.
 
-[**Arvesa - An Armiger's Tale**](https://www.nexusmods.com/morrowind/mods/53400)\
-An extensive companion and quest mod that hooks onto Morrowinds Main Quest and offers a serious perspective to the world presented. Team up with a complex character with her own faults, hopes, and dreams.
-
 [**Bandits**](https://www.nexusmods.com/morrowind/mods/50084)\
 Lightweight mod that adds bandits in the wilderness
 
 [**Sei's Dynamic Wildlife**](https://www.nexusmods.com/morrowind/mods/52135)\
 With Sei's Dynamic Wildlife, you will never run out of animals to hunt or practice your skills on. This mod dynamically spawns animals around you as you traverse the wilderness, ensuring a fresh experience every time you revisit an area.
+
+Creatures and Critters
 
 ## Items
 
@@ -129,15 +102,19 @@ Modular versions of WARES for Vvardenfell, Tamriel Rebuilt, Skyrim Home of the N
 
   * On MO2 installation, check the following options in the installer:
     * [x] 00 Core
-    * [x] 01 OAAB to Wares
-    * [x] 02 TD to Wares
-    * [ ] 03 Hold it to Wares
-    * [x] 04 Wares to Traders
-    * [ ] 05 Moar Wares to traders
-    * [x] 06 Wares to containers
-    * [x] 07 Wares to NPC - FULL
-    * [ ] 07 Wares to npc - PURIST
-    * [ ] 08 NOD Patch
+    * [ ] 01 Wares Legacy
+    * [x] 02 Wares to vanilla lists
+    * [x] 03 TD to Wares
+    * [x] 04 OAAB to Wares
+    * [ ] 05 Hold it to Wares
+    * [x] 06 Wares to Traders
+    * [ ] 07 Moar Wares to traders
+    * [x] 08 Wares to NPC
+    * [x] 09 Wares to containers
+    * [ ] 10 NOD Patch
+    * [x] 11 TR plugins
+    * [x] 12 SHOTH Plugins
+    * [x] 13 PC plugins
 
 ⭐ [**Taddeus' Foods of Tamriel**](https://www.nexusmods.com/morrowind/mods/49388) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
 This mod adds Ashfall compatible Foods from all over Tamriel as well as a few shops and Food Outposts.
@@ -182,9 +159,6 @@ This is a compilation of mods that does a couple of things: Adds new armours and
 
 * On MO2 installation, an installer window will pop up asking you to set a Data Files Directory.
 * Right click on `Indexes of MW > Data Files` and select "Set as < data files > directory".
-
-[**Glass Helm Additions**](https://www.nexusmods.com/morrowind/mods/42207)\
- Resource of 6 full glass helms.
 
 [**Solthas Sixth House Amulet**](https://www.nexusmods.com/morrowind/mods/52401)\
 Gives sixth house amulets a useful, tempting, and dangerous enchantment, more akin to the effects of Corprus Disease itself.
