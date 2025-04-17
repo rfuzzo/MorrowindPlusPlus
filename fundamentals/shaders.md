@@ -24,8 +24,8 @@ Patches for various mods
   * [x] Mamaea Awakened
   * [x] Mandas Manor
 
-  * [x] OAAB Pomegranates
   * [x] OAAB Foyada Mamaea Overhaul
+  * [x] OAAB Pomegranates
   * [x] Patch for Purists
   * [x] Province Cyrodiil
   * [x] 📃 Realistic Repair Addon
@@ -35,6 +35,7 @@ Patches for various mods
   * [x] Strider Port Lights
   * [x] Tamriel Rebuilt
   * [x] Tel Aruhn Chronicles quest and Yansirramus Overhaul addon
+  * [x] The Publicans
 
   * [x] Velothi Wall Art
   * [x] Velothi Wall Art Re-Addon
@@ -71,20 +72,10 @@ One of the NPCs added by "MTP" ends up being suspended in the empty void if you 
   * **After the Blight (BCoM)**
   * **Morag Tong Polished - BCoM Patch**
 
-[**Ashlander Traders - Remastered - BCOM and Wares**](https://www.nexusmods.com/morrowind/mods/48009)
-Brother Juniper's excellent Ashlander Traders mod, edited for compatibility and extra dialogue. Adds Ashlander Traders who will sometimes appear in Balmora, Ald-ruhn, or Suran.
-
-* Files to install:
-  * **Ashlander Traders Remastered - BCOM and Wares**
-
 ⭐ [**alvazir's various patches**](https://www.nexusmods.com/morrowind/mods/48955)\
 Collection of compatibility patches, fixes, mod expansions and tiny mods.
 
 * Files to download:
-  * **Morag Tong Polished Compatibility Patch**
-
-    * On MO2 installation, check the following options in the installer:
-      * [x] 01 TR_Factions
 
   * **Miscellaneous Patches**
 
@@ -96,40 +87,25 @@ Collection of compatibility patches, fixes, mod expansions and tiny mods.
     * Available esps:
       * AliceL93 Vanilla Quest Tweaks - Script Fix.esp
       * AliceL93 Vanilla Quest Tweaks - TR_Factions Compatibility Patch.esp
-      * Clean_Mines & Caverns - Script Fix.esp
       * Ebonheart_Underworks - Disable Rebirth Question.esp
       * Library of Vivec Overhaul - Full - Dialogue Fix.esp
       * Morrowind - Tombs Leveled Lists Flag Fixed.esp
       * OAAB Brother Junipers Twin Lamps - Camonna Tong Compatibility Patch.esp
       * OAAB Brother Junipers Twin Lamps - Script Fix.esp
-      * Patch for Purists - Clean_Mines & Caverns - Mat.esp
-      * Siege at Firemoth Naturalized - Script Fix.esp
       * Solstheim Tomb of The Snow Prince - Bloodmoon Rebalance.esp
       * Tribunal - Rare Durzogs In Vvardenfell Caves.esp
       * Wares-base - Adamantium Armor - Rare.esp
 
-  * **Wares-base - Expansion** (modular)
+⭐ [**Null's Minor Patches**](https://www.nexusmods.com/morrowind/mods/55897)\
+Most patches are to prevent errors in the MWSE.log file, and do not substantially change the behavior of the mod.
 
-    * On MO2 installation, check the following options in the installer:
-      * [x] 04 Modular
-
-    * Available esps:
-      * Wares-base - Expansion - Ashlander Traders Remastered.esp
-      * Wares-base - Expansion - BeaconOfstRilmsNoAnim.esp
-      * Wares-base - Expansion - Camonna Tong.esp
-      * Wares-base - Expansion - Hlormaren Reclaimed.esp
-      * Wares-base - Expansion - Immersive Mournhold.esp
-      * Wares-base - Expansion - Morag Tong Polished.esp
-      * Wares-base - Expansion - OAAB_Tel Mora.esp
-      * Wares-base - Expansion - Tel_Aruhn_Chronicles.esp
-      * Wares-base - Expansion - The Rise of the Tribe Unmourned.esp
-      * Wares-base - Expansion - The_Vanilla_Quest_Tweaks_RP_Choices_Consequences_Super_Mega_Package_-_Ultimate_Edition.esp
-      * Wares-base - Expansion - Your Own Ashlander Tribe.esp
-
-  * **Tamriel Data - Factions**
-
-    * On MO2 installation, check the following options in the installer:
-      * [x] 02 Modular
+* Patch for Beautiful Cities of Morrowind v3.2.3
+* Patch for Character Sound Overhaul v1.1
+* Patch for Graphic Herbalism v1.04
+* Patch for Heat Haze v1.1
+* Patch for Muse
+* Patch for Spells Reforged v1.1
+* Patch for Tamriel_Data v11.0
 
 ## Shaders
 

@@ -47,7 +47,7 @@ Distant Land generation is required to make this mod work as intended on the ori
 
     * Arena -> **Atmospheric Arena**
     * Vivec Customization
-      * [x] Atmospheric
+      * [x] Atmospheric Plazas
       * [x] Foreign Quarter Bridge
       * [x] Arena - Street vendors
       * [x] Arena - Planters
@@ -82,15 +82,15 @@ Distant Land generation is required to make this mod work as intended on the ori
 
     * Project Atlas -> **yes**
 
-    * HD Textures -> ✨Yes for OpenMW
-
     * Balmora Bridges with bigger arch -> **Yes + Atlas**
 
     * Eight plates -> **Yes**
 
     * RR Statues Patch -> **No**
     * Azura Statue -> **No**
-  
+
+    * HD Textures -> ✨Yes for OpenMW
+
   * **Grass Patches**
     * Remiros Groundcover
       * [x] Azura's Coast
@@ -535,7 +535,9 @@ A distraught nephew, a missing uncle, a manor slowly sinking into the swamps of 
 The author of Perfect Scum recommends to put height waves to 0 when generating Distant Land.
 {% endhint %}
 
-Swamp Stump Sanctuaries
+[**Swamp Stump Sanctuaries**](https://www.nexusmods.com/morrowind/mods/52841)\
+Puts doors in a few stumps around the bitter coast that lead to small abodes under the surface of the swamp water.
+
 More Alien Bitter Coast
 Bal Isra and Indarys Manor Overhaul
 A New Windmill for Pelagiad
@@ -817,7 +819,6 @@ Adds some unique, Telvanni style light sources to various Telvanni settlements
 
 Bthuand Expanded
 Zebabi Expanded
-Bensamsi Expanded
 Galom Daeus Overhaul
 Aleft Overhaul
 Nchardumz Overhaul
@@ -840,6 +841,8 @@ Another Markgran Forest
 Salothan Council
 What Kwamas Forage - An Eggmine Mod
 Vennin's Dungeons
+Dungeon Details
+The Woe of Indalen Tomb
 
 ## Add-ons
 
@@ -865,6 +868,9 @@ Vennin's Dungeons
   * [x] 02 BCOM Patch (Optional)
   * [x] ✨ 03 OpenMW Patch
 
+[**Memento Mori - Buried**](https://www.nexusmods.com/morrowind/mods/55382)\
+Moves a majority of the exterior changes from Memento Mori to their own interior cells for compatability.
+
 [**OAAB - Tel Raloran**](https://www.nexusmods.com/morrowind/mods/46841) by [Corsair83](https://www.nexusmods.com/morrowind/users/23131859)\
  A Telvanni mushroom house with MWSE functions.
 
@@ -881,10 +887,6 @@ Discover the remnants of a failed Telvanni expedition and explore the depths of 
 [**Lyithdonea**](https://www.nexusmods.com/morrowind/mods/43749) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 Lyithdonea: The Azurian Isles is a landmass mod for Morrowind featuring a tropical paradise between Tamriel and Akavir. The mod has a strong influence from the Daedric Lord Azura with dusk and dawn themes and Azura being the focus of religion in the region. Explore a detailed new landmass, discover strange creatures, battle pirates, immerse in the
 
-{% hint style="info" %}
-[**Development Version can be found on github**](https://github.com/MelchiorDahrk/Lyithdonea) Download the files, zip them and install with MO2 to get a installer.
-{% endhint %}
-
 [**Anna-Sera**](https://www.nexusmods.com/morrowind/mods/51343)\
 Anna-Sera is a ship located in the Sheogorad region. On board you will meet Sugar-Scales and his partner in crime, Zan'si.
 
@@ -900,9 +902,6 @@ This mod adds a quest to a new and dangerous tomb which brings the player to une
 
 * After installation, in MO2, go to **Filetree**:
 * `Far From Home v1.4.ESP` -> right click: **Hide**.
-
-[**Horror at Helvil Mine**](https://www.nexusmods.com/morrowind/mods/51941)\
-Ask around about Latest Rumors in Maar Gan to find tell of a mine in peril. Bring forth its demise, or save it from financial ruin! Ever wanted to own a mine? Ever wanted to be friends with a kwama? This is the mod for you.
 
 [**Ald Gash - a Redoran Lighthouse**](https://www.nexusmods.com/morrowind/mods/52292)\
 This mod adds a Redoran lighthouse to the north-eastern coast of Vvardenfell.
@@ -940,9 +939,6 @@ Help the guests from Necrom in solving their little problem in Mournhold. A ques
 [**Grahtwood Roost**](https://www.nexusmods.com/morrowind/mods/52888)\
 Obtain and improve a cozy treehouse of your own through a short series of quests.
 
-[**Swamp Stump Sanctuaries**](https://www.nexusmods.com/morrowind/mods/52841)\
-Puts doors in a few stumps around the bitter coast that lead to small abodes under the surface of the swamp water.
-
 [**Draggle-Tail Shack**](https://www.nexusmods.com/morrowind/mods/53305)\
 Help a dunmer to get some money for his travels by buying his shack in the Bitter Coast. But why is he in such a hurry to get rid of it? For Summer Modjam 2023
 
@@ -963,3 +959,6 @@ An ancient Velothi tower on the coast of the West Gash, for a tranquil and seclu
 
 [**Distant Horizon - A Chimeri-quey flotilla**](https://www.nexusmods.com/morrowind/mods/53152)\
 Visit the Chimeri-quey flotilla of Distant Horizon On A Foggy Morning, out on the Padomaic Ocean, and get to meet the locals.
+
+Drethos Ancestral Tomb
+Telvanni questline addon - Arvs-Spelun

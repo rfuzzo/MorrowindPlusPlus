@@ -41,6 +41,9 @@ Corrects thrown projectiles inflicting twice their listed damage, by halving the
 📃 [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947) by [Petetehgoat](https://www.nexusmods.com/morrowind/users/25319994)\
 Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
 
+Small Quality of Life Improvements - MWSE
+More Traps MWSE-Lua
+
 ## UI
 
 📃 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)\
@@ -121,7 +124,13 @@ Adds a hotkey for summons, followers and companions to attack the selected targe
 📃 [**Better Buoyancy**](https://www.nexusmods.com/morrowind/mods/48929)\
 Add hotkeys for swimming and levitating. Use the jump key to float upwards, and the sneak key to sink downwards.
 
+Clocks
+Quick Select Menu
+
 ## Character
+
+⭐ [**Chargen Scenarios**](https://github.com/jhaakma/chargenScenarios)\
+Download on GitHub
 
 📃 [**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915)\
 Adds buttons to randomise race, appearance, class, and birthsign during character generation.
@@ -179,6 +188,8 @@ Makes armor contribute to player and NPCs' evasion modifier as well as allowing 
 📃 [**Bleeding Injuries - MWSE**](https://www.nexusmods.com/morrowind/mods/51308) by [Spammer21](https://www.nexusmods.com/morrowind/users/140139148)\
 Going into a battle without proper armor will cause bleeding.
 
+PvP
+
 ## Magic
 
 ⭐📃 [**Putting Power In Willpower**](https://www.nexusmods.com/morrowind/mods/45742) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
@@ -194,8 +205,7 @@ A lua-based framework for creating new, fully functional magic effects.
 ⭐📃 [**magickaMastery MWSE**](https://github.com/rfuzzo/MorrowindPlusPlus/blob/main/assets/magickaMastery.zip) by [Greatness7](https://www.nexusmods.com/morrowind/users/64030) and [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
 MWSE port of [Magicka Mastery](https://www.nexusmods.com/morrowind/mods/45058)
 
-📃 [**Magicka Regeneration Suite**](https://www.nexusmods.com/morrowind/mods/49153)\
-Ultimate magicka regeneration mod for Morrowind!
+📃 Proportional Magicka Regeneration
 
 ⭐📃 [**MM - Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480)\
 Adds new Oblivion-inspired visual effects and mechanics for the vanilla Detection magic effects, as well as adds 7 new magic effects. It integrates those effects into new spells and distributes them in-game to spell vendors.
@@ -252,9 +262,6 @@ This mod takes several community resources as well as my own work and adds seven
 An essential tool in any nightblade's arsenal, Leech Effects adds a set of buffs that allow you to recover health, magicka, or fatigue when landing physical attacks.
 
 ## Gameplay
-
-⭐ [**Chargen Scenarios**](https://github.com/jhaakma/chargenScenarios)\
-Download on GitHub
 
 ⭐📃 [**Less Lame Leveled Spawns**](https://www.nexusmods.com/morrowind/mods/51059)\
 This mod aims to fix some inconsistencies with how leveled creatures are spawned.
@@ -333,9 +340,6 @@ Hostile NPCs and creatures' health, magic, and fatigue are reset to full when yo
 The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](/fundamentals/shaders.md#shader-setup) section.
 {% endhint %}
 
-📃 [**Necrocraft - A Comprehensive Necromancy Gameplay And Quests Mod**](https://www.nexusmods.com/morrowind/mods/51211) by [VitruvianGuar](https://www.nexusmods.com/morrowind/users/34081875)\
-Comprehensive modern day implementation of necromancy, using Skill Module, Magicka Expanded and Crafting Framework. Includes game mechanics overhaul, new quests and mysteries to solve, allowing to fully experience being the practicioner of a forbidden art of necromancy.
-
 📃 [**Pickpocket Minigame**](https://www.nexusmods.com/morrowind/mods/52793)\
 Replaces the vanilla pickpocket mechanic with a KCD-inspired minigame.
 
@@ -345,8 +349,9 @@ Endurance determines how long you can hold your breath under water.
 📃 [**Animation Blending**](https://www.nexusmods.com/morrowind/mods/53779)\
 Adds animation blending to Morrowind, enabling smooth transitions between animations.
 
-📃 [**Clothing Requirements**](https://www.nexusmods.com/morrowind/mods/47813)\
-Implements level requirements to equip all of Morrowind's clothing items.
+herbert lib
+herbert's literacy program
+Joy of Painting
 
 ## Quests
 
@@ -372,6 +377,8 @@ Visit an old but familiar face to embark on a quest to discover an ancient encha
 📃 [**The Wabbajack**](https://www.nexusmods.com/morrowind/mods/44653)
 Adds the legendary Wabbajack artifact!
 
+PRAY - Prayers Rituals And You
+
 ## Add-ons
 
 ⭐📃 [**Disturbing Dreams**](https://www.nexusmods.com/morrowind/mods/51285) by [VitruvianGuar](https://www.nexusmods.com/morrowind/users/34081875)\
@@ -388,6 +395,8 @@ Drip adds Diablo 2 style loot to Morrowind. Unique weapons, armor, clothing and 
 
 📃 [**Ultimate Fishing**](https://www.nexusmods.com/morrowind/mods/52872)
 Adds a fishing mechanic with over 25 species of fish and dynamic fishing animations.
+
+Drippified Skills Module - MWSE
 
 ## Audio
 
@@ -444,9 +453,6 @@ MWSE-Lua 3D clouds and mist.
 
 📃 [**Fallen Ash**](https://www.nexusmods.com/morrowind/mods/48711) by [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
  Dynamically adds ash decals to people, places, things, and probably concepts during ash storms.
-
-📃 [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912)\
-Configurable mod for automatic adjustment of lighting, including override values, cell whitelist, and light object editing.
 
 📃 [**The Midnight Oil - Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/48293)\
 Toggle lights on and off. Town lights turn off during the day. Lights are no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.
