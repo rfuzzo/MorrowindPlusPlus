@@ -10,15 +10,21 @@ Asset repository required for Solstheim - Tomb of the Snow Prince and Nordic Dag
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Data Files
-  * [ ] ✨ 01 Data Files - Normal Maps (for openmw)
+  * [x] ✨ 01 Data Files - Normal Maps (for openmw)
 
+{% hint style="info" %}
 Disable the omwscripts when not using openmw.
+{% hint style="endhint" %}
 
 ⭐ [**OAAB Data**](https://www.nexusmods.com/morrowind/mods/49042)\
 Asset repository required for OAAB mods and Nordic Dagon Fel.
 
 * On MO2 installation, check the following options in the installer:
-  * Better Telvanni Crystals -> **Yes**
+  * [x] Glow in the Dhark
+  * [x] Better Telvanni Crystals
+
+[**Dr_Data**](https://www.nexusmods.com/morrowind/mods/51776)\
+Resource Pack and Asset Library for LondonRooks assets.
 
 ⭐ [**AATL Data - An Addendum to Tamrielic Lore Data**](https://www.nexusmods.com/morrowind/mods/50647)\
 Asset repository for **PikacunoTM**'s An Addendum to Tamrielic Lore mod project.
@@ -42,10 +48,12 @@ Asset repository for **PikacunoTM**'s An Addendum to Tamrielic Lore mod project.
     * On MO2 installation, check the following options in the installer:
       * [x] 00 Core
       * [x] 01 Faction Integration
-      * [x] 02 MWSE+MGE XE
-      * [ ] ✨ 03 Openmw
 
   * **TRMusic** (Optional files)
+
+{% hint style="info" %}
+Disable the omwscripts when not using openmw.
+{% hint style="endhint" %}
 
 ⭐ [**Skyrim Home Of The Nords**](https://www.nexusmods.com/morrowind/mods/44921)\
 The Imperial Legion maintains a border wall between Dragonstar East, ruled by Jarl Jona the Ansei-Ender, and Dragonstar West, a Crown holding surrounded almost entirely by the Kingdom of the Reach.  Residents of the cities are forbidden from crossing the wall due to threats of constant violence, something they know too well.  Outside the cities, life goes on for the Reachmen of the Alovach and Taliesinn tribes; however, they keep one ear to the ground. If war were to again break out in Dragonstar, they would inevitably be dragged in...
@@ -90,6 +98,10 @@ Fixes many issues present in Bethesda's original Official Plugins.
     * [ ] Siege at Firemoth
 
   * **Install Better Armor Compatibility** -> No
+
+{% hint style="warning" %}
+Uncheck the vanilla AreaEffectArrows.esp plugin
+{% hint style="endhint" %}
 
 ⭐ [**Bethesda Official Plugins Naturalized**](https://www.nexusmods.com/morrowind/mods/51107) by [PikachunoTM](https://www.nexusmods.com/morrowind/users/16269634)\
  Implementation of Bethesda's Official Plugins with some slightly improved implementation. Uses UMOPP as a base.
@@ -196,33 +208,28 @@ Automatically harvests herbs, instead of opening the container interface. Picked
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core + Vanilla Meshes
 
-⭐ [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399?) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
-Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases.
-
-Files to install:
-
-* **Project Atlas** (Main files)
-* **Hotfix**
-  
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 BATs
-  * [x] 00 Core
-  * [x] 01 Textures - Vanilla
-  * [x] 06 Glow in the Dahrk Patch\
-    Compatibility patch for Glow in the Dahrk. Uses compatible meshes.
-  * [x] 07 Graphic Herbalism Patch\
-    Compatibility patch for Graphic Herbalism. Uses compatible meshes.
-
-{% hint style="warning" %}
-Note that **Project Atlas** utilizes its own texture sets for its edited meshes, meaning any retexture designed with the vanilla meshes in mind will require a patch for it to work alongside this mod.
-{% endhint %}
-
 ⭐ [**Improved Lights for All Shaders**](https://www.nexusmods.com/morrowind/mods/51463) by [mwclevername](https://www.nexusmods.com/morrowind/users/102938538)\
 Adjusts every vanilla light mesh to enhance the effects of other shader and lighting mods. Compatible with MGE, OpenMW, ReShade, True Lights And Darkness, Enlightened Flames, and just about everything else.
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 Smoke and Steam Emitters
+
+[**Glowing Bitter Coast (Reupload)**](https://www.nexusmods.com/morrowind/mods/47946)\
+Luminous Russula, Violet Coprinus, and Draggle-Tail now glow. Ingredients also glow.
+
+⭐ [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399?) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
+Optimizes the most performance heavy areas of vanilla Morrowind through texture atlases.
+
+Files to install:
+
+* **Project Atlas** (Main files)
+  
+* On MO2 installation, check the following options in the installer:
+  * Intelligent Textures
+  * Add-ons: **All**
+  * Patches: **All**
+  * BC Mushrooms: Smoothed Glowing
 
 [**Crabs Diversity**](https://www.nexusmods.com/morrowind/mods/49103)\
 Molecrab from TR, Mushroom Crab inspired by TESO, Correct UV Mudcrabs included.
@@ -257,3 +264,27 @@ A mix of new, altered vanilla, and adjusted MCAR animations.
 Files to install:
 
 * **ReAnimations first person - Vanilla Morrowind** (Main files) OR ✨ **ReAnimations first person - OpenMW**
+
+[Improved Telvanni Architecture](https://www.nexusmods.com/morrowind/mods/43241)\
+Replaces 32 Models. Very High Polys.
+
+## Texture packs
+
+⭐ [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469)\
+Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
+
+* Files to install:
+  * **Intelligent Textures** (Main files)
+
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Core
+  * [x] 01 Atlas Textures
+
+⭐ [**Project Atlas - Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/45399)\
+Compatibility patch for Morrowind Enhanced Textures.
+
+* Files to install:
+  * **Textures - Intelligent Textures** (Main files)
+
+⭐ [**Telvanni Bump Maps**](https://www.nexusmods.com/morrowind/mods/42431)\
+This replaces the Telvanni architecture, roots and mushrooms with high-resolution meshes and textures with bump-mapping. Some textures also feature a subtle glow effect at night

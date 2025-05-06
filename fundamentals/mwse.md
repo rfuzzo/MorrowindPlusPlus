@@ -41,9 +41,6 @@ Corrects thrown projectiles inflicting twice their listed damage, by halving the
 📃 [**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947) by [Petetehgoat](https://www.nexusmods.com/morrowind/users/25319994)\
 Normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
 
-Small Quality of Life Improvements - MWSE
-More Traps MWSE-Lua
-
 ## UI
 
 📃 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071)\
@@ -124,13 +121,13 @@ Adds a hotkey for summons, followers and companions to attack the selected targe
 📃 [**Better Buoyancy**](https://www.nexusmods.com/morrowind/mods/48929)\
 Add hotkeys for swimming and levitating. Use the jump key to float upwards, and the sneak key to sink downwards.
 
-Clocks
-Quick Select Menu
+📃 [**Clocks**](https://www.nexusmods.com/morrowind/mods/50840)\
+This mod adds a customizable real-time and/or in-game time clock in the HUD, and the ability to switch between them with a customizable key. This is a rewrite of the MWSE Clock Block by Aleist3r, featuring user-requested functionality and code improvements.
 
 ## Character
 
-⭐ [**Chargen Scenarios**](https://github.com/jhaakma/chargenScenarios)\
-Download on GitHub
+⭐📃 [**Chargen Scenarios**](https://www.nexusmods.com/morrowind/mods/56341)\
+Alternate Start and chargen overhaul. Over 60 scenarios. Chargen process streamlined and re-ordered. Fully customise your character or randomise everything.
 
 📃 [**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915)\
 Adds buttons to randomise race, appearance, class, and birthsign during character generation.
@@ -175,20 +172,14 @@ Introduces a backstabbing mechanic - do more damage when stabbing an enemy from 
 📃 [**Lucky Strike - A Critical Hit Mod**](https://www.nexusmods.com/morrowind/mods/45765)\
 Adds a Luck-based Critical Strike mechanic.
 
-📃 [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729)\
-Opens up an entire new facet of gameplay by granting the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole.
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 01 Labelled Potions
-
 📃 [**Nimble Armor**](https://www.nexusmods.com/morrowind/mods/48251)\
 Makes armor contribute to player and NPCs' evasion modifier as well as allowing evading attacks to practice Unarmored and Light Armor skills. Optionally makes Unarmored fully focused on evading attacks.
 
 📃 [**Bleeding Injuries - MWSE**](https://www.nexusmods.com/morrowind/mods/51308) by [Spammer21](https://www.nexusmods.com/morrowind/users/140139148)\
 Going into a battle without proper armor will cause bleeding.
 
-PvP
+[**PvP**](https://www.nexusmods.com/morrowind/mods/51034)\
+A combat based on parries and dodges. Enemies fight almost like real players.
 
 ## Magic
 
@@ -201,11 +192,6 @@ A lua-based framework for creating new, fully functional magic effects.
 * On MO2 installation, check the following options in the installer:
   * [x] 00 - Framework
   * [x] 01 - Lore Friendly Pack
-
-⭐📃 [**magickaMastery MWSE**](https://github.com/rfuzzo/MorrowindPlusPlus/blob/main/assets/magickaMastery.zip) by [Greatness7](https://www.nexusmods.com/morrowind/users/64030) and [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
-MWSE port of [Magicka Mastery](https://www.nexusmods.com/morrowind/mods/45058)
-
-📃 Proportional Magicka Regeneration
 
 ⭐📃 [**MM - Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480)\
 Adds new Oblivion-inspired visual effects and mechanics for the vanilla Detection magic effects, as well as adds 7 new magic effects. It integrates those effects into new spells and distributes them in-game to spell vendors.
@@ -240,6 +226,12 @@ Using Telekinesis will now propel objects towards you with new VFX instead of im
   * [x] 00 Core
   * [x] 01 Cast VFX
 
+⭐📃 [**magickaMastery MWSE**](https://github.com/rfuzzo/MorrowindPlusPlus/blob/main/assets/magickaMastery.zip) by [Greatness7](https://www.nexusmods.com/morrowind/users/64030) and [NullCascade](https://www.nexusmods.com/morrowind/users/26153919)\
+MWSE port of [Magicka Mastery](https://www.nexusmods.com/morrowind/mods/45058)
+
+📃 [**Proportional Magicka Regeneration**](https://www.nexusmods.com/morrowind/mods/53804)\
+Willpower will determine the percentage of your maximum magicka that gets regenerated each second. Highly configurable. Atronachs can regenerate magicka with customizable penalties, or not at all. Works for the player and NPCs. Restores magicka when traveling/resting. Requires MWSE.
+
 📃 [**Smarter Soultrap**](https://www.nexusmods.com/morrowind/mods/49121)\
 Allows Soultrap to make more intelligent use of available soul gems, including soul displacement and relocation. Includes optional leveling requirements.
 
@@ -251,12 +243,6 @@ A MWSE lua library that may be required by other mods. It does nothing on its ow
 
 📃 [**Seph's NPC Soul Trapping**](https://www.nexusmods.com/morrowind/mods/50744) by [Sephumbra](https://www.nexusmods.com/morrowind/users/3827919)\
 A MWSE mod that lets you soul trap NPCs.
-
-📃 [**Atronach Expansion**](https://www.nexusmods.com/morrowind/mods/22189) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
-This mod takes several community resources as well as my own work and adds seven new types of monsters as summonable creatures: Bone Golem, Flesh Atronach, Iron Golem, Swamp Myconid, Telvanni Myconid, Ash Golem, Crystal Golem
-
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
-  * [x] `Atronach Expansion_summonsOnly.ESP`
 
 📃 [**Leech Effects**](https://www.nexusmods.com/morrowind/mods/52943)\
 An essential tool in any nightblade's arsenal, Leech Effects adds a set of buffs that allow you to recover health, magicka, or fatigue when landing physical attacks.
@@ -271,6 +257,9 @@ A lua-based framework that allows you to easily create new skills in Morrowind w
 
 ⭐📃 [**The Crafting Framework**](https://www.nexusmods.com/morrowind/mods/51009) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
 A crafting framework for Morrowind, allowing other mods to register recipes, crafting materials and crafting stations.
+
+⭐📃 [**Joy of Painting**](https://www.nexusmods.com/morrowind/mods/53036) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
+Adds a feature-rich painting mechanic to Morrowind, letting you create paintings of in-game scenery that exist not just in the game as objects but are also saved as high-res images on your PC so you can use them outside the game.
 
 ⭐📃 [**Ashfall - A Camping Survival and Needs Mod**](https://www.nexusmods.com/morrowind/mods/49057) by [Merlord](https://www.nexusmods.com/morrowind/users/3040468)\
 A survival mod with hunger, thirst, tiredness, cooking, camping and temperature mechanics, as well as incredible new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack. Additionally implements the possibility of contracting blight diseases while out in a blight storm. A detailed guide for the mod [**can be found here**](https://github.com/jhaakma/ashfall/wiki).
@@ -312,9 +301,6 @@ Adds a feature-rich sprinting functionality to the game.
 📃 [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783)\
 Slows all creatures, NPCs and the Player down when they are walking half-submerged in water.
 
-📃 [**Lucky Loot**](https://www.nexusmods.com/morrowind/mods/49839)\
-Greater luck may grant you better loot
-
 📃 [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673)\
 Makes it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge. Optionally makes NPCs' equipped gear damaged to <20% condition when they die.
 
@@ -340,18 +326,23 @@ Hostile NPCs and creatures' health, magic, and fatigue are reset to full when yo
 The shader included in this mod needs to be registered in MGE XE to work as intended. Shader order will be given in the [**Shader setup**](/fundamentals/shaders.md#shader-setup) section.
 {% endhint %}
 
-📃 [**Pickpocket Minigame**](https://www.nexusmods.com/morrowind/mods/52793)\
-Replaces the vanilla pickpocket mechanic with a KCD-inspired minigame.
-
 📃 [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872)\
 Endurance determines how long you can hold your breath under water.
 
 📃 [**Animation Blending**](https://www.nexusmods.com/morrowind/mods/53779)\
 Adds animation blending to Morrowind, enabling smooth transitions between animations.
 
-herbert lib
-herbert's literacy program
-Joy of Painting
+📃 [**Pickpocket Minigame**](https://www.nexusmods.com/morrowind/mods/52793)\
+Replaces the vanilla pickpocket mechanic with a KCD-inspired minigame.
+
+📃 [**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709)\
+This mod makes in-world soulgems that are filled appear as enchanted items.
+
+📃 [**herbert lib**](https://www.nexusmods.com/morrowind/mods/53803)\
+Lua library that includes a new logger, a way to automate the creation of Classes (supporting multiple inheritence, instance checking, and some dataclass-like functionality), and a way to generate polynomial splines. Requires MWSE-lua, but several parts of this should be compatible with OpenMW-lua.
+
+📃 [**herbert's literacy program**](https://www.nexusmods.com/morrowind/mods/54571)\
+Fundamental overhaul to the way skill books work. Studying skill books will grant permanent bonuses to the relevant skill. The bonus depends on the skill being studied. You can't learn everything in one sitting: you will need to study the same book multiple times to learn everything it has to offer. Requires MWSE.
 
 ## Quests
 
@@ -377,8 +368,6 @@ Visit an old but familiar face to embark on a quest to discover an ancient encha
 📃 [**The Wabbajack**](https://www.nexusmods.com/morrowind/mods/44653)
 Adds the legendary Wabbajack artifact!
 
-PRAY - Prayers Rituals And You
-
 ## Add-ons
 
 ⭐📃 [**Disturbing Dreams**](https://www.nexusmods.com/morrowind/mods/51285) by [VitruvianGuar](https://www.nexusmods.com/morrowind/users/34081875)\
@@ -395,8 +384,6 @@ Drip adds Diablo 2 style loot to Morrowind. Unique weapons, armor, clothing and 
 
 📃 [**Ultimate Fishing**](https://www.nexusmods.com/morrowind/mods/52872)
 Adds a fishing mechanic with over 25 species of fish and dynamic fishing animations.
-
-Drippified Skills Module - MWSE
 
 ## Audio
 

@@ -19,6 +19,12 @@ After installation, disable all of the mod's plugins in your load order. ⚠️ 
 Distant Land generation is required to make this mod work as intended on the original engine. Instructions will be given in the **Re-running Distant Land** section.
 {% endhint %}
 
+[**Remiros Groundcover Textures Improvement**](https://www.nexusmods.com/morrowind/mods/54261)\
+Fix of jagged Remiros grass textures without increasing textures size.
+
+[**Grass for Tamriel Rebuilt (Aesthesia or Remiros')**](https://www.nexusmods.com/morrowind/mods/54362)\
+A groundcover plugin to place grass onto the landscape in Tamriel Rebuilt using either Aesthesia or Remiros' Groundcover. Now with the optional extra of groundcover in the seas, lakes and rivers. Versions supported are 23.1 and 24.12.
+
 ⭐ [**Beautiful Cities of Morrowind**](https://www.nexusmods.com/morrowind/mods/49231) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
  Overhaul of almost every settlement of Morrowind, inspired by concept art and aimed at a vanilla+ feeling.
 
@@ -48,10 +54,14 @@ Distant Land generation is required to make this mod work as intended on the ori
     * Arena -> **Atmospheric Arena**
     * Vivec Customization
       * [x] Atmospheric Plazas
+      * [ ] Concept art vivec statues
       * [x] Foreign Quarter Bridge
+      * [ ] Foreign Quarter Bridge - Open Arena
       * [x] Arena - Street vendors
+      * [ ] Arena - Bustling
       * [x] Arena - Planters
       * [x] Planters
+      * [ ] Round Planters
       * [x] Temple Fountains
 
     * Molag Mar Dome -> **Broken Dome**
@@ -64,6 +74,8 @@ Distant Land generation is required to make this mod work as intended on the ori
     * More tribal Erabenimsun -> **yes**
 
     * Maar Gan
+      * [ ] No
+      * [ ] Maar Gan
       * [x] Ashlandish Maar Gan
 
     * Khuul Lighthouse -> **yes**
@@ -106,6 +118,9 @@ Distant Land generation is required to make this mod work as intended on the ori
 
   * **Balmora Waterworks Options** -> none
 
+⭐ [**Shipyards of Vvardenfell (Sadrith Mora - Seyda Neen - Gnaar Mok)**](https://www.nexusmods.com/morrowind/mods/51928)\
+Morrowind is full of ships, boats and skiffs but who built them and where? Our mod seeks to answer these questions once and for all by adding shipyards to towns by the sea. The mod adds shipyards to Sadrith Mora, Seyda Neen and Gnaar Mok with four engaging quests in total.
+
 ⭐ [**Better Dunmer Strongholds**](https://www.nexusmods.com/morrowind/mods/49692) by [Dallara1000](https://www.nexusmods.com/morrowind/users/3346952)\
 This little replacement make the old dunmer's strongholds less empty and a little bit more dangerous
 
@@ -116,11 +131,21 @@ This little replacement make the old dunmer's strongholds less empty and a littl
 * Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
   * [x] `Dunmer Stronghold - Andasreth V1.0.esp`
   * [x] `Dunmer Stronghold - Berandas V1.0.esp`
-  * [x] `Dunmer Stronghold - Falensarano V1.0.esp`
   * [x] `Dunmer Stronghold - Full V1.0.esp`
   * [x] `Dunmer Stronghold - Hlormaren V1.0.esp`
   * [x] `Dunmer Stronghold - Kogorhun V1.0.esp`
   * [x] `Dunmer Stronghold - Marandus V1.0.esp`
+
+[Northern Strongholds](https://www.nexusmods.com/morrowind/mods/53171)\
+Overhauls the Strongholds
+
+* On MO2 installation, check the following options in the installer:
+  * [ ] Andasreth
+  * [ ] Falasmaryon
+  * [ ] Falensarano
+  * [x] Indoyanyon
+  * [x] Rotheran
+  * [ ] Valenvaryon
 
 ## Environment
 
@@ -140,11 +165,16 @@ Fixes flickering on lava. Reduces the occurrence of seams found in large lava po
 ⭐ [**I Lava Good Intelligent Textures Compatibility Patch - Fix**](https://www.nexusmods.com/morrowind/mods/51521)\
 Compatibility Patch for "I Lava Good Mesh Replacer" by Melchior Dahrk with "Intelligent Textures" by Remiros.
 
-⭐ [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
-Adds a visual effect to all vanilla flies sound emitters.
+⭐ [**Flies - MWSE**](https://www.nexusmods.com/morrowind/mods/53927)\
+MWSE port of R-Zero's Flies mod, + some new features
 
 ⭐ [**Nocturnal Moths**](https://www.nexusmods.com/morrowind/mods/44148) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
 Adds moths flying around some of the lanterns at night.
+
+* On MO2 installation, check the following options in the installer:
+  * [ ] 00 Core
+  * [x] 📃 01 Lua version - MWSE
+  * [ ] ✨ 02 Legacy version - OpenMW and Vanilla
 
 ⭐ [**Cave Drips**](https://www.nexusmods.com/morrowind/mods/43488) by [Reizeron](https://www.nexusmods.com/morrowind/users/32410819)\
 Adds a visual effect to all vanilla cave drip sound emitters.
@@ -184,30 +214,14 @@ The original mod has a lot of great ideas but was never finished or fixed. Other
 * Files to install:
   * **Caverns Overhaul - Fixed**
 
-⭐ [**Mines and Caverns**](https://www.nexusmods.com/morrowind/mods/44893)\
-This mod improves several vanilla dungeons aesthetically and/or expands them.
-
-* Files to install:
-  * **Mines and Caverns**
-
-{% hint style="warning" %}
-After installation
-
-* Run `tes3cmd delete --backup-dir tes3cmdbck --hide-backups --interior --id "Assumanu" "Clean_Mines & Caverns.ESP"`
-* Run `tes3cmd delete --backup-dir tes3cmdbck --hide-backups --type pgrd --id "Assumanu" "Clean_Mines & Caverns.ESP"`
-
-{% hint style="endhint" %}
-
 ⭐ [**Better Caves and Caverns**](https://www.nexusmods.com/morrowind/mods/51218)\
 Alteration to some of the Vanilla Caves and Caverns with a visual overhaul, as well as improved enemies and Bosses, all while maintaining maximum compatibility.
-
-[**Loot Well Urned**](https://www.nexusmods.com/morrowind/mods/44976)\
-Ancestral Tomb Loot Enhancement Mod
 
 [**Thickle-Lo - The Succulent Hackle-Lo Mod**](https://www.nexusmods.com/morrowind/mods/47502)\
 Hackle-lo leaves are described as "a tasty edible succulent leaf of the Grazelands..." And yet the leaves appear to be flat and not reminiscent of a succulent. This mod edits the plants and ingredients to be thicker. The ingredient is now a single leaf split in half to reveal the tasty flesh inside that locals like to chew after a long day's work.
 
-* Waterfalls Tweaks
+[**Waterfalls Tweaks**](https://www.nexusmods.com/morrowind/mods/46271)\
+Various modifications to waterfalls and water splashes. Born to fit Better Waterfalls mod.
 
 ## Ascadian Isles
 
@@ -245,18 +259,17 @@ This mod redesigns the Library of Vivec from scratch to make it look and feel li
  The Concept Art Palace mod (C.A.P.) is my attempt to bring the Vivec palace closer the original Kirkbride's concept art.
 
 * On MO2 installation, check the following options in the installer:
-  * [x] 00 - Core Files
-  * [x] 05 - GitD - patch
-
-[**Vivec Palace Water Replacer**](https://www.nexusmods.com/morrowind/mods/48291) by [Anumaril21](https://www.nexusmods.com/morrowind/users/60236996)\
-Replaces the water in the Palace of Vivec's canals using the animation method and textures of Tamriel Rebuilt's water statics. Two versions included, one with the original color and one made more blue.
-
-* Files to install:
-  * **Vivec Palace Water Replacer**
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 01 Original Color
+  * Palace Style -> **Symmetrical**
+  * Interior Cluttering -> **Yes**
+  * Flame Options -> **Nothing**
+  * Rotating Planets -> **Yes**
+  * DoorStep -> **Nothing**
+  * Engravings -> **Dunmer Letters (Columns)**
+  * Bridge Decorations -> **Yes**
+  * Decorated Staircase -> **Nothing**
+  * Unique Door -> **No**
+  * TR Water -> **Symmetrical - Original**
+  * Vanilla Resolution -> **No**
 
 [**Prerelease Prisonmoon**](https://www.nexusmods.com/morrowind/mods/49627)\
  Adds some more clutter to the ministry of truth inspired by early screenshots and concept art.
@@ -287,9 +300,6 @@ Community expansion to Glass Domes of Vivec - visual fixes, new region mechanics
 * Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
   * [x] `Imp_Big_4way.ESP`
 
-[**Severa Magia DB Fix**](https://www.nexusmods.com/morrowind/mods/45647) by [Corsair83](https://www.nexusmods.com/morrowind/users/23131859)\
-Updates Severa Magia's hideout to look and feel more like a DB sanctuary.
-
 [**Ebonheart Underworks**](https://www.nexusmods.com/morrowind/mods/47272)\
  Ebonheart now has its own sewage system. With filth, rats, people and quests.
 
@@ -312,7 +322,15 @@ Updates Severa Magia's hideout to look and feel more like a DB sanctuary.
 * On MO2 installation, check the following options in the installer:
   * [x] Data Files
 
-* The Great Seawall of Vivec
+[**Vivec Foreign Quarter Bridge**](https://www.nexusmods.com/morrowind/mods/51420)\
+A small mod that adds a bridge to the Foreign Quarter.
+
+[**Minor Plantations Redone**](https://www.nexusmods.com/morrowind/mods/54537)\
+Ever thought that the Gro-Bagrat and Arano plantations felt more like farmhouses instead of proper plantations?
+This mod aims to fix that by expanding them. New buildings, revised interiors, a few new NPCs, and more!
+
+[**Web of Mephala Morag Tong Headquarters**](https://www.nexusmods.com/morrowind/mods/55163)\
+Visual overhaul of Hidden Area in Vivec Arena
 
 ## Ashlands
 
@@ -387,9 +405,20 @@ A fully animated overhaul of Akulakhan's chamber.
 [**Riharradroon - Hidden Path to Kogoruhn**](https://www.nexusmods.com/morrowind/mods/47357)\
  Adds a tunnel to the world which provides an alternate route into the depths of the Dunmer stronghold known as Kogoruhn.
 
-* Bal'laku - The Lonely Towers
-* Tales from the Ashlands - The Great Hive Baan Binif
-* The Beacons of Mamaea
+[**Bal'laku - The Lonely Towers**](https://www.nexusmods.com/morrowind/mods/51060)\
+Looming high over the hills of the northern Ashlands, the towers of Bal'laku are an awe-inspiring sight to behold.
+
+[**Tales from the Ashlands - The Great Hive Baan Binif**](https://www.nexusmods.com/morrowind/mods/51419)\
+Implementation of the official concept art drawing by Michael Kirkbride.
+
+[**The Beacons of Mamaea**](https://www.nexusmods.com/morrowind/mods/53875)\
+Adds a network of alarm beacons that stretches from Ghostgate all the way south to Vivec. Inspired by the Warning Beacons of Gondor from Lord of the Rings.
+
+[**Devilish Rocky Red Mountain**](https://www.nexusmods.com/morrowind/mods/53473)\
+Malbogatra's "Rocky Red Mountain" made compatible with important mods such as BCOM, Memento Mori, Red Mountain Reborn ...
+
+[**Another Markgran Forest**](https://www.nexusmods.com/morrowind/mods/53910)\
+Another take on Demanufacturer87s Markgran Forest mod. Covers the area near Maar Gan in a new mushroom forest.
 
 ## Azura's Coast
 
@@ -404,7 +433,16 @@ A fully animated overhaul of Akulakhan's chamber.
 This is not BCOM but a BCOM extensions module. It includes a BAIN installer where you can choose from 9 mods (or even take them all) that have been made both BCOM compatible and compatible with each other. The goal is to make the installation process easier.
 
 * On MO2 installation, check the following options in the installer:
-  * [x] any preference
+  * [x] 01 Sadrith Mora Seat Of Power Closed City
+  * [x] 02 Of Murk and Mussels - A Sadrith Mora Trader
+  * [x] 03 Of Musk and Mer - A Sadrith Mora Tale
+  * [x] 04 Of Melodies and Moonlight -  A Sadrith Mora Artist
+  * [x] 05 Devilish Upper District Overhaul (requires 01)
+  * [x] 06 OAAB Market
+  * [ ] 07 Belltower of Sadrith Mora
+  * [x] 08 Shipyards of Vvardenfell
+  * [ ] 09 Hasphats HQ Telvanni Textures
+  * [x] 10 Telvanni Strider House
 
 [**Holamayan Island**](https://www.nexusmods.com/morrowind/mods/50996)\
  A simple mod that adds a few details to the monastery island.
@@ -434,7 +472,7 @@ This mod is a model and texture replacer for the Mudcrab Merchant, making him st
  This mod overhauls the burial of Olmgerd the Outlaw with proper Journal Indexing, a new armor set, and a remake of Storm Kiss.
 
 [**Moody Magas Volar**](https://www.nexusmods.com/morrowind/mods/49789)\
-  A complete overhaul of Magas Volar.
+A complete overhaul of Magas Volar.
 
 [**Forge of Hilbongard**](https://www.nexusmods.com/morrowind/mods/43222)\
 This little mod tweaks the Forge of Hilbongard slightly to make it a little more unique. The pictures show pretty much all the current changes.
@@ -455,8 +493,13 @@ Pirates upon the shore of Azura's Coast, along with a market, tavern, and small 
 [**Tethered Tel Branora**](https://www.nexusmods.com/morrowind/mods/53314)\
 An exterior overhaul of Tel Branora and the surrounding island to be more thematic to Mistress Therana.
 
-Telvanni Council House Lounge Room
-Tel Branora Expansion
+[**Tel Branora Expansion**](https://www.nexusmods.com/morrowind/mods/55279)\
+Overhaul of Tel Branora
+
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Core
+  * [ ] 01 Boat Addon (do not use alogside BCoM)
+  * [x] 02 Quest addon
 
 ## Bitter Coast
 
@@ -485,16 +528,19 @@ Adds an airborne mudball house southeast of Gnaar Mok.
 Adds enormous trees to the Bitter Coast region to provide a dense canopy overheard and large roots jutting out of the ground below.
 
 * On MO2 installation, check the following options in the installer:
+  * Texture Resolution -> **HD**
   * Tree Replacers -> **None**
   * Mod compatibility
     * [x] Ashfall
     * [x] OAAB_Data
   * Denser Bitter Coast -> No
     * [ ] Vality's Bitter Coast Patch
-  * Platforms and Walkways
+  * Platforms or Shorter Trees -> **Platforms and Walkways**
   * Mod Patches
     * [x] Cawumaloe Manor
     * [x] Tamriel Rebuilt Sundred Scar Region
+    * [ ] Nevena's Twin Lamps
+    * [ ] The Sable Dragon
 
 [**Andrano Tomb+Retribution**](https://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=122&Itemid=50&-Andrano-Tomb-Retribution) by *abot*\
 Andrano Ancestral Tomb remastered + (the no more available sequel) Andrano retribution merged, some changes (e.g. now compatible with ROHT) for hopefully better compatibility.
@@ -538,15 +584,25 @@ The author of Perfect Scum recommends to put height waves to 0 when generating D
 [**Swamp Stump Sanctuaries**](https://www.nexusmods.com/morrowind/mods/52841)\
 Puts doors in a few stumps around the bitter coast that lead to small abodes under the surface of the swamp water.
 
-More Alien Bitter Coast
-Bal Isra and Indarys Manor Overhaul
-A New Windmill for Pelagiad
-Arano Plantation Windmill
+[**More Alien Bitter Coast**](https://www.nexusmods.com/morrowind/mods/55585)\
+Adds new mushroom trees to the Bitter Coast region
+
+[**Bal Isra and Indarys Manor Overhaul**](https://www.nexusmods.com/morrowind/mods/54497)\
+Overhaul of Bal Isra and Indarys Manor
+
+[**A New Windmill for Pelagiad**](https://www.nexusmods.com/morrowind/mods/50316)\
+This mod adds a windmill on the hill behind Pelagiad.
+
+[**Arano Plantation Windmill**](https://www.nexusmods.com/morrowind/mods/55393)\
+Adds a windmill to the Arano Plantation
+
+[**Dallara Odai Plateau**](https://www.nexusmods.com/morrowind/mods/56243)\
+-This replacement transform the Rethan Manor in a real Stronghold.
 
 ## Grazelands
 
 ⭐ [**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
- This mod is an overhaul of Vos and Tel Vos, the land surrounding them, the two nearby egg mines, covering a large portion of the northern Grazelands. Currently, the mod does not cover the entire Grazelands region, but additional work is planned in future updates. The mod includes 16+ new quests with approximately 18,000 words of dialogue.
+This mod is an overhaul of Vos and Tel Vos, the land surrounding them, the two nearby egg mines, covering a large portion of the northern Grazelands. Currently, the mod does not cover the entire Grazelands region, but additional work is planned in future updates. The mod includes 16+ new quests with approximately 18,000 words of dialogue.
 
 * On MO2 installation, check the following options in the installer:
   * [x] 📃 Magicka Expanded
@@ -561,7 +617,7 @@ A pluginless replacer for the Grazelands trees inspired by the umbrella thorn ac
     * [x] OAAB_Data
 
 [**RR Mod Series - Telvanni Lighthouse Tel Vos**](https://www.nexusmods.com/morrowind/mods/42744)\
- This mod adds a Telvanni style Lighthouse not far from Tel Vos and Tel Mora.
+This mod adds a Telvanni style Lighthouse not far from Tel Vos and Tel Mora.
 
 * Files to install:
   * **Telvanni Lighthouse - Tel Vos** (Main files)
@@ -581,15 +637,11 @@ Overhauls Dwemer ruins so that they are more memorable, more fun to explore, and
   * **BDI master update** (Update files)
   * **nchuleft interim hotfix** (Update files)
 
-[**Fixed Falensarano**](https://www.nexusmods.com/morrowind/mods/48683)\
-This is a small edit to the mod Falensarano - The ruined stronghold where landscape edits have been removed for compatibility.
-There were also dirty edits that have been removed and some small tweaks here and there.
-
-* Files to install:
-  * **Fixed Falensarano** (Main files)
-
 [**Thickle-Lo Grove**](https://www.nexusmods.com/morrowind/mods/51689)\
  Discover a little secret of the Ashlander traders, who live near Iveri Llothri, the unlucky witch... This mod adds an interesting place to visit in the Grazelands, to the east of Zainab camp and to the south of Vos. Made for the Summer Modjam 2022.
+
+[**The Song of the Grazelands**](https://www.nexusmods.com/morrowind/mods/54652)\
+A major landscape overhaul and quest mod for the southwestern corner of the Grazelands. Transforms this area of the map into a land of a rising plateaus and towering trees.
 
 ## Molag Amur
 
@@ -638,22 +690,22 @@ Small expansion to the mushroom grove near Dagon Fel.
 To the west and slightly north of Dagon Fel, you'll find a small cottage along the shores of the Sheogorad, where a young Nord spends his days longing for home. Will you help him find what he seeks? Or will you be the instrument of his destruction?
 
 [**Sanctus Shrine**](https://www.nexusmods.com/morrowind/mods/47841) by [hater8](https://www.nexusmods.com/morrowind/users/57926276)\
- Minor cosmetic changes to the Sanctus Shrine.
+Minor cosmetic changes to the Sanctus Shrine.
 
 [**Dagon Fel Mill Redux**](https://www.nexusmods.com/morrowind/mods/50067) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
- Cleaned, fixed and improved version of the Dagon Fel Mill mod
+Cleaned, fixed and improved version of the Dagon Fel Mill mod
 
 [**Ashmelech Reborn**](https://www.nexusmods.com/morrowind/mods/45648) by [istred](https://www.nexusmods.com/morrowind/users/2476481)\
- This mod improves Ashmelech from being a largely empty ruin to a place worthy of being the clansted of the Aundae. More furniture, lights, services.
+This mod improves Ashmelech from being a largely empty ruin to a place worthy of being the clansted of the Aundae. More furniture, lights, services.
 
 [**The Weary Vampire**](https://www.nexusmods.com/morrowind/mods/49774) by [OperatorJack](https://www.nexusmods.com/morrowind/users/61791411)\
- This mod overhauls Drethan Ancestral Tomb, transforming it into a much larger location that can be used as a player home after completing the quest, "The Weary Vampire."
+This mod overhauls Drethan Ancestral Tomb, transforming it into a much larger location that can be used as a player home after completing the quest, "The Weary Vampire."
 
 [**Devilish Spines Of Madness**](https://www.nexusmods.com/morrowind/mods/53423)\
 Malbogatra's Spines Of Madness edited to be compatible with important mods of the Sheogorad region such as BCOM, Rise of House Telvanni, Dagon Fel Lighthouse, Ald Redaynia mods, Ancient Foes, Of Justice and Innocence ...
 
 [**Dagon Fel Lighthouse**](https://www.nexusmods.com/morrowind/mods/52291)\
- A lighthouse has been added to the North-West of Dagon Fel. Meet Vigunn, the Nord lighthousekeeper.
+A lighthouse has been added to the North-West of Dagon Fel. Meet Vigunn, the Nord lighthousekeeper.
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
@@ -665,6 +717,12 @@ Malbogatra's Spines Of Madness edited to be compatible with important mods of th
 
 [**Fort Ghostmoth**](https://www.nexusmods.com/morrowind/mods/52300)\
  An unusual Imperial fort to the farthest north of Sheogorad.
+
+[**Forests of Sheogorad**](https://www.nexusmods.com/morrowind/mods/53648)\
+Adds flora from Bloodmoon to Sheogorad, with compatibility with Devilish Spines of Madness in mind
+
+[**The Wake of Hanin - Ibar-Dad Overhaul**](https://www.nexusmods.com/morrowind/mods/56206)\
+The Wake of Hanin overhauls and expands the vanilla dungeon of Ibar-Dad. Venture into the unfathomable depths of Ibar-Dad and solve two quests to find Mordrin Hanin's burial chamber and claim all its treasure for yourself!
 
 ## West Gash
 
@@ -709,27 +767,34 @@ A West Gash tree replacer for players who desire a look closer to the vanilla ga
 This mod adds a free player house of your very own in Balmora. Compatible with Beautiful Cities of Morrowind and Morrowind Rebirth.
 
 [**The Island - Aln'Baldrahn**](https://www.nexusmods.com/morrowind/mods/43187) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
- This mod adds a beautiful new island to the West Gash Region near Khuul. I actually made this mod as my interior/exterior showcase for the Tamriel Rebuilt project but I spent so much time on it and I liked it so much that I thought I would release it here for others to enjoy.
+This mod adds a beautiful new island to the West Gash Region near Khuul. I actually made this mod as my interior/exterior showcase for the Tamriel Rebuilt project but I spent so much time on it and I liked it so much that I thought I would release it here for others to enjoy.
 
 [**Berandas Overhaul**](https://www.nexusmods.com/morrowind/mods/48236) by [seelof](https://www.nexusmods.com/morrowind/users/4139826)\
- This mod overhauls and slightly expands the old Dunmer fortress Berandas near Gnisis. Daedra have claimed Berandas, but other than the few roaming Daedra themselves there is not much evidence of the corruption. With this mod, old daedric structures have risen from the deep to transform the fortress into a proper daedric stronghold.
-
-[**Vorar Helas' Basement**](https://www.nexusmods.com/morrowind/mods/49313)\
- Adds a basement to Vorar Helas' house, with a small skooma (alchemy) lab, a bookshelf and some storage.
+This mod overhauls and slightly expands the old Dunmer fortress Berandas near Gnisis. Daedra have claimed Berandas, but other than the few roaming Daedra themselves there is not much evidence of the corruption. With this mod, old daedric structures have risen from the deep to transform the fortress into a proper daedric stronghold.
 
 [**Windmill in Caldera v1.0**](https://mw.modhistory.com/download-80-6218) by **ayse**\
 This mod add two charming windmill immediately northwest of Caldera. You simply can't miss them. Inside the mill is a simple hammock if you need a free nap.
 
 [**Andasreth Stronghold - dungeon and exterior overhaul**](https://www.nexusmods.com/morrowind/mods/46604)\
- Rebuilds Andasreth stronghold and its exterior area.
+Rebuilds Andasreth stronghold and its exterior area.
 
 [**Balmora Gravemarket**](https://www.nexusmods.com/morrowind/mods/51696)
- The disused catacombs under Balmora make a fine spot for a flea market. Food, drink, jewellery, home goods, tailoring, all available and guaranteed watched over by the sacred dead.
+The disused catacombs under Balmora make a fine spot for a flea market. Food, drink, jewellery, home goods, tailoring, all available and guaranteed watched over by the sacred dead.
 
 * Files to install:
   * **BalmoraGravemarketBCOM** (Main files)
 
-* Caldera Mine Expanded - Simplified and bug-free
+[**Caldera Mine Expanded - Simplified and bug-free**](https://www.nexusmods.com/morrowind/mods/52840)\
+Simplified version of the classic "Caldera Mine Expanded". This version removes all the quests, dialogue entries and scripting and only keeps the scenic part of the mod.
+
+[**Gnisis Docks**](https://www.nexusmods.com/morrowind/mods/45994)\
+General Darius wants Widow Vabdas' land, because he would like to build a new dock for the Legion. With this mod, an actual dock will appear near Vabdas' hut, a few days after the quest is finished by stealing the land deed.
+
+[**Ahrkthumz - Dwemer Puzzle Dungeon**](https://www.nexusmods.com/morrowind/mods/54187)\
+Venture deep into Ahrkthumz, an untouched Dwemer ruin north of Caldera. Discover new artifacts and a unique color-based puzzle mechanic.
+
+[**Guar Stable in the West Gash**](https://www.nexusmods.com/morrowind/mods/54893)\
+Adds an NPC to the Horse-Mouth farm north west of Caldera who will sell scrolls that can cure diseased guars (or anything else). Intended to be used on the guars from Guar Whisperer.
 
 ## Solstheim
 
@@ -777,8 +842,8 @@ Distant Land generation is required to make this mod work as intended. Instructi
 ⭐ [**Immersive Mournhold**](https://www.nexusmods.com/morrowind/mods/49353) by [RandomPal](https://www.nexusmods.com/morrowind/users/59284071)\
  Mournhold Overhaul
 
-⭐ [**Dark Brotherhood Headquarters**](https://www.nexusmods.com/morrowind/mods/43022)\
- This mod redecorates Dark Brotherhoods lair in Old Mournhold
+[**Tribunal Main Quest Reforged**](https://www.nexusmods.com/morrowind/mods/54743)\
+Expands and deepens the Tribunal questlines, giving players more choice and agency than before.
 
 ## Misc
 
@@ -795,6 +860,8 @@ Distant Land generation is required to make this mod work as intended. Instructi
 * On MO2 installation, check the following options in the installer:
   * BCOM
   * Concept art plantations
+  * Excellent Grazelands
+  * Graht Swamp Trees
 
 [**OAAB Shipwrecks**](https://www.nexusmods.com/morrowind/mods/51364)\
 A complete overhaul of every vanilla shipwreck.
@@ -813,21 +880,29 @@ Adds some unique, Telvanni style light sources to various Telvanni settlements
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
   * [x] 01 BCoM Version
+  * [x] 02 Telvanni Council House Pathway
 
 [**Tamriel Rebuilt - Hall of Justice Overhaul**](https://www.nexusmods.com/morrowind/mods/52224)\
- Overhaul the Hall of Justice in Old Ebonheart
+Overhaul the Hall of Justice in Old Ebonheart
 
-Bthuand Expanded
-Zebabi Expanded
-Galom Daeus Overhaul
-Aleft Overhaul
-Nchardumz Overhaul
-Haishibi Mine
-Ranyabi Egg Mine
-Mzahnch Overhaul
-Druscashti Overhaul
-Andrethi Tomb Overhaul
-Compatible Odai Boat Service
+[**Superior Shulk Eggmine -OAAB**](https://www.nexusmods.com/morrowind/mods/53785)\
+Rediscover the Shulk Eggmine and new hidden depths within its bowels. Superior Shulk Eggmine integrates assets from OAAB and TR data. With mysteries and secrets hidden throughout for the keen adventurer or simply aspiring Fighter's Guild members on their journeys through one of the Fighter's Guild's earliest quest locales.
+
+[**What Kwamas Forage - An Eggmine Mod**](https://www.nexusmods.com/morrowind/mods/53360)\
+Remakes the eggmines using OAAB assets and adds some minor loot. Now, eggmines look unique and you have a reason to go into them.
+
+[**Dungeon Details**](https://www.nexusmods.com/morrowind/mods/54772)\
+A series in which I visually update dungeons using various assets. Like Mines and Caverns, but entirely modular.
+
+[**Vennin's Dungeons**](https://www.nexusmods.com/morrowind/mods/55630)\
+A compilation of all of my dungeon mods in a single mod with two new dungeons and some fixes.
+
+[**The Woe of Indalen Tomb**](https://www.nexusmods.com/morrowind/mods/54661)\
+Elmussa Damori has been suffering nightmares, perhaps you might offer her assistance?
+
+[**Neselia Remade**](https://www.nexusmods.com/morrowind/mods/53524)\
+A loose reimagining of The Neverhalls using the PC Ayleid tileset. a level 20+ dungeon dive.
+
 Little Landscapes- Bitter Coast Waterway
 Little Landscapes- Path to Pelagiad
 Little Landscapes - Nix Hound Hunting Grounds
@@ -835,14 +910,6 @@ Little Landscapes - Seyda Neen Swamp Pools
 Little Landscapes - Path to Vivec Lighthouse
 Little Landscape - Foyada of Sharp Teeth
 Little Landscape - Path to Balmora
-Superior Shulk Eggmine -OAAB
-Neselia Remade
-Another Markgran Forest
-Salothan Council
-What Kwamas Forage - An Eggmine Mod
-Vennin's Dungeons
-Dungeon Details
-The Woe of Indalen Tomb
 
 ## Add-ons
 
@@ -872,7 +939,7 @@ The Woe of Indalen Tomb
 Moves a majority of the exterior changes from Memento Mori to their own interior cells for compatability.
 
 [**OAAB - Tel Raloran**](https://www.nexusmods.com/morrowind/mods/46841) by [Corsair83](https://www.nexusmods.com/morrowind/users/23131859)\
- A Telvanni mushroom house with MWSE functions.
+A Telvanni mushroom house with MWSE functions.
 
 * On MO2 installation, check the following options in the installer:
   * [X] 00 Core
@@ -882,7 +949,7 @@ Moves a majority of the exterior changes from Memento Mori to their own interior
 Discover the remnants of a failed Telvanni expedition and explore the depths of Bethaleft, a Dwemer citadel that served as a testing ground for the Tools of Kagrenac.
 
 [**The Manifold Spires**](https://www.nexusmods.com/morrowind/mods/46128) by [PhDinSorcery](https://www.nexusmods.com/morrowind/users/8404526)\
- A mod that adds the Manifold Spires, a new landmass, and an associated quest.
+A mod that adds the Manifold Spires, a new landmass, and an associated quest.
 
 [**Lyithdonea**](https://www.nexusmods.com/morrowind/mods/43749) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
 Lyithdonea: The Azurian Isles is a landmass mod for Morrowind featuring a tropical paradise between Tamriel and Akavir. The mod has a strong influence from the Daedric Lord Azura with dusk and dawn themes and Azura being the focus of religion in the region. Explore a detailed new landmass, discover strange creatures, battle pirates, immerse in the
@@ -909,7 +976,7 @@ This mod adds a Redoran lighthouse to the north-eastern coast of Vvardenfell.
 [**Keelhouse - A quest and house mod for Tamriel Rebuilt**](https://www.nexusmods.com/morrowind/mods/53395)\
 Moves Joi Ror’s Keelhouse to the TR mainland, gives it a visual update and a small questline to get the house.
 
-[**Traveling Guar Riders**](https://www.nexusmods.com/morrowind/mods/52788)\
+✨ [**Traveling Guar Riders**](https://www.nexusmods.com/morrowind/mods/52788)\
 Adds traveling guar riders to a few locations on Vvardenfell as well as the mainland.
 
 [**Restful Reef Refuge**](https://www.nexusmods.com/morrowind/mods/52829)\
@@ -917,9 +984,6 @@ A quaint underwater home with plenty of storage in the Sea of Ghosts.
 
 [**A Cold Cell**](https://www.nexusmods.com/morrowind/mods/52832)\
 Travel to Khuul and investigate the rumors about a smuggling operation nearby. Or perhaps it's more than that?
-
-[**Arnchenzel - Dwemer Underwater House**](https://www.nexusmods.com/morrowind/mods/52838)\
-This mod adds a house to the southwest of Tel Branora. Maybe you'll even find a cool dwemer helmet too!
 
 [**Terror of Tel Amur**](https://www.nexusmods.com/morrowind/mods/53673)\
 Adds a series of heists and a quest to investigate a mysterious new tower deep in the Molag Amur wilderness
@@ -933,9 +997,6 @@ Ashu-awa, an Ashlander hunter, undertakes a regular journey between Suran and Pe
 [**Halls Of Colossus**](https://www.nexusmods.com/morrowind/mods/53677)\
 Journey through time and space as you uncover the secrets of the ancient Halls of Colossus. Guarded by the Emperor's elite, this enigmatic location is your portal to an epic tale of mystery and intrigue.
 
-[**Indoril Mansion**](https://www.nexusmods.com/morrowind/mods/53022)\
-Help the guests from Necrom in solving their little problem in Mournhold. A quest, a dungeon, a fancy home and an amazing robe to wear!
-
 [**Grahtwood Roost**](https://www.nexusmods.com/morrowind/mods/52888)\
 Obtain and improve a cozy treehouse of your own through a short series of quests.
 
@@ -948,17 +1009,42 @@ Minuet Cottage is, very simply, a move-in ready tiny house cottage for sale in P
 * Files to install:
   * **Minuet Alternate Spot** (Main files)
 
-[**Tamrielic Treasures - A Caldera shop with mannequins**](https://www.nexusmods.com/morrowind/mods/53487)\
-A new shop outside of Caldera with a wide variety of goods imported from all over Tamriel, plus a unique assortment of Imperial armor equipment. They even sell mannequins to showcase your new armor!
-
-[**Lord of Rebirth**](https://www.nexusmods.com/morrowind/mods/53680)\
-Explore a realm in conflict between undead void pirates and a group of alchemists with members from all over Tamriel. Join one of them or find an alternate path to end the stalemate. Includes new weapons and items to earn as rewards.
-
 [**Thurndal**](https://www.nexusmods.com/morrowind/mods/48158)\
 An ancient Velothi tower on the coast of the West Gash, for a tranquil and secluded retreat fitting of the Nerevarine.
 
 [**Distant Horizon - A Chimeri-quey flotilla**](https://www.nexusmods.com/morrowind/mods/53152)\
 Visit the Chimeri-quey flotilla of Distant Horizon On A Foggy Morning, out on the Padomaic Ocean, and get to meet the locals.
 
-Drethos Ancestral Tomb
-Telvanni questline addon - Arvs-Spelun
+[**Drethos Ancestral Tomb**](https://www.nexusmods.com/morrowind/mods/53481)\
+This mod adds a new dungeon to the Bitter Coast Region: Drethos Ancestral Tomb. Ancient and forgotten, it hides a sad story about loss and grief. Will you find your way through root and rock to uncover both it and an old and forsaken artifact?
+
+[**Telvanni questline addon - Arvs-Spelun**](https://www.nexusmods.com/morrowind/mods/51449)\
+Adds a unique interior with a Telvanni wizard doing researches on vampirism.
+
+[**Indoril Mansion**](https://www.nexusmods.com/morrowind/mods/53022)\
+Help the guests from Necrom in solving their little problem in Mournhold. A quest, a dungeon, a fancy home and an amazing robe to wear!
+
+[**Lord of Rebirth**](https://www.nexusmods.com/morrowind/mods/53680)\
+Explore a realm in conflict between undead void pirates and a group of alchemists with members from all over Tamriel. Join one of them or find an alternate path to end the stalemate. Includes new weapons and items to earn as rewards.
+
+[**Tamrielic Treasures - A Caldera shop with mannequins**](https://www.nexusmods.com/morrowind/mods/53487)\
+A new shop outside of Caldera with a wide variety of goods imported from all over Tamriel, plus a unique assortment of Imperial armor equipment. They even sell mannequins to showcase your new armor!
+
+[**Arnchenzel - Dwemer Underwater House**](https://www.nexusmods.com/morrowind/mods/52838)\
+This mod adds a house to the southwest of Tel Branora. Maybe you'll even find a cool dwemer helmet too!
+
+[**Pleasant Pilgrim's Rest**](https://www.nexusmods.com/morrowind/mods/53258)\
+An overhaul of The Pilgrim's Rest Tavern in Molag Mar. A better interior, 6 new quests, new dialogue, additions to a local tomb, and more.
+
+[**Ald'Ruhn Outskirts - Ancestral Refuge**](https://www.nexusmods.com/morrowind/mods/55944)\
+Adds a cozy old temple to the hill above Ald'Ruhn. Now it serves as a base for the Ancestral mages. Also you can eat and rest there during your pilgrimage.
+
+[**Iceholme Retreat**](https://www.nexusmods.com/morrowind/mods/55221)\
+A Nord merchant has appeared on the road to the northeast of Balmora. She's got a small treasure to sell. Will you take your chance to learn its secrets?
+
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
+  * [ ] `Iceholme retreat_Vanilla Solstheim.esp`
+  * [ ] `Iceholme Retreat_No Solstheim Edits.ESP`
+
+[**Balmora Outskirts - Stoneflower trading post**](https://www.nexusmods.com/morrowind/mods/54534)\
+This mod adds a new cozy trading post/tavern to the outskirts of Balmora. There you can meet a Khajiit bard who sings her native songs, try delicious bantam guar meat, and explore the nearby egg mine...

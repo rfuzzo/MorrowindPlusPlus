@@ -103,9 +103,6 @@ This mod overhauls the Fighters Guild questline by improving the background and 
 ⭐ [**Thieves' Guild Overhaul**](https://www.nexusmods.com/morrowind/mods/49944)\
 A complete overhaul of the Thieves' Guild faction. New quests, tweaks for existing quests, items, and a lot more!
 
-[**Thieves Guild Stash**](https://www.lonebullet.com/mods/download-thieves-guild-stash-v10-elder-scrolls-iii-morrowind-mod-free-43942.htm)\
-This mod adds several "Thieves' Guild Stash" chests, similar to the Fighters' Guild Equipment Chests and Mages' Guild Supply Chests, next to some of the higher-ranking thieves.
-
 [**Thieves' Guild in Gnaar Mok**](https://www.nexusmods.com/morrowind/mods/46754)\
 This mod adds ten new Thieves' Guild quests to Gnaar Mok. Part of the May Modathon Month.
 
@@ -127,7 +124,7 @@ Overhaul of Morag Tong assassination quests, making them more interesting via no
 Many Mages Guild members will now wear the new robes and the player can acquire the robes through quests and purchase.
 
 * On MO2 installation, check the following options in the installer:
-  * How do you play the game -> **📃 MGE XE** (or ✨ OpenMW)
+  * Game engine -> **📃 MGE XE** (or ✨ OpenMW)
   * [x] Vanilla style robe enchantments
 
 * Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
@@ -138,6 +135,33 @@ Members of the Mages Guild can now deliver a coded message, solve a murder, inve
 
 [**Ethereal Magic**](https://www.nexusmods.com/morrowind/mods/55443)\
 Join the Mages’ Guild in Gnisis and help in their research concerning ethereal magic. Part of the Morrowind Modding Madness Competition.
+
+[**Splendor of Stars**](https://www.nexusmods.com/morrowind/mods/54748)\
+Prologue questline to Tribunal on Vvardenfell
+
+[**Dissident Ordinators**](https://www.nexusmods.com/morrowind/mods/52874)\
+What if a group of outcast Ordinators decided to join the Dissident Priests? This mod makes this interesting possibility come true by bringing Dissident Ordinators into the game. Features special armor and weapon, a micro-quest with unique dialogue, and an immersive addition to the Ministry of Truth. Part of the May Modathon Month 2023.
+
+[**Join the Dissident Priests**](https://www.nexusmods.com/morrowind/mods/54775)\
+Now you can join the Dissident Priests, at the appropriate point in the main quest. 8 new quests.
+
+[**Balmora Temple Questline**](https://www.nexusmods.com/morrowind/mods/54211)\
+Adds a questline to the Balmora Temple
+
+[**The Buoyant Armigers**](https://www.nexusmods.com/morrowind/mods/54360)\
+Join the Buoyant Armigers as a recruit and help keep Vvardenfell safe from the forces of Dagoth Ur.
+
+[**Collecting The Thirty-Six Lessons of Vivec**](https://www.nexusmods.com/morrowind/mods/54257)\
+A very, very simple quest to gather a copy of each of the Lessons of Vivec.
+
+[**Thirty-six**](https://www.nexusmods.com/morrowind/mods/55582)\
+Help a dissident priest learn the secrets within the 36 Lessons of Vivec, and expose its author with the message you decipher.
+
+[**Tribunal Temple Expanded**](https://www.nexusmods.com/morrowind/mods/54473)\
+Adds new quests to the Tribunal Temple on Vvardenfell.
+
+[**Pilgrims in Peril**](https://www.nexusmods.com/morrowind/mods/55639)\
+Aid pilgrims in need across Vvardenfell with unique quests, choices, and rewards.
 
 ## Misc
 
@@ -155,7 +179,8 @@ Lucevar's Dialogue Mod for Morrowind
   * [ ] 03 More Exclusive Factions
   * [x] 04 Racist Service Refusal
 
-⭐ [**FFresh](https://www.nexusmods.com/morrowind/mods/53006)\
+⭐ [**FFresh**](https://www.nexusmods.com/morrowind/mods/53006)\
+Adds about 30 low-level quests to Seyda Neen, Balmora, and a particular category of people.
 
 [**Carelessly Crazy Caldera Community**](https://www.nexusmods.com/morrowind/mods/47275)\
 Adds a new shop, 2 new NPCs, 17 new quests to Caldera, and adds unique background, personality and dialogue to most of the NPCs of the town.
@@ -179,28 +204,31 @@ Fleshes out the vanilla quest "The Patchwork Airship" by replacing the airship w
 An alternative solution for the "A Bounty for Trerayna Dalen" quest: side with Trerayna instead of Therana.
 
 [**Hiring Guards for the Redoran Stronghold - Honorable Solution**](https://www.nexusmods.com/morrowind/mods/48243)\
-
-[**Harvest's End Festival**](https://www.nexusmods.com/morrowind/mods/49834)\
+Provides an honorable solution for hiring the Fighters' Guild for protecting the Redoran Stronghold - actually paying for their services instead of participating in a jailbreak.
 
 [**Fort Moonmoth Fundraiser Dinner**](https://www.nexusmods.com/morrowind/mods/49837)\
+Makes the fundraiser dinner at Fort Moonmoth actually take place. Part of the May Modathon Month.
 
 [**Immersive Neloth Reward**](https://www.nexusmods.com/morrowind/mods/49836)\
+Makes Neloth's reward for retrieving the Robe of the Drake's Pride more immersive. Also provides some additional tweaks for that quest. Part of the May Modathon Month.
 
 [**The Frostmoth Smugglers - Properly Rewarded**](https://www.nexusmods.com/morrowind/mods/47409)\
-
-[**Champion of Clutter**](https://www.nexusmods.com/morrowind/mods/47377)\
-
-[**A Cure for Vampirism - Skink's Solution**](https://www.nexusmods.com/morrowind/mods/47375)\
-
-[**Morrowind - Immanuel Kant Edition**](https://www.nexusmods.com/morrowind/mods/45995)\
+Makes Captain Carius reward you properly for taking care of the smugglers, when he returns to Fort Frostmoth from Mortrag Glacier.
 
 [**Redoran Founder's Helm Add-on - Honor the Ancestors**](https://www.nexusmods.com/morrowind/mods/47352)\
+A small add-on for the official Redoran quest "Founder's Helm." Now you have the opportunity to actually return the helm to the ancestral tomb it originally belonged to.
 
 [**The Corpse and the Skooma Pipe Overhaul**](https://www.nexusmods.com/morrowind/mods/46696)\
 With this mod, seven new choices are added to the quest, and seven different outcomes based on the player's choice. (Not including the two choices that are already present in the game.)
 
 [**Ashlanders Herd**](https://www.nexusmods.com/morrowind/mods/48720)\
 Ashlanders Herd provides a solution to a dialogue inconsistency and spices up Ashlander camps by adding domesticated Guar and Shalk painted with tribal identifiers to denote ownership.
+
+[**Of Bones and Barbarians An Ald Ruhn Blacksmith**](https://www.nexusmods.com/morrowind/mods/53732)\
+A new Bonemold smith has opened shop in Aldrhun.
+
+[**Forgotten Wastes**](https://www.nexusmods.com/morrowind/mods/54162)\
+Some simple lore-friendly content added to the previously quite unused area of the ashlands southeast of Ghostgate.
 
 ## Add-ons
 
@@ -228,9 +256,6 @@ Follow a short questline to discover the nature of a recluse conjurer's mysterio
 [**A Hermits Request**](https://www.nexusmods.com/morrowind/mods/23714)\
 To the west of Seyda Neen, along the bitter coast, there lives a hermit by the name of Thexn Akaasul. It would seem that Thexn has a series of tasks for any adventurous soul willing to seek him out, though they deal mostly with the necessities of life rather than adventures of the grandiose sort.
 
-[**Hostages**](https://www.nexusmods.com/morrowind/mods/47916)\
-Adds hostages to random dungeons of Vvardenfell and the opportunity for you to free them.
-
 [**Hircine's Quest**](https://www.nexusmods.com/morrowind/mods/47651)\
 Participate in the challenge of Hircine and hunt down his three aspects.
 
@@ -250,6 +275,15 @@ Join the Talos Cult and embark on a conspiracy to kill the emperor.
 [**Vvardenfell Brotherhood**](https://www.nexusmods.com/morrowind/mods/47314)\
 A mod that allows you to join the Dark Brotherhood on Vvardenfell, in a semi lore-friendly (it expands lore) and enticing story, that stays true to the vanilla vision.
 
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Content (Required)
+  * [ ] 01 Vanilla (Choose One)
+  * [ ] 02 Vanilla + DSO (Choose One)
+  * [x] 03 BCoM (Choose One)
+  * [ ] 04 BCoM + DSO (Choose One)
+  * [x] 05 Morag Tong Polished Integration (Optional)
+  * [x] 06 Maar Gan - ToP Patch (Optional)
+
 [**What is something that can be perceived**](https://www.nexusmods.com/morrowind/mods/47598)\
 Adds Dark Brotherhood armor to the members of the faction in Vvardenfell.
 
@@ -268,14 +302,30 @@ Dagoth Ur has been defeated, but the continued presence of the Sixth House still
 * Files to install:
   * **Crown Edition** (Main Files)
 
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Content (Required)
+  * [ ] 01 Vanilla (Choose One)
+  * [x] 02 BCoM (Choose One)
+
 [**After the Blight**](https://www.nexusmods.com/morrowind/mods/46099) by [Caeris](https://www.nexusmods.com/morrowind/users/43442372)\
 The Sixth House have been defeated and Morrowind is saved. Yet, reports of a group of Ashlanders camped outside of Kogoruhn will lead the Nerevarine into a new story. Restore a fallen house, defeat a new enemy, and recover ancient artifacts.
 
 * Files to install:
   * **Crown Edition** (Main Files)
 
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Content (Required)
+  * [ ] 01 Vanilla (Choose One)
+  * [x] 02 BCoM (Choose One)
+  * [x] 03 The Rise of the Tribe Unmourned Integration (Optional)
+
 [**Camonna Tong**](https://www.nexusmods.com/morrowind/mods/50740) by [Caeris](https://www.nexusmods.com/morrowind/users/43442372)\
 Begin a tale about the largest criminal organization in Morrowind, the Camonna Tong. Vye for power in all influences of society by working together with the likes of Orvas Dren, the Kingpin.
+
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Content (Required)
+  * [ ] 01 Vanilla (Choose One)
+  * [x] 02 BCoM (Choose One)
 
 [**Of Justice and Innocence**](https://www.nexusmods.com/morrowind/mods/34046)\
 In the small village of Dagon Fel there lives a woman by the name of Rinida Honwyer. She claims her poor, sweet innocent brother has been kidnapped by smugglers. This unfortunate outcome is a result of an unlikely series of events and her poor brother's own naivety. Now Rinida fears for her brothers life, sure that these smugglers mean nothing
@@ -305,16 +355,6 @@ An open ended quest mod about love, death, Daedra, vengeance, and whiney Bosmer 
   * [x] `NON1.LoveintheTimeofDaedra.v1.03.esp`
   * [x] `NON1.LoveintheTimeofDaedra.v1.03_Abot.esp`
 
-[**Master of Puppets**](https://www.nexusmods.com/morrowind/mods/51393)\
-Recover a stolen arcane tome from a renegade wizard and his magically animated puppet servants.
-
-* Files to install:
-  * **Master of Puppets** (Main Files)
-  * **Master of Puppets-Better Typography** (Optional Files)
-
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
-  * [x] `MasterofPuppets.ESP`
-
 [**Hunting Big Tooth (A Quest for Magical Starter Weapons)**](https://www.nexusmods.com/morrowind/mods/51457)
  In this Mod you meet a Dunmer near Balmora who sends you on a Hunt for Big Tooth. Your reward is a magical starter Weapon of your choice.
 
@@ -324,14 +364,8 @@ This mod adds a new quest featuring a medium sized sixth house base.
 [**The Pearl Divers**](https://www.nexusmods.com/morrowind/mods/51703)\
 Made for Summer Modjam 2022! Meet One-Eye and Beela Fire-Beard, two Argonian pearl divers with a mysterious connection.
 
-[**Rescue Mission**](https://www.nexusmods.com/morrowind/mods/51693)\
- Go on a quest to find a mage's missing daughter.
-
 [**Where Merchants Flea**](https://www.nexusmods.com/morrowind/mods/51691)\
  An orc you might recognize in Suran has had a stroke of bad luck. Bula gra-Muk purchased a pillow from some traveling khajiit. But the pillow came with more than just a fancy cover and she is looking more tired than usual...
-
-[**Sa'Virr the traveling bladesmith**](https://www.nexusmods.com/morrowind/mods/51684)\
- Sa'Virr, the greatest bladesmith Nirn ever knew. You can find him at the Strider Port in Khuul.
 
 [**Leap of Faith**](https://www.nexusmods.com/morrowind/mods/51702)\
  A new merchant has come to Gnisis, selling potions of jump to would-be fast travelers. A pilgrim has gone missing. Are these two things as unrelated as they might seem? A small quest mod, suitable for low level characters.
@@ -349,7 +383,7 @@ Made for Summer Modjam 2022! Meet One-Eye and Beela Fire-Beard, two Argonian pea
 [**Goldbrand Reforged - The Quest for Eltonbrand**](https://www.nexusmods.com/morrowind/mods/52277)\
 Brave the dangers of Vvardenfell in this lore-friendly quest mod to reforge Goldbrand into the mysterious Eltonbrand. Speak to Sirilonwe in the Vivec Mages Guild while carrying Goldbrand to begin the quest. Part of the 2023 Winter Modjam.
 
-[*** Your Own Ashlander Tribe**](https://www.nexusmods.com/morrowind/mods/51256)\
+[**Your Own Ashlander Tribe**](https://www.nexusmods.com/morrowind/mods/51256)\
  Become the Ashkhan of your own Ashlander tribe and do quests for its members.
 
 [**The Hand**](https://www.nexusmods.com/morrowind/mods/52302)\
@@ -376,21 +410,39 @@ Brave the dangers of Vvardenfell in this lore-friendly quest mod to reforge Gold
 [**Caldera Priory and the Depths of Blood and Bone**](https://www.nexusmods.com/morrowind/mods/52898)\
 Caldera Priory has been overrun by the Undead. Do you have the courage and the will to venture into the Depths of Blood and Bone and vanquish the ancient Evil that has taken hold of the lands above?
 
-* Galen's Quest for Truth
-* Happenstance Hodokinesis
-* Secret of Vilmuhn
-* The Mysterious Affair of Sara Shenk
-* Moon Magic
-* The Vanishing Ash-chirps
-* Respite in Hostile Waters
-* Something in the Water -- A Peryite Daedric Quest
-* Sails and Sales
-* A Familiar Song
-* Forgotten Wastes
-* Radiant Quests of Morrowind
-* The Arcane Watch -- FULL
-Red Wisdom - An Ashlander Prophecy
-Dras the Dunmer Legionnaire
-Visions - A Mysticism quest mod
-The Popular Plague
-Vaermina's Quest - Dreams of the Escaped
+* On MO2 installation, check the following options in the installer:
+  * [x] 00 Core
+  * [ ] 01 Rocky West Gash Patch
+  * [ ] 02 BCOM Rocky West Gash Patch
+  * [ ] 03 Rocky West Gash Aggressively Compatible Version Patch
+  * [x] 04 Remiros' Groundcover Patch
+  * [ ] 05 Aesthesia Groundcover Patch
+
+[**Galen's Quest for Truth**](https://www.nexusmods.com/morrowind/mods/52884)\
+A hermit on an island east of Vivec.
+Befriend him and help him uncover the truth.
+Or not.
+
+[**Hungering for Faith**](https://www.nexusmods.com/morrowind/mods/55946)\
+Carnius Magius' cook is missing. Follow his steps to find him and reveal the reason behind his disappearance. Part of the 2025 Winter Modjam.
+
+[**The Vanishing Ash-chirps**](https://www.nexusmods.com/morrowind/mods/52870)\
+Deep in the Grazelands, a Khajiit scholar has gone missing while studying the mysterious Ashlander culture. Rumors suggest she sought out a reclusive hermit for answers. Can you unravel the secrets she uncovered?
+
+[**Something in the Water -- A Peryite Daedric Quest**](https://www.nexusmods.com/morrowind/mods/53308)\
+There must be something in the water... Everyone who drinks out of a certain well in Pelagiad ends up sick! Started as part of the 2023 Morrowind Summer Modjam, and then became so much more.
+
+[**Radiant Quests of Morrowind**](https://www.nexusmods.com/morrowind/mods/46451)\
+Radiant Quests adds simple repeatable tasks to Morrowind, in the form of a job noticeboard outside Ra'virr's in Balmora.
+
+[**Red Wisdom - An Ashlander Prophecy**](https://www.nexusmods.com/morrowind/mods/54525)\
+Embark on a mystical journey as you unravel the ancient prophecy of Red Wisdom. Join forces with wide-eyed Nirani to unlock the hidden truths that lie within the sacred burial sites of the tribes. Explore a new angle to Ashlander lore, confront wild beasts and Daedric interlopers, and piece together the puzzle which may shape the fate of Morrowind.
+
+[**Visions - A Mysticism quest mod**](https://www.nexusmods.com/morrowind/mods/54588)\
+Those skilled in Mysticism (40+) may be granted visions while exploring the mainland. (Tamriel Rebuilt)
+
+[**The Popular Plague**](https://www.nexusmods.com/morrowind/mods/54730)\
+A disease of an unusual nature has come to Pelagiad. Will you come to the aid of the townsfolk or let them dance until they drop?
+
+[**Into the Abyss**](https://www.nexusmods.com/morrowind/mods/55438)\
+Explore a new underground world far from Morrowinds shores.

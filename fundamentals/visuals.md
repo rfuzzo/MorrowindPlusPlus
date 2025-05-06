@@ -1,30 +1,5 @@
 # Visuals
 
-{% hint style="info" %}
-Pure texture replacer mods are generally compatible with everything and can be added or removed mid-playthrough. This mod list is somewhat light on texture mods because I like the vanilla aesthetics of **Intelligent Textures** and that's why this is the baseline and not much else is added. Feel free to install any texture replacer at will.
-{% endhint %}
-
-## Texture packs
-
-⭐ [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469)\
-Replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
-
-* Files to install:
-  * **Intelligent Textures** (Main files)
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 01 Atlas Textures
-
-⭐ [**Project Atlas - Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/45399)\
-Compatibility patch for Morrowind Enhanced Textures.
-
-* Files to install:
-  * **Textures - Intelligent Textures** (Main files)
-
-⭐ [**Telvanni Bump Maps**](https://www.nexusmods.com/morrowind/mods/42431)\
-This replaces the Telvanni architecture, roots and mushrooms with high-resolution meshes and textures with bump-mapping. Some textures also feature a subtle glow effect at night
-
 ## NPCs
 
 ⭐ [**Interesting Outfits - Kinsmer**](https://www.nexusmods.com/morrowind/mods/52167)\
@@ -34,13 +9,25 @@ Adds weapons and armour from Tamriel_Data, OAAB_Data, Ivolga's Armored Robes and
   * [x] 1. Core
   * [x] 4. BCOM + Guard Diversity
 
-TODO
+* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
+  * [x] `IO - Ordinators Patch for RPNR_Library.ESP`
+  * [x] `IO - Vivec Palace Armigers (Unhelmed).ESP`
 
-⭐ [**Yet Another Guard Diversity Expanded Imperials**](https://www.nexusmods.com/morrowind/mods/47583) by [Citadel535](https://www.nexusmods.com/morrowind/users/23131859)\
-Expands the Yet Another Guard Diversity to cover Imperials in Tamriel Rebuilt.
+⭐ [**Interesting Outfits - Imperials**](https://www.nexusmods.com/morrowind/mods/53651)\
+Adds assets from Tamriel_Data, OAAB_Data, Ivolga's Armored Robes, Danke's Armors, RuffinVangar, Elucidace, and others to various Imperial-aligned npcs to make them feel less generic.
 
-* Files to install:
-  * **Yet Another Guard Diversity Tamriel Rebuilt 23.10** (Main files)
+* On MO2 installation, check the following options in the installer:
+  * [x] 1. Core
+  * [x] 4. BCOM + Guard Diversity
+
+[**Interesting Outfits - Ashlanders**](https://www.nexusmods.com/morrowind/mods/54099)\
+Overhauls the appearances of Ashlander npcs, incorporating faces and assets from Tamriel_Data and OAAB_Data.
+
+[**Interesting Outfits - Solstheim**](https://www.nexusmods.com/morrowind/mods/53124)\
+Overhauls the appearances of Bloodmoon npcs, incorporating faces and assets from Tamriel_Data. Also includes elucidace's excellent Imperial Burgonet helm on a select few npcs.
+
+[**Interesting Outfits - Cultists**](https://www.nexusmods.com/morrowind/mods/51922)\
+Adds weapons and armour from Tamriel_Data, OAAB_Data and Danke's Armors to Daedric Cultists to make them feel less generic.
 
 [**Silt Strider**](https://www.nexusmods.com/morrowind/mods/48664)\
 Replaces the Silt Strider according to many fan arts. Now the Silt Strider looks like an actual transport.
@@ -95,9 +82,6 @@ This mod uses a previously unused keg droplet texture from the game files to add
   * [x] 00 Core
   * [x] 📃 01 MWSE Version OR ✨01 Non-MWSE Version
 
-[**Smoking Yurts**](https://www.nexusmods.com/morrowind/mods/52281)\
- Adds smoke to yurts with lit fireplaces
-
 ## Weather
 
 [**Dying Worlds - Moons Retexture**](https://www.nexusmods.com/morrowind/mods/43023)\
@@ -139,6 +123,9 @@ Adds the missing belt to the male Imperial Steel Cuirass.
 
 [**Remiros' Uniques**](https://www.nexusmods.com/morrowind/mods/49674)\
 Gives certain weapons and armors unique models
+
+[**Transparent Glass Weapons**](https://www.nexusmods.com/morrowind/mods/52987)\
+Makes glass weapons transparent. Pluginless replacer.
 
 ## Misc
 

@@ -5,6 +5,7 @@
 
 * Files to install:
   * **Thirteen Telvanni - Modular**
+  * **Thirteen Telvanni - Tamriel Rebuilt Addon**
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 (BCOM All Merged) Core
@@ -90,7 +91,10 @@ Lightweight mod that adds bandits in the wilderness
 [**Sei's Dynamic Wildlife**](https://www.nexusmods.com/morrowind/mods/52135)\
 With Sei's Dynamic Wildlife, you will never run out of animals to hunt or practice your skills on. This mod dynamically spawns animals around you as you traverse the wilderness, ensuring a fresh experience every time you revisit an area.
 
-Creatures and Critters
+[**Creatures and Critters**](https://www.nexusmods.com/morrowind/mods/54518)\
+A mod crafted to harmonize diverse creature additions from great classics
+Spawns make each region more unique
+Loot tables redone for variety and cohesion
 
 ## Items
 
@@ -163,11 +167,8 @@ This is a compilation of mods that does a couple of things: Adds new armours and
 [**Solthas Sixth House Amulet**](https://www.nexusmods.com/morrowind/mods/52401)\
 Gives sixth house amulets a useful, tempting, and dangerous enchantment, more akin to the effects of Corprus Disease itself.
 
-[**Lustrous Pearls**](https://www.nexusmods.com/morrowind/mods/52800)\
-Replaces pearls with HD models and textures. Includes OAAB_Data pearls and new pearl varieties. Optional add-on adds new pearl-themed items to the game.
+[**Waresified Urns**](https://www.nexusmods.com/morrowind/mods/56484)\
+Warsified Urns expands the loot found in tomb urns. By utilizing the Wares levelled lists, this mod offers a wider variety of items, tailored to your modlist.
 
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 01 Pearl Trinkets
-  * [x] 02 Dynamic Object Replacer
-  * [x] 03 Tamriel_Data Pearl Replacer
+[**Adventurer's Backpacks**](https://www.nexusmods.com/morrowind/mods/43213)\
+Add a wearable, scripted and enchanted backpacks to the game

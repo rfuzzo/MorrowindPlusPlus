@@ -44,34 +44,6 @@ Patches for various mods
 Do not use the Publicans patch, it is outdated
 {% hint style="endhint" %}
 
-[**Various compatibility patches for HOTV Tomb of the Snow prince Solstheim Overhaul**](https://www.nexusmods.com/morrowind/mods/48422)\
- Various patches, including the White Wolf of Lokken, Wanderes of Solstheim, Children of Morrowind, Thirsk Expanded more....an ongoing project
-
-* Files to install:
-  * **Various Patches for Tomb of the Snow prince - All in One**
-
-* Double click the mod in MO2 and go to the **Optional ESPs** tab, move to the left (make optional):
-  * [x] `BT_Whitewolf_2_0_TOTSP.esm`
-  * [x] `Grandfather Frost - TOTSP.ESP`
-  * [x] `Thirsk Expanded for TOTSP.ESP`
-  * [x] `Tomb of snow prince_MW_Chilren_Patch.ESP`
-
-{% hint style="warning" %}
-After installation
-
-* Run Wrye Mash (**mash64**) in Mod Organizer 2.
-* In the **Mods** tab, select `BM_S_Inn - (Vanilla Inns - Animated Morrowind).ESP`
-* Right click -> **Repair Refs**
-
-{% hint style="endhint" %}
-
-[**Morag Tong Polished - BCoM Patch**](https://www.nexusmods.com/morrowind/mods/51194)\
-One of the NPCs added by "MTP" ends up being suspended in the empty void if you use it alongside with the "Beautiful Cities of Morrowind". This patch returns him to the intended position. Also works fine with a replacer plugin provided by "Vanilla friendly wearables expansion".
-
-* Files to install:
-  * **After the Blight (BCoM)**
-  * **Morag Tong Polished - BCoM Patch**
-
 ⭐ [**alvazir's various patches**](https://www.nexusmods.com/morrowind/mods/48955)\
 Collection of compatibility patches, fixes, mod expansions and tiny mods.
 
@@ -106,6 +78,20 @@ Most patches are to prevent errors in the MWSE.log file, and do not substantiall
 * Patch for Muse
 * Patch for Spells Reforged v1.1
 * Patch for Tamriel_Data v11.0
+
+[**Class Starting Spells for ME v3**](https://www.nexusmods.com/morrowind/mods/47111)\
+Patch for Class Starting Spells to work with ME 3.0.0+
+
+[**OAAB to RR Telvanni Consistency**](https://www.nexusmods.com/morrowind/mods/56187)\
+Changes the RR Telvanni Lighthouse crystals to OAAB blue, or changes the OAAB telvanni crystals to RR white.
+
+[**Katya's Patches and mod recommendations**](https://www.nexusmods.com/morrowind/mods/56060)\
+Here are some patches I made for my modlist, maybe it'll be useful to someone.
+
+* Files to download:
+
+  * **Ald Gash Lighthouse Patch for Rocky West Gash**
+  * **Snowy Holly Bushes Patch**
 
 ## Shaders
 
