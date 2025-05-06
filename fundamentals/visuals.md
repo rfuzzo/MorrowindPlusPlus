@@ -26,9 +26,6 @@ Overhauls the appearances of Ashlander npcs, incorporating faces and assets from
 [**Interesting Outfits - Solstheim**](https://www.nexusmods.com/morrowind/mods/53124)\
 Overhauls the appearances of Bloodmoon npcs, incorporating faces and assets from Tamriel_Data. Also includes elucidace's excellent Imperial Burgonet helm on a select few npcs.
 
-[**Interesting Outfits - Cultists**](https://www.nexusmods.com/morrowind/mods/51922)\
-Adds weapons and armour from Tamriel_Data, OAAB_Data and Danke's Armors to Daedric Cultists to make them feel less generic.
-
 [**Silt Strider**](https://www.nexusmods.com/morrowind/mods/48664)\
 Replaces the Silt Strider according to many fan arts. Now the Silt Strider looks like an actual transport.
 

@@ -36,6 +36,9 @@ Adds named NPCs to all cities using leveled lists with items from OAAB, TR_Data,
   * Redaynia -> **None**
   * Sound Options -> **Muted**
 
+[**Repopulated Creatures**](https://www.nexusmods.com/morrowind/mods/55628)\
+Distributes select Tamriel Data creatures, undead, and Daedra to lore-appropriate locations around Vvardenfell via both leveled-lists and hand-placement.
+
 ⭐ [**Friends and Foes**](https://www.nexusmods.com/morrowind/mods/49251) by [Danae123](https://www.nexusmods.com/morrowind/users/1233897)\
  Adds friendly and less friendly npcs to the game.
 

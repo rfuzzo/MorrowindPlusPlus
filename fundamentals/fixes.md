@@ -258,6 +258,9 @@ Replaces a lot of meshes that haven't (properly) been covered by other mods yet.
 [**Morrowind Animated Hammocks (MAH)**](https://www.nexusmods.com/morrowind/mods/49767)\
 Animates the hammocks in boats, or/and caverns, and shacks and the pillows above it when necessary. Different versions for all your hammocks animation tastes
 
+[**Animation Compilation**](https://www.nexusmods.com/morrowind/mods/43982)\
+Combines the Almalexia casting animations with Dirnae's running animations and fixes the errors that were usually accompanied with them. It also enables the player to see the casting animations in first person.
+
 [**ReAnimations - first-person**](https://www.nexusmods.com/morrowind/mods/52596)\
 A mix of new, altered vanilla, and adjusted MCAR animations.
 
@@ -265,7 +268,10 @@ Files to install:
 
 * **ReAnimations first person - Vanilla Morrowind** (Main files) OR ✨ **ReAnimations first person - OpenMW**
 
-[Improved Telvanni Architecture](https://www.nexusmods.com/morrowind/mods/43241)\
+[**One-handed animations and idle fixes**](https://www.nexusmods.com/morrowind/mods/55059)\
+Rework of 1h weapon movement and idles aiming to look more natural. Also tweaks 1h attacks and unbugs vanilla idles without making the feet slide. Only affects 3rd-person animations.
+
+[**Improved Telvanni Architecture**](https://www.nexusmods.com/morrowind/mods/43241)\
 Replaces 32 Models. Very High Polys.
 
 ## Texture packs
