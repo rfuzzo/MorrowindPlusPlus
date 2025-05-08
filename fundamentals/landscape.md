@@ -207,6 +207,9 @@ After installation
 
 {% hint style="endhint" %}
 
+⭐ [**Know Thy Ancestors - Serano Tomb Fix (Main)**](https://www.nexusmods.com/morrowind/mods/53235?tab=files)\
+Fix of Serano Tomb in 'Know Thy Ancestors', based on the version found in 'Main Files'
+
 ⭐ [**Caverns Overhaul - Fixed**](https://www.nexusmods.com/morrowind/mods/48683)\
 RandomPal's random mods and patches
 The original mod has a lot of great ideas but was never finished or fixed. Other mods make Cavern Overhaul an outdated mod anyway, but there's some locations that have not been covered by any other mod.
