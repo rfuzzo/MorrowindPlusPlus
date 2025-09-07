@@ -181,6 +181,7 @@ Greatly improves performance and fixes some mesh errors.
 
 * On MO2 installation, check the following options in the installer:
   * [x] 00 Core
+  * [ ] 01 Lake Fjalding Anti-Suck
   * [x] 02 Weapon Sheathing Patch
   * [x] 03 Chuzei Fix
   * [x] 04 Better Vanilla Textures
@@ -194,13 +195,14 @@ We do not install `01 Lake Fjalding Anti-Suck` because this is included in Tomb 
 Makes vanilla windows glow in the dark.
 
 * On MO2 installation, check the following options in the installer:
-  * [x] Nord Glass Windows -> Yes
-  * [x] Raven Rock Glass Windows -> Yes
-  * [ ] Dark Molag Mar -> No
-  * [x] Hi res Window Texture Replacer -> As you like
-  * [ ] Windoors Patch -> No
-  * [ ] Telvanni Dormers -> None
-  * [x] Telvanni Tower Interior Glow -> 📃 MGE XE (Vanilla)/✨ OpenMW (Openmw)
+  * Optional Files:
+    * [x] Hi res Window Texture Replacer -> As you like
+    * [x] Raven Rock Glass Windows -> Yes
+    * [x] Nord Glass Windows -> Yes
+    * [ ] Windoors Patch -> No
+    * [ ] Dark Molag Mar -> No
+  * Telvanni Dormers -> None
+  * Telvanni Tower Interior Glow -> 📃 MGE XE (Vanilla)/✨ OpenMW (Openmw)
 
 ⭐ [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599) by [Stuporstar](https://www.nexusmods.com/morrowind/users/526886)\
 Automatically harvests herbs, instead of opening the container interface. Picked herbs will now have their meshes modified or disappear altogether (they will still respawn).
@@ -227,8 +229,15 @@ Files to install:
   
 * On MO2 installation, check the following options in the installer:
   * Intelligent Textures
-  * Add-ons: **All**
-  * Patches: **All**
+  * Add-ons
+    * [x] Urns - smoothed
+    * [x] Redware - smoothed
+    * [x] Emperor Parasols - smoothed
+    * [x] Wood Poles - smoothed
+  * Patches
+    * [x] Glow in the Dahrk
+    * [x] Graphic Herbalism
+    * [x] Improved Lights for all shaders
   * BC Mushrooms: Smoothed Glowing
 
 [**Crabs Diversity**](https://www.nexusmods.com/morrowind/mods/49103)\

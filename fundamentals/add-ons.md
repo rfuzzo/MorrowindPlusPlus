@@ -170,8 +170,8 @@ This is a compilation of mods that does a couple of things: Adds new armours and
 [**Solthas Sixth House Amulet**](https://www.nexusmods.com/morrowind/mods/52401)\
 Gives sixth house amulets a useful, tempting, and dangerous enchantment, more akin to the effects of Corprus Disease itself.
 
-[**Waresified Urns**](https://www.nexusmods.com/morrowind/mods/56484)\
-Warsified Urns expands the loot found in tomb urns. By utilizing the Wares levelled lists, this mod offers a wider variety of items, tailored to your modlist.
+[**Relic Hunter**](https://www.nexusmods.com/morrowind/mods/56813)\
+A new custom class—the Relic Hunter—comes with skills tailored to tomb exploration and artifact recovery. Over 90 ancestral tombs now feature unique urns that trigger guardian encounters for added immersion. Over 30 quests to retrieve specific relics. Regular urns may contain more than just Bonemeal.
 
 [**Adventurer's Backpacks**](https://www.nexusmods.com/morrowind/mods/43213)\
 Add a wearable, scripted and enchanted backpacks to the game

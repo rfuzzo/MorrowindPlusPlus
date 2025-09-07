@@ -110,9 +110,10 @@ This mod adds ten new Thieves' Guild quests to Gnaar Mok. Part of the May Modath
 The Morag Tong Guild is the most poorly written faction in Morrowind. This mod fixes that by giving the guild a much needed touch up.
 
 * On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 01 Vanilla
-  * [ ] 02 Web of Mephala
+  * [x] 00 Content (Required)
+  * [x] 01 Vanilla (Choose One)
+  * [ ] 02 Web of Mephala (Choose One + Load After)
+  * [x] 03 Tamriel Rebuilt Patch (Optional + Load Last)
 
 [**Morag Tong Secret Identity**](https://www.nexusmods.com/morrowind/mods/51128)\
 MWSE-lua mod that adds new mechanics related to Morag Tong, solving some inconsistencies between gameplay, dialogues and lore, and making being part of the religious cult of assassins a more unique experience, exploring its twin nature of secrecy and legality.
@@ -281,8 +282,9 @@ A mod that allows you to join the Dark Brotherhood on Vvardenfell, in a semi lor
   * [ ] 02 Vanilla + DSO (Choose One)
   * [x] 03 BCoM (Choose One)
   * [ ] 04 BCoM + DSO (Choose One)
+  * [x] 05 TR Patch
   * [x] 05 Morag Tong Polished Integration (Optional)
-  * [x] 06 Maar Gan - ToP Patch (Optional)
+  * [x] 07 Maar Gan - ToP Patch (Optional)
 
 [**What is something that can be perceived**](https://www.nexusmods.com/morrowind/mods/47598)\
 Adds Dark Brotherhood armor to the members of the faction in Vvardenfell.
@@ -326,6 +328,7 @@ Begin a tale about the largest criminal organization in Morrowind, the Camonna T
   * [x] 00 Content (Required)
   * [ ] 01 Vanilla (Choose One)
   * [x] 02 BCoM (Choose One)
+  * [x] 03 Tamriel Rebuilt Patch
 
 [**Of Justice and Innocence**](https://www.nexusmods.com/morrowind/mods/34046)\
 In the small village of Dagon Fel there lives a woman by the name of Rinida Honwyer. She claims her poor, sweet innocent brother has been kidnapped by smugglers. This unfortunate outcome is a result of an unlikely series of events and her poor brother's own naivety. Now Rinida fears for her brothers life, sure that these smugglers mean nothing
@@ -394,11 +397,6 @@ Brave the dangers of Vvardenfell in this lore-friendly quest mod to reforge Gold
 
 [**The Search for the White Wave**](https://www.nexusmods.com/morrowind/mods/52301)\
  A scientific expedition headed into the Sea of Ghosts has failed to report on their progress. An investigator from the Imperial Navy has been dispatched to locate the White Wave and is looking for a hand. Join his crew to unravel what happened to the White Wave in the frozen northern waters...
-
-* On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 📃 02 MWSE Tooltips Complete
-  * [x] ✨ 03 HD Textures
 
 [**Prince of Fate**](https://www.nexusmods.com/morrowind/mods/52294)\
  Seek out an old hermit and explore the sunken shrine of Hermaeus Mora, deep within the Sea of Ghosts

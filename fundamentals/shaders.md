@@ -71,13 +71,9 @@ Collection of compatibility patches, fixes, mod expansions and tiny mods.
 ⭐ [**Null's Minor Patches**](https://www.nexusmods.com/morrowind/mods/55897)\
 Most patches are to prevent errors in the MWSE.log file, and do not substantially change the behavior of the mod.
 
-* Patch for Beautiful Cities of Morrowind v3.2.3
-* Patch for Character Sound Overhaul v1.1
 * Patch for Graphic Herbalism v1.04
 * Patch for Heat Haze v1.1
-* Patch for Muse
 * Patch for Spells Reforged v1.1
-* Patch for Tamriel_Data v11.0
 
 [**Class Starting Spells for ME v3**](https://www.nexusmods.com/morrowind/mods/47111)\
 Patch for Class Starting Spells to work with ME 3.0.0+
@@ -93,17 +89,17 @@ Here are some patches I made for my modlist, maybe it'll be useful to someone.
   * **Ald Gash Lighthouse Patch for Rocky West Gash**
   * **Snowy Holly Bushes Patch**
 
-[**momw-patches**](https://modding-openmw.gitlab.io/momw-patches/)\
+[**momw patches**](https://modding-openmw.gitlab.io/momw-patches/)\
 Patches made by the Modding-OpenMW.com community.
 
 * On MO2 installation, check the following options in the installer:
-  * [x] 05 AFFresh + Samarys Ancestral Tomb Expanded Patch
+  * [ ] 05 AFFresh + Samarys Ancestral Tomb Expanded Patch
   * [x] 10 Ebonheart Underworks MOMW Patch
   * [x] 11 Mamaea Awakened OpenMW Patch
   * [x] 21 Imperial Factions Patched
   * [x] 24 BCOM + Dagon Fel Lighthouse + Remiros’ Groundcover patch
   * [x] 56 Quest Voice Greetings + Tamriel Data Patch
-  * [x] 58 OAAB Shipwrecks+Justice for Khartag MOMW Patch
+  * [ ] 58 OAAB Shipwrecks+Justice for Khartag MOMW Patch
 
 [**Mono's Minor Moddities**](https://www.nexusmods.com/morrowind/mods/53027)\
 Various minor mods patched together mostly as small improvements or patches to other popular mods.

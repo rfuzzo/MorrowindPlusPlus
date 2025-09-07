@@ -33,8 +33,9 @@ A groundcover plugin to place grass onto the landscape in Tamriel Rebuilt using 
 
 * On MO2 installation, check the following options in the installer:
   * **Installation Options**
-    * OpenME or MGEXE -> **MGEXE** (or ✨OpenMW)
     * Default Bcom -> **Default BCOM**
+
+    * OpenME or MGEXE -> **MGEXE** (or ✨OpenMW)
 
     * Waterfront Options -> **Simple Cluttering**
     * Haalu Council Hall Plaza -> **Izy Style**
@@ -101,7 +102,7 @@ A groundcover plugin to place grass onto the landscape in Tamriel Rebuilt using 
     * RR Statues Patch -> **No**
     * Azura Statue -> **No**
 
-    * HD Textures -> ✨Yes for OpenMW
+    * HD Textures -> Yes
 
   * **Grass Patches**
     * Remiros Groundcover
@@ -143,9 +144,13 @@ Overhauls the Strongholds
   * [ ] Andasreth
   * [ ] Falasmaryon
   * [ ] Falensarano
-  * [x] Indoyanyon
+  * [x] Indoranyon
   * [x] Rotheran
   * [ ] Valenvaryon
+  * [ ] Telasero
+
+* OAAB Grazelands Indoranyon
+  * [x] Just Indoranyon
 
 ## Environment
 
@@ -544,6 +549,7 @@ Adds enormous trees to the Bitter Coast region to provide a dense canopy overhea
     * [x] Tamriel Rebuilt Sundred Scar Region
     * [ ] Nevena's Twin Lamps
     * [ ] The Sable Dragon
+    * [ ] Odai Lifeblood of Balmora
 
 [**Andrano Tomb+Retribution**](https://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=122&Itemid=50&-Andrano-Tomb-Retribution) by *abot*\
 Andrano Ancestral Tomb remastered + (the no more available sequel) Andrano retribution merged, some changes (e.g. now compatible with ROHT) for hopefully better compatibility.
@@ -854,8 +860,9 @@ Expands and deepens the Tribunal questlines, giving players more choice and agen
  Inspired by their mention of growing in the badlands of Morrowind in Sermon 12, a regional variety of pomegranates can now be found growing atop Mount Assarnibibi.
 
 * On MO2 installation, check the following options in the installer:
-  * [x] 00 Core
-  * [x] 01 WWGTMA Patch
+  * Textures -> High resolution
+  * Patches -> None
+  * SSQN -> None
 
 [**OAAB Saplings**](https://www.nexusmods.com/morrowind/mods/50334) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  This mod places saplings from OAAB_Data in most regions on Vvardenfell.
